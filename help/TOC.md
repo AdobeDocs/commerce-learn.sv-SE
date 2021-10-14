@@ -1,9 +1,9 @@
 ---
 user-guide-title: Videor och Tutorials
 user-guide-description: En samling videor och självstudiekurser för Adobe Commerce och Magento Open Source.
-source-git-commit: 84481eda6064560e7aeedef3899f07a8d3a75fd4
+source-git-commit: fe3f7c31f35435eb8e131e84b3028cb9faa1e9c9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Adobe Commerce Videos och Tutorials {#tutorials}
 
-+ [[!DNL Commerce] Videor och Tutorials](overview.md) {#overview}
++ [[!DNL Commerce] Videor och Tutorials](overview.md)
 
 + Komma igång {#getting-started}
    + [!DNL Commerce] om molninfrastruktur  {#cloud}
@@ -74,7 +74,7 @@ ht-degree: 0%
    + [Skapa en sida](developer/create-new-page.md)
 
 + PWA Studio {#pwa-studio}
-   + Introduktion till PWA Studio {#introduction}s
+   + Introduktion till PWA Studio {#introduction}
       + [1 - Översikt](./pwa/introduction/1-overview.md)
       + [2 - PWA Studio](./pwa/introduction/2-pwa-studio-tools.md)
       + [3 - Starta](pwa/introduction/3-launch.md)
