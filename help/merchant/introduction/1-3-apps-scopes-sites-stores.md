@@ -1,15 +1,15 @@
 ---
 title: '[!DNL Commerce] för företagsanvändare - webbplatser, butiker och vyer'
-description: Lär dig grunderna i  [!DNL Commerce] arkitekturen, inklusive skillnaderna mellan webbplatser, butiker, butiksvyer och programomfång. Förstå indexering och cachning.
+description: Lär dig grunderna i [!DNL Commerce] arkitektur, inklusive skillnaderna mellan webbplatser, butiker, butiksvyer och programomfång. Förstå indexering och cachning.
 topic: Commerce
 kt: 5760
 doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 858451cc-cbc3-471e-a2f1-148f879aba82
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: ada811496b7fa5a25f3a3deefaf1dcfa259ec4fe
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 I den här videon:
 
-- Grundläggande om arkitekturen i [!DNL Commerce], inklusive skillnaderna mellan webbplatser, butiker och butiksvyer
+- Grunderna i [!DNL Commerce] arkitektur, inklusive skillnaderna mellan webbplatser, butiker och butiksvyer
 - Begreppet programomfång
 - Översikt över indexering och cachelagring och hur [!DNL Commerce] hanterar dem
 
@@ -30,11 +30,12 @@ I den här videon:
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.3.1. Information om uppdateringar i senare versioner finns i [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) och [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) versionsinformationen.
+>Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) och [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) versionsinformation.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35945?quality=12&learn=on)
 
 ## Ytterligare resurser
 
 [Webbplatser, butiker och vyer - [!DNL Commerce] användarhandbok](https://docs.magento.com/user-guide/stores/websites-stores-views.html)
+
 [Omfång - [!DNL Commerce] användarhandbok](https://docs.magento.com/user-guide/configuration/scope.html)

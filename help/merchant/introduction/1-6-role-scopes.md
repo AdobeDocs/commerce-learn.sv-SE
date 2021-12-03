@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: c655ef88-1ddf-4ba3-9ad3-1883c0c93ee2
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: cc755b9b630a382fa3703416588dfed0724452c9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -28,11 +28,12 @@ I den här videon:
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.3.1. Information om uppdateringar i senare versioner finns i [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) och [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) versionsinformationen.
+>Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) och [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) versionsinformation.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35948?quality=12&learn=on)
 
 ## Ytterligare resurser
 
 [Lägga till användare - [!DNL Commerce] användarhandbok](https://docs.magento.com/user-guide/system/permissions-users-all.html)
+
 [Användarroller - [!DNL Commerce] användarhandbok](https://docs.magento.com/user-guide/system/permissions-user-roles.html)

@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: b528b7d8-0cda-4ee0-88f6-90789e774472
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: 39002bea0d28c7c5027de001bba1c794b8224a71
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -28,11 +28,12 @@ I den här videon:
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.3.1. Information om uppdateringar i senare versioner finns i [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) och [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) versionsinformationen.
+>Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) och [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) versionsinformation.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35957?quality=12&learn=on)
 
 ## Ytterligare resurser
 
-[Konfigurerbar produkt - [!DNL Commerce] user ](https://docs.magento.com/user-guide/catalog/product-create-configurable.html)
-[guideAttributuppsättningar - [!DNL Commerce] användarhandbok](https://docs.magento.com/user-guide/stores/attribute-sets.html)
+[Konfigurerbar produkt - [!DNL Commerce] användarhandbok](https://docs.magento.com/user-guide/catalog/product-create-configurable.html)
+
+[Attributuppsättningar - [!DNL Commerce] användarhandbok](https://docs.magento.com/user-guide/stores/attribute-sets.html)

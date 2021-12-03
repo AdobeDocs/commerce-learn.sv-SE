@@ -6,9 +6,9 @@ kt: 5654
 doc-type: video
 activity: use
 exl-id: e88e6056-a7c8-4b89-b992-777e74467135
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: 5d8bfed83f20810d8140b5cc20cf20d97d5127a0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -28,11 +28,12 @@ I den här videon:
 
 >[!NOTE]
 >
->Innehållet i Page Builder 1.0.0 för Adobe Commerce 2.3.1. Information om uppdateringar i senare versioner finns i [Versionsinformationen för Page Builder](https://devdocs.magento.com/page-builder/docs/release-notes.html).
+>Innehållet i Page Builder 1.0.0 för Adobe Commerce 2.3.1. Mer information om uppdateringar i senare versioner finns i [Versionsinformation för Page Builder](https://devdocs.magento.com/page-builder/docs/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35713?quality=12&learn=on)
 
 ## Användbara resurser
 
-[Page Builder developer ](https://devdocs.magento.com/page-builder/docs/index.html)
-[documentationPage Builder, användardokumentation](https://docs.magento.com/user-guide/cms/page-builder.html)
+[Dokumentation för Page Builder-utvecklare](https://devdocs.magento.com/page-builder/docs/index.html)
+
+[Användardokumentation för Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html)

@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 9022b101-91e1-44a0-819b-507f2c915d95
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: 247830fab6383ad4805fc3e165f622407f2027fe
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -30,12 +30,14 @@ I den här videon:
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.3.1. Information om uppdateringar i senare versioner finns i [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) och [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) versionsinformationen.
+>Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) och [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) versionsinformation.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35953?quality=12&learn=on)
 
 ## Ytterligare resurser
 
 [Skapar produkter - [!DNL Commerce] användarhandbok](https://docs.magento.com/user-guide/catalog/product-create.html)
-[Produktinställningar - [!DNL Commerce] användarhandbokProduktattribut -](https://docs.magento.com/user-guide/catalog/settings.html)
-[  [!DNL Commerce] användarhandbok](https://docs.magento.com/user-guide/catalog/product-attributes.html)
+
+[Produktinställningar - [!DNL Commerce] användarhandbok](https://docs.magento.com/user-guide/catalog/settings.html)
+
+[Produktattribut - [!DNL Commerce] användarhandbok](https://docs.magento.com/user-guide/catalog/product-attributes.html)
