@@ -1,9 +1,9 @@
 ---
 user-guide-title: Videor och Tutorials
 user-guide-description: En samling videor och självstudiekurser för Adobe Commerce och Magento Open Source.
-source-git-commit: fb684287e45698251e501cfc4efdaa7a187417b5
+source-git-commit: 493b06415253fa1e79e18001c8c9f35efcec630d
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -68,6 +68,15 @@ ht-degree: 0%
       + [10 - Avkastning på investeringsuppföljning](./merchant/business-intelligence/10-roi-tracking.md)
       + [11 - Dela resultat och exportera data](./merchant/business-intelligence/11-share-results-export-data.md)
       + [12 - Nöjda kunder](./merchant/business-intelligence/12-customer-success.md)
+
++ Arbeta i administratören {#admin}
+   + [Användare, roller och behörigheter](./merchant/users-roles-permissions.md)
+   + [Tvåfaktorsautentisering](./merchant/two-factor-authentication.md)
+   + [Lägga till webbplatser, butiker och butiksvyer](./merchant/add-websites-stores-views.md)
+   + [Ändra en butiks-URL](./merchant/change-store-url.md)
+   + [Inställningar för webbplatskarta](./merchant/site-map-setup.md)
+   + [Kampanjprisregler](./merchant/promotions-price-rules.md)
+   + [Page Builder - översikt](./merchant/page-builder-overview.md)
 
 + Backend-utveckling {#backend-development}
    + [Lägga till en ny tabell i en databas](./developer/add-new-db-table.md)
