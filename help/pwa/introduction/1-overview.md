@@ -1,14 +1,15 @@
 ---
 title: PWA Studio för utvecklare - introduktion
 description: Vad är en Progressive Web Application (PWA) och varför PWA Studio är den framtida ​.
+landing-page-description: Titta på den här videoserien för att lära dig mer om Progressive Web Application (PWA) och varför PWA Studio är framtiden för [!DNL Commerce] webbplatser.
 topic: Development
 kt: 5644
 doc-type: video
 activity: use
 exl-id: 26b1b560-c155-4316-9481-44679bf9216a
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: 74301d48821db74c67167096ba01699181feed8a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -28,3 +29,8 @@ I den här videon:
 ## Videoinnehåll
 
 >[!VIDEO](https://video.tv.adobe.com/v/35715?quality=12&learn=on)
+
+## Användbara resurser
+
+- [PWA Studio dokumentation](https://developer.adobe.com/commerce/pwa-studio/)
+- [PWA Studio GitHub-databas](https://github.com/magento/pwa-studio)
