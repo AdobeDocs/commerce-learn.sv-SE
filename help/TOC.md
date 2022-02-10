@@ -1,9 +1,9 @@
 ---
 user-guide-title: Videor och Tutorials
 user-guide-description: En samling videor och självstudiekurser för Adobe Commerce och Magento Open Source.
-source-git-commit: 9587c25b1b87de8fd46b7011577cbaa008b2260f
+source-git-commit: b3c3ccb0404bf7e1d390d6041a8bfb3cd0ef689b
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -107,4 +107,4 @@ ht-degree: 0%
    + [Konfigurera Venia för utveckling](pwa/set-up-venia-for-dev.md)
 
 + [Adobe Commerce 2.4 Upgrade Workshop](./upgrade-workshop.md)
-+ [Använda uppgraderingskompatibilitetsverktyget i PhpStorm](./upgrade/uct-phpstorm.md)
++ [Använda uppgraderingskompatibilitetsverktyget i PHP Storm](./upgrade/uct-phpstorm.md)

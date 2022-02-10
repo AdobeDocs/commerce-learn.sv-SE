@@ -1,27 +1,28 @@
 ---
-title: Använda uppgraderingskompatibilitetsverktyget i PhpStorm
-description: I den här tekniska videon får du lära dig hur du använder verktyget för kompatibilitetsuppgradering med plugin-programmet PhpStorm.
-landing-page-description: Lär dig mer om hur du använder verktyget för uppgraderingskompatibilitet med plugin-programmet PhpStorm som gör det enkelt att identifiera och åtgärda inkompatibiliteter.
+title: Använda uppgraderingskompatibilitetsverktyget på PHP Storm
+description: I den här tekniska videon får du lära dig hur du använder verktyget för kompatibilitetsuppgradering med plugin-programmet PHP Storm.
+landing-page-description: Lär dig hur du använder verktyget Kompatibilitet med PHP Storm som gör det enkelt att identifiera och åtgärda inkompatibiliteter.
 kt: 9651
 doc-type: technical video
 role: Developer
 audience: all
 activity: use
-source-git-commit: 40e99e67478a92febe36a676a63f112254027d87
+exl-id: 9b56306c-578b-4c9f-9566-b8c9560d1b1c
+source-git-commit: b3c3ccb0404bf7e1d390d6041a8bfb3cd0ef689b
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Använda uppgraderingskompatibilitetsverktyget i PhpStorm
+# Använda uppgraderingskompatibilitetsverktyget på PHP Storm
 
-Upgrade Compatibility Tool (UCT) är ett kostnadsfritt verktyg som analyserar inkompatibiliteten mellan den aktuella versionen och målversionen på bara några minuter. Plugin-programmet PhpStorm gör det här verktyget ännu enklare att använda.
+Upgrade Compatibility Tool (UCT) är ett kostnadsfritt verktyg som analyserar inkompatibiliteten mellan den aktuella versionen och målversionen på bara några minuter. Med pluginen PHP Storm blir det här verktyget ännu enklare att använda.
 
 I den här videon:
 
 - Vad är uppgraderingskompatibilitetsverktyget?
-- Så här använder du plugin-programmet Magento PhpStorm
+- Så här använder du plugin-programmet Magento PHP Storm
 - Så här får du åtkomst till HTML-resultaten för att visualisera moduler efter allvarlighetsgrad och antal inkompatibiliteter
 
 ## Vem är den här videon till?
@@ -35,5 +36,5 @@ I den här videon:
 ## Ytterligare resurser
 
 - [Kompatibilitetsverktyg för uppgradering](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html)
-- [Magento PhpStorm plugin](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
+- [Magento PHP Storm plugin](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
 - [Släppta versioner](https://devdocs.magento.com/release/released-versions.html)
