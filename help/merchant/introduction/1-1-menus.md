@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Commerce] for business users - [!DNL Admin] menyer'
-description: Översikt över funktionella menyer i  [!DNL Commerce] v2.3 [!DNL Admin].
+title: '"[!DNL Commerce] för företagsanvändare - [!DNL Admin] menyer"'
+description: Översikt över funktionella menyer i [!DNL Commerce] v2.3 [!DNL Admin].
 landing-page-description: Titta på den här videoserien för att komma igång med grunderna i Adobe Commerce och arbeta i Admin.
 topic: Commerce
 kt: 5758
@@ -8,16 +8,16 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 96e36923-d24b-4259-9b91-cd4ea73ead6f
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] för företagsanvändare -  [!DNL Admin] menyer
+# [!DNL Commerce] för företagsanvändare - [!DNL Admin] menyer
 
-[!DNL Commerce Admin] är det lösenordsskyddade kontoret där du kan ställa in produkter och kampanjer, utföra kundorder och konfigurera din [!DNL Commerce]-butik så att den passar dina affärsbehov.
+The [!DNL Commerce Admin] är det lösenordsskyddade kontoret där du kan konfigurera produkter och kampanjer, slutföra kundorder och konfigurera [!DNL Commerce] för att passa era behov.
 
 I den här videon:
 
@@ -31,7 +31,7 @@ I den här videon:
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.3.1. Information om uppdateringar i senare versioner finns i [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) och [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) versionsinformationen.
+>Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) och [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) versionsinformation.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35942?quality=12&learn=on)
 

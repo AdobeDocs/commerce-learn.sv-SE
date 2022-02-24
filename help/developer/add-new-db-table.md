@@ -1,14 +1,14 @@
 ---
 title: Lägga till en tabell i en databas
-description: '[!DNL Commerce] har en särskild funktion som gör att du kan skapa databastabeller, ändra befintliga tabeller och till och med lägga till data i dem.'
+description: '"[!DNL Commerce] har en särskild funktion som gör att du kan skapa databastabeller, ändra befintliga tabeller och till och med lägga till data i dem."'
 topic: Development
 kt: 5613
 doc-type: video
 activity: use
 exl-id: fb222752-5689-4f87-94cf-a61ed7005e6b
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---

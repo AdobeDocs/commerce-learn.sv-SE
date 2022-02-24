@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] för utvecklare - efter installation'
+title: '"[!DNL Commerce] för utvecklare - efter installation"'
 description: Verifiera och konfigurera instansen, ange u-mask, installera exempeldata, ange rätt körningsläge
 kt: 5693
 doc-type: video
@@ -9,9 +9,9 @@ level: Beginner
 thumbnail: 36195.jpeg
 activity: use
 exl-id: c0401c9f-d0f4-437e-be4c-358c3381f766
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ I den här videon:
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.3.1. Information om uppdateringar i senare versioner finns i [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) och [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) versionsinformationen.
+>Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) och [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) versionsinformation.
 >
 >Den delade databasfunktionen har tagits bort i version 2.4.2.
 

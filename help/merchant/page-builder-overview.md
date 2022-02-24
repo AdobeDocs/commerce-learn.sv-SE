@@ -1,12 +1,12 @@
 ---
-title: '[!DNL Page Builder] översikt'
+title: '"[!DNL Page Builder] overview"'
 description: Lär dig hur du bygger sidor [!DNL Commerce] lagra sidor i administratören med [!DNL Page Builder].
 kt: 5563
 doc-type: feature video
 role: Admin, Leader, User
 audience: all
 activity: use
-source-git-commit: 1ee953388ea164cc1ab179b783f56aa8cac0feea
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%

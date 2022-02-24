@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Commerce] for developers - Create an [!DNL Admin] page'
-description: 'Lär dig hur du skapar en ACL för sidkontroller (åtkomstkontrollista) och gör enhetstestning. [!DNL Admin] pages, [!DNL Admin] '
+title: '"[!DNL Commerce] för utvecklare - Skapa en [!DNL Admin] page"'
+description: Lär dig hur du skapar [!DNL Admin] sidor, [!DNL Admin] ACL (access control list) och gör enhetstestning.
 kt: 5698
 doc-type: video
 topic: Development
@@ -9,14 +9,14 @@ level: Beginner
 thumbnail: 36200.jpeg
 activity: use
 exl-id: e0b8061f-3896-4996-9b2e-f4171b6b1aab
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] för utvecklare - Skapa en  [!DNL Admin] sida
+# [!DNL Commerce] för utvecklare - Skapa en [!DNL Admin] page
 
 I den här videon:
 
@@ -29,12 +29,12 @@ I den här videon:
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.3.1. Information om uppdateringar i senare versioner finns i [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) och [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) versionsinformationen.
+>Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) och [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) versionsinformation.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36200?quality=12&learn=on)
 
 ## Ytterligare resurser
 
-- [Skapa  [!DNL Admin] en sida](https://devdocs.magento.com/guides/v2.4/ext-best-practices/extension-coding/example-module-adminpage.html)
+- [Skapa en [!DNL Admin] page](https://devdocs.magento.com/guides/v2.4/ext-best-practices/extension-coding/example-module-adminpage.html)
 - [Skapa en ACL-regel (Access Control List)](https://devdocs.magento.com/guides/v2.4/ext-best-practices/tutorials/create-access-control-list-rule.html)
 - [Kör enhetstester](https://devdocs.magento.com/guides/v2.4/test/unit/unit_test_execution.html)
