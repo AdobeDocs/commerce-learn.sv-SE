@@ -8,7 +8,7 @@ activity: use
 exl-id: 5f2984d5-84f7-41d4-99e5-2a2c0ff1b1c7
 source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ I den här videon får du en genomgång för att utveckla en enkel JS-modul med 
 ## Steg
 
 - Skapa en modul
-- Skapa en `requirejs-config.js`- och JavaScript-modulfil
+- Skapa en `requirejs-config.js` och en JavaScript-modulfil
 - Skapa layoutuppdatering för att lägga till en mall som aktiverar JS-modulen
 - Skapa mallfil
 - Lägg till modulen och testa den
