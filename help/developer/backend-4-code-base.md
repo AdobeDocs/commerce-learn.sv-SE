@@ -1,6 +1,6 @@
 ---
 title: '"[!DNL Commerce] för utvecklare - Code base"'
-description: Code base components, modularity, configuring flexibility, and Composer's role
+description: Kodbaskomponenter, modularitet, konfigurera flexibilitet och Composer-roll
 kt: 5694
 doc-type: video
 topic: Development
@@ -18,14 +18,14 @@ ht-degree: 0%
 
 # [!DNL Commerce] för utvecklare - kodbas
 
-In this video:
+I den här videon:
 
 - Kodbaskomponenter
 - Modularitet
 - Konfigurerar flexibilitet
 - Kompositörens roll
 
-## Video content
+## Videoinnehåll
 
 >[!NOTE]
 >
@@ -33,9 +33,9 @@ In this video:
 
 >[!VIDEO](https://video.tv.adobe.com/v/36196?quality=12&learn=on)
 
-## Additional resources
+## Ytterligare resurser
 
 - [Komponentfilens struktur](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/prepare/prepare_file-str.html)
 - [Komponentutveckling](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/module-development.html)
-- [Extensibility and modularity](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html)
+- [Utbyggbarhet och modularitet](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html)
 - [[!DNL Commerce] referenshandbok för modulen](https://devdocs.magento.com/guides/v2.4/mrg/intro.html)
