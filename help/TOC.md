@@ -1,9 +1,9 @@
 ---
 user-guide-title: Videor och Tutorials
 user-guide-description: En samling videor och självstudiekurser för Adobe Commerce och Magento Open Source.
-source-git-commit: b3c3ccb0404bf7e1d390d6041a8bfb3cd0ef689b
+source-git-commit: fc59ff91dba5b4569b6a4c48f43bb289bbbb54b2
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -78,6 +78,11 @@ ht-degree: 0%
    + [Kampanjprisregler](./merchant/promotions-price-rules.md)
    + [Page Builder - översikt](./merchant/page-builder-overview.md)
 
++ Uppgraderingar {#upgrade}
+   + [Adobe Commerce 2.4 Upgrade Workshop](./upgrade/2.4-upgrade-workshop.md)
+   + [Översikt över verktyget Kompatibilitet för uppgradering](./upgrade/upgrade-compatibility-tool-overview.md)
+   + [Använda uppgraderingskompatibilitetsverktyget i PHP Storm](./upgrade/uct-phpstorm.md)
+
 + Backend-utveckling {#backend-development}
    + [Lägga till en ny tabell i en databas](./developer/add-new-db-table.md)
    + [Skapa en modul](developer/create-module.md)
@@ -105,6 +110,3 @@ ht-degree: 0%
       + [6 - Peregrin](./pwa/introduction/6-peregrine.md)
    + [PWA Docker Development](./pwa/pwa-docker-development.md)
    + [Konfigurera Venia för utveckling](pwa/set-up-venia-for-dev.md)
-
-+ [Adobe Commerce 2.4 Upgrade Workshop](./upgrade-workshop.md)
-+ [Använda uppgraderingskompatibilitetsverktyget i PHP Storm](./upgrade/uct-phpstorm.md)
