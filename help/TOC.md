@@ -1,9 +1,9 @@
 ---
 user-guide-title: Videor och Tutorials
 user-guide-description: En samling videor och självstudiekurser för Adobe Commerce och Magento Open Source.
-source-git-commit: fc59ff91dba5b4569b6a4c48f43bb289bbbb54b2
+source-git-commit: 3f8fce7e058a697baf2dfbb794c7dcbad00042dc
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -77,6 +77,11 @@ ht-degree: 0%
    + [Inställningar för webbplatskarta](./merchant/site-map-setup.md)
    + [Kampanjprisregler](./merchant/promotions-price-rules.md)
    + [Page Builder - översikt](./merchant/page-builder-overview.md)
+
++ Business Intelligence {#business-intelligence}
+   + [Filteruppsättningar](./merchant/business-intelligence/filter-sets.md)
+   + [Kohort Report Builder](./merchant/business-intelligence/cohort-report-builder.md)
+   + [SQL Report Builder](./merchant/business-intelligence/sql-report-builder.md)
 
 + Uppgraderingar {#upgrade}
    + [Adobe Commerce 2.4 Upgrade Workshop](./upgrade/2.4-upgrade-workshop.md)
