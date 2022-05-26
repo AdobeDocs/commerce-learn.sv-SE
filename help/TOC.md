@@ -1,9 +1,9 @@
 ---
 user-guide-title: Videor och Tutorials
 user-guide-description: En samling videor och självstudiekurser för Adobe Commerce och Magento Open Source.
-source-git-commit: 3f8fce7e058a697baf2dfbb794c7dcbad00042dc
+source-git-commit: deefe69f89d08f1138a4d77e206ff41ea3918b9d
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -82,6 +82,14 @@ ht-degree: 0%
    + [Filteruppsättningar](./merchant/business-intelligence/filter-sets.md)
    + [Kohort Report Builder](./merchant/business-intelligence/cohort-report-builder.md)
    + [SQL Report Builder](./merchant/business-intelligence/sql-report-builder.md)
+   + [Framtidsförberedande](./merchant/business-intelligence/prepare-for-future.md)
+   + Webbinarier {#webinars}
+      + [Komma igång med Business Intelligence](merchant/business-intelligence/webinars/getting-started.md)
+      + [Hantera datauppsättningar](merchant/business-intelligence/webinars/manage-data-sets.md)
+      + [Optimera Data warehouse](merchant/business-intelligence/webinars/optimize-data-warehouse.md)
+      + [Helgdagskänslighet](merchant/business-intelligence/webinars/holiday-readiness.md)
+      + [Fråga en expert, session 1](merchant/business-intelligence/webinars/ask-expert-1.md)
+      + [Fråga en expert, session 2](merchant/business-intelligence/webinars/ask-expert-2.md)
 
 + Uppgraderingar {#upgrade}
    + [Adobe Commerce 2.4 Upgrade Workshop](./upgrade/2.4-upgrade-workshop.md)
