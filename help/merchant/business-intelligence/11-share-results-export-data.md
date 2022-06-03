@@ -1,22 +1,22 @@
 ---
-title: Business Intelligence - Dela resultat och exportera data
-description: Lär dig hur du delar dina Business Intelligence och exporterar data för integrering med andra affärsverktyg.
+title: MBI - Dela resultat och exportera data
+description: Lär dig hur du delar dina MBI-resultat och exporterar data för integrering med andra affärsverktyg.
 kt: 5728
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 4f54f92b-329f-48b8-a14e-d6d8423446aa
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Dela resultat och exportera data
+# MBI - Dela resultat och exportera data
 
-Business Intelligence-användare kan ges skrivskyddad, standard- eller administratörsbehörighet för att styra vilka som ser specifika delar av affärsdata. Fördelarna är inte begränsade till Business Intelligence - schemalägg och skicka e-postsammanfattningar till så många e-postadresser som behövs. Data från data warehouse kan exporteras med export-API:t.
+MBI-användare kan ges skrivskyddad, standard- eller administratörsbehörighet för att styra vilka som ser specifika delar av affärsdata. Fördelarna är inte begränsade till MBI-användare - schemalägg och skicka e-postsammanfattningar till så många e-postadresser som behövs. Data från data warehouse kan exporteras med export-API:t.
 
 ## Vem är den här videon till?
 
@@ -27,7 +27,7 @@ Business Intelligence-användare kan ges skrivskyddad, standard- eller administr
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.2. Se [Användarhandbok för Business Intelligence](https://docs.magento.com/mbi/) för den senaste informationen.
+>Innehållet i videon återspeglar version 2.2. Se [Användarhandbok för MBI](https://docs.magento.com/mbi/) för den senaste informationen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35983?quality=12&learn=on)
 

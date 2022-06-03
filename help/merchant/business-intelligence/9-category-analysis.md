@@ -1,5 +1,5 @@
 ---
-title: Business Intelligence - Kategorianalys
+title: MBI - Kategorianalys
 description: Lär dig mer om grundläggande kategorianalys och kundlivstidsvärde.
 kt: 5734
 doc-type: feature video
@@ -7,14 +7,14 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 479f1c86-75dc-44f3-b183-9b83993c4b2c
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Kategorianalys
+# MBI - Kategorianalys
 
 Kategorianalys är utformat för att ge en översikt på hög nivå över utvalda produktkategorier. Det belyser kombinationen av kategorier som köpts av samma kunder under deras livstid.
 
@@ -27,7 +27,7 @@ Kategorianalys är utformat för att ge en översikt på hög nivå över utvald
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.2. Se [Användarhandbok för Business Intelligence](https://docs.magento.com/mbi/) för den senaste informationen.
+>Innehållet i videon återspeglar version 2.2. Se [Användarhandbok för MBI](https://docs.magento.com/mbi/) för den senaste informationen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37904/?quality=12&learn=on)
 

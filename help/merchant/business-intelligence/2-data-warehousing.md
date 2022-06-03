@@ -1,20 +1,20 @@
 ---
-title: Business Intelligence - Datalagerhantering
-description: Läs mer om Data warehouse Manager, som är tillgänglig för administratörsanvändare i Business Intelligence.
+title: MBI - datalagerhantering
+description: Läs mer om Data warehouse Manager, som är tillgänglig för administratörsanvändare i MBI.
 kt: 5729
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 9c266205-3c04-400c-a94d-e3f9818e1b58
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Datalagerhantering
+# MBI - datalagerhantering
 
 En data warehouse är en relationsdatabas som konfigurerats för att konsolidera och lagra data för att köra affärsanalyser. Data warehouse ger åtkomst till data för att avnormalisera produktionsdatabaser och organisera dem för att kunna utföra analyser mer effektivt.
 
@@ -29,7 +29,7 @@ Med hjälp av Data warehouse Manager kan användare med administratörsnivååtk
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.2. Se [Användarhandbok för Business Intelligence](https://docs.magento.com/mbi/) för den senaste informationen.
+>Innehållet i videon återspeglar version 2.2. Se [Användarhandbok för MBI](https://docs.magento.com/mbi/) för den senaste informationen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35984?quality=12&learn=on)
 

@@ -1,22 +1,23 @@
 ---
-title: Business Intelligence - Kohort Report Builder
-description: Lär dig hur du använder Business Intelligence Cohort Report Builder för att skapa optimerade rapporter och analyser som är relevanta för ditt företag.
-landing-page-description: I den här videon får du lära dig hur du använder Business Intelligence Cohort Report Builder för att skapa optimerade rapporter och analyser som är relevanta för din verksamhet.
+title: MBI - Cohort Report Builder
+description: Lär dig hur du använder MBI Cohort Report Builder för att skapa optimerade rapporter och analyser som är relevanta för din verksamhet.
+landing-page-description: I den här videon får du lära dig hur du använder MBI Cohort Report Builder för att skapa optimerade rapporter och analyser som är relevanta för din verksamhet.
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: 3f8fce7e058a697baf2dfbb794c7dcbad00042dc
+exl-id: 1d5d6f96-3e0d-4c0d-a8fe-370be6ea1b38
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Kohort Report Builder
+# MBI - Cohort Report Builder
 
-Har du någonsin velat studera hur olika delar av dina användare beter sig över tiden? Har du till exempel undrat om användare som registrerar sig under en kampanjperiod har en högre genomsnittlig livstidsintäkt än användare som inte gör det? Om svaret är _Ja_, så är Kohort Report Builder det perfekta verktyget för dig. Businessen Intelligence är optimerad för att utföra den här analysen och göra den relevant för ert företag.
+Har du någonsin velat studera hur olika delar av dina användare beter sig över tiden? Har du till exempel undrat om användare som registrerar sig under en kampanjperiod har en högre genomsnittlig livstidsintäkt än användare som inte gör det? Om svaret är _Ja_, så är Kohort Report Builder det perfekta verktyget för dig. MBI är optimerat för att utföra den här analysen och göra den relevant för din verksamhet.
 
 I den här videon:
 
@@ -26,7 +27,7 @@ I den här videon:
 
 >[!TIP]
 >
->Om du inte har använt Businessen Intelligence tidigare kan du [Komma igång med videoserie](1-overview.md) ger en fullständig översikt för att få bättre affärsinsikter och resultat genom datainsamling, analys och visualisering.
+>Om du inte har använt MBI tidigare kan du [Komma igång med videoserie](1-overview.md) ger en fullständig översikt för att få bättre affärsinsikter och resultat genom datainsamling, analys och visualisering.
 
 ## Vem är den här videon till?
 

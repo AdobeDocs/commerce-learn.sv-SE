@@ -1,9 +1,9 @@
 ---
 user-guide-title: Videor och Tutorials
 user-guide-description: En samling videor och självstudiekurser för Adobe Commerce och Magento Open Source.
-source-git-commit: deefe69f89d08f1138a4d77e206ff41ea3918b9d
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -55,19 +55,6 @@ ht-degree: 0%
       + [5.1 - Store-front experience](./merchant/introduction/5-1-storefront-experience.md)
       + [5.2 - Kundhantering](./merchant/introduction/5-2-customer-management.md)
       + [5.3 - E-postkommunikation](./merchant/introduction/5-3-store-communications.md)
-   + [!DNL Business Intelligence] {#business-intelligence}
-      + [1 - Översikt](./merchant/business-intelligence/1-overview.md)
-      + [2 - Datalagerhantering](./merchant/business-intelligence/2-data-warehousing.md)
-      + [3 - Skapa rapporter](./merchant/business-intelligence/3-build-reports.md)
-      + [4 - Mätvärden](./merchant/business-intelligence/4-metrics.md)
-      + [5 - Standardrapporter](./merchant/business-intelligence/5-standard-reports.md)
-      + [6 - Sammanfattning](./merchant/business-intelligence/6-executive-summary-dashboard.md)
-      + [7 - Kontrollpanel för beställningar](./merchant/business-intelligence/7-orders-dashboard.md)
-      + [8 - Kundfokuserade paneler](./merchant/business-intelligence/8-customer-focused-dashboards.md)
-      + [9 - Kategorianalys](./merchant/business-intelligence/9-category-analysis.md)
-      + [10 - Avkastning på investeringsuppföljning](./merchant/business-intelligence/10-roi-tracking.md)
-      + [11 - Dela resultat och exportera data](./merchant/business-intelligence/11-share-results-export-data.md)
-      + [12 - Nöjda kunder](./merchant/business-intelligence/12-customer-success.md)
 
 + Arbeta i administratören {#admin}
    + [Användare, roller och behörigheter](./merchant/users-roles-permissions.md)
@@ -78,18 +65,31 @@ ht-degree: 0%
    + [Kampanjprisregler](./merchant/promotions-price-rules.md)
    + [Page Builder - översikt](./merchant/page-builder-overview.md)
 
-+ Business Intelligence {#business-intelligence}
++ MBI {#mbi}
    + [Filteruppsättningar](./merchant/business-intelligence/filter-sets.md)
    + [Kohort Report Builder](./merchant/business-intelligence/cohort-report-builder.md)
    + [SQL Report Builder](./merchant/business-intelligence/sql-report-builder.md)
-   + [Framtidsförberedande](./merchant/business-intelligence/prepare-for-future.md)
-   + Webbinarier {#webinars}
-      + [Komma igång med Business Intelligence](merchant/business-intelligence/webinars/getting-started.md)
-      + [Hantera datauppsättningar](merchant/business-intelligence/webinars/manage-data-sets.md)
-      + [Optimera Data warehouse](merchant/business-intelligence/webinars/optimize-data-warehouse.md)
-      + [Helgdagskänslighet](merchant/business-intelligence/webinars/holiday-readiness.md)
-      + [Fråga en expert, session 1](merchant/business-intelligence/webinars/ask-expert-1.md)
-      + [Fråga en expert, session 2](merchant/business-intelligence/webinars/ask-expert-2.md)
+   + Inspelade webbinarier {#webinars}
+      + [Komma igång med MBI](./merchant/business-intelligence/webinars/getting-started.md)
+      + [Hantera datauppsättningar i MBI](./merchant/business-intelligence/webinars/manage-data-sets.md)
+      + [Optimera din MBI-Data warehouse](./merchant/business-intelligence/webinars/optimize-data-warehouse.md)
+      + [Djupdykning för MBI-instrumentpaneler](./merchant/business-intelligence/webinars/dashboards-deep-dive.md)
+      + [Semesterberedskap med MBI](./merchant/business-intelligence/webinars/holiday-readiness.md)
+      + [Framtidsförberedande](./merchant/business-intelligence/prepare-for-future.md)
+      + [MBI - Fråga en expert](./merchant/business-intelligence/webinars/ask-expert.md)
+   + Introduktion till MBI Video Series {#introduction}
+      + [Översikt](./merchant/business-intelligence/1-overview.md)
+      + [Datalagerhantering](./merchant/business-intelligence/2-data-warehousing.md)
+      + [Skapa rapporter](./merchant/business-intelligence/3-build-reports.md)
+      + [Mått](./merchant/business-intelligence/4-metrics.md)
+      + [Standardrapporter](./merchant/business-intelligence/5-standard-reports.md)
+      + [Sammanfattning](./merchant/business-intelligence/6-executive-summary-dashboard.md)
+      + [Kontrollpanel för beställningar](./merchant/business-intelligence/7-orders-dashboard.md)
+      + [Kundfokuserade instrumentpaneler](./merchant/business-intelligence/8-customer-focused-dashboards.md)
+      + [Kategorianalys](./merchant/business-intelligence/9-category-analysis.md)
+      + [Avkastning på investeringsspårning](./merchant/business-intelligence/10-roi-tracking.md)
+      + [Dela resultat och exportera data](./merchant/business-intelligence/11-share-results-export-data.md)
+      + [Nöjda kunder](./merchant/business-intelligence/12-customer-success.md)
 
 + Uppgraderingar {#upgrade}
    + [Adobe Commerce 2.4 Upgrade Workshop](./upgrade/2.4-upgrade-workshop.md)

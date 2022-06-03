@@ -1,22 +1,22 @@
 ---
-title: Business Intelligence - standardrapporter
-description: Läs mer om standardrapporter om Business Intelligence som finns färdiga.
+title: MBI - standardrapporter
+description: Läs mer om MBI-standardrapporterna, som är färdiga.
 kt: 5733
 doc-type: feature video
 solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: b8c1f7c6-e645-40fc-977f-29b8cd79637c
-source-git-commit: 7a93a60fc0f0b82636b669f0b9300fe1de94ec53
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - standardrapporter
+# MBI - standardrapporter
 
-Standardinstrumentpanelerna för färdiga Business Intelligence innehåller fördefinierade rapporter som omfattar KPI-rapportering för e-handel som de flesta handlare behöver. Handläggarna kan automatisera dessa rapporter för att effektivare kunna driva sin verksamhet och eliminera den manuella analys de kan göra för hand med SQL-frågor eller i Excel.
+Standardbaserade MBI-instrumentpaneler innehåller fördefinierade rapporter som täcker KPI-rapportering för e-handel som de flesta handlare behöver. Handläggarna kan automatisera dessa rapporter för att effektivare kunna driva sin verksamhet och eliminera den manuella analys de kan göra för hand med SQL-frågor eller i Excel.
 
 ## Vem är den här videon till?
 
@@ -27,7 +27,7 @@ Standardinstrumentpanelerna för färdiga Business Intelligence innehåller för
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.2. Se [Användarhandbok för Business Intelligence](https://docs.magento.com/mbi/) för den senaste informationen.
+>Innehållet i videon återspeglar version 2.2. Se [Användarhandbok för MBI](https://docs.magento.com/mbi/) för den senaste informationen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35987?quality=12&learn=on)
 

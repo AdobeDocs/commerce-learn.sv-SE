@@ -1,20 +1,20 @@
 ---
-title: Business Intelligence - instrumentpanel för översikt
-description: Se en demonstration av den verkställande översiktspanelen som Businessen Intelligence tillhandahåller.
+title: MBI - översikt över kontrollpanel
+description: Se en demonstration av den verkställande översiktspanelen som tillhandahålls av MBI.
 kt: 5731
 doc-type: feature video
 solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 7a601fcd-e41f-4918-81a3-392995be39fa
-source-git-commit: 7a93a60fc0f0b82636b669f0b9300fe1de94ec53
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - instrumentpanel för översikt
+# MBI - översikt över kontrollpanel
 
 Kontrollpanelen för den verkställande översikten ger insikter om intäkter, order och genomsnittliga ordervärden. Rapporterna delas upp som statiska värden och över tid. Du kan dela den här instrumentpanelen med andra medlemmar i ditt team, ge dem redigeringsbehörighet för att samarbeta med dig eller endast visa.
 
@@ -27,7 +27,7 @@ Kontrollpanelen för den verkställande översikten ger insikter om intäkter, o
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.2. Se [Användarhandbok för Business Intelligence](https://docs.magento.com/mbi/) för den senaste informationen.
+>Innehållet i videon återspeglar version 2.2. Se [Användarhandbok för MBI](https://docs.magento.com/mbi/) för den senaste informationen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35986?quality=12&learn=on)
 

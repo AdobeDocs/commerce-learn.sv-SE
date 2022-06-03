@@ -1,20 +1,21 @@
 ---
-title: Business Intelligence - Optimera Data warehouse
+title: Optimera din MBI-Data warehouse
 description: Titta på det här webbinariet om du vill veta mer om Data warehouse Manager.
-landing-page-description: 'Se det inspelade webbinariet '
+landing-page-description: Se det inspelade webbinariet
 kt: 10403
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: c86f3520823ee41b668ad6595a859c554572d69b
+exl-id: 022df5f9-0333-464d-a985-177071a8aa04
+source-git-commit: 64df684fb23ad37912728f53a7da73d16d7781d8
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Optimera Data warehouse
+# Optimera din MBI-Data warehouse
 
 Med hjälp av Data warehouse Manager kan du hantera tabell- och kolumnsynkroniseringsinställningar, gå nedåt i en tabells schema och skapa beräknade kolumner som kan användas i rapporter.
 
@@ -32,7 +33,7 @@ I det här webbinariet:
 
 >[!TIP]
 >
->Om du inte har använt Businessen Intelligence tidigare kan du [Komma igång med videoserie](./../1-overview.md) ger en fullständig översikt för att få bättre affärsinsikter och resultat genom datainsamling, analys och visualisering.
+>Om du inte har använt MBI tidigare kan du [Komma igång med videoserie](./../1-overview.md) ger en fullständig översikt för att få bättre affärsinsikter och resultat genom datainsamling, analys och visualisering.
 
 ## Vem är den här videon till?
 

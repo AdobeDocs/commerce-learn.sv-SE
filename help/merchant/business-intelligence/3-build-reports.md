@@ -1,22 +1,22 @@
 ---
-title: Business Intelligence - skapa rapporter
-description: Läs mer om rapportbyggalternativen i Business Intelligence.
+title: MBI - Bygg rapporter
+description: Lär dig mer om rapportbyggalternativen i MBI.
 kt: 5726
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: c678cf95-7bd2-4c16-8df4-46e256a83f2c
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - skapa rapporter
+# MBI - Bygg rapporter
 
-Det finns två alternativ för att skapa rapporter och analyser i Business Intelligence: den visuella rapportverktyget och SQL-rapportverktyget.
+Det finns två alternativ för att skapa rapporter och analyser i MBI: den visuella rapportverktyget och SQL-rapportverktyget.
 
 ## Vem är den här videon till?
 
@@ -27,7 +27,7 @@ Det finns två alternativ för att skapa rapporter och analyser i Business Intel
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.2. Se [Användarhandbok för Business Intelligence](https://docs.magento.com/mbi/) för den senaste informationen.
+>Innehållet i videon återspeglar version 2.2. Se [Användarhandbok för MBI](https://docs.magento.com/mbi/) för den senaste informationen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35981?quality=12&learn=on)
 

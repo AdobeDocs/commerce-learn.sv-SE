@@ -1,22 +1,23 @@
 ---
-title: Business Intelligence - filteruppsättningar
-description: Lär dig hur du använder filteruppsättningar för Business Intelligence för att förenkla rapportering av affärsdata för Adobe Commerce och Magento Open Source.
-landing-page-description: I den här videon får du lära dig hur du använder funktionen för filteruppsättningar för Business Intelligence för att förenkla rapportering av affärsdata.
+title: MBI - filteruppsättningar
+description: Lär dig hur du använder funktionen för MBI-filteruppsättningar för att förenkla rapportering av affärsdata för Adobe Commerce och Magento Open Source.
+landing-page-description: I den här videon får du lära dig hur du använder funktionen för MBI-filteruppsättningar för att förenkla rapportering av affärsdata.
 kt: 10289
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: 3f8fce7e058a697baf2dfbb794c7dcbad00042dc
+exl-id: f7d93e45-7382-4fe5-9088-dfba78d148c6
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - filteruppsättningar
+# MBI - filteruppsättningar
 
-Vill du bara analysera vissa delar av dina affärsdata? Är du trött på att rensa manuellt? I Business Intelligence kan du använda filteruppsättningsfunktionen för att förenkla processen.
+Vill du bara analysera vissa delar av dina affärsdata? Är du trött på att rensa manuellt? I MBI kan du använda filteruppsättningsfunktionen för att förenkla den här processen.
 
 I den här videon:
 
@@ -27,7 +28,7 @@ I den här videon:
 
 >[!TIP]
 >
->Om du inte har använt Businessen Intelligence tidigare kan du [Komma igång med videoserie](1-overview.md) ger en fullständig översikt för att få bättre affärsinsikter och resultat genom datainsamling, analys och visualisering.
+>Om du inte har använt MBI tidigare kan du [Komma igång med videoserie](1-overview.md) ger en fullständig översikt för att få bättre affärsinsikter och resultat genom datainsamling, analys och visualisering.
 
 ## Vem är den här videon till?
 

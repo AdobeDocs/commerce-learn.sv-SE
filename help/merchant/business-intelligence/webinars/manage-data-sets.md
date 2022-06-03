@@ -1,28 +1,29 @@
 ---
-title: Business Intelligence - Hantera datauppsättningar
-description: Titta på det här webbinariet och lär dig mer om de kraftfulla funktionerna i Business Intelligence Data warehouse Manager.
-landing-page-description: Titta på det här webbinariet och lär dig mer om de kraftfulla funktionerna i Business Intelligence Data warehouse Manager.
+title: Hantera datauppsättningar i MBI
+description: Titta på det här webbinariet och lär dig mer om några av de kraftfulla funktionerna i MBI Data warehouse Manager.
+landing-page-description: Titta på det här webbinariet och lär dig mer om några av de kraftfulla funktionerna i MBI Data warehouse Manager.
 kt: 10410
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: c86f3520823ee41b668ad6595a859c554572d69b
+exl-id: d73758b0-37bf-4be8-8e25-01d3d983fd43
+source-git-commit: 64df684fb23ad37912728f53a7da73d16d7781d8
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Hantera datauppsättningar
+# Hantera datauppsättningar i MBI
 
-Läs om några av de kraftfulla funktionerna i Business Intelligence Data warehouse Manager, direkt från Adobe Commerce produktteam. Gå steget längre än att skapa grundläggande rapporter och lär dig hur du kan göra mer med dina data.
+Läs om några av de kraftfulla funktionerna i MBI Data warehouse Manager, direkt från Adobe Commerce produktteam. Gå steget längre än att skapa grundläggande rapporter och lär dig hur du kan göra mer med dina data.
 
 Under det här inspelade webbinariet får du lära dig att beräkna avkastningen på investeringar i era annonskampanjer genom att koppla data från Adobe Commerce, Google Ecommerce och Google AdWords.
 
 >[!TIP]
 >
->Om du inte har använt Businessen Intelligence tidigare kan du [Komma igång med videoserie](./../1-overview.md) ger en fullständig översikt för att få bättre affärsinsikter och resultat genom datainsamling, analys och visualisering.
+>Om du inte har använt MBI tidigare kan du [Komma igång med videoserie](./../1-overview.md) ger en fullständig översikt för att få bättre affärsinsikter och resultat genom datainsamling, analys och visualisering.
 
 ## Vem är den här videon till?
 
