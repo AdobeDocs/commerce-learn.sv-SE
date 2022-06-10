@@ -1,9 +1,9 @@
 ---
 user-guide-title: Videor och Tutorials
 user-guide-description: En samling videor och självstudiekurser för Adobe Commerce och Magento Open Source.
-source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
+source-git-commit: 24873fdb03bd158f4705e8da34d60bd17b0a53c5
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,9 @@ ht-degree: 0%
 + [[!DNL Commerce] Videor och Tutorials](overview.md)
 
 + Komma igång {#getting-started}
-   + [!DNL Commerce] om molninfrastruktur {#cloud}
+   + [!DNL Commerce] på molninfrastruktur {#cloud}
       + [1 - Översikt](./cloud/1-overview.md)
-      + [2 - Värdkonton](./cloud/2-accounts.md)
+      + [2 - Värdbaserade konton](./cloud/2-accounts.md)
       + [3 - Molnprojekt](./cloud/3-projects.md)
       + [4 - Driftsättning](./cloud/4-deployment.md)
       + [5 - Utveckling](./cloud/5-dev-config.md)
@@ -30,15 +30,15 @@ ht-degree: 0%
       + [5.1 - Grundläggande om utveckling](./developer/backend-5-1-dev-basics.md)
       + [5.2 - Deklarativt schema](./developer/backend-5-2-declarative-schema.md)
       + [5.3 - Routning](./developer/backend-5-3-routing.md)
-      + [5.4 - Skapa en [!DNL Admin] page](./developer/backend-5-4-admin-page.md)
+      + [5.4 - Skapa en [!DNL Admin] Sida](./developer/backend-5-4-admin-page.md)
       + [6 - övningar](./developer/backend-6-practice.md)
    + [!DNL Commerce] för företagsanvändare {#merchants}
-      + [1.1 - [!DNL Admin] menyer](./merchant/introduction/1-1-menus.md)
+      + [1.1 - [!DNL Admin] Menyer](./merchant/introduction/1-1-menus.md)
       + [1.2 - Datarutnät](./merchant/introduction/1-2-data-grids.md)
-      + [1.3 - Omfattningar, webbplatser och butiker](./merchant/introduction/1-3-apps-scopes-sites-stores.md)
+      + [1.3 - Områden, sajter och butiker](./merchant/introduction/1-3-apps-scopes-sites-stores.md)
       + [1.4 - Lagra vyer och cacheminnen](./merchant/introduction/1-4-store-views-cache.md)
-      + [1.5 - Administratörsanvändarkonton och -roller](./merchant/introduction/1-5-users-roles.md)
-      + [1.6 - Rollomfattningar](./merchant/introduction/1-6-role-scopes.md)
+      + [1.5 - Administrera användarkonton och roller](./merchant/introduction/1-5-users-roles.md)
+      + [1.6 - Rollomfång](./merchant/introduction/1-6-role-scopes.md)
       + [1.7 - Affärsinställningar](./merchant/introduction/1-7-business-settings.md)
       + [2.1 - Kategorier](./merchant/introduction/2-1-categories.md)
       + [2.2 - Kategorilandningssidor](./merchant/introduction/2-2-category-landing-page.md)
@@ -48,22 +48,42 @@ ht-degree: 0%
       + [3.4 - Produktattributuppsättningar](./merchant/introduction/3-4-product-attribute-sets.md)
       + [3.5 - Skapa en enkel produkt](./merchant/introduction/3-5-create-simple-product.md)
       + [3.6 - Konfigurerbara attribut](./merchant/introduction/3-6-configurable-attributes.md)
-      + [3.7 - Import-/exportprodukter](./merchant/introduction/3-7-import-export-products.md)
+      + [3.7 - Importera/exportera produkter](./merchant/introduction/3-7-import-export-products.md)
       + [3.8 - Presentkort](./merchant/introduction/3-8-gift-cards.md)
       + [4.1 - Navigering i flera lager](./merchant/introduction/4-1-layered-navigation.md)
       + [4.2 - Ordna produktkategorier](./merchant/introduction/4-2-arrange-product-categories.md)
-      + [5.1 - Store-front experience](./merchant/introduction/5-1-storefront-experience.md)
+      + [5.1 - Storefront Experience](./merchant/introduction/5-1-storefront-experience.md)
       + [5.2 - Kundhantering](./merchant/introduction/5-2-customer-management.md)
       + [5.3 - E-postkommunikation](./merchant/introduction/5-3-store-communications.md)
 
-+ Arbeta i administratören {#admin}
-   + [Användare, roller och behörigheter](./merchant/users-roles-permissions.md)
-   + [Tvåfaktorsautentisering](./merchant/two-factor-authentication.md)
-   + [Lägga till webbplatser, butiker och butiksvyer](./merchant/add-websites-stores-views.md)
++ Butiksadministration {#admin}
+   + [Hantera användarroller och behörigheter](./merchant/users-roles-permissions.md)
+   + [Autentisering med två faktorer](./merchant/two-factor-authentication.md)
+   + [Hantera valuta- och skatteregler](./merchant/currency-tax-rules.md)
+   + [Leveranssätt](./merchant/shipping-delivery.md)
+   + [Lägg till webbplatser, butiker och butiksvyer](./merchant/add-websites-stores-views.md)
    + [Ändra en butiks-URL](./merchant/change-store-url.md)
-   + [Inställningar för webbplatskarta](./merchant/site-map-setup.md)
-   + [Kampanjprisregler](./merchant/promotions-price-rules.md)
+   + [Inställningar för butikskarta](./merchant/site-map-setup.md)
+
++ Kundhantering {#customers}
+   + [Skapa kundsegment](./merchant/customer-segments.md)
+   + [Skapa kundgrupper](./merchant/customer-groups.md)
+   + [Skapa kundattribut](./merchant/customer-attributes.md)
+   + [Säljassisterade inköp](./merchant/seller-assisted-shopping.md)
+
++ Kataloghantering {#catalog}
+   + [Skapa en kategori](./merchant/category-create.md)
+   + [Hantera produkter i en kategori](./merchant/category-products.md)
+   + [Inventory management](./merchant/inventory-management.md)
+   + [Skapa produktattribut](./merchant/product-attributes-create.md)
+   + [Hantera SEO-metadata](./merchant/seo-metadata.md)
+   + [Hantera URL-återskrivningar för SEO](./merchant/seo-url-rewrites.md)
+
++ Innehållshantering {#content}
    + [Page Builder - översikt](./merchant/page-builder-overview.md)
+
++ Marknadsföringsverktyg {#marketing}
+   + [Kampanjprisregler](./merchant/promotions-price-rules.md)
 
 + MBI {#mbi}
    + [Filteruppsättningar](./merchant/business-intelligence/filter-sets.md)
@@ -91,19 +111,19 @@ ht-degree: 0%
       + [Dela resultat och exportera data](./merchant/business-intelligence/11-share-results-export-data.md)
       + [Nöjda kunder](./merchant/business-intelligence/12-customer-success.md)
 
-+ Uppgraderingar {#upgrade}
++ Commerce Upgrades {#upgrade}
    + [Adobe Commerce 2.4 Upgrade Workshop](./upgrade/2.4-upgrade-workshop.md)
    + [Översikt över verktyget Kompatibilitet för uppgradering](./upgrade/upgrade-compatibility-tool-overview.md)
    + [Använda uppgraderingskompatibilitetsverktyget i PHP Storm](./upgrade/uct-phpstorm.md)
 
-+ Backend-utveckling {#backend-development}
++ Backend Development {#backend-development}
    + [Lägga till en ny tabell i en databas](./developer/add-new-db-table.md)
    + [Skapa en modul](developer/create-module.md)
    + [Lägg till ett nytt produktattribut](./developer/add-product-attribute.md)
    + [Exempel på beroendeinjektion](./developer/dependency-injection.md)
 
-+ Framtidsutveckling {#frontend-development}
-   + Page Builder {#page-builder}
++ Frontend Development {#frontend-development}
+   + Page Builder för utvecklare {#page-builder}
       + [1 - Introduktion](./developer/page-builder/1-intro-case-studies.md)
       + [2 - Konfiguration och innehåll](./developer/page-builder/2-config-create-content.md)
       + [3 - Teman](./developer/page-builder/3-themes.md)
