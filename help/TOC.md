@@ -1,7 +1,7 @@
 ---
 user-guide-title: Videor och Tutorials
 user-guide-description: En samling videor och självstudiekurser för Adobe Commerce och Magento Open Source.
-source-git-commit: 24873fdb03bd158f4705e8da34d60bd17b0a53c5
+source-git-commit: 11a59c534f1907d63073bc2a1541d39f02428da1
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -60,10 +60,11 @@ ht-degree: 0%
    + [Hantera användarroller och behörigheter](./merchant/users-roles-permissions.md)
    + [Autentisering med två faktorer](./merchant/two-factor-authentication.md)
    + [Hantera valuta- och skatteregler](./merchant/currency-tax-rules.md)
-   + [Leveranssätt](./merchant/shipping-delivery.md)
    + [Lägg till webbplatser, butiker och butiksvyer](./merchant/add-websites-stores-views.md)
    + [Ändra en butiks-URL](./merchant/change-store-url.md)
    + [Inställningar för butikskarta](./merchant/site-map-setup.md)
+   + [Leveranssätt](./merchant/shipping-delivery.md)
+   + [Använd betaltjänster](./merchant/payment-services.md)
 
 + Kundhantering {#customers}
    + [Skapa kundsegment](./merchant/customer-segments.md)
@@ -76,14 +77,33 @@ ht-degree: 0%
    + [Hantera produkter i en kategori](./merchant/category-products.md)
    + [Inventory management](./merchant/inventory-management.md)
    + [Skapa produktattribut](./merchant/product-attributes-create.md)
+   + [Använd produktattribut med PWA Studio](./merchant/product-attributes-pwa.md)
    + [Hantera SEO-metadata](./merchant/seo-metadata.md)
    + [Hantera URL-återskrivningar för SEO](./merchant/seo-url-rewrites.md)
 
 + Innehållshantering {#content}
    + [Page Builder - översikt](./merchant/page-builder-overview.md)
+   + [Skapa statiska och dynamiska block](./merchant/static-dynamic-blocks.md)
+   + [Skapa widgetar](./merchant/widgets.md)
+   + [Använd innehållsmallar](./merchant/content-templates.md)
+   + [Innehållsmellanlagring](./merchant/content-staging.md)
+   + [Hantera mediegalleriet](./merchant/media-gallery.md)
 
 + Marknadsföringsverktyg {#marketing}
    + [Kampanjprisregler](./merchant/promotions-price-rules.md)
+   + [Skapa katalogprisregler](./merchant/catalog-price-rules.md)
+   + [Skapa kundprisregler](./merchant/cart-price-rules.md)
+   + [Hantera relaterade produktregler](./merchant/related-product-rules.md)
+   + [Konfigurera Recommendations](./merchant/product-recommendations.md)
+   + [Använd Live Search](./merchant/live-search.md)
+
++ Beställningar och orderhantering {#orders}
+   + [Butiksuppfyllelse - översikt](./merchant/store-fulfillment.md)
+   + [Hantera orderstatus](./merchant/order-status.md)
+
++ Systemverktyg {#tools}
+   + [Kontrollpanel för analysverktyg för hela webbplatsen](./tools/site-wide-analysis-tool.md)
+   + [Använda verktyget Korrigera kvalitet](./tools/quality-patch-tool.md)
 
 + MBI {#mbi}
    + [Filteruppsättningar](./merchant/business-intelligence/filter-sets.md)
@@ -111,15 +131,15 @@ ht-degree: 0%
       + [Dela resultat och exportera data](./merchant/business-intelligence/11-share-results-export-data.md)
       + [Nöjda kunder](./merchant/business-intelligence/12-customer-success.md)
 
-+ Commerce Upgrades {#upgrade}
++ Commerce Upgrades and System Tools {#upgrade}
    + [Adobe Commerce 2.4 Upgrade Workshop](./upgrade/2.4-upgrade-workshop.md)
    + [Översikt över verktyget Kompatibilitet för uppgradering](./upgrade/upgrade-compatibility-tool-overview.md)
-   + [Använda uppgraderingskompatibilitetsverktyget i PHP Storm](./upgrade/uct-phpstorm.md)
+   + [Använda verktyget Kompatibilitet för uppgradering i PHP Storm](./upgrade/uct-phpstorm.md)
 
 + Backend Development {#backend-development}
-   + [Lägga till en ny tabell i en databas](./developer/add-new-db-table.md)
+   + [Lägga till en tabell i en databas](./developer/add-new-db-table.md)
    + [Skapa en modul](developer/create-module.md)
-   + [Lägg till ett nytt produktattribut](./developer/add-product-attribute.md)
+   + [Lägg till ett produktattribut](./developer/add-product-attribute.md)
    + [Exempel på beroendeinjektion](./developer/dependency-injection.md)
 
 + Frontend Development {#frontend-development}
