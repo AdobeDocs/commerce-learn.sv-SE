@@ -5,9 +5,10 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
-source-git-commit: acee5ba84ea32e14a743cd269f77ced821548ad6
+exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
+source-git-commit: 957eb8c6d7d429fc5579a5700fef2194662201cb
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -16,7 +17,7 @@ ht-degree: 0%
 
 {{b2b-feature}}
 
-För företag som har _[!UICONTROL Payment on Account]_aktiveras och har företagskrediter tillgängliga, kan de göra köp på sitt konto upp till den kreditgräns som beviljas. När det här alternativet är aktiverat kan kunderna kontrollera status för sina företagskrediter från sin kontokontrollpanel.
+För företag som har _[!UICONTROL Payment on Account]_aktiveras och har företagskrediter tillgängliga, kan de göra köp på sitt konto upp till den kreditgräns som beviljas. Med den här funktionen kan kunderna kontrollera status för sina företagskrediter från sin kontokontrollpanel.
 
 Du kan ange följande kreditrelaterade parametrar för varje företagsprofil:
 
