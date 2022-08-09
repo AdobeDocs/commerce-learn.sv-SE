@@ -9,9 +9,9 @@ level: Beginner
 thumbnail: 36191.jpeg
 activity: use
 exl-id: d9049f03-537a-4e0e-8f17-ad392ac63d84
-source-git-commit: acee5ba84ea32e14a743cd269f77ced821548ad6
+source-git-commit: 3b938c6d440db4db52f4b85ec885475f61b28153
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ I den här videon:
 >
 >Innehållet återspeglar Adobe Commerce och Magento Open Source 2.3.1.
 >
->- PWA och [PWA Studio](http://pwastudio.io/) är nu tillgängligt som _headless_ implementering av frontend.
+>- PWA och [PWA Studio](https://developer.adobe.com/commerce/pwa-studio/) finns nu som _headless_ implementering av frontend.
 >- Teknikhögen har ändrats i senare versioner av versionslinjen 2.3.x och versionslinjen 2.4.x. Kontrollera [systemkrav](https://devdocs.magento.com/guides/v2.4/install-gde/system-requirements.html) för att vara säker på att du har rätt systemkomponenter.
 >- På grund av den förestående nedstängningen av Temando är Magento Shipping inte längre tillgängligt. Detaljerad statusinformation och rekommendationer för nya leveransimplementeringar i Commerce finns i [produktinformationssida](https://magento.com/shipping).
 
