@@ -8,9 +8,9 @@ role: Admin, Leader, Developer
 audience: all
 activity: use
 exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
-source-git-commit: acee5ba84ea32e14a743cd269f77ced821548ad6
+source-git-commit: a579818f2f50d4ca0eca9a529945c4f366905ef6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ I den här videon:
 - Hur du snabbt kan identifiera fel och korrigeringar som krävs för att uppgradera till en nyare version av Adobe Commerce
 - Så här får du åtkomst till HTML-resultaten för att visualisera moduler efter allvarlighetsgrad och antal inkompatibiliteter
 
-Mer information om hur du utför och förenklar uppgraderingar finns i [Uppgraderingshandbok](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
+Mer information om verktyget finns i [Dokumentation för verktyget Kompatibilitet för uppgradering](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en). Om du vill veta mer om hur du utför och förenklar uppgraderingarna kan du läsa [Uppgraderingshandbok](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
 
 ## Vem är den här videon till?
 
@@ -38,6 +38,7 @@ Mer information om hur du utför och förenklar uppgraderingar finns i [Uppgrade
 
 ## Ytterligare resurser
 
+- [Dokumentation för verktyget Kompatibilitet för uppgradering](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
 - [Uppgraderingshandbok](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
 - [Släppta versioner](https://devdocs.magento.com/release/released-versions.html)
 - [Kommande versioner](https://devdocs.magento.com/release/)
