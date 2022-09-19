@@ -1,9 +1,9 @@
 ---
 user-guide-title: Videor och Tutorials
 user-guide-description: En samling videor och självstudiekurser för Adobe Commerce och Magento Open Source.
-source-git-commit: acee5ba84ea32e14a743cd269f77ced821548ad6
+source-git-commit: 2f59b215be07ab9041efc38254e816b91613c6d3
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '441'
 ht-degree: 0%
 
 ---
@@ -73,6 +73,7 @@ ht-degree: 0%
    + [Säljassisterade inköp](./merchant/seller-assisted-shopping.md)
 
 + Kataloghantering {#catalog}
+   + [Katalogtjänst för Adobe Commerce](./merchant/catalog-service.md)
    + [Skapa en kategori](./merchant/category-create.md)
    + [Hantera produkter i en kategori](./merchant/category-products.md)
    + [Inventory management](./merchant/inventory-management.md)
