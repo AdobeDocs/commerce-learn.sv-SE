@@ -1,9 +1,9 @@
 ---
 user-guide-title: Videor och Tutorials
 user-guide-description: En samling videor och självstudiekurser för Adobe Commerce och Magento Open Source.
-source-git-commit: 2f59b215be07ab9041efc38254e816b91613c6d3
+source-git-commit: 327c70006c2f1b8b85781cf0059b1386535bb7b4
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '483'
 ht-degree: 0%
 
 ---
@@ -116,14 +116,14 @@ ht-degree: 0%
    + [Filteruppsättningar](./merchant/business-intelligence/filter-sets.md)
    + [Kohort Report Builder](./merchant/business-intelligence/cohort-report-builder.md)
    + [SQL Report Builder](./merchant/business-intelligence/sql-report-builder.md)
+   + [Framtidsförberedande](./merchant/business-intelligence/prepare-for-future.md)
    + Inspelade webbinarier {#webinars}
-      + [Komma igång med MBI](./merchant/business-intelligence/webinars/getting-started.md)
-      + [Hantera datauppsättningar i MBI](./merchant/business-intelligence/webinars/manage-data-sets.md)
-      + [Optimera din MBI-Data warehouse](./merchant/business-intelligence/webinars/optimize-data-warehouse.md)
-      + [Djupdykning för MBI-instrumentpaneler](./merchant/business-intelligence/webinars/dashboards-deep-dive.md)
-      + [Semesterberedskap med MBI](./merchant/business-intelligence/webinars/holiday-readiness.md)
-      + [Framtidsförberedande](./merchant/business-intelligence/prepare-for-future.md)
-      + [MBI - Fråga en expert](./merchant/business-intelligence/webinars/ask-expert.md)
+      + [Komma igång med MBI](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/getting-started.html)
+      + [Hantera datauppsättningar i MBI](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2022/manage-data-sets.html)
+      + [Optimera din MBI-Data warehouse](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/optimize-data-warehouse.html)
+      + [Djupdykning för MBI-instrumentpaneler](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/dashboards-deep-dive.html)
+      + [Semesterberedskap med MBI](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/holiday-readiness.html)
+      + [MBI - Fråga en expert](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/ask-expert.html)
    + Introduktion till MBI Video Series {#introduction}
       + [Översikt](./merchant/business-intelligence/1-overview.md)
       + [Datalagerhantering](./merchant/business-intelligence/2-data-warehousing.md)
