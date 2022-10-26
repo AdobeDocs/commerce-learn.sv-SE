@@ -2,16 +2,18 @@
 title: "[!DNL Commerce] Videor och Tutorials"
 description: En samling videor och självstudiekurser för Adobe Commerce och Magento Open Source
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: 834fcab32b3211495a62b7595fcee093b7fec0a7
+source-git-commit: 5156f069f37404b852fa9d476bb8eaf5442b9182
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '183'
+ht-degree: 1%
 
 ---
 
-# <!-- use banner as heading -->![Commerce Videos och Tutorials](../assets/banner-videos-home.png) {#videos}
+# <!-- use banner as heading -->![Videofilmer och självstudiekurser om handel](../assets/banner-videos-home.png) {#videos}
 
 Välkommen till [!DNL Commerce] videor och självstudiekurser. Använd dessa resurser tillsammans med [dokumentation](https://experienceleague.adobe.com/docs/commerce.html), vilket ger er en bättre förståelse för hur ni använder Adobe Commerce och Magento Open Source för att stödja ert e-handelsföretag. Samlingen är utformad för att ge användbart innehåll för backend-utvecklare, klientutvecklare, systemadministratörer, handlare och andra roller inom organisationen.
+
+<div id="whats-new-section">
 
 ## Nyheter
 
@@ -23,6 +25,15 @@ Utforska de senaste tilläggen och uppdateringarna:
 | **[Katalogtjänst](./merchant/catalog-service.md)** - Demo av nya funktioner i katalogtjänsten för Adobe Commerce. | Nytt | 9/19/2022 |
 
 {style=&quot;table-layout:auto&quot;}
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
 >[!TIP]
 >
