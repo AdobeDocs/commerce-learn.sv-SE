@@ -1,16 +1,16 @@
 ---
 title: "[!DNL Commerce] Videor och Tutorials"
 description: En samling videor och självstudiekurser för Adobe Commerce och Magento Open Source
-source-git-commit: 05ae885ea050043f9d719bc20321b09aa18e88e4
+source-git-commit: 6684a5e813f7a3a829f378f7e45755c2fc093ee1
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
 # <!-- use banner as heading -->![Videofilmer och självstudiekurser om handel](../assets/banner-videos-home.png) {#videos}
 
-Välkommen till [!DNL Commerce] videor, kurser och självstudiekurser. Använd dessa resurser tillsammans med [dokumentation](https://experienceleague.adobe.com/docs/commerce.html)får du lära dig att använda Adobe Commerce och Magento Open Source för att stödja e-handelsverksamheten. Samlingen är utformad för att ge användbart innehåll för backend-utvecklare, klientutvecklare, systemadministratörer, handlare och andra roller inom organisationen.
+Välkommen till [!DNL Commerce] videor och självstudiekurser. Använd dessa resurser tillsammans med [dokumentation](https://experienceleague.adobe.com/docs/commerce.html)får du lära dig att använda Adobe Commerce och Magento Open Source för att stödja e-handelsverksamheten. Samlingen är utformad för att ge användbart innehåll för backend-utvecklare, klientutvecklare, systemadministratörer, handlare och andra roller inom organisationen.
 
 <div id="whats-new-section">
 
