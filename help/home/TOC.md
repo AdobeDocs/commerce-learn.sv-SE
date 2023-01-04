@@ -2,9 +2,9 @@
 user-guide-title: Videor och Tutorials
 user-guide-description: Läs om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och Tutorials
-source-git-commit: 34f5cd077da2c8dc8e187276635a11e71c3e632c
+source-git-commit: e44f25a9c3f113d18703761f9e958ab5244b8417
 workflow-type: tm+mt
-source-wordcount: '528'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -102,7 +102,8 @@ ht-degree: 0%
    + [Skapa kundprisregler](../site-management/cart-price-rules.md)
    + [Hantera relaterade produktregler](../site-management/related-product-rules.md)
    + [Konfigurera Recommendations](../site-management/product-recommendations.md)
-   + [Använd Live Search](../site-management/live-search.md)
+   + [Introduktion till Live Search](../site-management/live-search.md)
+   + [Live Search - rekommendationer](../site-management/live-search-recommendations.md)
 
 + Beställningar och orderhantering {#orders}
    + [Butiksuppfyllelse - översikt](../site-management/store-fulfillment.md)
