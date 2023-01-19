@@ -1,29 +1,27 @@
 ---
-title: "[!DNL Commerce] Videor och Tutorials"
+title: '''[!DNL Commerce] Videor och Tutorials'
 description: En samling videor och självstudiekurser för Adobe Commerce och Magento Open Source
-source-git-commit: 6684a5e813f7a3a829f378f7e45755c2fc093ee1
+last-substantial-update: 2023-01-19T00:00:00Z
+exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
+source-git-commit: 6635d5dc0aab027fe77796a824d3e375d5bf0083
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
-# <!-- use banner as heading -->![Videofilmer och självstudiekurser om handel](../assets/banner-videos-home.png) {#videos}
+# Självstudiekurser för handel {#videos}
 
-Välkommen till [!DNL Commerce] videor och självstudiekurser. Använd dessa resurser tillsammans med [dokumentation](https://experienceleague.adobe.com/docs/commerce.html)får du lära dig att använda Adobe Commerce och Magento Open Source för att stödja e-handelsverksamheten. Samlingen är utformad för att ge användbart innehåll för backend-utvecklare, klientutvecklare, systemadministratörer, handlare och andra roller inom organisationen.
+Välkommen till [!DNL Commerce] videor och självstudiekurser. Använd dessa resurser tillsammans med [dokumentation](https://experienceleague.adobe.com/docs/commerce.html), ger möjlighet att lära sig att använda Adobe Commerce och Magento Open Source för att stödja e-handelsverksamheten. Samlingen är utformad för att ge användbart innehåll för backend-utvecklare, klientutvecklare, systemadministratörer, handlare och andra roller inom organisationen.
 
 <div id="whats-new-section">
 
 ## Nyheter
 
-</div>
+- [Introduktion till GraphQL](../graphql-rest/intro-graphql.md)
+- [Hitta en skadlig IP-adress](../new-relic/malicious-ip.md)
 
-<div id="recs-overview-body-1"></div>
-<div id="recs-overview-body-2"></div>
-<div id="recs-overview-body-3"></div>
-<div id="recs-overview-body-4"></div>
-<div id="recs-overview-body-5"></div>
-<div id="recs-overview-body-6"></div>
+</div>
 
 >[!TIP]
 >
