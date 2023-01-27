@@ -9,9 +9,9 @@ level: Beginner
 thumbnail: 36201.jpeg
 activity: use
 exl-id: 1fcf8b82-11a0-4567-a616-8a3728a88cb9
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -33,10 +33,10 @@ I den här videon finns fem övningar att öva [!DNL Commerce] utvecklingsuppgif
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) och [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) versionsinformation.
+>Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [versionsinformation](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36201?quality=12&learn=on)
 
 ## Ytterligare resurser
 
-[Bästa praxis för tilläggsutvecklare](https://devdocs.magento.com/guides/v2.4/ext-best-practices/bk-ext-best-practices.html)
+[Bästa praxis för tilläggsutvecklare](https://developer.adobe.com/commerce/php/best-practices/)

@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: f9df7bb0-f5fe-41c0-8990-7d9b5db3596d
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Alla installationer av Adobe Commerce och Magento Open Source har stöd för en 
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.1.0. Mer information om uppdateringar i senare versioner finns i [2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) och [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) versionsinformation.
+>Innehållet i videon återspeglar version 2.1.0. Mer information om uppdateringar i senare versioner finns i [versionsinformation](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35787?quality=12&learn=on)
 
 ## Ytterligare resurser
 
-- [Webbplatser, butiker och vyer](https://docs.magento.com/user-guide/stores/websites-stores-views.html)
-- [Rotkategorier](https://docs.magento.com/user-guide/catalog/category-root.html)
+- [Webbplatser, butiker och vyer - [!DNL Commerce] Starthandbok](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+- [Rotkategori och hierarki - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-root.html)

@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: 33d17977-f02e-492a-ac95-a84f2db3b4d0
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ För att förhindra obehörig åtkomst till dina data måste alla användare som
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.4.0. Mer information om uppdateringar i senare versioner finns i [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) versionsinformation.
+>Innehållet i videon återspeglar version 2.4.0. Mer information om uppdateringar i senare versioner finns i [versionsinformation](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/339104?quality=12&learn=on)
 
 ## Ytterligare resurser
 
-- [Tvåfaktorautentisering - användarhandbok](https://docs.magento.com/user-guide/stores/security-two-factor-authentication.html)
-- [Tvåfaktorautentisering - Utvecklarhandbok](https://devdocs.magento.com/guides/v2.4/security/two-factor-authentication.html)
+- [Tvåfaktorautentisering (2FA) - Handbok för administratörssystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/2fa/security-two-factor-authentication.html)
+- [Konfigurera tvåfaktorsautentisering (2FA) - dokumentation för utvecklare](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)

@@ -7,9 +7,9 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: c678cf95-7bd2-4c16-8df4-46e256a83f2c
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Det finns två alternativ för att skapa rapporter och analyser i MBI: den visue
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.2. Se [Användarhandbok för MBI](https://docs.magento.com/mbi/) för den senaste informationen.
+>Innehållet i videon återspeglar version 2.2. Se [Användarhandbok för MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) för den senaste informationen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35981?quality=12&learn=on)
 
 ## Ytterligare resurser
 
-- [Vilken Report Builder ska jag använda?](https://docs.magento.com/mbi/data-user/reports/report-builder-options.html)
-- [Visual Report Builder](https://docs.magento.com/mbi/data-user/reports/ess-rpt-build-visual.html)
+- [Vilken Report Builder ska jag använda? - Användarhandbok för MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/report-builder-options.html)
+- [Användarhandbok för Visual Report Builder - MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-rpt-build-visual.html)

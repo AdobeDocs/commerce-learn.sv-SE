@@ -9,7 +9,7 @@ level: Beginner
 thumbnail: 36191.jpeg
 activity: use
 exl-id: d9049f03-537a-4e0e-8f17-ad392ac63d84
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%
@@ -31,8 +31,8 @@ I den här videon:
 >Innehållet återspeglar Adobe Commerce och Magento Open Source 2.3.1.
 >
 >- PWA och [PWA Studio](https://developer.adobe.com/commerce/pwa-studio/) finns nu som _headless_ implementering av frontend.
->- Teknikhögen har ändrats i senare versioner av versionslinjen 2.3.x och versionslinjen 2.4.x. Kontrollera [systemkrav](https://devdocs.magento.com/guides/v2.4/install-gde/system-requirements.html) för att vara säker på att du har rätt systemkomponenter.
->- På grund av den förestående nedstängningen av Temando är Magento Shipping inte längre tillgängligt. Detaljerad statusinformation och rekommendationer för nya leveransimplementeringar i Commerce finns i [produktinformationssida](https://magento.com/shipping).
+>- Teknikhögen har ändrats i senare versioner av versionslinjen 2.3.x och versionslinjen 2.4.x. Kontrollera [systemkrav](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/system-requirements.html) för att vara säker på att du har rätt systemkomponenter.
+>- På grund av den förestående nedstängningen av Temando är Magento Shipping inte längre tillgängligt. Detaljerad statusinformation och rekommendationer för nya leveransimplementeringar i Commerce finns i [produktinformationssida](https://business.adobe.com/products/magento/shipping.html).
 
 
 
@@ -40,6 +40,6 @@ I den här videon:
 
 ## Ytterligare resurser
 
-[[!DNL Commerce] arkitektur](https://devdocs.magento.com/guides/v2.4/architecture/bk-architecture.html)
+[[!DNL Commerce] arkitektur](https://developer.adobe.com/commerce/php/architecture/)
 
-[[!DNL Commerce] Utvecklarhandbok för PHP](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/bk-extension-dev-guide.html)
+[[!DNL Commerce] Utvecklarhandbok för PHP](https://developer.adobe.com/commerce/php/development/)

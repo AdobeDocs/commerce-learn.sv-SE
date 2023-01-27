@@ -9,9 +9,9 @@ level: Beginner
 thumbnail: 36193.jpeg
 activity: use
 exl-id: f6c0dcbc-a0ef-43fb-bc38-cc7692c73487
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
@@ -26,10 +26,10 @@ I den här videon:
 
 >[!IMPORTANT]
 >
->Commerce Marketplace innehåller inte längre **Hämta** -knappen. Du måste använda kommandoraden för att installera eller uppgradera tillägg. Se [Allmän CLI-installation](https://devdocs.magento.com/extensions/install/) Mer information finns i utvecklardokumentationen.
+>Commerce Marketplace innehåller inte längre **Hämta** -knappen. Du måste använda kommandoraden för att installera eller uppgradera tillägg. Se [Installera ett tillägg](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/extensions.html) sidan i _Installationshandbok_ för mer information.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36193?quality=12&learn=on)
 
 ## Ytterligare resurser
 
-[[!DNL Commerce] Utvecklarhandbok för PHP](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/bk-extension-dev-guide.html)
+[[!DNL Commerce] Utvecklarhandbok för PHP](https://developer.adobe.com/commerce/php/development/)

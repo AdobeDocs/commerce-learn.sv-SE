@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 53c35861-6ad9-4a22-a3e5-6fa2165c26ca
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,6 @@ I den här videon:
 
 ## Ytterligare resurser
 
-[Webbplatser, butiker och vyer - [!DNL Commerce] användarhandbok](https://docs.magento.com/user-guide/stores/websites-stores-views.html)
+[Webbplatser, butiker och vyer - [!DNL Commerce] Starthandbok](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
 
-[Cachehantering - [!DNL Commerce] användarhandbok](https://docs.magento.com/user-guide/system/cache-management.html)
+[Cachehantering - [!DNL Commerce] Handbok för adminsystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html)

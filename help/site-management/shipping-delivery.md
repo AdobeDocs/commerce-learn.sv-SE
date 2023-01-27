@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: fccbdb7b-2051-490a-a249-3525f96c51ab
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,6 @@ Att hantera leverans- och leveransmetoder är avgörande för att ni ska kunna g
 
 ## Ytterligare resurser
 
-- [Leveransinställningar](https://docs.magento.com/user-guide/shipping/shipping-settings.html)
-- [Grundläggande leveransmetoder](https://docs.magento.com/user-guide/shipping/methods-basic.html)
-- [Transportföretag](https://docs.magento.com/user-guide/shipping/carriers.html)
+- [Leveransinställningar - [!DNL Commerce] Butiks and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html)
+- [Grundläggande leveransmetoder - [!DNL Commerce] Butiks and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html#basic-delivery-methods)
+- [Inställningar för fraktfirma - [!DNL Commerce] Butiks and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html)
