@@ -1,14 +1,14 @@
 ---
 title: Utbyggbarhet utanför processen för Adobe Commerce
 description: Lär dig mer om Adobe App Builder och varför det är en viktig aspekt när det gäller utbyggbarhet utanför processen.
-landing-page-description: Lär dig vad appverktyget är och hur det kan hjälpa dig med Adobe Commerce utvecklingsstrategier.
+landing-page-description: Lär dig vad är App Builder och hur det kan hjälpa dig med Adobe Commerce utvecklingsstrategier.
 kt: 11433
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-01-11T00:00:00Z
-source-git-commit: ef0fa95e776b97ddbaf30e0acd1340e30f12738f
+last-substantial-update: 2023-01-24T00:00:00Z
+source-git-commit: 228891b0e4b56bc2f7d6a3b1dc259b67403ddf51
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 # Utbyggbarhet utanför processen
 
-Adobe Commerce-utveckling har historiskt sett gjorts med samma databas som huvudprogrammet.  Detta kallas pågående.  Den här tekniken är mycket bra och ger utvecklaren en förväntad mekanism för att utöka programmet.  Men det här kommer till ett pris.  Varje gång du lägger till ny kod i kodbasen måste den vara kompatibel med alla uppgraderingar.  Du måste också vara kompatibel med servrarna PHP-version och många andra serverprogram och tjänster som e-handeln kommer att använda.  Adobe Developer App Builder har samma krav på att utöka funktionaliteten, men flyttar den från webbplatsen.  Koden och logiken är helt externa och den här metoden kallas icke-processinriktad.
+Historiskt sett har Adobe Commerce-utveckling använt sig av utökningsmöjligheter i processen, en kraftfull funktion, men i processmodellen krävs att all ny kod är kompatibel med uppgraderingar, serverns PHP-version och många andra viktiga serverprogram och tjänster som används i Commerce. Adobe Developer App Builder använder sig av processintern utökningsbarhet för att undvika dessa kompatibilitetsproblem.
 
 ## App Builder för Adobe Commerce {#project-firefly}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412839)
 
-Adobe Developer App Builder är ett utbyggbart ramverk som utvecklare kan använda för att utöka [!DNL Adobe Commerce] för att tillhandahålla utökningsmöjligheter som inte har bearbetats.
+Adobe Developer App Builder är en serverlös utökningsplattform för att integrera och skapa anpassade upplevelser för att utöka Adobe-lösningar, och den finns nu för Adobe Commerce. Med App Builder kan ni skapa säkra och skalbara appar som utökar de inbyggda funktionerna i Commerce och integreras med lösningar från tredje part. Som utvecklare kan du nu utnyttja utbyggbarhet som inte längre fungerar med Adobe Commerce och som i sin tur ger omedelbara och långsiktiga fördelar.
 
-App Builder erbjuder ett enhetligt ramverk för utbyggbarhet från tredje part för att integrera och skapa anpassade program som utökar [!DNL Adobe Commerce]. Eftersom den här utbyggbarhetsmiljön bygger på Adobe infrastruktur kan utvecklare bygga anpassade mikrotjänster samt bygga ut och integrera [!DNL Adobe Commerce] mellan olika Adobe-lösningar och andra tredjepartsintegreringar.
+App Builder erbjuder ett enhetligt ramverk för utbyggbarhet från tredje part för att integrera och skapa anpassade program som utökar [!DNL Adobe Commerce]. Eftersom den här utbyggbarhetsmiljön bygger på Adobe infrastruktur kan utvecklare skapa anpassade mikrotjänster och utöka och integrera [!DNL Adobe Commerce] i andra Adobe-lösningar och integreringar med tredje part.
 
 Med App Builder kan kunderna utöka [!DNL Adobe Commerce] i olika fall:
 
@@ -36,13 +36,13 @@ App Builder (tidigare Project Fireworks) är en molnbaserad lösning, vilket inn
 
 ## Varför ska du lära dig mer om App Builder?
 
-Eftersom Adobe Commerce inte är en fullständig SAAS-lösning kan koden som du utvecklar eller installerar ge problem med komplexitet och uppgradering. Genom att använda icke-processbaserad utbyggbarhet, t.ex. App Builder, kan du tillhandahålla anpassad, unik funktionalitet till din Adobe Commerce-butik utan att behöva använda processmetoder.
+Eftersom Adobe Commerce inte är en helt SAAS-produkt kan koden som du utvecklar ge problem med komplexitet och uppgradering. Genom att använda icke-processbaserad utbyggbarhet, t.ex. App Builder, kan du tillhandahålla anpassad, unik funktionalitet till din Adobe Commerce-butik utan att behöva använda processmetoder.
 
 Andra fördelar:
 
 * Kopplade funktioner ger snabbare start.
-* Uppgraderingar är nu enklare. De anpassade funktionerna ligger utanför e-handelskodbasen, vilket förhindrar kompatibilitetsproblem vid uppgradering.
-* Genom att flytta funktioner och logik utanför handeln frigörs resurser som normalt används av metoder för utveckling i processen.
+* Uppgraderingar är nu enklare. De anpassade funktionerna ligger utanför Commerce-kodbasen, vilket förhindrar kompatibilitetsproblem vid uppgradering.
+* Genom att flytta funktioner och logik utanför Commerce frigörs resurser som normalt används av metoder för pågående utveckling.
 
 ## Arkitektur {#architecture}
 
@@ -58,6 +58,14 @@ Följande diagram visar hur ett standardprogram som är byggt på App Builder an
 ![Arkitektur](/help/assets/app-builder/firefly-architecture.jpeg)
 
 Mer information om App Builder-arkitekturen finns i [Arkitektur - översikt](https://developer.adobe.com/app-builder/docs/guides/).
+
+## Amazon Sales Channel-tillägg {#amazon-sales-channel-extension}
+
+I följande självstudiekurser visas hur du ansluter Adobe Commerce till Amazon Sales Channel med ett App Builder-tillägg.
+
+* [teknisk översikt App Builder](../app-builder/app-builder-technical-overview.md)
+* [utökningsram](../app-builder/extensibility-framework-commerce-eventing.md)
+* [funktionell demonstration av App Builder](../app-builder/app-builder-functional-demonstration.md)
 
 ## Kom igång med App Builder {#additional-resources}
 
@@ -81,4 +89,3 @@ Vill du börja utveckla? Följande länk innehåller exempelprogram som hjälper
 ## Support {#support}
 
 För supportärenden för utvecklare använder du [Experience League forum](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly) om du behöver hjälp.
-
