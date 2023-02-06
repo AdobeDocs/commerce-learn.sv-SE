@@ -6,17 +6,17 @@ kt: 11740
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-01-24T00:00:00Z
-source-git-commit: 3cff43b65f139a7a247baacc82e92f671ab9117f
+source-git-commit: 336581ac6b695d8b847d88daadeb3784ece97ae7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
 
-# Extensibility Framework och commerce Events
+# Extensibility Framework for App Builder
 
-Om du vill lära dig hur du använder Adobe Commerce med Adobe Developer App Builder kan du titta på följande video som visar hur du använder Commerce-händelser med App Builder. Denna funktionsdemonstration beskriver hur integreringen fungerar och utforskar potentialen i App Builder. Demonstrationen ger en introduktion till utbyggbarhetsramverket, Commerce Eventing, och hur vi använde dessa verktyg för att utveckla Amazon Sales Channel.
+Om du vill lära dig hur du använder Adobe Commerce med Adobe Developer App Builder kan du titta på följande video som visar hur du använder Commerce-händelser med App Builder. Denna funktionsdemonstration beskriver hur integreringen fungerar och utforskar potentialen i App Builder. Den här demonstrationen ger en introduktion till utbyggnadsramverket, Commerce Eventing, och hur det användes för att utveckla tillägget Amazon Sales Channel.
 
 ## App Builder för Adobe Commerce {#app-builder-extensibility}
 

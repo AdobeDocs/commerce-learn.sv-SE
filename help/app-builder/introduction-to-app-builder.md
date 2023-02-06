@@ -6,23 +6,23 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-01-24T00:00:00Z
-source-git-commit: 228891b0e4b56bc2f7d6a3b1dc259b67403ddf51
+source-git-commit: 336581ac6b695d8b847d88daadeb3784ece97ae7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '746'
 ht-degree: 0%
 
 ---
 
 
-# Utbyggbarhet utanför processen
+# Introduktion till App Builder
 
-Historiskt sett har Adobe Commerce-utveckling använt sig av utökningsmöjligheter i processen, en kraftfull funktion, men i processmodellen krävs att all ny kod är kompatibel med uppgraderingar, serverns PHP-version och många andra viktiga serverprogram och tjänster som används i Commerce. Adobe Developer App Builder använder sig av processintern utökningsbarhet för att undvika dessa kompatibilitetsproblem.
+Historiskt sett har Adobe Commerce-utveckling använt processens utökningsmöjligheter. Processmodellen kräver att ny kod är kompatibel med uppgraderingar, serverns PHP-version och många andra viktiga serverprogram och tjänster som används i Commerce. Adobe Developer App Builder använder sig av processintern utökningsbarhet för att undvika dessa kompatibilitetsproblem.
 
 ## App Builder för Adobe Commerce {#project-firefly}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412839)
 
-Adobe Developer App Builder är en serverlös utökningsplattform för att integrera och skapa anpassade upplevelser för att utöka Adobe-lösningar, och den finns nu för Adobe Commerce. Med App Builder kan ni skapa säkra och skalbara appar som utökar de inbyggda funktionerna i Commerce och integreras med lösningar från tredje part. Som utvecklare kan du nu utnyttja utbyggbarhet som inte längre fungerar med Adobe Commerce och som i sin tur ger omedelbara och långsiktiga fördelar.
+Adobe Developer App Builder är en serverlös utökningsplattform för att integrera och skapa anpassade upplevelser för att utöka Adobe-lösningar, och den finns nu för Adobe Commerce. Med App Builder kan ni skapa säkra och skalbara appar som utökar de inbyggda funktionerna i Commerce och integreras med lösningar från tredje part. Som utvecklare kan du nu utnyttja Adobe Commerce utbyggbarhet som inte längre fungerar och som i sin tur ger omedelbara och långsiktiga fördelar.
 
 App Builder erbjuder ett enhetligt ramverk för utbyggbarhet från tredje part för att integrera och skapa anpassade program som utökar [!DNL Adobe Commerce]. Eftersom den här utbyggbarhetsmiljön bygger på Adobe infrastruktur kan utvecklare skapa anpassade mikrotjänster och utöka och integrera [!DNL Adobe Commerce] i andra Adobe-lösningar och integreringar med tredje part.
 
