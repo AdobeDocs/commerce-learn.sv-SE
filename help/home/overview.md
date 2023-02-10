@@ -3,9 +3,9 @@ title: '''[!DNL Commerce] Videor och Tutorials'
 description: En samling videor och självstudiekurser för Adobe Commerce och Magento Open Source
 last-substantial-update: 2023-01-19T00:00:00Z
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: f36aa9dd69ce107b1dd9afb66b976391a1ff7ece
+source-git-commit: 5cdc7c15eb792879e66cda39abafcbbd61d807dc
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,8 @@ Välkommen till [!DNL Commerce] videor och självstudiekurser. Använd dessa res
 
 ## Nyheter
 
+- [Adobe Developer App Builder](../app-builder/introduction-to-app-builder.md)
+- [Kom igång med API Mesh](../api-mesh/getting-started-api-mesh.md)
 - [Introduktion till GraphQL](../graphql-rest/intro-graphql.md)
 - [Hitta en skadlig IP-adress](../new-relic/malicious-ip.md)
 

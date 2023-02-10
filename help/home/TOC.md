@@ -2,7 +2,7 @@
 user-guide-title: Videor och Tutorials
 user-guide-description: Läs om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och Tutorials
-source-git-commit: 10f2a00922ccb9582081852885ef63e5cf297482
+source-git-commit: 5cdc7c15eb792879e66cda39abafcbbd61d807dc
 workflow-type: tm+mt
 source-wordcount: '573'
 ht-degree: 0%
@@ -67,10 +67,10 @@ ht-degree: 0%
    + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Funktionell demonstration för App Builder](../app-builder/app-builder-functional-demonstration.md)
    + [Teknisk översikt för App Builder](../app-builder/app-builder-technical-overview.md)
-   + [API-nätsjälvstudiekurser](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/installing-aio-mesh-plugin.html)
+   + [API-nätsjälvstudiekurser](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/getting-started-api-mesh.html)
 
 + API-nät {#api-mesh}
-   + [API-nätsjälvstudiekurser](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/installing-aio-mesh-plugin.html)
+   + [API-nätsjälvstudiekurser](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/getting-started-api-mesh.html)
 
 + Butiksadministration {#admin}
    + [Hantera användarroller och behörigheter](../site-management/users-roles-permissions.md)
