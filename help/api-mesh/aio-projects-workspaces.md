@@ -6,9 +6,9 @@ kt: 11803
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b6d501c5c852e1cc2cf1f05f91b5a9d96ac7d036
+source-git-commit: 2cf7eb4d04f874ec42ca5f6d58ec841680376a41
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -16,30 +16,31 @@ ht-degree: 0%
 
 # Arbeta med projekt och arbetsytor
 
-Viss grundläggande information som kan vara till hjälp när du skapar ett projekt och en arbetsyta. Det mesta av ditt användargränssnitt fungerar i [Adobe Developer-konsol](https://developer.adobe.com/console).
+I den här självstudien beskrivs hur du skapar ett projekt och en arbetsyta som innehåller ditt nät. Det här arbetet sker huvudsakligen i [Adobe Developer-konsol](https://developer.adobe.com/console) Gränssnitt.
 
 ## Vem är den här videon till?
 
-* Utvecklare som skapar en enda API-slutpunkt med Adobe App Builder genom att använda en arbetsyta som består av flera källor eller bara proxies i en källa
+* Utvecklare som har tillgång till ett Adobe Developer Console-konto och vill skapa ett projekt och en arbetsyta.
 
 ## Videoinnehåll
 
 * Arbeta med projekt och arbetsytor i Adobe Developer Console
 * Lägga till API-nät på arbetsytan i Adobe Developer Console
-* Logga in med Adobe Developer-konsolen
-* Visa projekt och arbetsyta från Adobe Developer kommandorad
-* Ändra organisation om du är inloggad på fel
-* Markera och ansluta till ett Adobe Developer-projekt och en arbetsyta från Adobe Developer kommandorad
-* Testa grundläggande API-nätkommandon
+* Logga in på Adobe Developer-konsolen i CLI
+* Visa det valda projektet och arbetsytan i CLI
+* Ändra vald organisation, projekt eller arbetsyta i CLI
+* Testa enkla API Mesh-kommandon
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414123/)
 
-## Läs om Adobe Developer Console
+## Läs mer om Adobe Developer Console
 
-Det finns flera aspekter av Adobe Developer Console som du bör känna till, till exempel projekt, arbetsytor och organisationer. Mer information om Adobe App Builder, hur du loggar in på konsolen och lite grundläggande felsökning finns på [Skapa ditt första App Builder-program](https://developer.adobe.com/app-builder/docs/getting_started/first_app/).
+I Adobe Developer Console visar följande hierarki hur dina API:er passar in i din organisation: `Organization > Project > Workspace > [API]`. Mer information om Adobe App Builder, inloggning på konsolen och grundläggande felsökning finns på [Skapa ditt första App Builder-program](https://developer.adobe.com/app-builder/docs/getting_started/first_app/).
 
 ## Introduktion till projekt i Adobe Developer Console
 
-Allt utvecklingsarbete i Adobe Developer Console görs som en del av ett projekt. Ett projekt kan innehålla en eller flera produkter och en kombination av API:er, händelser, körningsmiljöer och plugin-program. Mer information om projekt i Adobe Developer Console finns på [Översikt över projekt](https://developer.adobe.com/developer-console/docs/guides/projects/).
+Allt utvecklingsarbete i Adobe Developer Console görs som en del av ett projekt. Ett projekt kan innehålla en eller flera produkter och en kombination av API:er, händelser, körningsmiljöer och plugin-program. Mer information om projekt i Adobe Developer Console finns på [Projekt](https://developer.adobe.com/developer-console/docs/guides/projects/).
+
+Mer information om hur du använder projekt och arbetsytor i samband med API-nät finns i [Ändra projekt och arbetsytor](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#modify-projects-and-workspaces).
 
 {{$include /help/_includes/api-mesh-related-links.md}}

@@ -1,39 +1,48 @@
 ---
-title: Installerar kommandoradsgränssnitt för Adobe Developer IO och API Mesh-plugin
-description: Upptäck hur du installerar kommandoradsgränssnittet för Adobe Developer IO och API Mesh-plugin
-landing-page-description: Upptäck hur du använder Adobe App Builder och installerar Adobe Developer IO med API Mesh-plugin.
+title: Installera Adobe I/O Runtime kommandoradsgränssnitt och API Mesh-plugin
+description: Upptäck hur du installerar Adobe I/O Runtime kommandoradsgränssnitt och API Mesh-plugin
+landing-page-description: Upptäck hur du använder Adobe App Builder och installerar Adobe I/O Runtime med API Mesh-plugin.
 kt: 11801
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b6d501c5c852e1cc2cf1f05f91b5a9d96ac7d036
+source-git-commit: a6fb3810f34246df73ae5557240eaaa0f4407eb1
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
 
-# Installerar Adobe Developer IO- och Mesh-plugin
+# Installera Adobe I/O Runtime CLI- och Mesh-plugin
 
-Innan du börjar finns det några saker som behöver konfigureras. Först Adobe Developer IO kommandoradsgränssnitt. Kontrollera sedan att API Mesh-plugin-programmet är konfigurerat i varje miljö.
-Instruktioner om hur du konfigurerar din lokala miljö för att köra Node, nvm och installera Adobe Developer IO finns på [Komma igång med GraphQL Mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/).
+Innan du börjar använda API Mesh för Adobe Developer App Builder måste du installera `aio` CLI och API Mesh-plugin.
+Installationsanvisningar och krav finns på API Mesh [Komma igång](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/) sida.
 
 ## Vem är den här videon till?
 
-* Utvecklare som är nybörjare i Adobe App Builder eller [!DNL Magento Open Source] med begränsad erfarenhet av Adobe Developer IO och API Mesh.
+* Utvecklare som är nya för API Mesh eller [!DNL Adobe Commerce] med begränsad erfarenhet [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/) och API Mesh.
 
 ## Videoinnehåll
 
 * Introduktion till API-nät
-* Installera kommandoradsgränssnittet för Adobe Developer IO
-* Lägga till API Mesh-plugin-programmet på AIO-kommandoraden
+* Installera Adobe I/O Runtime CLI (kommandoradsgränssnitt)
+* Installera API Mesh-plugin
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414122/)
 
-## Exempelkommandon med NPM och AIO
+## Installera `aio` CLI- och API Mesh-plugin
 
-Det är ganska enkelt att installera Adobe Developer kommandoradsgränssnitt. Kör det här kommandot när du har installerat Node `npm install -g @adobe/aio-cli`
-När Adobe Developer-klippet har installerats går det att installera plugin-programmet för nät. Du gör detta genom att köra det här kommandot `aio plugins:install @adobe/aio-cli-plugin-api-mesh`
+Efter installation `node` och `npm`kör du följande kommando för att installera `aio` CLI:
+
+```bash
+npm install -g @adobe/aio-cli
+```
+
+När Adobe I/O Runtime CLI är installerat använder du följande kommando för att installera API Mesh-pluginen:
+
+```bash
+aio plugins:install @adobe/aio-cli-plugin-api-mesh
+```
 
 {{$include /help/_includes/api-mesh-related-links.md}}

@@ -1,36 +1,35 @@
 ---
 title: Kom igång med API Mesh
-description: Upptäck hur du använder API Mesh på Adobe Commerce och [!DNL Adobe App Builder]. Lär dig hur du installerar Adobe Developer, arbetar med projekt, skapar en grafisk omvänd proxy och mycket annat.
+description: Upptäck hur du använder API Mesh på Adobe Commerce och [!DNL Adobe App Builder]. Lär dig hur du installerar Adobe App Builder, arbetar med projekt, skapar en omvänd grafisk proxy och mycket mer.
 landing-page-description: Upptäck hur du använder API Mesh på Adobe Commerce och [!DNL Adobe App Builder]. Lär dig hur du installerar Adobe IO, arbetar med projekt, skapar en grafisk omvänd proxy och mycket mer.
 kt: 11802
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b6d501c5c852e1cc2cf1f05f91b5a9d96ac7d036
+source-git-commit: b3d5b22a597b342df6bf9846346d656dd4ce1383
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
 
 # Kom igång med API Mesh
 
-Om du inte har använt API Mesh tidigare rekommenderar Adobe att du börjar med den här introduktionskursen innan du går in på de medföljande videorna och självstudiekurserna.
+Om du inte har använt API Mesh för Adobe Developer App Builder tidigare rekommenderar Adobe att du börjar med den här introduktionskursen innan du går vidare till de andra videoklippen och självstudiekurserna.
 
 ## Vad är API Mesh?
 
-Med API Mesh kan flera datakällor användas för att ge ett enda svar som e-handelsprogrammet kan använda.
+API Mesh kombinerar flera datakällor för att få ett enda svar som programmet kan använda.
 
 [Visa den fullständiga dokumentationen för API Mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/)
 
 ## Exempel på användningsområden
 
-Serverdelssystemet för ditt Commerce-program har ett REST API som du kan använda för att få specialpriser. Ett annat serverdelssystem som har en GraphQL-slutpunkt hanterar lagerstatus. Med API Mesh kan du definiera båda slutpunkterna, hämta informationen och returnera den till det begärande programmet som ett svar.
+Ditt Commerce-program har en REST API och en GraphQL-slutpunkt. Du kan till exempel använda REST API för att tillämpa specialpriser eller GraphQL-slutpunkten för att hantera lagerstatus. Med API Mesh kan du definiera båda slutpunkterna, hämta informationen och returnera den till det begärande programmet som ett svar.
 
 ## Vad är en omvänd proxy?
 
-Som utvecklare som använder Adobe App Builder och GraphQL Mesh behöver du inte förstå vad en omvänd proxy är. Du kanske är intresserad av den övergripande funktionaliteten som den gäller för Adobe App Builder. Det finns många goda resurser på Internet.
-Här finns några externa resurser för mer information om grundläggande funktioner för en omvänd proxy:
+Som utvecklare som använder Adobe App Builder och API Mesh behöver du inte förstå vad en omvänd proxy är. Om du är intresserad av den övergripande funktionaliteten som den gäller för Adobe App Builder använder du följande resurser:
 
 * [Vad är en omvänd proxy?](https://www.imperva.com/learn/performance/reverse-proxy/)
 * [Vad är en omvänd proxy och varför är det viktigt?](https://blog.hubspot.com/website/reverse-proxy)

@@ -1,42 +1,38 @@
 ---
 title: Skapa en GraphQL med flera källor som ska användas i API-nät
 description: Upptäck hur du kan använda flera källor för API Mesh på Adobe Commerce och [!DNL Adobe App Builder]. Lär dig mer om några vanliga fel och hur du löser dem.
-landing-page-description: Upptäck hur du använder API Mesh på Adobe Commerce och [!DNL Adobe App Builder]. Lär dig hur du skapar en begäran som har flera källor och hur du löser några vanliga fel.
+landing-page-description: Upptäck hur du använder API Mesh på Adobe Commerce och [!DNL Adobe App Builder]. Lär dig hur du skapar ett nät som har flera källor och hur du löser några vanliga fel.
 kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b6d501c5c852e1cc2cf1f05f91b5a9d96ac7d036
+source-git-commit: b3d5b22a597b342df6bf9846346d656dd4ce1383
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-# Skapa GraphQL API-nät med flera källor
+# Skapa ett nät med flera källor
 
-Videon hjälper en utvecklare att förstå hur man skapar en omvänd GraphQL-proxy med flera olika källor. I den här videon visas hur du sammanfogar olika källor, identifierar fel och sparar Git-ändringar. Grundläggande kodexempel som användes i videon finns på [Skapa ett nät](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
+Den här videon hjälper utvecklare att förstå hur man skapar ett nät med flera källor i API Mesh för Adobe Developer App Builder. I den här videon visas hur du skapar ett nät med flera källor och identifierar fel. Mer information och kodexempel finns på [Skapa ett nät](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
 
 ## Vem är den här videon till?
 
 * Alla som är nybörjare i API-nät
-* Utvecklare som är intresserade av att använda flera olika grafikkällor
-* Alla som behöver veta hur man filtrerar nätverksfliken och filtrerar efter grafer
+* Utvecklare som är intresserade av att kombinera flera API- och GraphQL-källor
 
 ## Videoinnehåll
 
-* Hur komplexa API-scheman för anpassade attribut från en annan källa kan åsidosätta standardkällschemat
-* Ändra nätkonfigurationen för API så att den tar hänsyn till det andra åsidosättande schemat
-* Felsöka fel som kan uppstå under processen, t.ex. namnkonflikt, schematillgänglighet och annan SDL-syntax
-* Exempel på vanliga fel efter försök att fästa scheman
-* Återskapa API-nätet efter redigeringar
-* Spara ändringar i Git efter att API Mesh-konfigurationen har ändrats
+* Så här använder du [omformningar](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/) för att ändra standardkällschemat
+* Felsöka fel som namnkonflikter, schematillgänglighet och andra schemasyntaxproblem
+* Uppdatera ditt nät med en ändrad konfiguration
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414125)
 
 ## Skapa JSON-konfigurationsfilen
 
-Om du vill att Adobe App Builder ska känna till alla dina källor definierar du dem i en JSON-konfiguration. Varje källa är ett element i en array och du kan ha en eller flera. Här är ett exempel på en begäran om flera källor som sammanfogas för att bilda ett enda svar.
+API Mesh använder en JSON-konfigurationsfil för att definiera dina källhanterare. JSON-filen innehåller en `sources` -array som innehåller källor för ditt nät. Här är ett exempel på ett nät med flera källor.
 
 ```json
 {
@@ -51,7 +47,7 @@ Om du vill att Adobe App Builder ska känna till alla dina källor definierar du
         }
       },
       {
-        "name": "ERP",
+        "name": "Example",
         "handler": {
           "graphql": {
             "endpoint": "https://www.example.com/graphql/"
