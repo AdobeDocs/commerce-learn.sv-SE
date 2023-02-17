@@ -2,9 +2,9 @@
 user-guide-title: Videor och Tutorials
 user-guide-description: Läs om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och Tutorials
-source-git-commit: 5cdc7c15eb792879e66cda39abafcbbd61d807dc
+source-git-commit: d26282acb27a09344197f393ed2fe465afda022a
 workflow-type: tm+mt
-source-wordcount: '573'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -67,10 +67,13 @@ ht-degree: 0%
    + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Funktionell demonstration för App Builder](../app-builder/app-builder-functional-demonstration.md)
    + [Teknisk översikt för App Builder](../app-builder/app-builder-technical-overview.md)
-   + [API-nätsjälvstudiekurser](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/getting-started-api-mesh.html)
 
 + API-nät {#api-mesh}
-   + [API-nätsjälvstudiekurser](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/getting-started-api-mesh.html)
+   + [Kom igång med API Mesh](../api-mesh/getting-started-api-mesh.md)
+   + [Installera Adobe IO och nät-plugin](../api-mesh/installing-aio-mesh-plugin.md)
+   + [Arbeta med projekt och arbetsytor](../api-mesh/aio-projects-workspaces.md)
+   + [Skapa GraphQL API-nät med en källa](../api-mesh/graphql-single-source.md)
+   + [Skapa GraphQL API-nät med flera källor](../api-mesh/graphql-multiple-source.md)
 
 + Butiksadministration {#admin}
    + [Hantera användarroller och behörigheter](../site-management/users-roles-permissions.md)
