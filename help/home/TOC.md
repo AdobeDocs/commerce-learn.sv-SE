@@ -2,7 +2,7 @@
 user-guide-title: Videor och Tutorials
 user-guide-description: Läs om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och Tutorials
-source-git-commit: 894accd205cdaa796405d979e324ec4d19f65c51
+source-git-commit: afd88a8996e941e9e6c00ef86d960318b8dcaee6
 workflow-type: tm+mt
 source-wordcount: '610'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
       + [5.2 - Deklarativt schema](../backend-development/backend-5-2-declarative-schema.md)
       + [5.3 - Routning](../backend-development/backend-5-3-routing.md)
       + [5.4 - Skapa en [!DNL Admin] Sida](../backend-development/backend-5-4-admin-page.md)
-   + [6 - övningar](../backend-development/backend-6-practice.md)
+      + [6 - övningar](../backend-development/backend-6-practice.md)
    + [!DNL Commerce] för företagsanvändare {#merchants}
       + [1.1 - [!DNL Admin] Menyer](../site-management/introduction/1-1-menus.md)
       + [1.2 - Datarutnät](../site-management/introduction/1-2-data-grids.md)
