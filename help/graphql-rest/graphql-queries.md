@@ -7,9 +7,9 @@ doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
-source-git-commit: ef3dd7aaa409d9c1bc30d3d9c225966d8c1ace9e
+source-git-commit: 0fa7ba038f542172c47bea859f8712759fcc52f7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '914'
 ht-degree: 0%
 
 ---
@@ -105,7 +105,7 @@ Ett trovärdigt svar från en GraphQL-server på ovanstående fråga kan vara:
 }
 ```
 
-Ovanstående exempel bygger på det färdiga GraphQL-schemat för Magento som definierats på servern. I den här begäran frågar du flera typer av data samtidigt. Frågan uttrycker exakt de fält som du vill ha och returnerade data formateras på liknande sätt som själva frågan.
+Exemplet ovan bygger på det färdiga GraphQL-schemat för Adobe Commerce som definierats på servern. I den här begäran frågar du flera typer av data samtidigt. Frågan uttrycker exakt de fält som du vill ha och returnerade data formateras på liknande sätt som själva frågan.
 
 >[!NOTE]
 >
@@ -114,28 +114,28 @@ Ovanstående exempel bygger på det färdiga GraphQL-schemat för Magento som de
 
 ## Frågar efter det du vill ha
 
-`country` och `categories` i exemplet representerar två olika&quot;frågor&quot; för två olika typer av data. Till skillnad från en traditionell API-paradigm som REST, som skulle definiera separata och explicita slutpunkter för varje datatyp, ger GraphQL flexibilitet att fråga en enda slutpunkt med ett uttryck som kan hämta många typer av data samtidigt.
+`country` och `categories` i exemplet representerar två olika&quot;frågor&quot; för två olika typer av data. Till skillnad från en traditionell API-paradigm som REST, som skulle definiera separata och explicita slutpunkter för varje datatyp. GraphQL ger dig flexibilitet att fråga efter en enda slutpunkt med ett uttryck som kan hämta många typer av data samtidigt.
 
-På samma sätt anger frågan exakt vilka fält som ska användas för båda `country` (`id` och `full_name_english`) och `categories` (`items`, som i sin tur har en delmarkering av fält), och de data som du tar emot speglar den fältspecifikationen. Det finns förmodligen många fler fält tillgängliga för dessa datatyper, men du kommer bara tillbaka det du begärde.
+På samma sätt anger frågan exakt vilka fält som ska användas för båda `country` (`id` och `full_name_english`) och `categories` (`items`, som i sin tur har ett delurval av fält) och de data som du tar emot speglar fältspecifikationen. Det finns förmodligen många fler fält tillgängliga för dessa datatyper, men du kommer bara tillbaka det du begärde.
 
 
 >[!NOTE]
 >
->Du kan lägga märke till att returvärdet för `items` är faktiskt en _array_ av värden, men du väljer ändå delfält direkt för det. När ett fälts typ är en lista förstår GraphQL undermarkeringar som ska tillämpas på varje objekt i listan.
+>Du kan lägga märke till att returvärdet för `items` är faktiskt en _array_ av värden, men du väljer ändå delfält direkt för den. När fälttypen är en lista förstår GraphQL undermarkeringar som ska användas på varje objekt i listan.
 
 ## Argument
 
 De fält som du vill returnera anges inom klammerparenteserna för varje typ, men namngivna argument och värden för dem anges inom parenteser efter typnamnet. Argument är ofta valfria och påverkar ofta hur frågeresultaten filtreras, formateras eller omformas.
 
-Du skickar en `id` argument till `country`, och specificera vilket land vi vill fråga, och `filters` argument för `categories`.
+Du skickar en `id` argument till `country`, och specificera vilket land som ska frågas, och `filters` argument för `categories`.
 
 ## Fält hela vägen ned
 
 Medan du kanske tänker på `country` och `categories` som separata frågor eller entiteter består hela trädet som uttrycks i frågan i själva verket bara av fält. Uttrycket för `products` är syntaktiskt lika med `categories`. Båda är fält och det är ingen skillnad på deras konstruktion.
 
-Alla GraphQL-datagrafer har en enda &quot;rottyp&quot; (kallas vanligtvis `Query`) för att starta trädet, och de typer som ofta betraktas som entiteter tilldelas helt enkelt fält i den här roten. Vår exempelfråga skapar en allmän fråga för rottypen och väljer fälten `country` och `categories`. Sedan väljer man delfält för dessa fält, och så vidare, som kan vara flera nivåer djupa. Om returtypen för ett fält är en komplex typ (till exempel en med egna fält i stället för en skalär typ) fortsätter du att markera de fält du vill ha.
+Alla GraphQL-datagrafer har en enda &quot;rottyp&quot; (kallas vanligtvis `Query`) för att starta trädet, och de typer som ofta betraktas som entiteter tilldelas till fält i den här roten. Exempelfrågan skapar en allmän fråga för rottypen och markerar fälten `country` och `categories`. Sedan väljs delfält för dessa fält, och så vidare, som kan vara flera nivåer djupa. Om returtypen för ett fält är en komplex typ (till exempel en med egna fält i stället för en skalär typ) fortsätter du att markera de fält du vill ha.
 
-Det här konceptet med kapslade fält är också anledningen till att du kan skicka argument för `products` (`pageSize` och `currentPage`) på samma sätt som du gjorde för den översta nivån `categories` fält.
+Det här konceptet med kapslade fält är också anledningen till att du kan skicka argument för `products` (`pageSize` och `currentPage`) på samma sätt som du gjorde på den översta nivån `categories` fält.
 
 ![GraphQL Field Tree](../assets/graphql-field-tree.png)
 
@@ -169,7 +169,7 @@ Det första att notera är det nya nyckelordet `query` före frågans inledande 
 
 I föregående fråga får du hårdkodade värden för argumenten i fälten direkt, som strängar eller heltal. GraphQL-specifikationen har dock förstklassigt stöd för att separera användarindata från huvudfrågan med hjälp av variabler.
 
-I den nya frågan använder du parenteser före den inledande klammerparentesen för hela frågan för att definiera en `$search` variabel (variabeln använder alltid dollartecknets prefixsyntax), och det är variabeln som anges för `search` argument för `products`.
+I den nya frågan använder du parenteser före den inledande klammerparentesen för hela frågan för att definiera en `$search` variabel (variabeln använder alltid dollartecknets prefixsyntax). Det är den här variabeln som tillhandahålls till `search` argument för `products`.
 
 När en fråga innehåller variabler förväntas GraphQL-begäran innehålla en separat JSON-kodad värdesordlista bredvid själva frågan. För frågan ovan kan du skicka följande JSON med variabelvärden förutom frågetexten:
 
@@ -181,7 +181,7 @@ När en fråga innehåller variabler förväntas GraphQL-begäran innehålla en 
 
 >[!NOTE]
 >
->Om du testar de här frågorna mot exempelwebbplatsen för Venia i stället för mot din egen Magento-instans, kommer du troligen inte att få tillbaka några resultat för `related_products`.
+>Om du testar de här frågorna mot exempelwebbplatsen för Venia i stället för mot din egen Adobe Commerce-instans är de returnerade resultaten antagligen tomma för `related_products`.
 
 I alla GraphQL-kompatibla klienter som du använder för testning (till exempel Altair och GraphiQL), stöder användargränssnittet att du anger variablerna JSON separat från frågan.
 

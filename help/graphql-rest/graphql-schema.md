@@ -7,16 +7,16 @@ doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
-source-git-commit: ef3dd7aaa409d9c1bc30d3d9c225966d8c1ace9e
+source-git-commit: 0fa7ba038f542172c47bea859f8712759fcc52f7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
 
 # Schema-språk
 
-Frågorna och mutationerna som vi har arbetat med är beroende av att ett specifikt datagraf implementeras på servern, som används och används av GraphQL för att lösa frågan. GraphQL-specifikationen definierar ett agnostiskt språk för att uttrycka datagrafens typer och relationer.
+De frågor och mutationer som används är beroende av att ett specifikt datagraf implementeras på servern, som används och används av GraphQL för att lösa frågan. GraphQL-specifikationen definierar ett agnostiskt språk för att uttrycka datagrafens typer och relationer.
 
 Här är ett förkortat typschema som stöder de frågor och mutationer du har tittat på hittills:
 
@@ -98,6 +98,6 @@ Syntaxen `[CartItemInput!]!` i slutänden är den ganska intuitiv. The `!` _inut
 
 >[!NOTE]
 >
->Logiken för hur data hämtas och formateras enligt ett schema, och hur sådan logik mappas till särskilda typer, är upp till implementeringen av GraphQL runtime. Implementeringar bör dock följa ett konceptuellt flöde som är begripligt med tanke på vår förståelse för kapslade fält: En lösningsåtgärd som är associerad med roten `Query` eller `Mutation` typ utförs, som undersöker varje fält som anges i begäran. För varje fält som tolkas till en komplex typ utförs en liknande matchning för den typen, och så vidare, tills allt har lösts in i skalära värden.
+>Logiken för hur data hämtas och formateras enligt ett schema, och hur sådan logik mappas till särskilda typer, är upp till implementeringen av GraphQL runtime. Implementeringar bör dock följa ett konceptuellt flöde som är rimligt mot bakgrund av en förståelse kring kapslade fält: En lösningsåtgärd som är associerad med roten `Query` eller `Mutation` typ utförs, som undersöker varje fält som anges i begäran. För varje fält som tolkas till en komplex typ utförs en liknande matchning för den typen, och så vidare, tills allt har lösts in i skalära värden.
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

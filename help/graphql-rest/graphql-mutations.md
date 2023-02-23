@@ -7,9 +7,9 @@ doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
-source-git-commit: a92537cdb2538743042e136467b389bbe49178fe
+source-git-commit: 0fa7ba038f542172c47bea859f8712759fcc52f7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -82,9 +82,9 @@ Det viktigaste att notera är att med det ovanstående exemplet är det, föruto
 * Ett godtyckligt åtgärdsnamn (`doAddToCart`)
 * En lista med variabler (till exempel `$cartId`)
 * Ett inledande fält (`addProductsToCart`) med argument (till exempel `cartId`, ställs in på värdet för `$cartId`) inom parentes
-* En delmarkering av fält inom klammerparentes
+* En delmarkering av fält inom klammerparenteser
 
-Med hjälp av delmarkeringen av fält kan du på ett flexibelt sätt definiera de fält som du vill returnera (från den typ som tilldelats som returvärde för `addProductsToCart` - `AddProductsToCartOutput`) när mutationen är klar.
+Med fältdelmarkeringen kan du på ett flexibelt sätt definiera de fält som du vill returnera (från den typ som tilldelats som returvärde för `addProductsToCart` - `AddProductsToCartOutput`) när mutationen är klar.
 
 Som tidigare nämnts startar fält som definieras i ett GraphQL-schema på en rottyp för frågor (kallas vanligtvis `Query`). På samma sätt finns det en annan rottyp för mutationer (kallas vanligtvis `Mutation`). `addProductsToCart` är ett fält i den rottypen.
 
