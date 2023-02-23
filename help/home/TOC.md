@@ -2,9 +2,9 @@
 user-guide-title: Videor och Tutorials
 user-guide-description: Läs om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och Tutorials
-source-git-commit: d26282acb27a09344197f393ed2fe465afda022a
+source-git-commit: 894accd205cdaa796405d979e324ec4d19f65c51
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
       + [5.2 - Deklarativt schema](../backend-development/backend-5-2-declarative-schema.md)
       + [5.3 - Routning](../backend-development/backend-5-3-routing.md)
       + [5.4 - Skapa en [!DNL Admin] Sida](../backend-development/backend-5-4-admin-page.md)
-      + [6 - övningar](../backend-development/backend-6-practice.md)
+   + [6 - övningar](../backend-development/backend-6-practice.md)
    + [!DNL Commerce] för företagsanvändare {#merchants}
       + [1.1 - [!DNL Admin] Menyer](../site-management/introduction/1-1-menus.md)
       + [1.2 - Datarutnät](../site-management/introduction/1-2-data-grids.md)
@@ -56,25 +56,30 @@ ht-degree: 0%
       + [5.2 - Kundhantering](../site-management/introduction/5-2-customer-management.md)
       + [5.3 - E-postkommunikation](../site-management/introduction/5-3-store-communications.md)
       + [5.4 - Global referensarkitektur](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/architecture/global-reference.html)
-
-
-
 + GraphQL och REST {#graphql-rest}
-   + [Introduktion till GraphQL](https://experienceleague.adobe.com/docs/commerce-learn/graphql-rest/getting-started-graphql.html)
-
+   + [Kom igång med GraphQL](../graphql-rest/getting-started-graphql.md)
+   + [Grundläggande om GraphQL](../graphql-rest/intro-graphql.md)
+   + [Frågor](../graphql-rest/graphql-queries.md)
+   + [Mutationer](../graphql-rest/graphql-mutations.md)
+   + [Schema](../graphql-rest/graphql-schema.md)
 + Adobe Developer App Builder {#adobe-developer-app-builder}
    + [Introduktion till App Builder](../app-builder/introduction-to-app-builder.md)
    + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Funktionell demonstration för App Builder](../app-builder/app-builder-functional-demonstration.md)
    + [Teknisk översikt för App Builder](../app-builder/app-builder-technical-overview.md)
-
-+ API-nät {#api-mesh}
-   + [Kom igång med API Mesh](../api-mesh/getting-started-api-mesh.md)
-   + [Installera Adobe IO och nät-plugin](../api-mesh/installing-aio-mesh-plugin.md)
-   + [Arbeta med projekt och arbetsytor](../api-mesh/aio-projects-workspaces.md)
-   + [Skapa GraphQL API-nät med en källa](../api-mesh/graphql-single-source.md)
-   + [Skapa GraphQL API-nät med flera källor](../api-mesh/graphql-multiple-source.md)
-
+   + IO-händelser för Adobe Commerce {#io-events}
+      + [Installation av Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
+      + [Installation av Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
+      + [Skapa ett App Builder-projekt](../io-events/create-app-builder-project.md)
+      + [Konfigurera Adobe Commerce](../io-events/configure-commerce.md)
+      + [Utveckling av modulen Adobe Commerce](../io-events/commerce-module-development.md)
+      + [Adobe Commerce villkorsstyrda evenemang](../io-events/conditional-events.md)
+   + API-nät {#api-mesh}
+      + [Kom igång med API Mesh](../api-mesh/getting-started-api-mesh.md)
+      + [Installera Adobe IO och nät-plugin](../api-mesh/installing-aio-mesh-plugin.md)
+      + [Arbeta med projekt och arbetsytor](../api-mesh/aio-projects-workspaces.md)
+      + [Skapa GraphQL API-nät med en källa](../api-mesh/graphql-single-source.md)
+      + [Skapa GraphQL API-nät med flera källor](../api-mesh/graphql-multiple-source.md)
 + Butiksadministration {#admin}
    + [Hantera användarroller och behörigheter](../site-management/users-roles-permissions.md)
    + [Autentisering med två faktorer](../site-management/two-factor-authentication.md)
@@ -84,14 +89,11 @@ ht-degree: 0%
    + [Inställningar för butikskarta](../site-management/site-map-setup.md)
    + [Leveranssätt](../site-management/shipping-delivery.md)
    + [Använd betaltjänster](../site-management/payment-services.md)
-
-
 + Kundhantering {#customers}
    + [Skapa kundsegment](../site-management/customer-segments.md)
    + [Skapa kundgrupper](../site-management/customer-groups.md)
    + [Skapa kundattribut](../site-management/customer-attributes.md)
    + [Säljassisterade inköp](../site-management/seller-assisted-shopping.md)
-
 + Kataloghantering {#catalog}
    + [Katalogtjänst för Adobe Commerce](../site-management/catalog-service.md)
    + [Skapa en kategori](../site-management/category-create.md)
@@ -101,7 +103,6 @@ ht-degree: 0%
    + [Använd produktattribut med PWA Studio](../site-management/product-attributes-pwa.md)
    + [Hantera SEO-metadata](../site-management/seo-metadata.md)
    + [Hantera URL-återskrivningar för SEO](../site-management/seo-url-rewrites.md)
-
 + Innehållshantering {#content}
    + [Page Builder - översikt](../site-management/page-builder-overview.md)
    + [Skapa statiska och dynamiska block](../site-management/static-dynamic-blocks.md)
@@ -109,7 +110,6 @@ ht-degree: 0%
    + [Använd innehållsmallar](../site-management/content-templates.md)
    + [Innehållsmellanlagring](../site-management/content-staging.md)
    + [Hantera mediegalleriet](../site-management/media-gallery.md)
-
 + Marknadsföringsverktyg {#marketing}
    + [Skapa katalogprisregler](../site-management/catalog-price-rules.md)
    + [Skapa kundprisregler](../site-management/cart-price-rules.md)
@@ -117,24 +117,20 @@ ht-degree: 0%
    + [Konfigurera Recommendations](../site-management/product-recommendations.md)
    + [Introduktion till Live Search](../site-management/live-search.md)
    + [Live Search - rekommendationer](../site-management/live-search-recommendations.md)
-
 + Beställningar och orderhantering {#orders}
    + [Butiksuppfyllelse - översikt](../site-management/store-fulfillment.md)
    + [Hantera orderstatus](../site-management/order-status.md)
-
 + B2B för Adobe Commerce {#b2b}
    + [Hantera företagskonton](../b2b/company-accounts.md)
    + [Hantera delade kataloger](../b2b/shared-catalogs.md)
    + [Hantera företagskrediter](../b2b/company-credit.md)
    + [Inköpsorder och godkännanden](../b2b/purchase-orders.md)
-
 + Verktyg och externa tjänster {#tools}
    + [Kontrollpanel för analysverktyg för hela webbplatsen](../tools/site-wide-analysis-tool.md)
    + [Observation för Adobe Commerce](../tools/observation-tool.md)
    + [Lappa kvalitet](../tools/quality-patch-tool.md)
    + New Relic {#new-relic}
       + [Hitta en skadlig IP-adress](../new-relic/malicious-ip.md)
-
 + MBI {#mbi}
    + [Filteruppsättningar](../business-intelligence/filter-sets.md)
    + [Kohort Report Builder](../business-intelligence/cohort-report-builder.md)
@@ -160,19 +156,16 @@ ht-degree: 0%
       + [Avkastning på investeringsspårning](../business-intelligence/10-roi-tracking.md)
       + [Dela resultat och exportera data](../business-intelligence/11-share-results-export-data.md)
       + [Nöjda kunder](../business-intelligence/12-customer-success.md)
-
 + Commerce Upgrades {#upgrade}
    + [Adobe Commerce 2.4 Upgrade Workshop](../upgrade/2.4-upgrade-workshop.md)
    + [Översikt över verktyget Kompatibilitet för uppgradering](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Använda verktyget Kompatibilitet för uppgradering i PHP Storm](../upgrade/uct-phpstorm.md)
-
 + Backend Development {#backend-development}
    + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Lägga till en tabell i en databas](../backend-development/new-db-table.md)
    + [Skapa en modul](../backend-development/create-module.md)
    + [Lägg till ett produktattribut](../backend-development/add-product-attribute.md)
    + [Exempel på beroendeinjektion](../backend-development/dependency-injection.md)
-
 + Frontend Development {#frontend-development}
    + Page Builder för utvecklare {#page-builder}
       + [1 - Introduktion](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -183,7 +176,6 @@ ht-degree: 0%
       + [6 - Anpassade innehållstyper](../frontend-development/page-builder/6-custom-content-types.md)
    + [Lägga till en JavaScript-modul](../frontend-development/add-javascript-module.md)
    + [Skapa en sida](../frontend-development/create-page.md)
-
 + PWA Studio {#pwa-studio}
    + Introduktion till PWA Studio {#introduction}
       + [1 - Översikt](../pwa/introduction/1-overview.md)

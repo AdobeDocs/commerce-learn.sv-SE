@@ -6,9 +6,10 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
-source-git-commit: 9dc530107470617f88992d8eb2ed9feb017a6530
+exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
+source-git-commit: ef3dd7aaa409d9c1bc30d3d9c225966d8c1ace9e
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -186,5 +187,6 @@ I alla GraphQL-kompatibla klienter som du använder för testning (till exempel 
 
 Precis som du såg innehåller den faktiska HTTP-begäran för en GraphQL-fråga&quot;query: `{string}`&quot; i sin brödtext innehåller alla förfrågningar som innehåller en variabelordlista bara ytterligare&quot;variabler: `{json}`&quot; i samma kropp, där `{json}` är JSON-strängen med variabelvärdena.
 
-Den nya frågan använder även en _fragment_ (`productDetails`) för att återanvända samma fältval på flera ställen. [Läs mer om fragment](https://graphql.org/learn/queries/#fragments) i GraphQL-dokumentationen.
+Den nya frågan använder även en _fragment_ (`productDetails`) för att återanvända samma fältval på flera ställen. [Läs mer om fragment](https://graphql.org/learn/queries/#fragments){target="_blank"} i GraphQL-dokumentationen.
 
+{{$include /help/_includes/graphql-rest-related-links.md}}
