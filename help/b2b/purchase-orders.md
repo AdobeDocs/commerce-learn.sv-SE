@@ -5,11 +5,12 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
+badge: label="B2B for Adobe Commerce" type="Positive"
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: d10020b33cfd86031d8cbd156eb22f788c301743
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 1%
+source-wordcount: '163'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +18,7 @@ ht-degree: 1%
 
 {{b2b-feature}}
 
-De flesta B2B-företag har ordergodkännanderegler för inköpsorder. Företagen kan styra vilka som får skapa inköpsorder och hur mycket de får spendera. Exempel:
+De flesta B2B-företag har ordergodkännanderegler för inköpsorder. Företagen kan styra vilka som får skapa inköpsorder och hur mycket de får spendera. Till exempel:
 
 - Alla PO som är mindre än X-värden godkänns automatiskt.
 - PO:er över X-värdet men mindre än Q måste godkännas av Y.
@@ -37,5 +38,5 @@ Med de behörigheter som krävs för deras roll kan B2B-kunder skapa godkännand
 
 ## Ytterligare resurser
 
-- [Inköpsorder för företag](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html)
-- [Godkännanderegler för inköpsorder](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html)
+- [Inköpsorder för företag](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html){target="_blank"}
+- [Godkännanderegler för inköpsorder](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html){target="_blank"}
