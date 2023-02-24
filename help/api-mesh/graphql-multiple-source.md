@@ -6,7 +6,7 @@ kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b3d5b22a597b342df6bf9846346d656dd4ce1383
+source-git-commit: 6b2a66ed3b4de8e633d5b3c6bce86eb0507a9ac7
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Skapa ett nät med flera källor
 
-Den här videon hjälper utvecklare att förstå hur man skapar ett nät med flera källor i API Mesh för Adobe Developer App Builder. I den här videon visas hur du skapar ett nät med flera källor och identifierar fel. Mer information och kodexempel finns på [Skapa ett nät](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
+Den här videon hjälper utvecklare att förstå hur man skapar ett nät med flera källor i API Mesh för Adobe Developer App Builder. I den här videon visas hur du skapar ett nät med flera källor och identifierar fel. Mer information och kodexempel finns på [Skapa ett nät](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## Vem är den här videon till?
 
@@ -24,7 +24,7 @@ Den här videon hjälper utvecklare att förstå hur man skapar ett nät med fle
 
 ## Videoinnehåll
 
-* Så här använder du [omformningar](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/) för att ändra standardkällschemat
+* Så här använder du [omformningar](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} för att ändra standardkällschemat
 * Felsöka fel som namnkonflikter, schematillgänglighet och andra schemasyntaxproblem
 * Uppdatera ditt nät med en ändrad konfiguration
 

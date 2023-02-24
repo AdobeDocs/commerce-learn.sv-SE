@@ -6,7 +6,7 @@ kt: 11802
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b3d5b22a597b342df6bf9846346d656dd4ce1383
+source-git-commit: 25e10b1acc4c868711f08b0de4997df1e376a0af
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Om du inte har använt API Mesh för Adobe Developer App Builder tidigare rekomm
 
 API Mesh kombinerar flera datakällor för att få ett enda svar som programmet kan använda.
 
-[Visa den fullständiga dokumentationen för API Mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/)
+[Visa den fullständiga dokumentationen för API Mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
 
 ## Exempel på användningsområden
 
@@ -31,7 +31,7 @@ Ditt Commerce-program har en REST API och en GraphQL-slutpunkt. Du kan till exem
 
 Som utvecklare som använder Adobe App Builder och API Mesh behöver du inte förstå vad en omvänd proxy är. Om du är intresserad av den övergripande funktionaliteten som den gäller för Adobe App Builder använder du följande resurser:
 
-* [Vad är en omvänd proxy?](https://www.imperva.com/learn/performance/reverse-proxy/)
-* [Vad är en omvänd proxy och varför är det viktigt?](https://blog.hubspot.com/website/reverse-proxy)
+* [Vad är en omvänd proxy?](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
+* [Vad är en omvänd proxy och varför är det viktigt?](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}
 
 {{$include /help/_includes/api-mesh-related-links.md}}

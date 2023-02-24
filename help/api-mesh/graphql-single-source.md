@@ -6,7 +6,7 @@ kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 2cf7eb4d04f874ec42ca5f6d58ec841680376a41
+source-git-commit: fba55cd605c4b17d87af5e8e2919bd400e6ebf55
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Skapa ett nät med en enda källa
 
-Den här videon hjälper utvecklare att förstå hur man skapar ett nät med en enda källa i API Mesh för Adobe Developer App Builder. För att det här grundläggande exemplet ska fungera som förväntat behöver du ett offentligt tillgängligt API eller GraphQL-slutpunkt. I videon förklaras även hur du skapar en enkel `mesh.json` som ska användas med din Commerce-instans. Mer information och kodexempel finns på [Skapa ett nät](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
+Den här videon hjälper utvecklare att förstå hur man skapar ett nät med en enda källa i API Mesh för Adobe Developer App Builder. För att det här grundläggande exemplet ska fungera som förväntat behöver du ett offentligt tillgängligt API eller GraphQL-slutpunkt. I videon förklaras även hur du skapar en enkel `mesh.json` som ska användas med din Commerce-instans. Mer information och kodexempel finns på [Skapa ett nät](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## Vem är den här videon till?
 
