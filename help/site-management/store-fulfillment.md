@@ -3,11 +3,11 @@ title: Butiksuppfyllelse - översikt
 description: Läs mer om Store Fulfillment for Adobe Commerce av Walmart Commerce Technologies, en avancerad lösning för flerkanalsleverans som ger en helhetsupplevelse av Buy Online, Pick up In-Store (BOPIS).
 landing-page-description: I den här videon får du veta hur Store Fulfillment-lösningen gör det enkelt för kunderna att hämta in butiker och köpa in och lagra anställda mer effektiva, mobilklara arbetsflöden för att hämta, mellanlagra och skicka butiksupptagningsorder till kunderna.
 doc-type: feature video
-solution: Adobe Commerce
+solution: Commerce
 audience: all
 activity: use
 exl-id: 53f45eb4-29e0-426d-8e9a-784838e37e03
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: f614fbd70ed58fd3a8177700e4c118d4f17bf349
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
