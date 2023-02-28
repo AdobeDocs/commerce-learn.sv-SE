@@ -6,9 +6,9 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: f4c092b4534587f5656bbf298dbf94f783d93be7
+source-git-commit: 662c755b69e399448ce7f4984105a556386f027c
 workflow-type: tm+mt
-source-wordcount: '746'
+source-wordcount: '782'
 ht-degree: 0%
 
 ---
@@ -60,6 +60,10 @@ Följande diagram visar hur ett standardprogram som är byggt på App Builder an
 Mer information om App Builder-arkitekturen finns i [Arkitektur - översikt](https://developer.adobe.com/app-builder/docs/guides/).
 
 ## Amazon Sales Channel-tillägg {#amazon-sales-channel-extension}
+
+>[!IMPORTANT]
+>
+>Utbyggnaden av Amazon Sales Channel är fortfarande under utveckling och har inte officiellt släppts.  Dessa videor och självstudiekurser är avsedda att visa hur du använder Adobe Developer App Builder i ett praktiskt syfte.
 
 I följande självstudiekurser visas hur du ansluter Adobe Commerce till Amazon Sales Channel med ett App Builder-tillägg.
 
