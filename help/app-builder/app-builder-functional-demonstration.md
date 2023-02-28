@@ -6,9 +6,9 @@ kt: 11762
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: 488b1f7a8633b35ec1a113c1dd25f4efeefa3234
+source-git-commit: f62d30c6f1780542c6e368edfe58833a2a5611ca
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Funktionell demonstration för App Builder
 
 Om du vill veta mer om hur du använder Adobe Commerce med App Builder kan du titta på videon nedan som visar hur du ansluter Adobe Commerce till Amazon Seller Central. Den här demonstrationen använder händelser från Adobe Commerce som används av App Builder för att möjliggöra kontinuerlig integrering med Amazon Marketplace. Denna funktionella demonstration beskriver hur den här integreringen fungerar och utforskar potentialen i Adobe App Builder.
+
+>[!IMPORTANT]
+>
+>Utbyggnaden av Amazon Sales Channel är fortfarande under utveckling och har inte officiellt släppts.  Dessa videor och självstudiekurser är avsedda att visa hur du använder Adobe Developer App Builder i ett praktiskt syfte.
 
 ## App Builder för Adobe Commerce {#app-builder-functional-demonstration}
 
