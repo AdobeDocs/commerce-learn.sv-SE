@@ -1,9 +1,9 @@
 ---
 title: Relaterade sidor för IO-händelser
 description: Länkar till relaterade sidor i IO-händelser
-source-git-commit: 9402acdf9dbb8236da720ef0c0a2738e7498fade
+source-git-commit: 050a321cd4b47e2658559c5dc459086788eaf223
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
@@ -12,12 +12,12 @@ ht-degree: 0%
 
 ## Fler relaterade självstudiekurser
 
-* [Installation av Adobe Commerce 2.4.5](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/2-4-5-installation.md)
-* [Installation av Adobe Commerce 2.4.6](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/2-4-6-installation.md)
-* [Skapa ett App Builder-projekt](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/create-app-builder-project.md)
-* [Adobe Commerce-konfiguration](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/configure-commerce.md)
-* [Utveckling av modulen Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/commerce-module-development.md)
-* [Adobe Commerce villkorsstyrda evenemang](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/conditional-events.md)
+* [Installation av Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
+* [Installation av Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
+* [Skapa ett App Builder-projekt](../io-events/create-app-builder-project.md)
+* [Adobe Commerce-konfiguration](../io-events/configure-commerce.md)
+* [Utveckling av modulen Adobe Commerce](../io-events/commerce-module-development.md)
+* [Adobe Commerce villkorsstyrda evenemang](../io-events/conditional-events.md)
 
 ## Adobe Developer Documentation
 
