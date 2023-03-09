@@ -6,7 +6,7 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: 8726d58abbf6ac0fb1e403a0ece335978d4d7eac
+source-git-commit: 82ccecf2789e1eedf447af2705a3840d0302fdba
 workflow-type: tm+mt
 source-wordcount: '819'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Följande diagram visar hur ett standardprogram som är byggt på App Builder an
 
 ![Arkitektur](/help/assets/app-builder/firefly-architecture.jpeg)
 
-Mer information om App Builder-arkitekturen finns i [Arkitektur - översikt](https://developer.adobe.com/app-builder/docs/guides/).
+Mer information om App Builder-arkitekturen finns i [Arkitektur - översikt](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
 
 ## Amazon Sales Channel-tillägg {#amazon-sales-channel-extension}
 
@@ -75,27 +75,27 @@ I följande självstudiekurser visas hur du ansluter Adobe Commerce till Amazon 
 
 En översikt över strategin för sammanställbar e-handel, som innehåller den första konfigurationen, finns i följande blogginlägg:
 
-[Hur App Builder hjälper er att utveckla affärsflexibiliteten för e-handelsplattformen](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy)
+[Hur App Builder hjälper er att utveckla affärsflexibiliteten för e-handelsplattformen](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
 
 Adobe har skapat följande dokumentation för att hjälpa dig komma igång med App Builder:
 
-* [App Builder - komma igång](https://developer.adobe.com/app-builder/docs/getting_started/)
+* [App Builder - komma igång](https://developer.adobe.com/app-builder/docs/getting_started/){target="_blank"}
 
 ## Fortsätta inlärningen med dokumentation {#appbuilder-documentation}
 
 App Builder innehåller videor och dokumentation för utvecklare, inklusive guider och referensdokumentation som hjälper dig att utveckla egna program:
 
-* [App Builder-dokumentation](https://developer.adobe.com/app-builder/docs/overview/)
-* [App Builder-videor](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o)
+* [App Builder-dokumentation](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
+* [App Builder-videor](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o){target="_blank"}
 
 ## Testa ett av exempelprogrammen {#appbuilder-codesamples}
 
 Vill du börja utveckla? Följande länk innehåller exempelprogram som hjälper dig att komma igång:
 
-* [App Builder Code Labs på Adobe Developer webbplats](https://developer.adobe.com/app-builder/docs/resources/)
+* [App Builder Code Labs på Adobe Developer webbplats](https://developer.adobe.com/app-builder/docs/resources/){target="_blank"}
 
 ## Support {#support}
 
-För supportärenden för utvecklare använder du [Experience League forum](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly) om du behöver hjälp.
+För supportärenden för utvecklare använder du [Experience League forum](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} om du behöver hjälp.
 
 {{$include /help/_includes/app-builder-related-links.md}}
