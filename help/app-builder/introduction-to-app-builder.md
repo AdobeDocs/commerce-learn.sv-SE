@@ -6,9 +6,9 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: 662c755b69e399448ce7f4984105a556386f027c
+source-git-commit: 8726d58abbf6ac0fb1e403a0ece335978d4d7eac
 workflow-type: tm+mt
-source-wordcount: '782'
+source-wordcount: '819'
 ht-degree: 0%
 
 ---
@@ -72,6 +72,10 @@ I följande självstudiekurser visas hur du ansluter Adobe Commerce till Amazon 
 * [funktionell demonstration av App Builder](../app-builder/app-builder-functional-demonstration.md)
 
 ## Kom igång med App Builder {#additional-resources}
+
+En översikt över strategin för sammanställbar e-handel, som innehåller den första konfigurationen, finns i följande blogginlägg:
+
+[Hur App Builder hjälper er att utveckla affärsflexibiliteten för e-handelsplattformen](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy)
 
 Adobe har skapat följande dokumentation för att hjälpa dig komma igång med App Builder:
 
