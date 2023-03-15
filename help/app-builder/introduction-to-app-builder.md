@@ -6,9 +6,9 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: 82ccecf2789e1eedf447af2705a3840d0302fdba
+source-git-commit: 021df5e5f98341204e9cc486c249dcd87fab2aa3
 workflow-type: tm+mt
-source-wordcount: '819'
+source-wordcount: '816'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Historiskt sett har Adobe Commerce-utveckling använt processens utökningsmöjligheter. Processmodellen kräver att ny kod är kompatibel med uppgraderingar, serverns PHP-version och många andra viktiga serverprogram och tjänster som används i Commerce. Adobe Developer App Builder använder sig av processintern utökningsbarhet för att undvika dessa kompatibilitetsproblem.
 
-## App Builder för Adobe Commerce {#project-firefly}
+## App Builder för Adobe Commerce {#app-builder}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412839)
 
@@ -32,7 +32,7 @@ Med App Builder kan kunderna utöka [!DNL Adobe Commerce] i olika fall:
 * utöka bastjänsterna - Utöka de centrala programfunktionerna genom att utöka standardbeteendet med anpassade funktioner och affärslogik.
 * användarupplevelsen kan byggas ut - Bygg ut kärnupplevelsen för att uppfylla verksamhetskrav eller bygga kundspecifika digitala resurser, butiker och back-office-applikationer.
 
-App Builder (tidigare Project Fireworks) är en molnbaserad lösning, vilket innebär att den skalas automatiskt. Tjänsten distribueras också globalt för att ge bästa prestanda oavsett var du befinner dig.
+Adobe Developer App Builder är en molnbaserad lösning, vilket innebär att den skalas automatiskt. Tjänsten distribueras också globalt för att ge bästa prestanda oavsett var du befinner dig.
 
 ## Varför ska du lära dig mer om App Builder?
 
@@ -55,7 +55,7 @@ I stället för en färdig lösning erbjuder Adobe Developer App Builder en geme
 
 Följande diagram visar hur ett standardprogram som är byggt på App Builder använder dessa funktioner:
 
-![Arkitektur](/help/assets/app-builder/firefly-architecture.jpeg)
+![Arkitektur](/help/assets/app-builder/app-builder-architecture.jpeg)
 
 Mer information om App Builder-arkitekturen finns i [Arkitektur - översikt](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
 
