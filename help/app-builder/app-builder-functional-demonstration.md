@@ -2,11 +2,12 @@
 title: Funktionsdemonstration för App Builder
 description: Läs om Adobe Developer App Builder som används i Adobe Commerce i en teknisk demonstration
 landing-page-description: Läs om Adobe Developer App Builder som används i Adobe Commerce i en teknisk demonstration
+short-description: Learn about Adobe Developer App Builder used in Adobe Commerce with a technical demonstration
 kt: 11762
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: f62d30c6f1780542c6e368edfe58833a2a5611ca
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%

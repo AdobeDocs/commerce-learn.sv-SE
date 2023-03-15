@@ -2,6 +2,7 @@
 title: "[!DNL Commerce] för utvecklare - översikt"
 description: Lär dig grunderna i plattformen utifrån ett flertal målgrupper - handlare, webbutvecklare och integratörer.
 landing-page-description: Titta på den här videoserien för att komma igång med ditt utvecklingsprojekt för Commerce.
+short-description: Watch this video series to get started on your backend development project for Commerce.
 doc-type: video
 topic: Development
 audience: developer
@@ -9,7 +10,7 @@ level: Beginner
 thumbnail: 36191.jpeg
 activity: use
 exl-id: d9049f03-537a-4e0e-8f17-ad392ac63d84
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%

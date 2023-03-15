@@ -2,11 +2,12 @@
 title: Lär dig hur du använder villkorliga händelser i Adobe Commerce
 description: Lär dig hur du använder villkorliga händelser som ska användas i Adobe Developer App Builder.
 landing-page-description: Lär dig hur du använder villkorliga Adobe Commerce-händelser.
+short-description: Learn how to use Adobe Commerce conditional events.
 kt: 11890
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
-source-git-commit: f5de9191315c7df2eaca4ee51d03b30e2a2fac99
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
