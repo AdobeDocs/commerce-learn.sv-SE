@@ -2,9 +2,9 @@
 user-guide-title: Videor och Tutorials
 user-guide-description: Läs om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och Tutorials
-source-git-commit: afd88a8996e941e9e6c00ef86d960318b8dcaee6
+source-git-commit: ce23b8d52a027f45a1a1ba633ebd82ea3cf3e1b5
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -67,6 +67,17 @@ ht-degree: 0%
    + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Funktionell demonstration för App Builder](../app-builder/app-builder-functional-demonstration.md)
    + [Teknisk översikt för App Builder](../app-builder/app-builder-technical-overview.md)
+   + Första appen {#first-app}
+      + [Översikt](../app-builder/first-app/overview.md)
+      + [.env-filen](../app-builder/first-app/env-file.md)
+      + [filen app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
+      + [åtgärdsmapp](../app-builder/first-app/actions-folder.md)
+      + [testmapp](../app-builder/first-app/test-folder.md)
+      + [web-src-mapp](../app-builder/first-app/web-src-folder.md)
+      + [Testa lokalt](../app-builder/first-app/testing-locally.md)
+      + [Testa med App Builder-URL](../app-builder/first-app/testing-app-builder-url.md)
+      + [Slutsats](../app-builder/first-app/conclusion.md)
+      + [Exempelmodulens källkod](https://github.com/magento/app-builder-samples){target="_blank"}
    + IO-händelser för Adobe Commerce {#io-events}
       + [Installation av Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
       + [Installation av Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
