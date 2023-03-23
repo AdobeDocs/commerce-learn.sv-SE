@@ -2,9 +2,9 @@
 user-guide-title: Videor och Tutorials
 user-guide-description: Läs om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och Tutorials
-source-git-commit: f3eb7686068d6be02816d34c08e7ebecc681df5b
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '659'
 ht-degree: 0%
 
 ---
@@ -67,13 +67,13 @@ ht-degree: 0%
    + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Funktionell demonstration för App Builder](../app-builder/app-builder-functional-demonstration.md)
    + [Teknisk översikt för App Builder](../app-builder/app-builder-technical-overview.md)
-   + Bygga din första app {#first-app}
+   + Första appen {#first-app}
       + [Översikt](../app-builder/first-app/overview.md)
-      + [.env-filen](../app-builder/first-app/env-file.md)
-      + [filen app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
-      + [åtgärdsmapp](../app-builder/first-app/actions-folder.md)
-      + [testmapp](../app-builder/first-app/test-folder.md)
-      + [web-src-mapp](../app-builder/first-app/web-src-folder.md)
+      + [Generera och konfigurera .env-filen](../app-builder/first-app/env-file.md)
+      + [Beskrivning och användning av filen app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
+      + [Läs mer om åtgärdsmappen](../app-builder/first-app/actions-folder.md)
+      + [Läs mer om testmappen](../app-builder/first-app/test-folder.md)
+      + [Identifiera syftet med webbmappen](../app-builder/first-app/web-src-folder.md)
       + [Testa lokalt](../app-builder/first-app/testing-locally.md)
       + [Testa med App Builder-URL](../app-builder/first-app/testing-app-builder-url.md)
       + [Slutsats](../app-builder/first-app/conclusion.md)

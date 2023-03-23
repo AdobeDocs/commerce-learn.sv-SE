@@ -6,15 +6,15 @@ kt: 12422
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
 
-# `actions` mapp {#actions-folder}
+# Läs mer om åtgärdsmappen {#actions-folder}
 
 The `actions` mappen för det här exempelprogrammet innehåller några JavaScript-filer och en mapp med namnet `commerce`. JavaScript-koden som visas är en utmärkt exempelfil som kan återanvändas om den är relevant för ditt arbete. Den här mappen kan spara tid när du ansluter till Adobe Commerce med OAuth och REST.
 

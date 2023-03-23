@@ -6,15 +6,15 @@ kt: 12426
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
 
-# The `app.config.yaml` fil {#app-config-yaml}
+# Beskrivning och användning av filen app.config.yaml {#app-config-yaml}
 
 Den här filen avgör programmets konfiguration.
 
