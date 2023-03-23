@@ -1,7 +1,7 @@
 ---
-source-git-commit: 4a43dd7151e2ad7bd66ed3c062f94e6d9c6a58fe
+source-git-commit: 2c20b58f285f116cd9ddfaa82df98c5f24ebeb47
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -44,11 +44,11 @@ ht-degree: 0%
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-- [ ] [Namngivningsstandarder följs]([https://opensource.adobe.com/cla.html](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)){target="_blank"}
+- [ ] Följde du efter [Namngivningsstandarder](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)
 - [ ] Innehållsförteckningen och H1-matchningen för varje sida som skapas eller uppdateras.
 - [ ] Innehållsförteckningen och H1 har en associerad åtgärd, till exempel: Lär dig hur du skapar en GutHub-pull-begäran
 - [ ] Inget ska ha fast teckenbredd i H1
 - [ ] Varje sidrubrik ska börja med en ***C***kapitelbokstav
 - [ ] Jag kollade om några videoklipp borde ha kapitel
 - [ ] Alla videoklipp har en förhandsgranskning tilldelad för att återge videon korrekt
-- [ ] Använde du [Acrolinx](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html){target="_blank"}
+- [ ] Använde du [Acrolinx](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html)
