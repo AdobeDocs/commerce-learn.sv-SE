@@ -7,9 +7,9 @@ kt: 11802
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: 01947a4f81409e6f08da9e7feca3e73b724f285e
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,19 @@ Om du inte har använt API Mesh för Adobe Developer App Builder tidigare rekomm
 API Mesh kombinerar flera datakällor för att få ett enda svar som programmet kan använda.
 
 [Visa den fullständiga dokumentationen för API Mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
+
+## Vem är den här videon till?
+
+* Utvecklare som är nya för API Mesh eller [!DNL Adobe Commerce] med begränsad erfarenhet [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} och API Mesh.
+
+## Videoinnehåll
+
+* Översikt över API-nät
+* Länkar till stödjande dokumentation
+* Använd ärendet för att göra lagerkontroll i realtid vid utcheckning
+* Flytta utvecklingsinsatser och resursanvändning bort från e-handelsprogrammet
+
+>[!VIDEO](https://video.tv.adobe.com/v/3417534/)
 
 ## Exempel på användningsområden
 
