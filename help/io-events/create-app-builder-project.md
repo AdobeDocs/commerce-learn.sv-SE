@@ -7,7 +7,7 @@ kt: 11888
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Lär dig hur du skapar ett Adobe Developer App Builder-projekt för att förbruk
 * Använda Adobe Developer Console
 * Använda Adobe I/O
 
->[!VIDEO](https://video.tv.adobe.com/v/3415797)
+>[!VIDEO](https://video.tv.adobe.com/v/3415797?quality=12&learn=on)
 
 ## Användbara kommandon {#useful-commands}
 
