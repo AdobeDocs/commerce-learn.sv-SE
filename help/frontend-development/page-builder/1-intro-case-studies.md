@@ -2,7 +2,7 @@
 title: Page Builder för utvecklare - introduktion
 description: Page Builder-introduktion, förstå Page Builder-funktioner
 landing-page-description: Titta på den här videoserien för att lära dig mer om Page Builder och hur du kan utöka den för att skapa optimala [!DNL Commerce] butiksupplevelser.
-short-description: Watch this video series to learn about Page Builder and how you can extend it to create optimal [!DNL Commerce] storefront experiences.
+short-description: Titta på den här videoserien för att lära dig mer om Page Builder och hur du kan utöka den för att skapa optimala [!DNL Commerce] butiksupplevelser.
 topic: Commerce, Development
 kt: 5650
 doc-type: video
@@ -10,7 +10,7 @@ activity: use
 exl-id: 436003ca-df48-4441-a1f4-bd8ea977a9cc
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

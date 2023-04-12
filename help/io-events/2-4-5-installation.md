@@ -2,19 +2,19 @@
 title: Lär dig hur du installerar IO-händelser för Adobe Commerce 2.4.5
 description: Lär dig hur du installerar moduler som behövs för IO-händelser i Adobe Commerce 2.4.5 för användning i Adobe Developer App Builder
 landing-page-description: Lär dig hur du installerar flera moduler som behövs för Adobe Commerce 2.4.5 med Composer.
-short-description: Learn how to install several modules needed for Adobe Commerce 2.4.5 using composer.
+short-description: Lär dig hur du installerar flera moduler som behövs för Adobe Commerce 2.4.5 med Composer.
 kt: 11886
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
-badge: "Adobe Commerce 2.4.5"
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+badge: Adobe Commerce 2.4.5
+exl-id: e0adfd85-5a3d-44ba-aab5-ecd7c61715cf
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Installation av Adobe Commerce 2.4.5
 

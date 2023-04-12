@@ -2,18 +2,18 @@
 title: Lär dig hur du skapar ett App Builder-projekt med Commerce Events
 description: Lär dig hur du skapar ett App Builder-projekt som ska användas med Commerce-händelser
 landing-page-description: Lär dig hur du skapar ett Adobe App Builder-projekt för Adobe Commerce-händelser
-short-description: Learn how to create an Adobe App Builder project to use Adobe Commerce events
+short-description: Lär dig hur du skapar ett Adobe App Builder-projekt för Adobe Commerce-händelser
 kt: 11888
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: ec746cde-856b-4076-8ea4-e1c3f2f4b97b
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Skapa ett App Builder-projekt
 

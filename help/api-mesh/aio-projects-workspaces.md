@@ -2,18 +2,18 @@
 title: Arbeta med projekt och arbetsytor
 description: Upptäck hur du använder Adobe Developer Console för att arbeta med projekt och arbetsytor.
 landing-page-description: Upptäck hur du använder Adobe Developer Console. Lär dig mer om projekt och arbetsytor som ska användas med API-nät.
-short-description: Discover how to use Adobe Developer console. Learn about projects and workspaces to be used with API Mesh.
+short-description: Upptäck hur du använder Adobe Developer Console. Lär dig mer om projekt och arbetsytor som ska användas med API-nät.
 kt: 11803
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: ab51f68c-5d28-495b-8472-27b60c4aa8c1
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Arbeta med projekt och arbetsytor
 

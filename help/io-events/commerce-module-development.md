@@ -2,18 +2,18 @@
 title: Lär dig hur du skapar en modul i Adobe Commerce för att använda händelser.
 description: Lär dig hur du skapar en Commerce-modul för att använda händelser.
 landing-page-description: Lär dig hur du skapar en Adobe Commerce-modul för att använda händelser.
-short-description: Learn how to create an Adobe Commerce module to use events.
+short-description: Lär dig hur du skapar en Adobe Commerce-modul för att använda händelser.
 kt: 11891
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: e8103fe0-116a-499c-ae0a-3ad0511f44d0
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Utveckling av modulen Adobe Commerce
 

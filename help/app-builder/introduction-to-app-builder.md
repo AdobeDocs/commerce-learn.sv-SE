@@ -2,18 +2,18 @@
 title: Utbyggbarhet utanför processen för Adobe Commerce
 description: Lär dig mer om Adobe App Builder och varför det är en viktig aspekt när det gäller utbyggbarhet utanför processen.
 landing-page-description: Lär dig vad är App Builder och hur det kan hjälpa dig med Adobe Commerce utvecklingsstrategier.
-short-description: Learn what is App Builder and how it can help with Adobe Commerce development strategies.
+short-description: Lär dig vad är App Builder och hur det kan hjälpa dig med Adobe Commerce utvecklingsstrategier.
 kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '816'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Introduktion till App Builder
 
