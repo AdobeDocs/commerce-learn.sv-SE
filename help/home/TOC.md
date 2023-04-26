@@ -2,9 +2,9 @@
 user-guide-title: Videor och Tutorials
 user-guide-description: Läs om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och Tutorials
-source-git-commit: 424f0581e9f2c452fdbf4512e19139fec3c88940
+source-git-commit: 133b6f366cee2e51cd150649e2ff1865e1ee23e9
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '671'
 ht-degree: 0%
 
 ---
@@ -177,7 +177,7 @@ ht-degree: 0%
    + [Skapa en modul](../backend-development/create-module.md)
    + [Lägg till ett produktattribut](../backend-development/add-product-attribute.md)
    + [Exempel på beroendeinjektion](../backend-development/dependency-injection.md)
-+ Frontend Development {#frontend-development}
++ Luma-utveckling för Frontend {#frontend-development}
    + Page Builder för utvecklare {#page-builder}
       + [1 - Introduktion](../frontend-development/page-builder/1-intro-case-studies.md)
       + [2 - Konfiguration och innehåll](../frontend-development/page-builder/2-config-create-content.md)
@@ -187,7 +187,10 @@ ht-degree: 0%
       + [6 - Anpassade innehållstyper](../frontend-development/page-builder/6-custom-content-types.md)
    + [Lägga till en JavaScript-modul](../frontend-development/add-javascript-module.md)
    + [Skapa en sida](../frontend-development/create-page.md)
-+ PWA Studio {#pwa-studio}
+
++ Headless Architecture {#headless-architecture}
+   + Introduktion till headless {#introduction-to-headless}
+      + [Headless Architecture - Session 1](../headless/session-1.md)
    + Introduktion till PWA Studio {#introduction}
       + [1 - Översikt](../pwa/introduction/1-overview.md)
       + [2 - PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
