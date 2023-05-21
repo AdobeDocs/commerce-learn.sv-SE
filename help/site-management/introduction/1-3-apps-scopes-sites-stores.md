@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] för företagsanvändare - webbplatser, butiker och vyer"
-description: Lär dig grunderna i [!DNL Commerce] arkitektur, inklusive skillnaderna mellan webbplatser, butiker, butiksvyer och programomfång. Förstå indexering och cachning.
+description: Lär dig grunderna i [!DNL Commerce] arkitektur, inklusive skillnaderna mellan webbplatser, butiker, butiksvyer och programomfång. Förstå indexering och cachelagring.
 topic: Commerce
 kt: 5760
 doc-type: video
@@ -19,12 +19,12 @@ ht-degree: 0%
 I den här videon:
 
 - Grunderna i [!DNL Commerce] arkitektur, inklusive skillnaderna mellan webbplatser, butiker och butiksvyer
-- Begreppet programomfång
-- Översikt över indexering och cachelagring och hur [!DNL Commerce] hanterar dem
+- Begreppet tillämpningsområde
+- Översikt över indexering och cachning och hur [!DNL Commerce] hanterar dem
 
 ## Vem är den här videon till?
 
-- Affärsanvändare
+- Företagsanvändare
 
 ## Videoinnehåll
 
@@ -36,6 +36,6 @@ I den här videon:
 
 ## Ytterligare resurser
 
-[Webbplatser, butiker och vyer - [!DNL Commerce] Starthandbok](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+[Webbplatser, butiker och vyer - [!DNL Commerce] Guiden Komma igång](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
 
-[Omfångsinställningar- [!DNL Commerce] Starthandbok](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html#scope-settings)
+[Omfångsinställningar- [!DNL Commerce] Guiden Komma igång](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html#scope-settings)

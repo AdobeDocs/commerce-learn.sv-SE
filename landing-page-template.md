@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Översikt {#overview}
 
-En översikt på 1-2 meningar om produkten som den här användarhandboken centreras på. Den här användarhandboken innehåller videor och självstudiekurser om de många funktionerna i *xyz*.
+En översikt på 1-2 meningar om produkten som den här användarhandboken centreras på. Den här användarhandboken innehåller videor och självstudiekurser om de många funktionerna och funktionerna i *xyz*.
 
 ## Nyheter
 

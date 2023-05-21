@@ -1,13 +1,14 @@
 ---
-title: "[!DNL Live Search] för rekommendationer"
-description: "Lär dig hur du lägger till [!DNL Live Search] för produktrekommendationer till er butik och skapa engagerande, relevanta och personaliserade shoppingupplevelser."
+title: '''[!DNL Live Search] för rekommendationer'
+description: Lär dig hur du lägger till [!DNL Live Search] för produktrekommendationer till er butik och skapa engagerande, relevanta och personaliserade shoppingupplevelser.
 doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
-source-git-commit: ff258421026c389aa516ef4d168a820a00b8111b
+exl-id: af13f1c2-d888-4774-8254-efdb3ce383bb
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---

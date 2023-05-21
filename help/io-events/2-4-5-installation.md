@@ -11,7 +11,7 @@ badge: Adobe Commerce 2.4.5
 exl-id: e0adfd85-5a3d-44ba-aab5-ecd7c61715cf
 source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---

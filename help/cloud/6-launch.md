@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce om molninfrastruktur - tjänster och lansering av webbplatser
-description: Granska tjänsterna Go live, DNS, TLS och Fast. Lär dig hur du konfigurerar DNS så att det pekar på produktionsdomänen för Adobe Commerce-instansen.
+title: Adobe Commerce för molninfrastruktur - tjänster och start av webbplatser
+description: Granska tjänsterna Go live, DNS, TLS och Fastly. Lär dig konfigurera DNS så att det pekar på produktionsdomänen för Adobe Commerce-instansen.
 kt: 5661
 doc-type: video
 audience: all
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce om molninfrastruktur - tjänster och lansering av webbplatser
+# Adobe Commerce för molninfrastruktur - tjänster och start av webbplatser
 
 I den här videon:
 
-- Granska Go live, DNS, TLS och Fast
+- Granska Go live, DNS, TLS och Fastly
 - Konfigurera DNS så att det pekar på produktionsdomänen för Adobe Commerce-instansen
 
 >[!VIDEO](https://video.tv.adobe.com/v/35697?quality=12&learn=on)
 
 ## Ytterligare resurser
 
-[Starta webbplatsen - [!DNL Commerce] on Cloud Infrastructure Guide](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/overview.html)
+[Webbplatsstart - [!DNL Commerce] om Cloud Infrastructure Guide](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/overview.html)

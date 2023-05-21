@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] för företagsanvändare - e-postkommunikation"
-description: Kommunicera med kunderna med transaktionsmejl som triggas av deras handlingar i butiken. Anpassa och konfigurera e-postmallarna för din butik.
+title: "[!DNL Commerce] för företagsanvändare - E-postkommunikation"
+description: Kommunicera med kunderna med transaktionsmeddelanden som utlöses av deras åtgärder i butiken. Anpassa och konfigurera e-postmallarna för din butik.
 topic: Commerce
 kt: 5780
 doc-type: video
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] för företagsanvändare - e-postkommunikation
+# [!DNL Commerce] för företagsanvändare - E-postkommunikation
 
 I den här videon:
 
@@ -23,7 +23,7 @@ I den här videon:
 
 ## Vem är den här videon till?
 
-- Affärsanvändare
+- Företagsanvändare
 
 ## Videoinnehåll
 
@@ -35,6 +35,6 @@ I den här videon:
 
 ## Ytterligare resurser
 
-[E-postmallar - [!DNL Commerce] Handbok för adminsystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html)
+[E-postmallar - [!DNL Commerce] Användarhandbok för administratörssystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html)
 
-[Variabler och kundkommunikation - [!DNL Commerce] Handbok för adminsystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html#variables-and-customer-communications)
+[Variabler och kundkommunikation - [!DNL Commerce] Användarhandbok för administratörssystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html#variables-and-customer-communications)

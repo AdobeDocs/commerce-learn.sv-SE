@@ -1,6 +1,6 @@
 ---
 title: Lägga till en tabell i en databas
-description: "[!DNL Commerce] har en särskild funktion som gör att du kan skapa databastabeller, ändra befintliga tabeller och till och med lägga till data i dem."
+description: "[!DNL Commerce] har en speciell mekanism som gör att du kan skapa databastabeller, ändra befintliga och till och med lägga till data i dem."
 topic: Development
 kt: 5613
 doc-type: video
@@ -20,9 +20,9 @@ ht-degree: 0%
 >Detta rekommenderas inte längre, se https://developer.adobe.com/commerce/php/development/components/declarative-schema/
 
 
-[!DNL Commerce] har en särskild funktion som gör att du kan skapa databastabeller, ändra befintliga tabeller och till och med lägga till data i dem, som konfigurationsdata, som måste läggas till när en modul installeras. Denna mekanism gör det möjligt att överföra dessa ändringar mellan olika installationer.
+[!DNL Commerce] har en speciell mekanism som gör att du kan skapa databastabeller, ändra befintliga och även lägga till vissa data i dem - som konfigurationsdata, som måste läggas till när en modul installeras. Denna mekanism gör det möjligt att överföra dessa ändringar mellan olika anläggningar.
 
-I stället för att utföra manuella SQL-åtgärder upprepade gånger när systemet installeras om skapar utvecklare ett installations- (eller uppgraderingsskript som innehåller data. Skriptet körs varje gång en modul installeras.
+I stället för att göra manuella SQL-åtgärder upprepade gånger när du installerar om systemet, skapar utvecklarna ett installationsskript (eller uppgraderingsskript) som innehåller data. Skriptet körs varje gång en modul installeras.
 
 ## Vem är den här videon till?
 
@@ -32,7 +32,7 @@ I stället för att utföra manuella SQL-åtgärder upprepade gånger när syste
 
 - Skapa en modul
 - Skapa InstallSchema-skript
-- Skapa InstallDataScript
+- Skapa InstallData-skript
 - Lägg till en ny modul och verifiera att en tabell med data har skapats
 - Skapa ett UpgradeSchema-skript
 - Skapa ett UpgradeData-skript
