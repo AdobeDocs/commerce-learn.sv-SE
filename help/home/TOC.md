@@ -2,9 +2,9 @@
 user-guide-title: Videor och Tutorials
 user-guide-description: Läs om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och Tutorials
-source-git-commit: 9c25b5980c34347eecfa8fc608f50576615f0ac4
+source-git-commit: b8dd6c146735721612d55365e9559c925953f062
 workflow-type: tm+mt
-source-wordcount: '680'
+source-wordcount: '714'
 ht-degree: 0%
 
 ---
@@ -138,6 +138,14 @@ ht-degree: 0%
    + [Hantera delade kataloger](../b2b/shared-catalogs.md)
    + [Hantera företagskrediter](../b2b/company-credit.md)
    + [Inköpsorder och godkännanden](../b2b/purchase-orders.md)
+   + Citat {#b2b-quote}
+      + [Säljare initierar offert](../b2b/sales-rep-initiates-quote.md)
+      + [Offertvalidering från administratör](../b2b/quote-validation-admin-panel.md)
+      + [Säljaren initierar offerten REST API](../b2b/sales-rep-initiates-quote-api.md)
+      + [Rabatter för offertradobjekt](../b2b/quote-line-item-discount.md)
+      + [Noteringar för offertradobjekt](../b2b/quote-line-item-notes.md)
+      + [Rabatt för offertradobjekt GraphQL](../b2b/quote-graphql-line-item-discount.md)
+      + [Offertradartikelrabatt REST API](../b2b/quote-rest-api-line-item-notes.md)
 + Verktyg och externa tjänster {#tools}
    + [Kontrollpanel för analysverktyg för hela webbplatsen](../tools/site-wide-analysis-tool.md)
    + [Observation för Adobe Commerce](../tools/observation-tool.md)
