@@ -7,9 +7,9 @@ role: Admin, User
 activity: use
 badge: label="B2B for Adobe Commerce" type="Positive"
 last-substantial-update: 2023-06-13T00:00:00Z
-source-git-commit: f5e8a67ab543104d0d7fe334d2326d93ecf52a89
+source-git-commit: 2c46232cf16da74c698a5824d678389f89667399
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -28,10 +28,4 @@ Lär dig de valideringssteg och områden som Adobe Commerce B2B-offertfunktionen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420413?learn=on)
 
-## Ytterligare resurser
-
-- [Översikt över citattecken](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quotes.html){target="_blank"}
-- [Konfigurera offerter](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/configure-quotes.html){target="_blank"}
-- [Anbudsförfrågan](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-request.html){target="_blank"}
-- [Förhandla om en offert](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-price-negotiation.html){target="_blank"}
-- [Mina offerter](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/account-dashboard-my-quotes.html){target="_blank"}
+{{$include /help/_includes/b2b-quote-additional-resources.md}}
