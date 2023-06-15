@@ -2,9 +2,9 @@
 user-guide-title: Videor och Tutorials
 user-guide-description: Läs om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och Tutorials
-source-git-commit: 2cc6f6594640244e5ccc3a40325850363d59e71f
+source-git-commit: d72c60ff1626307e904e5258acdff5e1c2497259
 workflow-type: tm+mt
-source-wordcount: '625'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
@@ -117,31 +117,11 @@ ht-degree: 0%
    + [Lappa kvalitet](../tools/quality-patch-tool.md)
    + New Relic {#new-relic}
       + [Hitta en skadlig IP-adress](../new-relic/malicious-ip.md)
-+ MBI {#mbi}
++ Commerce Intelligence {#mbi}
    + [Filteruppsättningar](../business-intelligence/filter-sets.md)
    + [Kohort Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL Report Builder](../business-intelligence/sql-report-builder.md)
    + [Framtidsförberedande](../business-intelligence/prepare-for-future.md)
-   + Inspelade webbinarier {#webinars}
-      + [Komma igång med MBI](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/getting-started.html)
-      + [Hantera datauppsättningar i MBI](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2022/manage-data-sets.html)
-      + [Optimera din MBI-Data warehouse](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/optimize-data-warehouse.html)
-      + [Djupdykning för MBI-instrumentpaneler](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/dashboards-deep-dive.html)
-      + [Semesterberedskap med MBI](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/holiday-readiness.html)
-      + [MBI - Fråga en expert](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/ask-expert.html)
-   + Introduktion till MBI Video Series {#introduction}
-      + [Översikt](../business-intelligence/1-overview.md)
-      + [Datalagerhantering](../business-intelligence/2-data-warehousing.md)
-      + [Skapa rapporter](../business-intelligence/3-build-reports.md)
-      + [Mått](../business-intelligence/4-metrics.md)
-      + [Standardrapporter](../business-intelligence/5-standard-reports.md)
-      + [Sammanfattning](../business-intelligence/6-executive-summary-dashboard.md)
-      + [Kontrollpanel för beställningar](../business-intelligence/7-orders-dashboard.md)
-      + [Kundfokuserade instrumentpaneler](../business-intelligence/8-customer-focused-dashboards.md)
-      + [Kategorianalys](../business-intelligence/9-category-analysis.md)
-      + [Avkastning på investeringsspårning](../business-intelligence/10-roi-tracking.md)
-      + [Dela resultat och exportera data](../business-intelligence/11-share-results-export-data.md)
-      + [Nöjda kunder](../business-intelligence/12-customer-success.md)
 + Commerce Upgrades {#upgrade}
    + [Adobe Commerce 2.4 Upgrade Workshop](../upgrade/2.4-upgrade-workshop.md)
    + [Översikt över verktyget Kompatibilitet för uppgradering](../upgrade/upgrade-compatibility-tool-overview.md)
