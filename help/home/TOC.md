@@ -2,9 +2,9 @@
 user-guide-title: Videor och Tutorials
 user-guide-description: Läs om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och Tutorials
-source-git-commit: 94a690fb12faa26385b42069682dd72fe2a22a6a
+source-git-commit: 2cc6f6594640244e5ccc3a40325850363d59e71f
 workflow-type: tm+mt
-source-wordcount: '695'
+source-wordcount: '625'
 ht-degree: 0%
 
 ---
@@ -21,30 +21,6 @@ ht-degree: 0%
       + [4 - Driftsättning](../cloud/4-deployment.md)
       + [5 - Utveckling](../cloud/5-dev-config.md)
       + [6 - Tjänster och DNS](../cloud/6-launch.md)
-   + [!DNL Commerce] för företagsanvändare {#merchants}
-      + [1.1 - [!DNL Admin] Menyer](../site-management/introduction/1-1-menus.md)
-      + [1.2 - Datarutnät](../site-management/introduction/1-2-data-grids.md)
-      + [1.3 - Områden, sajter och butiker](../site-management/introduction/1-3-apps-scopes-sites-stores.md)
-      + [1.4 - Lagra vyer och cacheminnen](../site-management/introduction/1-4-store-views-cache.md)
-      + [1.5 - Administrera användarkonton och roller](../site-management/introduction/1-5-users-roles.md)
-      + [1.6 - Rollomfång](../site-management/introduction/1-6-role-scopes.md)
-      + [1.7 - Affärsinställningar](../site-management/introduction/1-7-business-settings.md)
-      + [2.1 - Kategorier](../site-management/introduction/2-1-categories.md)
-      + [2.2 - Kategorilandningssidor](../site-management/introduction/2-2-category-landing-page.md)
-      + [3.1 - Produkttyper och -alternativ](../site-management/introduction/3-1-product-types-options.md)
-      + [3.2 - Produktinställningar](../site-management/introduction/3-2-product-settings.md)
-      + [3.3 - Produktattribut](../site-management/introduction/3-3-product-attributes.md)
-      + [3.4 - Produktattributuppsättningar](../site-management/introduction/3-4-product-attribute-sets.md)
-      + [3.5 - Skapa en enkel produkt](../site-management/introduction/3-5-create-simple-product.md)
-      + [3.6 - Konfigurerbara attribut](../site-management/introduction/3-6-configurable-attributes.md)
-      + [3.7 - Importera/exportera produkter](../site-management/introduction/3-7-import-export-products.md)
-      + [3.8 - Presentkort](../site-management/introduction/3-8-gift-cards.md)
-      + [4.1 - Navigering i flera lager](../site-management/introduction/4-1-layered-navigation.md)
-      + [4.2 - Ordna produktkategorier](../site-management/introduction/4-2-arrange-product-categories.md)
-      + [5.1 - Storefront Experience](../site-management/introduction/5-1-storefront-experience.md)
-      + [5.2 - Kundhantering](../site-management/introduction/5-2-customer-management.md)
-      + [5.3 - E-postkommunikation](../site-management/introduction/5-3-store-communications.md)
-      + [5.4 - Global referensarkitektur](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/architecture/global-reference.html)
 + GraphQL och REST {#graphql-rest}
    + [Kom igång med GraphQL](../graphql-rest/getting-started-graphql.md)
    + [Grundläggande om GraphQL](../graphql-rest/intro-graphql.md)
