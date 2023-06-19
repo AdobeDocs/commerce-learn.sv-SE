@@ -2,9 +2,9 @@
 user-guide-title: Videor och Tutorials
 user-guide-description: Läs om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och Tutorials
-source-git-commit: d72c60ff1626307e904e5258acdff5e1c2497259
+source-git-commit: fcaa2869b09aa0b66152234bb1643d1eb8f72c32
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '519'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,6 @@ ht-degree: 0%
    + [Hantera valuta- och skatteregler](../site-management/currency-tax-rules.md)
    + [Lägg till webbplatser, butiker och butiksvyer](../site-management/add-websites-stores-views.md)
    + [Ändra en butiks-URL](../site-management/change-store-url.md)
-   + [Inställningar för butikskarta](../site-management/site-map-setup.md)
    + [Leveranssätt](../site-management/shipping-delivery.md)
    + [Använd betaltjänster](../site-management/payment-services.md)
 + Kundhantering {#customers}
