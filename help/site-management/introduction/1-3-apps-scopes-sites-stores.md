@@ -1,13 +1,16 @@
 ---
 title: "[!DNL Commerce] för företagsanvändare - webbplatser, butiker och vyer"
-description: Lär dig grunderna i [!DNL Commerce] arkitektur, inklusive skillnaderna mellan webbplatser, butiker, butiksvyer och programomfång. Förstå indexering och cachelagring.
-topic: Commerce
+description: Lär dig grunderna i [!DNL Commerce] arkitektur, inklusive skillnaderna mellan webbplatser, butiker, butiksvyer och programomfång. Förstå indexering och cachning.
 kt: 5760
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System, Roles/Permissions
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 858451cc-cbc3-471e-a2f1-148f879aba82
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 79529c8d77df74e6f77ab3a01b45541a38dbf680
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -19,12 +22,12 @@ ht-degree: 0%
 I den här videon:
 
 - Grunderna i [!DNL Commerce] arkitektur, inklusive skillnaderna mellan webbplatser, butiker och butiksvyer
-- Begreppet tillämpningsområde
-- Översikt över indexering och cachning och hur [!DNL Commerce] hanterar dem
+- Begreppet programomfång
+- Översikt över indexering och cachelagring och hur [!DNL Commerce] hanterar dem
 
 ## Vem är den här videon till?
 
-- Företagsanvändare
+- Affärsanvändare
 
 ## Videoinnehåll
 
@@ -36,6 +39,6 @@ I den här videon:
 
 ## Ytterligare resurser
 
-[Webbplatser, butiker och vyer - [!DNL Commerce] Guiden Komma igång](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+[Webbplatser, butiker och vyer - [!DNL Commerce] Starthandbok](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
 
-[Omfångsinställningar- [!DNL Commerce] Guiden Komma igång](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html#scope-settings)
+[Omfångsinställningar- [!DNL Commerce] Starthandbok](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html#scope-settings)

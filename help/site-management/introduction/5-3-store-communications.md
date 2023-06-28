@@ -1,20 +1,23 @@
 ---
-title: "[!DNL Commerce] för företagsanvändare - E-postkommunikation"
-description: Kommunicera med kunderna med transaktionsmeddelanden som utlöses av deras åtgärder i butiken. Anpassa och konfigurera e-postmallarna för din butik.
-topic: Commerce
+title: "[!DNL Commerce] för företagsanvändare - e-postkommunikation"
+description: Kommunicera med kunderna med transaktionsmejl som triggas av deras handlingar i butiken. Anpassa och konfigurera e-postmallarna för din butik.
 kt: 5780
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System, Customers, Personalization
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 91530766-07be-4466-879b-1b7bfc14ac10
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] för företagsanvändare - E-postkommunikation
+# [!DNL Commerce] för företagsanvändare - e-postkommunikation
 
 I den här videon:
 
@@ -23,7 +26,7 @@ I den här videon:
 
 ## Vem är den här videon till?
 
-- Företagsanvändare
+- Affärsanvändare
 
 ## Videoinnehåll
 
@@ -35,6 +38,6 @@ I den här videon:
 
 ## Ytterligare resurser
 
-[E-postmallar - [!DNL Commerce] Användarhandbok för administratörssystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html)
+[E-postmallar - [!DNL Commerce] Handbok för adminsystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html)
 
-[Variabler och kundkommunikation - [!DNL Commerce] Användarhandbok för administratörssystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html#variables-and-customer-communications)
+[Variabler och kundkommunikation - [!DNL Commerce] Handbok för adminsystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html#variables-and-customer-communications)

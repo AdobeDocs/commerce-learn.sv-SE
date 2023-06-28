@@ -1,13 +1,16 @@
 ---
 title: "[!DNL Commerce] för företagsanvändare - Store settings"
 description: Lär dig mer om språkinställningar, lagra information, säkra och osäkra URL:er, webbplatsens titel, logotyp, copyrightinformation, e-postlogotyper för kommunikation, e-postadresser för butik, valutaalternativ och valutakurser.
-topic: Commerce
 kt: 5764
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: c4b78f66-26eb-4b7e-950d-f2a8ebab9783
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%

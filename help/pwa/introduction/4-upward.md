@@ -1,19 +1,23 @@
 ---
-title: PWA Studio för utvecklare - UPPÅT
-description: Läs mer om UPWARD (Unified Progressive Web App Response Definition).
-topic: Development
+title: PWA Studio för utvecklare - UPWARD
+description: Lär dig mer om UPWARD (Unified Progressive Web App Response Definition).
 kt: 5647
 doc-type: video
 activity: use
+last-substantial-update: 2023-5-28
+feature: GraphQL, REST, Tools and External Services
+topic: Commerce, Headless, Development
+role: Architect, Developer, User
+level: Beginner, Intermediate
 exl-id: 5c2c332a-62b0-4292-9a2d-760db0be882f
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 0%
 
 ---
 
-# PWA Studio för utvecklare - UPPÅT
+# PWA Studio för utvecklare - UPWARD
 
 I den här videon:
 
@@ -21,7 +25,7 @@ I den här videon:
 
 ## Vem är den här videon till?
 
-- Frontend-utvecklare
+- Utvecklare
 - Projektledare
 
 ## Videoinnehåll
