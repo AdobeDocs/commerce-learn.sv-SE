@@ -12,23 +12,19 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 9186ba11-180d-45ca-801a-a86547084cca
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 6b1bd8ff86b840cf8c16fcce20249eb547991022
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
 # Extensibility Framework for App Builder
 
-Om du vill lära dig hur du använder Adobe Commerce med Adobe Developer App Builder kan du titta på följande video som visar hur du använder Commerce-händelser med App Builder. Denna funktionsdemonstration beskriver hur integreringen fungerar och utforskar potentialen i App Builder. Den här demonstrationen ger en introduktion till utbyggbarhetsramverket, Commerce Eventing, och hur det används för att utveckla tillägget Amazon Sales Channel.
-
->[!IMPORTANT]
->
->Utbyggnaden av Amazon Sales Channel är fortfarande under utveckling och har inte officiellt släppts.  Dessa videor och självstudiekurser är avsedda att visa hur du använder Adobe Developer App Builder i ett praktiskt syfte.
+Denna funktionsdemonstration beskriver App Builder och dess potentiella användningsfall för Adobe Commerce. Den här videon ger en introduktion till ramverket för utbyggbarhet, viktiga kundfördelar och funktioner.
 
 ## App Builder för Adobe Commerce {#app-builder-extensibility}
 
->[!VIDEO](https://video.tv.adobe.com/v/3413328?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413328?learn=on)
 
 {{$include /help/_includes/app-builder-related-links.md}}
