@@ -3,9 +3,9 @@ user-guide-title: Videor och Tutorials
 user-guide-description: Läs om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och Tutorials
 solution: Commerce
-source-git-commit: 38fcf6e2f618fe8014ffa71f937087fe2b39248c
+source-git-commit: 09f807bfb9917e892e53c984e03e63d9ddd277a3
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '526'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
       + [1 - Översikt](../cloud/1-overview.md)
       + [2 - Värdbaserade konton](../cloud/2-accounts.md)
       + [3 - Molnprojekt](../cloud/3-projects.md)
-      + [4 - Driftsättning](../cloud/4-deployment.md)
+      + [4 - Distribution](../cloud/4-deployment.md)
       + [5 - Utveckling](../cloud/5-dev-config.md)
       + [6 - Tjänster och DNS](../cloud/6-launch.md)
 + GraphQL och REST {#graphql-rest}
@@ -35,12 +35,12 @@ ht-degree: 0%
    + [Teknisk översikt för App Builder](../app-builder/app-builder-technical-overview.md)
    + [Skicka app till Marketplace](../app-builder/submit-app-process.md)
    + Bygg din första App Builder-app {#first-app}
-      + [Översikt](../app-builder/first-app/overview.md)
+      + [Ökning](../app-builder/first-app/overview.md)
       + [Generera och konfigurera .env-filen](../app-builder/first-app/env-file.md)
       + [Beskrivning och användning av filen app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
       + [Läs mer om åtgärdsmappen](../app-builder/first-app/actions-folder.md)
       + [Läs mer om testmappen](../app-builder/first-app/test-folder.md)
-      + [Identifiera syftet med webbmappen](../app-builder/first-app/web-src-folder.md)
+      + [Upptäck syftet med webbmappen](../app-builder/first-app/web-src-folder.md)
       + [Testa lokalt](../app-builder/first-app/testing-locally.md)
       + [Testa med App Builder-URL](../app-builder/first-app/testing-app-builder-url.md)
       + [Slutsats](../app-builder/first-app/conclusion.md)
@@ -62,7 +62,7 @@ ht-degree: 0%
    + [Hantera användarroller och behörigheter](../site-management/users-roles-permissions.md)
    + [Autentisering med två faktorer](../site-management/two-factor-authentication.md)
    + [Hantera valuta- och skatteregler](../site-management/currency-tax-rules.md)
-   + [Lägg till webbplatser, butiker och butiksvyer](../site-management/add-websites-stores-views.md)
+   + [Lägga till webbplatser, butiker och butiksvyer](../site-management/add-websites-stores-views.md)
    + [Ändra en butiks-URL](../site-management/change-store-url.md)
    + [Leveranssätt](../site-management/shipping-delivery.md)
    + [Använd betaltjänster](../site-management/payment-services.md)
@@ -88,7 +88,7 @@ ht-degree: 0%
    + [Innehållsmellanlagring](../site-management/content-staging.md)
    + [Hantera mediegalleriet](../site-management/media-gallery.md)
 + Marknadsföringsverktyg {#marketing}
-   + [Skapa katalogprisregler](../site-management/catalog-price-rules.md)
+   + [Skapa prisregler för kataloger](../site-management/catalog-price-rules.md)
    + [Skapa kundprisregler](../site-management/cart-price-rules.md)
    + [Hantera relaterade produktregler](../site-management/related-product-rules.md)
    + [Konfigurera Recommendations](../site-management/product-recommendations.md)
@@ -108,7 +108,7 @@ ht-degree: 0%
       + [Offertvalidering från administratör](../b2b/quote-validation-admin-panel.md)
       + [Säljaren initierar offerten REST API](../b2b/sales-rep-initiates-quote-api.md)
       + [Rabatter för offertradobjekt](../b2b/quote-line-item-discount.md)
-      + [Noteringar för offertradobjekt](../b2b/quote-line-item-notes.md)
+      + [Noteringar för offertrader](../b2b/quote-line-item-notes.md)
       + [Rabatt för offertradobjekt GraphQL](../b2b/quote-graphql-line-item-discount.md)
       + [Offertradartikelrabatt REST API](../b2b/quote-rest-api-line-item-notes.md)
 + Verktyg och externa tjänster {#tools}
@@ -118,9 +118,9 @@ ht-degree: 0%
    + New Relic {#new-relic}
       + [Hitta en skadlig IP-adress](../new-relic/malicious-ip.md)
 + Commerce Intelligence {#mbi}
-   + [Filteruppsättningar](../business-intelligence/filter-sets.md)
+   + [Filteruppsättning](../business-intelligence/filter-sets.md)
    + [Kohort Report Builder](../business-intelligence/cohort-report-builder.md)
-   + [SQL Report Builder](../business-intelligence/sql-report-builder.md)
+   + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [Framtidsförberedande](../business-intelligence/prepare-for-future.md)
 + Commerce Upgrades {#upgrade}
    + [Adobe Commerce 2.4 Upgrade Workshop](../upgrade/2.4-upgrade-workshop.md)
@@ -133,6 +133,7 @@ ht-degree: 0%
    + [Lägg till ett produktattribut](../backend-development/add-product-attribute.md)
    + [Exempel på beroendeinjektion](../backend-development/dependency-injection.md)
    + [Långsam replikering för Galera Cluster](../backend-development/galera-db-slow-replication.md)
+   + [MySQL-frågecache](../backend-development/mysql-query-cache.md)
 + Luma-utveckling för Frontend {#frontend-development}
    + Page Builder för utvecklare {#page-builder}
       + [1 - Introduktion](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -143,13 +144,12 @@ ht-degree: 0%
       + [6 - Anpassade innehållstyper](../frontend-development/page-builder/6-custom-content-types.md)
    + [Lägga till en JavaScript-modul](../frontend-development/add-javascript-module.md)
    + [Skapa en sida](../frontend-development/create-page.md)
-
 + Headless Architecture {#headless-architecture}
    + Introduktion till headless {#introduction-to-headless}
       + [Headless Architecture - Session 1](../headless/session-1.md)
    + Introduktion till PWA Studio {#introduction}
       + [1 - Översikt](../pwa/introduction/1-overview.md)
-      + [2 - PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
+      + [2 - PWA STUDIO](../pwa/introduction/2-pwa-studio-tools.md)
       + [3 - Starta](../pwa/introduction/3-launch.md)
       + [4 - UPPÅT](../pwa/introduction/4-upward.md)
       + [5 - Komma igång](../pwa/introduction/5-getting-started.md)
