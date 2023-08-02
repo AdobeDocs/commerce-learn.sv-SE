@@ -3,9 +3,9 @@ user-guide-title: Videor och Tutorials
 user-guide-description: Läs om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och Tutorials
 solution: Commerce
-source-git-commit: 09f807bfb9917e892e53c984e03e63d9ddd277a3
+source-git-commit: 925f3581757548393ada567d523aedab24d1527d
 workflow-type: tm+mt
-source-wordcount: '526'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,6 @@ ht-degree: 0%
    + [Skapa kundattribut](../site-management/customer-attributes.md)
    + [Säljassisterade inköp](../site-management/seller-assisted-shopping.md)
 + Kataloghantering {#catalog}
-   + [Katalogtjänst för Adobe Commerce](../site-management/catalog-service.md)
    + [Skapa en kategori](../site-management/category-create.md)
    + [Hantera produkter i en kategori](../site-management/category-products.md)
    + [Inventory management](../site-management/inventory-management.md)
