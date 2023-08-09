@@ -1,8 +1,8 @@
 ---
 title: filen app.config.yaml
 description: Lär dig mer om filtyperna i filen app.config.yaml för det här exempelprogrammet.
-landing-page-description: Lär dig mer om Adobe Developer App Builder som används med Adobe Commerce och vilka typer av filer som finns i app.config.yaml.
-kt: 12426
+landing-page-description: Läs om Adobe Developer App Builder som används med Adobe Commerce och vilka typer av filer som finns i app.config.yaml.
+kt: 12429
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-3-13
@@ -11,7 +11,7 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: ff5f1811-ca93-494e-8e5c-a5e0c7bb673d
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: ee3e25c0b697f2e434f866932771cb7e4084fd9e
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
