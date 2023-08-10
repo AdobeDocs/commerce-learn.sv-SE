@@ -1,19 +1,20 @@
 ---
 title: Säljaren initierar B2B-offerten med REST API
-description: Läs om hur säljaren kan initiera offerten från Adobe Commerce REST API.
+description: Lär dig hur säljaren kan initiera offerten från Adobe Commerce REST API.
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B for Adobe Commerce" type="Positive"
+kt: 13797
+badge: label="B2B för Adobe Commerce" type="Positive"
 last-substantial-update: 2023-6-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 6ec1952f-3c8f-4159-a3a9-d02abcd6c1d4
-source-git-commit: ff0ae0d4df028341967b1e0f186e85d83c56ece4
+source-git-commit: eb39133e0cf36785745b13ae7c11e0ad0ff3bf14
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -21,7 +22,7 @@ ht-degree: 0%
 # Säljaren initierar offerten med REST API
 
 {{b2b-feature}}
-Läs om hur säljaren kan initiera offerten från Adobe Commerce REST API.
+Lär dig hur säljaren kan initiera offerten från Adobe Commerce REST API.
 
 ## Vem är den här videon till?
 
