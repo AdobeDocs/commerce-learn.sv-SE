@@ -7,7 +7,8 @@ index: y
 type: Tutorial
 solution: Commerce
 feature-set: Commerce
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+product: Magento
+source-git-commit: 757e7746c6000dbe46b3e2b343a65815e87d3ab1
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -27,7 +28,7 @@ Filen metadata.md innehåller metadata på postnivå som skickas till TOC.md-fil
 | getting-started-url | Länk till hjälpsidan Komma igång |
 | tutorials-url | Länka till videosjälvstudiekurser - antingen hjälpstudiekurser eller självstudiekurser på engelska |
 | mini-toc-nivåer | Anger antalet rubriknivåer som visas i den högra listen. standard är 2 |
-| git-repo | Anger platsen för den överordnad rapporten för intern användning |
+| git-repo | Anger platsen för huvudrapporten för intern användning |
 
 I filen TOC.md
 
