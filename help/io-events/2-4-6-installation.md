@@ -1,5 +1,5 @@
 ---
-title: Lär dig hur du installerar IO-händelser för Adobe Commerce 2.4.6
+title: Lär dig installera IO-händelser för Adobe Commerce 2.4.6
 description: Lär dig hur du installerar moduler som behövs för IO-händelser i Adobe Commerce 2.4.6 för användning i Adobe Developer App Builder
 landing-page-description: Lär dig hur du installerar flera moduler som behövs för Adobe Commerce 2.4.6.
 short-description: Lär dig hur du installerar flera moduler som behövs för Adobe Commerce 2.4.6.
@@ -22,17 +22,17 @@ ht-degree: 0%
 
 # Installation av Adobe Commerce 2.4.6
 
-Lär dig hur du installerar flera nya moduler i Adobe Commerce med Composer för version 2.4.6. Ytterligare dokumentation finns på [Installera Adobe I/O-händelser för Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Lär dig installera flera nya moduler i Adobe Commerce med Composer för version 2.4.6. Ytterligare dokumentation finns på [Installera Adobe I/O-händelser för Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Vem är den här videon till?
 
-* Utvecklare som är nybörjare i Adobe Commerce och Adobe Developer App Builder med I/O Events.
+* Utvecklare som är nya i Adobe Commerce och Adobe Developer App Builder med I/O Events.
 
 ## Videoinnehåll {#video-content}
 
 * Kommandon som ska köras för lokal värdtjänst
 * Kommandon som ska köras för Adobe Commerce Cloud
-* Redigering krävs för Adobe Commerce Cloud
+* Redigering krävs för Adobe Commerce Cloud-ljud
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415795?quality=12&learn=on)
 

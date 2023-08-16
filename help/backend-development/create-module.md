@@ -76,11 +76,11 @@ Nästa steg är att lägga till vissa funktioner i vår grundläggande modul. En
 - inaktiverad och sortOrder är valfria
 - Plugin-programmets omfång anges av mappen som det finns i
 - Plugin-program kan köras före, efter eller båda (runt) när metoden anropas
-- Undvik att använda `around` plugin-program. De är frestande att använda, men är ofta fel val och kommer att leda till prestandaproblem.
+- Undvik användning `around` plugins. De är frestande att använda, men är ofta fel val och kommer att leda till prestandaproblem.
 
 ### Plugin-kodexempel
 
-Här är de XML- och PHP-klasser som används i självstudiekursen för att lägga till ett plugin-program i den första modulen
+Här är de XML- och PHP-klasser som används i självstudien för att lägga till ett plugin-program i den första modulen
 
 ### app/code/Training/Sales/etc/adminhtml/di.xml
 

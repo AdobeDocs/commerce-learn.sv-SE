@@ -1,5 +1,5 @@
 ---
-title: stödlinjens titel
+title: guide title
 seo-title: seo title
 description: beskrivning av guiden
 seo-description: seo-description
@@ -11,26 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Översikt {#overview}
+# Ökning {#overview}
 
 En översikt på 1-2 meningar om produkten som den här användarhandboken centreras på. Den här användarhandboken innehåller videor och självstudiekurser om de många funktionerna och funktionerna i *xyz*.
 
 ## Nyheter
 
 * **[En video med nya funktioner (video)](README.md)**
-
-   <br>
-   *Läs mer om den här nya coola funktionen.*
+  <br>
+  *Läs mer om den här nya coola funktionen.*
 
 * **[En video med nya funktioner (video)](README.md)**
-
-   <br>
-   *Läs mer om den här nya coola funktionen.*
+  <br>
+  *Läs mer om den här nya coola funktionen.*
 
 * **[En ny artikel (artikel)](README.md)**
-
-   <br>
-   *Klicka här om du vill läsa mer om funktionen xyz!*
+  <br>
+  *Klicka här om du vill läsa mer om funktionen xyz!*
 
 ## Personalval
 

@@ -22,7 +22,7 @@ ht-degree: 0%
 I den här videon:
 
 - Introduktion till PWA Studio
-- PWA-verktyg
+- PWA verktyg
 
 ## Vem är den här videon till?
 

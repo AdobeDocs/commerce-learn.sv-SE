@@ -1,18 +1,18 @@
 ---
-user-guide-title: Videor och Tutorials
-user-guide-description: Läs om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
-breadcrumb-title: Videor och Tutorials
+user-guide-title: Videor och självstudiekurser
+user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
+breadcrumb-title: Videor och självstudiekurser
 source-git-commit: 9dcbee360b0c25b83116ff5b1379052cf9b8fa62
 workflow-type: tm+mt
 source-wordcount: '527'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
 
 # Adobe Commerce Videos och Tutorials {#tutorials}
 
-+ [[!DNL Commerce] Tutorials](overview.md)
++ [[!DNL Commerce] Självstudiekurser](overview.md)
 + Komma igång {#getting-started}
    + [!DNL Commerce] Cloud{#cloud}
       + [1 - Översikt](../cloud/1-overview.md)

@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Adobe Commerce villkorsstyrda evenemang
 
-Lär dig mer om villkorliga händelser i Adobe Commerce som kan användas i Adobe Developer App Builder. Ytterligare dokumentation finns på [Installera Adobe I/O-händelser för Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/conditional-events/){target="_blank"}.
+Läs om villkorliga händelser i Adobe Commerce som kan användas i Adobe Developer App Builder. Ytterligare dokumentation finns på [Installera Adobe I/O-händelser för Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/conditional-events/){target="_blank"}.
 
 ## Vem är den här videon till?
 
@@ -31,7 +31,7 @@ Lär dig mer om villkorliga händelser i Adobe Commerce som kan användas i Adob
 
 * Läs om villkorliga händelser
 * Lär dig hur du använder den nya XML-filen io_events.xml
-* Lär dig konfigurera villkorliga händelser
+* Lär dig hur du konfigurerar villkorliga händelser
 * Definiera regler för användning i villkorshändelser
 * Lär dig hur du registrerar händelser i Commerce-instanser `app/etc/config.php`
 

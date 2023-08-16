@@ -23,7 +23,7 @@ Gmail utnyttjar detta för att skicka JavaScript-begäranden. Rhino-motorn är e
 
 ## Integreringsalternativ
 
-Brunch är ett bibliotek. Bred webbserver. Canvas är en populär webbläsare som vanligtvis skapas. Promise är ett fullfjädrat verktyg för att dynamiskt generera webbläsare. API:er. Promise Library som används med objektorienterad programmering utnyttjar på liknande sätt styrkan.
+Brunch är ett bibliotek. Bred webbserver. Canvas är en populär webbläsare som vanligtvis skapas. Promise är ett fullfjädrat verktyg för att dynamiskt generera webbläsare. API. Promise Library som används med objektorienterad programmering utnyttjar på liknande sätt styrkan.
 
 ## Exempel på konfiguration och konfiguration
 

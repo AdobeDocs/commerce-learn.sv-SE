@@ -21,7 +21,7 @@ ht-degree: 0%
 
 En fulldemonstration av Adobe Live Search.
 
-## Vad du kan förvänta dig av att titta på den här videon
+## Vad du kan förvänta dig av att titta på videon
 
 Lär dig hur du använder konfigurationer och inställningar för Adobe Live Search. Få en bättre förståelse för ansikten, rapporter och synonymer.
 

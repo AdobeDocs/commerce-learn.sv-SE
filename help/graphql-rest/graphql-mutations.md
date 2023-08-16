@@ -82,7 +82,7 @@ Slutligen kanske du får ett svar som det här:
 }
 ```
 
-Det viktigaste att notera är att med det ovanstående exemplet är det, förutom att `mutation` nyckelord i stället för `query`är syntaxen identisk med en fråga. På samma sätt som i frågor innehåller mutationen:
+Det viktigaste att notera är att med det här exemplet är det att förutom att använda `mutation` nyckelord i stället för `query`är syntaxen identisk med en fråga. På samma sätt som i frågor innehåller mutationen:
 
 * Ett godtyckligt åtgärdsnamn (`doAddToCart`)
 * En lista med variabler (till exempel `$cartId`)

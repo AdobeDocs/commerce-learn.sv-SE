@@ -38,4 +38,4 @@ I den här videon:
 
 ## Ytterligare resurser
 
-[Översikt över produktattribut - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+[Produktattribut - översikt [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)

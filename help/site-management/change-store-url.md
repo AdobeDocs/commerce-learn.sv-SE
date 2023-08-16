@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Ändra en butiks-URL
 
-Varje webbplats i en Adobe Commerce- eller Magento Open Source-installation har en bas-URL som är tilldelad butiken och en annan URL som är tilldelad administratören. Du kan följa några enkla steg för att ändra bas-URL:en för din butik.
+Varje webbplats i en Adobe Commerce- eller Magento Open Source-installation har en bas-URL som är tilldelad butiken och en annan URL som är tilldelad administratören. Du kan ändra bas-URL:en för din butik med några enkla steg.
 
 ## Vem är den här videon till?
 

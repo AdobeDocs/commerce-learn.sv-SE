@@ -1,8 +1,8 @@
 ---
 title: Kom igång med API Mesh
-description: Upptäck hur du använder API Mesh på Adobe Commerce och [!DNL Adobe App Builder]. Lär dig hur du installerar Adobe App Builder, arbetar med projekt, skapar en omvänd grafisk proxy och mycket mer.
-landing-page-description: Upptäck hur du använder API Mesh på Adobe Commerce och [!DNL Adobe App Builder]. Lär dig hur du installerar Adobe IO, arbetar med projekt, skapar en grafisk omvänd proxy och mycket mer.
-short-description: Upptäck hur du använder API Mesh på Adobe Commerce och [!DNL Adobe App Builder]. Lär dig hur du installerar Adobe IO, arbetar med projekt, skapar en grafisk omvänd proxy och mycket mer.
+description: Upptäck hur du använder API Mesh i Adobe Commerce och [!DNL Adobe App Builder]. Lär dig hur du installerar Adobe App Builder, arbetar med projekt, skapar en grafisk omvänd proxy och mycket annat.
+landing-page-description: Upptäck hur du använder API Mesh i Adobe Commerce och [!DNL Adobe App Builder]. Lär dig hur du installerar Adobe IO, arbetar med projekt, skapar en grafisk omvänd proxy och mycket annat.
+short-description: Upptäck hur du använder API Mesh i Adobe Commerce och [!DNL Adobe App Builder]. Lär dig hur du installerar Adobe IO, arbetar med projekt, skapar en grafisk omvänd proxy och mycket annat.
 kt: 11802
 doc-type: tutorial
 audience: all
@@ -15,7 +15,7 @@ exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '331'
-ht-degree: 0%
+ht-degree: 23%
 
 ---
 

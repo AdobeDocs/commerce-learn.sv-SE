@@ -1,6 +1,6 @@
 ---
 title: Adobe Commerce om molninfrastruktur - driftsättning
-description: Lär dig mer om distributionsfaser och skript. Förstå hur driftsättningsprocessen fungerar utifrån ​.
+description: Läs mer om distributionsfaser och skript. Förstå hur driftsättningsprocessen fungerar utifrån ​.
 kt: 5659
 doc-type: video
 audience: all

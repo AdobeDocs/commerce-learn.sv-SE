@@ -1,5 +1,5 @@
 ---
-title: Page Builder for developers - Konfiguration och innehållsanpassning
+title: Page Builder för utvecklare - Konfiguration och innehållsanpassning
 description: Konfigurera och konfigurera ​ i Page Builder. Förstå arbetsytan ​ i Page Builder. Förstå och använd innehållstyper - layout, Elements, media och andra ​. Lägg till kataloginnehåll med Page Builder.
 kt: 5651
 doc-type: video
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ---
 
-# Page Builder for developers - Konfiguration och innehållsanpassning
+# Page Builder för utvecklare - Konfiguration och innehållsanpassning
 
 I den här videon:
 

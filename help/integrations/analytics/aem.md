@@ -23,11 +23,11 @@ ht-degree: 0%
 
 &quot;För dig skulle jag kasta över vem som helst, Duchess&quot;, sa Lord Henry med en båge.
 
-&quot;Ah! det är väldigt snällt och mycket fel av dig&quot;, grät hon &quot;så kom du&quot;, och hon rymde från rummet, följt av Lady Agatha och de andra damerna.
+&quot;Ah! det är mycket snällt och mycket fel av dig&quot;, grät hon; &quot;så sinn att du kommer&quot;; och hon svept ut ur rummet, följt av Lady Agatha och de andra damerna.
 
 När Lord Henry hade satt sig ner igen, flyttade herr Erskine runt och tog en stol nära honom, lade sin hand på sin arm.
 
-&quot;Du pratar böcker bort&quot;, sade han. &quot;Varför skriver du inte en?&quot;
+&quot;Du pratar böcker bort&quot;, sa han, &quot;varför skriver du inte en?&quot;
 
 ## Integreringsalternativ
 

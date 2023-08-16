@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Lägga till webbplatser, butiker och butiksvyer
 
-Alla installationer av Adobe Commerce och Magento Open Source har stöd för en hierarki av webbplatser, butiker och butiksvyer. Bygg och expandera hierarkin utifrån företagets behov.
+Alla installationer av Adobe Commerce och Magento Open Source har stöd för en hierarki av webbplatser, butiker och butiksvyer. Bygg och expandera hierarkin utifrån verksamhetens behov.
 
 ## Vem är den här videon till?
 

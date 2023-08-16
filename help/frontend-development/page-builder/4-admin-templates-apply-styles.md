@@ -1,6 +1,6 @@
 ---
 title: Page Builder för utvecklare - mallar och format
-description: "[!DNL Admin] och scentemauppgifter. Skapa [!DNL Admin] ​. Använd format på innehållstyper på scenen (direktförhandsvisning)."
+description: "[!DNL Admin] och scenens temauppgifter. Skapa [!DNL Admin] ​. Använd format på innehållstyper på scenen (direktförhandsvisning)."
 kt: 5653
 doc-type: video
 activity: use

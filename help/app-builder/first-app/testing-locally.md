@@ -1,7 +1,7 @@
 ---
 title: Testa lokalt
-description: Lär dig hur du testar din första Adobe Developer App Builder-app.
-landing-page-description: Lär dig hur du testar din första Adobe Developer App Builder-app.
+description: Lär dig testa din första Adobe Developer App Builder-app.
+landing-page-description: Lär dig testa din första Adobe Developer App Builder-app.
 kt: 12427
 doc-type: tutorial
 audience: all

@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Översikt över Adobe Commerce historia och hur man har börjat ge fullt stöd åt headless.  Fördelarna med headless-arkitektur är till exempel paritet mellan kontaktpunkter, separation av utvecklingsaktiviteter, förbättrad skalbarhet och mycket annat.
 
-## Vad du kan förvänta dig av att titta på den här videon
+## Vad du kan förvänta dig av att titta på videon
 
 Läs vad som är headless och hur stöder Adobe Commerce helt headless-arkitektur.
 
@@ -34,7 +34,7 @@ Läs vad som är headless och hur stöder Adobe Commerce helt headless-arkitektu
 * Frikopplad front från serverdelen
 * Vad är ett API?
 * Flera headless-metoder
-* Förklaring av den disponibla handeln
+* Förklaring av den disponibla e-handeln
 * Adobe Commerce är först API, men inte bara API
 * Behörigheter att tänka på innan man går med i headless commerce
 

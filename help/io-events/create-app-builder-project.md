@@ -1,5 +1,5 @@
 ---
-title: Lär dig hur du skapar ett App Builder-projekt med Commerce Events
+title: Lär dig skapa ett App Builder-projekt med Commerce Events
 description: Lär dig hur du skapar ett App Builder-projekt som ska användas med Commerce-händelser
 landing-page-description: Lär dig hur du skapar ett Adobe App Builder-projekt för Adobe Commerce-händelser
 short-description: Lär dig hur du skapar ett Adobe App Builder-projekt för Adobe Commerce-händelser

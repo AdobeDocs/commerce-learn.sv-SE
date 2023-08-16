@@ -1,5 +1,5 @@
 ---
-title: GraphQL- och REST-relaterade sidor
+title: GraphQL och REST relaterade sidor
 description: Länkar till relaterade sidor i GraphQL REST-avsnittet
 source-git-commit: 52bd3fff8ad3aa09a9aaa09aa458c8cbb54be06e
 workflow-type: tm+mt

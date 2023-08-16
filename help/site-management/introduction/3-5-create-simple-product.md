@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] för företagsanvändare - enkla produkter"
-description: Lär dig hur du skapar en enkel produkt med produktattributuppsättningar.
+description: Lär dig skapa en enkel produkt med produktattributuppsättningar.
 kt: 5771
 doc-type: video
 activity: use

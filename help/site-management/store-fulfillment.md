@@ -27,9 +27,9 @@ Store Fulfillment for Adobe Commerce av Walmart Commerce Technologies levererar 
 I den här videon får du en snabb översikt över BOPIS-upplevelsen från början till slut i Store med alternativ för hämtning i butik och på utsidan.
 
 - Se när en kund skickar in en inköpsorder:
-   - Bläddra i onlinebutikskatalogen.
+   - Sök i onlinebutikskatalogen.
    - Välj objekt för butiksupphämtning.
-   - Hitta och välj en butiksplats med tillgängligt lager.
+   - Hitta och välj en butiksplats med tillgängligt arkiv.
    - Kolla in och anpassa alternativen för butiksupphämtning.
    - Beställ.
 - Se hur en butiksanställd och kund går igenom hela orderprocessen med mobilappen som finns i Store Fulfillment-lösningen.
@@ -43,10 +43,10 @@ I den här videon får du en snabb översikt över BOPIS-upplevelsen från börj
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar Store Fulfillment solution 1.0 som är installerad på en butiksskylt med Adobe Commerce 2.4. Se [Butiksuppfyllelse - användarhandbok](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html) för den senaste informationen.
+>Innehållet i videon återspeglar Store Fulfillment solution 1.0 som är installerad på en butiksskylt med Adobe Commerce 2.4. Se [Användarhandbok för att uppfylla kraven](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html) för den senaste informationen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343653?quality=12&learn=on)
 
 ## Ytterligare resurser
 
-[Butiksuppfyllelse - användarhandbok](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html)
+[Användarhandbok för att uppfylla kraven](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html)

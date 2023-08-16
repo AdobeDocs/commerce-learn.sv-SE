@@ -1,6 +1,6 @@
 ---
 title: Page Builder för utvecklare - anpassade innehållstyper
-description: Lär dig hur du anpassar och skapar innehållstyper. Förstå stegen som krävs för att skapa en ​. Förstå stegen som krävs för att utöka en befintlig innehållstyp.
+description: Lär dig att anpassa och skapa innehållstyper. Förstå stegen som krävs för att skapa en ​. Förstå stegen som krävs för att utöka en befintlig innehållstyp.
 kt: 5655
 doc-type: video
 activity: use

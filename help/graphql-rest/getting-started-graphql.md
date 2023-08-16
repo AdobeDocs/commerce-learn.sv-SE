@@ -1,8 +1,8 @@
 ---
 title: Kom igång med GraphQL
-description: Upptäck hur du använder GraphQL på Adobe Commerce och [!DNL Magento Open Source]. Lär dig hur du använder frågor, mutationer och scheman.
-landing-page-description: Upptäck hur du använder GraphQL på Adobe Commerce och [!DNL Magento Open Source]. Lär dig hur du använder frågor, mutationer och scheman.
-short-description: Upptäck hur du använder GraphQL på Adobe Commerce och [!DNL Magento Open Source]. Lär dig hur du använder frågor, mutationer och scheman.
+description: Upptäck hur du använder GraphQL i Adobe Commerce och [!DNL Magento Open Source]. Läs mer om hur du använder frågor, mutationer och scheman.
+landing-page-description: Upptäck hur du använder GraphQL i Adobe Commerce och [!DNL Magento Open Source]. Läs mer om hur du använder frågor, mutationer och scheman.
+short-description: Upptäck hur du använder GraphQL i Adobe Commerce och [!DNL Magento Open Source]. Läs mer om hur du använder frågor, mutationer och scheman.
 kt: 11524
 doc-type: tutorial
 audience: all
@@ -15,7 +15,7 @@ exl-id: b799bd7b-11a4-4a1c-b2f4-893f6ff2994d
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 44%
 
 ---
 

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Hantera leverans- och leveransmetoder
 
-Att hantera leverans- och leveransmetoder är avgörande för att ni ska kunna ge era kunder tillgång till produkten. I den här videon får du lära dig hur du hanterar leveransursprung, multifrakt, leveransavgift och transportföretagsinställningar.
+Att hantera leverans- och leveransmetoder är avgörande för att ni ska kunna ge era kunder tillgång till produkten. I den här videon får du lära dig hur du hanterar leveransursprung, multileverans, leveransavgift och transportföretagsinställningar.
 
 ## Vem är den här videon till?
 

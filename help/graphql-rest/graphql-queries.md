@@ -114,7 +114,7 @@ Exemplet ovan bygger på det färdiga GraphQL-schemat för Adobe Commerce som de
 
 >[!NOTE]
 >
->GraphQL-klienter missar formen på den faktiska HTTP-begäran som skickas, men detta är lätt att upptäcka. Om du använder en webbläsarbaserad klient bör du följa [!UICONTROL Network] när en fråga skickas. Du ser att begäran innehåller en obearbetad text som består av&quot;query: `{string}`&quot;, var `{string}` är bara råsträngen för hela frågan. Om begäran skickas som GET kan frågan kodas i frågesträngsparametern &quot;query&quot; i stället. Till skillnad från med REST spelar HTTP-begärandetypen ingen roll, bara innehållet i frågan.
+>GraphQL-klienter missar formen på den faktiska HTTP-begäran som skickas, men detta är lätt att upptäcka. Om du använder en webbläsarbaserad klient bör du titta på [!UICONTROL Network] när en fråga skickas. Du ser att begäran innehåller en obearbetad text som består av&quot;query: `{string}`&quot;, var `{string}` är bara råsträngen för hela frågan. Om begäran skickas som GET kan frågan kodas i frågesträngsparametern &quot;query&quot; i stället. Till skillnad från med REST spelar HTTP-begärandetypen ingen roll, bara innehållet i frågan.
 
 
 ## Frågar efter det du vill ha
@@ -126,17 +126,17 @@ På samma sätt anger frågan exakt vilka fält som ska användas för båda `co
 
 >[!NOTE]
 >
->Du kan lägga märke till att returvärdet för `items` är faktiskt en _array_ av värden, men du väljer ändå delfält direkt för den. När fälttypen är en lista förstår GraphQL undermarkeringar som ska användas på varje objekt i listan.
+>Du kan märka att returvärdet för `items` är faktiskt en _array_ av värden, men du väljer ändå delfält direkt för den. När fälttypen är en lista förstår GraphQL undermarkeringar som ska användas på varje objekt i listan.
 
 ## Argument
 
-De fält som du vill returnera anges inom klammerparenteserna för varje typ, men namngivna argument och värden för dem anges inom parenteser efter typnamnet. Argument är ofta valfria och påverkar ofta hur frågeresultaten filtreras, formateras eller omformas.
+De fält som du vill returnera anges inom klammerparenteserna för varje typ, men namngivna argument och värden för dem anges inom parenteser efter typnamnet. Argumenten är ofta valfria och påverkar ofta hur frågeresultaten filtreras, formateras eller omformas.
 
 Du skickar en `id` argument till `country`, och specificera vilket land som ska frågas, och `filters` argument för `categories`.
 
 ## Fält hela vägen ned
 
-Medan du kanske tänker på `country` och `categories` som separata frågor eller entiteter består hela trädet som uttrycks i frågan i själva verket bara av fält. Uttrycket för `products` är syntaktiskt lika med `categories`. Båda är fält och det är ingen skillnad på deras konstruktion.
+Medan du kanske tänker på `country` och `categories` som separata frågor eller entiteter består hela trädet som uttrycks i frågan i själva verket av ingenting annat än fält. Uttrycket för `products` är syntaktiskt lika med `categories`. Båda är fält och det är ingen skillnad på deras konstruktion.
 
 Alla GraphQL-datagrafer har en enda &quot;rottyp&quot; (kallas vanligtvis `Query`) för att starta trädet, och de typer som ofta betraktas som entiteter tilldelas till fält i den här roten. Exempelfrågan skapar en allmän fråga för rottypen och markerar fälten `country` och `categories`. Sedan väljs delfält för dessa fält, och så vidare, som kan vara flera nivåer djupa. Om returtypen för ett fält är en komplex typ (till exempel en med egna fält i stället för en skalär typ) fortsätter du att markera de fält du vill ha.
 
@@ -144,7 +144,7 @@ Det här konceptet med kapslade fält är också anledningen till att du kan ski
 
 ![GraphQL Field Tree](../assets/graphql-field-tree.png)
 
-## Variabler
+## Variabel
 
 Låt oss testa en annan fråga:
 
@@ -170,7 +170,7 @@ fragment productDetails on ProductInterface {
 }
 ```
 
-Det första att notera är det nya nyckelordet `query` före frågans inledande parentes, tillsammans med ett åtgärdsnamn (`getProducts`). Operationsnamnet är godtyckligt. det motsvarar ingenting i serverschemat. Den här syntaxen lades till för att stödja introduktionen av variabler.
+Det första att notera är det nya nyckelordet `query` före frågans inledande parentes, tillsammans med ett åtgärdsnamn (`getProducts`). Det här åtgärdsnamnet är godtyckligt. Det motsvarar ingenting i serverschemat. Den här syntaxen lades till för att stödja introduktionen av variabler.
 
 I föregående fråga får du hårdkodade värden för argumenten i fälten direkt, som strängar eller heltal. GraphQL-specifikationen har dock förstklassigt stöd för att separera användarindata från huvudfrågan med hjälp av variabler.
 

@@ -1,6 +1,6 @@
 ---
 title: App Builders skapar din första app
-description: Lär dig mer om Adobe Developer App Builder med Adobe Commerce och skapa din första app.
+description: Läs om Adobe Developer App Builder med Adobe Commerce och skapa din första app.
 landing-page-description: Lär dig mer om Adobe Developer App Builder som används med Adobe Commerce och skapa din första app.
 kt: 12421
 doc-type: tutorial
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Översikt {#overview}
+# Ökning {#overview}
 
 Den här självstudiekursen innehåller följande krav:
 
@@ -29,13 +29,13 @@ Den här självstudiekursen innehåller följande krav:
 * [Adobe Developer App Builder-arbetsytorna har skapats - steg 2.6](https://developer.adobe.com/app-builder/docs/getting_started/first_app/#2-creating-a-new-project-on-developer-console){target="_blank"}
 * [AIO CLI-kommandona för att initiera projektet och köra har körts](https://developer.adobe.com/runtime){target="_blank"}
 
-Mer information om hur du skapar ditt första App Builder-program finns i följande blogginlägg som du kan använda till att skapa den här första konfigurationen och konfigurationen [Hur App Builder hjälper er att utveckla affärsflexibiliteten för e-handelsplattformen](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
+Mer information om hur du skapar ditt första App Builder-program finns i följande blogginlägg som du kan använda till att konfigurera och konfigurera den första [Hur App Builder hjälper er att utveckla affärsflexibiliteten för e-handelsplattformen](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
 
-## Vad du kan förvänta dig av att läsa den här självstudiekursen
+## Vad du kan förvänta dig av den här självstudiekursen
 
-När du är klar med den här självstudiekursen bör du ha ett enkelt ensidigt program som kommunicerar med Adobe Commerce för att dra igång orderhistorik och produkter. De här avsnitten behandlar funktionaliteten i App Builder med kodexempel och instruktioner. När du har tittat på de här videorna sparar du förhoppningsvis lite utvecklingstid och inspirerar till andra idéer och uppmuntrar till att börja med en utveckling som inte har bearbetats.
+När du är klar med den här självstudiekursen bör du ha ett enkelt ensidigt program som kommunicerar med Adobe Commerce för att dra igång orderhistorik och produkter. De här avsnitten handlar om funktionaliteten i App Builder med kodexempel och instruktioner. När du har tittat på de här videorna sparar du förhoppningsvis lite utvecklingstid och inspirerar till andra idéer och uppmuntrar till att börja med en utveckling som inte har bearbetats.
 
-## Hur ska jag följa den här självstudiekursen?
+## Hur ska jag följa den här självstudiekursen
 
 Den här självstudiekursen har utformats för att du ska kunna följa ordningen på sidorna i den vänstra navigeringen. Detta är dock inget krav. Varje sida kan visas individuellt eftersom de handlar om det allmänna konceptet att bygga en första Adobe Developer App Builder-app.
 

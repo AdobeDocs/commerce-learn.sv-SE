@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Det var en hund. Det var en stor hund. Jag har inte hockeyskuddar på mig. Jag heter Batman. Jag står där jag hör hemma. Mellan dig och Gothams peopIe.
 
-Hero kan vara vem som helst. Till och med en man som vet något så enkelt och lugnande som att sätta en jacka runt en ung pojke axlar för att tala om för honom att världen inte hade slutat. Någon som du. Någon som kommer att slå i burarna. Första gången jag stal så att jag inte skulle svälta, ja. Jag förlorade många antaganden om det enkla med rätt och fel. Och när jag reste lärde jag mig fruktan inför ett brott och framgångens spänning. Men jag blev aldrig en av dem.
+Hero kan vara alla. Till och med en man som vet något så enkelt och lugnande som att sätta en jacka runt en ung pojke axlar för att tala om för honom att världen inte hade slutat. Någon som du. Någon som kommer att slå i burarna. Första gången jag stal så att jag inte skulle svälta, ja. Jag förlorade många antaganden om det enkla med rätt och fel. Och när jag reste lärde jag mig fruktan inför ett brott och framgångens spänning. Men jag blev aldrig en av dem.
 
 Det är inte den jag är under, men det jag gör definierar mig. Kommer den i svart? Det här är inte en bil. Det var en hund. Det var en stor hund. Jag står där jag hör hemma. Mellan dig och Gothams peopIe.
 

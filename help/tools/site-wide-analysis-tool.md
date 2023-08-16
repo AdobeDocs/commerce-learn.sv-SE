@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Kontrollpanelen för analysverktyget för hela webbplatsen
 
-Site-Wide Analysis Tool är ett proaktivt självbetjäningsverktyg och en central lagringsplats med detaljerade systeminsikter och rekommendationer för att säkerställa säkerheten och användbarheten för din Adobe Commerce-installation. Den ger 24/7-realtidsövervakning av prestanda, rapporter och råd för att identifiera potentiella problem. Använd det här verktyget för att få bättre insyn i webbplatsens hälsa, säkerhet och programkonfigurationer, minska upplösningstiden och förbättra webbplatsens stabilitet och prestanda.
+Site-Wide Analysis Tool är ett proaktivt självbetjäningsverktyg och en central lagringsplats som innehåller detaljerade systeminsikter och rekommendationer för att säkerställa säkerheten och användbarheten för din Adobe Commerce-installation. Den ger 24/7-realtidsövervakning av prestanda, rapporter och råd för att identifiera potentiella problem. Använd det här verktyget för att få bättre insyn i webbplatsens hälsa, säkerhet och programkonfigurationer, minska upplösningstiden och förbättra webbplatsens stabilitet och prestanda.
 
 ## Vem är den här videon till?
 

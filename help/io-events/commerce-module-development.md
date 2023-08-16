@@ -31,7 +31,7 @@ Lär dig hur du registrerar händelser, hittar händelser som stöds och hur du 
 
 * Registrera händelser i Commerce för användning i Adobe Developer App Builder
 * Identifiera händelser som kan registreras
-* Lär dig hur du registrerar händelser i io_events.xml
+* Lär dig att registrera händelser i io_events.xml
 * Lär dig hur du registrerar händelser i Commerce-instanser `app/etc/config.php`
 * Lär dig hur du avbryter prenumerationen på ett evenemang
 

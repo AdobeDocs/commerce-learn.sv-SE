@@ -1,8 +1,8 @@
 ---
 title: Commerce Intelligence - SQL Report Builder
-description: Lär dig hur du använder Commerce Intelligence SQL Report Builder för att ställa frågor direkt till data warehouse, visa resultaten och snabbt omvandla dem till ett diagram.
-landing-page-description: I den här videon får du lära dig hur du använder Commerce Intelligence SQL Report Builder för att ställa frågor direkt till data warehouse, visa resultaten och snabbt omvandla dem till ett diagram.
-short-description: I den här videon får du lära dig hur du använder Commerce Intelligence SQL Report Builder för att ställa frågor direkt till data warehouse, visa resultaten och snabbt omvandla dem till ett diagram.
+description: Lär dig hur du använder Commerce Intelligence SQL Report Builder för att ställa frågor direkt till ditt datalager, visa resultaten och snabbt omvandla dem till ett diagram.
+landing-page-description: I den här videon får du lära dig hur du använder Commerce Intelligence SQL Report Builder för att ställa frågor direkt till ditt datalager, visa resultaten och snabbt omvandla dem till ett diagram.
+short-description: I den här videon får du lära dig hur du använder Commerce Intelligence SQL Report Builder för att ställa frågor direkt till ditt datalager, visa resultaten och snabbt omvandla dem till ett diagram.
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 # MBI - SQL Report Builder
 
-Med SQL Report Builder kan du ställa frågor direkt på data warehouse, visa resultaten och snabbt omvandla dem till ett diagram. Det bästa med att använda SQL för att skapa rapporter är att du inte behöver vänta på uppdateringscykler för att iterera i kolumner som du skapar. Om resultatet inte ser bra ut kan du snabbt redigera och köra frågan igen tills det matchar dina förväntningar.
+Med SQL Report Builder kan du ställa frågor direkt på ditt datalager, visa resultaten och snabbt omvandla dem till ett diagram. Det bästa med att använda SQL för att skapa rapporter är att du inte behöver vänta på uppdateringscykler för att iterera i kolumner som du skapar. Om resultatet inte ser bra ut kan du snabbt redigera och köra frågan igen tills det matchar dina förväntningar.
 
 >[!IMPORTANT]
 >
@@ -50,6 +50,6 @@ I den här videon:
 
 ## Användbara resurser
 
-[Använda användarhandboken för SQL Report Builder - Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
+[Använda SQL Report Builder - Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
 
 [Skapa visualiseringar från SQL-frågor - Användarhandbok för Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)

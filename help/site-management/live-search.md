@@ -1,6 +1,6 @@
 ---
 title: "Introduktion till [!DNL Live Search]"
-description: "Lär dig hur du lägger till [!DNL Live Search] till er butik och skapa engagerande, relevanta och personaliserade shoppingupplevelser."
+description: "Lär dig lägga till [!DNL Live Search] till er butik och skapa engagerande, relevanta och personaliserade shoppingupplevelser."
 doc-type: feature video
 audience: all
 badge: label="Endast i Adobe Commerce" type="Positive"
@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: a2a65242-9510-447d-8e35-4b9698ddd7b2
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---

@@ -1,7 +1,7 @@
 ---
-title: Åtgärdsmappen
-description: Lär dig mer om filtyperna i åtgärdsmappen för det här exempelprogrammet.
-landing-page-description: Lär dig mer om Adobe Developer App Builder som används med Adobe Commerce och vilka typer av filer som finns i åtgärdsmappen.
+title: Mappen Åtgärder
+description: Läs mer om filtyperna i åtgärdsmappen för det här exempelprogrammet.
+landing-page-description: Läs om Adobe Developer App Builder som används med Adobe Commerce och vilka typer av filer som finns i åtgärdsmappen.
 kt: 12422
 doc-type: tutorial
 audience: all

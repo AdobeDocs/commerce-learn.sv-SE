@@ -1,6 +1,6 @@
 ---
 title: Inventory management
-description: Läs om Inventory management funktioner och hur du kan använda dem för att arbeta från ett enda lagerställe eller ett komplext leveransnätverk.
+description: Läs mer om Inventory management funktioner och hur du kan använda dem för att arbeta från ett enda lagerställe eller ett komplext leveransnätverk.
 kt: 10551
 doc-type: feature video
 audience: all

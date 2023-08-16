@@ -1,6 +1,6 @@
 ---
 title: Exempel på beroendeinjektion
-description: Se ett exempel på beroendeinjicering.
+description: Se ett exempel på beroendeinjektion.
 kt: 5621
 doc-type: video
 activity: use

@@ -21,7 +21,7 @@ ht-degree: 0%
 
 I den här videon:
 
-- Lär dig mer om utvecklingskonfigurationer
+- Läs om utvecklingskonfigurationer
 
 >[!VIDEO](https://video.tv.adobe.com/v/35696?quality=12&learn=on)
 

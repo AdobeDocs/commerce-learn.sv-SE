@@ -1,10 +1,10 @@
 ---
 title: Hantera delade kataloger
-description: Lär dig hur du använder delade B2B-kataloger för att underhålla kataloger med anpassade priser för olika företag.
+description: Lär dig hur du använder delade B2B-kataloger för att underhålla grupperade kataloger med anpassade priser för olika företag.
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B for Adobe Commerce" type="Positive"
+badge: label="B2B för Adobe Commerce" type="Positive"
 last-substantial-update: 2023-5-10
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 74fb5548-a077-4c09-a351-0be830060841
 source-git-commit: ff0ae0d4df028341967b1e0f186e85d83c56ece4
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lär dig hur du använder New Relic för att identifiera en IP-adress som behöver blockeras
-description: Använd New Relic för att identifiera en IP-adress som kan vara skadlig.  När IP-adressen har fastställts används den i Fastly för att blockera åtkomst till programmet
+description: Använd New Relic för att identifiera en IP-adress som kan vara skadlig i naturen.  När IP-adressen har fastställts används den i Fastly för att blockera åtkomst till programmet
 landing-page-description: Den här videon instruerar en användare av New Relic att hitta potentiella IP-adresser som kan behöva blockeras för att få åtkomst till webbplatsen.
 short-description: Den här videon instruerar en användare av New Relic att hitta potentiella IP-adresser som kan behöva blockeras för att få åtkomst till webbplatsen.
 kt: 11566

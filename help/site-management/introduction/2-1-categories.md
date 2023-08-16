@@ -21,7 +21,7 @@ ht-degree: 0%
 
 I den här videon:
 
-- Skapa kategorier för din produktkatalog
+- Skapa kategorier för produktkatalogen
 
 ## Vem är den här videon till?
 
@@ -33,4 +33,4 @@ I den här videon:
 
 ## Ytterligare resurser
 
-[Kategorier - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/categories.html)
+[Kategorier [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/categories.html)

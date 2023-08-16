@@ -1,6 +1,6 @@
 ---
 title: Skapa en kategori
-description: Lär dig hur du definierar den grundläggande kategoristrukturen för din produktkatalog.
+description: Lär dig hur du definierar den grundläggande kategoristrukturen för produktkatalogen.
 kt: 10549
 doc-type: feature video
 audience: all
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Skapa en kategori
 
-Innan du lägger till produkter i katalogen måste du skapa katalogens grundläggande kategoristruktur. Produkter kan tilldelas noll eller flera kategorier. Kategorier skapas vanligtvis i förväg innan produkter läggs till i katalogen. Du kan också lägga till kategorier direkt när du skapar en produkt.
+Innan du lägger till produkter i katalogen måste du skapa katalogens grundläggande kategoristruktur. Produkter kan tilldelas till noll eller flera kategorier. Kategorier skapas vanligtvis i förväg innan produkter läggs till i katalogen. Du kan också lägga till kategorier direkt när du skapar en produkt.
 
 ## Vem är den här videon till?
 

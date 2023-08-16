@@ -18,9 +18,9 @@ ht-degree: 0%
 
 ---
 
-# Identifiera syftet med webbmappen {#web-src-folder}
+# Upptäck syftet med webbmappen {#web-src-folder}
 
-Mappen web-src för det här exempelprogrammet innehåller många JavaScript-filer och -mappar. Den här mappen används för program som har ett användargränssnitt. Funktionen används inte i alla program. En Commerce-integrering med ett externt lagerhanteringssystem kanske inte kräver ett gränssnitt och en kod för frontend.
+Webbmappen för det här exempelprogrammet innehåller många JavaScript-filer och -mappar. Den här mappen används för program som har ett användargränssnitt. Funktionen används inte i alla program. En Commerce-integrering med ett externt lagerhanteringssystem kanske inte kräver ett gränssnitt och en kod för frontend.
 
 ## Vem är den här videon till?
 
@@ -128,7 +128,7 @@ web-src/src/hooks/useCommerceOrders.js
 
 {{avoid-400-error}}
 
-I exemplet nedan är kodexemplet `not` begränsa begäran. För att undvika ett 400-fel minskar du svarsstorleken genom att använda `searchCriteria`.
+I exemplet nedan är kodexemplet `not` begränsa begäran. För att undvika ett 400-fel ska du minska svarsstorleken genom att använda `searchCriteria`.
 
 `?searchCriteria[filter_groups][0][filters][0][field]=created_at&searchCriteria[filter_groups][0][filters][0][value]=2022-12-01&searchCriteria[filter_groups][0][filters][0][condition_type]=gt`
 

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] för företagsanvändare - Store settings
+# [!DNL Commerce] för företagsanvändare - Store-inställningar
 
 I den här videon:
 

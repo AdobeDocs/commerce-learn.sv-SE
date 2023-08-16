@@ -38,14 +38,14 @@ Titta på den här serien videor för att förtydliga din förståelse för de o
 - Affärsanvändare
 - Dataanalytiker
 
-## Del 1: Ökning i den digitala handelstrafiken
+## Del 1: Ökning i den digitala handeln
 
 >[!VIDEO](https://video.tv.adobe.com/v/342498?quality=12&learn=on)
 
-## Del 2: Segmentera trafiktoppen per bransch
+## Del 2: Segmentering av trafiktoppar per bransch
 
 >[!VIDEO](https://video.tv.adobe.com/v/342499?quality=12&learn=on)
 
-## Del 3: Påverkar kundens köpbeteende
+## Del 3: Påverkan på kundens köpbeteende
 
 >[!VIDEO](https://video.tv.adobe.com/v/342500?quality=12&learn=on)

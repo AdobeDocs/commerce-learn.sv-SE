@@ -1,8 +1,8 @@
 ---
 title: Översikt över verktyget Kompatibilitet för uppgradering
-description: I den här tekniska videon lär du dig hur verktyget för kompatibilitet med uppgradering kan göra nästa uppgradering enklare, billigare och snabbare.
-landing-page-description: I den här tekniska videon lär du dig hur verktyget för kompatibilitet med uppgradering kan göra nästa uppgradering enklare, billigare och snabbare.
-short-description: I den här tekniska videon lär du dig hur verktyget för kompatibilitet med uppgradering kan göra nästa uppgradering enklare, billigare och snabbare.
+description: I den här tekniska videon lär du dig hur verktyget för uppgraderingskompatibilitet kan göra nästa uppgradering enklare, billigare och snabbare.
+landing-page-description: I den här tekniska videon lär du dig hur verktyget för uppgraderingskompatibilitet kan göra nästa uppgradering enklare, billigare och snabbare.
+short-description: I den här tekniska videon lär du dig hur verktyget för uppgraderingskompatibilitet kan göra nästa uppgradering enklare, billigare och snabbare.
 kt: 9983
 doc-type: technical video
 audience: all
@@ -16,7 +16,7 @@ exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 0%
+ht-degree: 24%
 
 ---
 

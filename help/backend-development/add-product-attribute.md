@@ -23,7 +23,7 @@ Att lägga till ett produktattribut är en av de vanligaste åtgärderna i [!DNL
 
 I den här videon:
 
-- Lägg till ett attribut som heter klädesplagg med möjliga värden: Bomull, läder, silke, denim, päls och ull
+- Lägg till ett attribut med namnet klädesplagg med möjliga värden: bomull, läder, silke, denim, päls och ull
 - Gör det här attributet synligt på produktvysidan, i fet stil
 - Tilldela den till attributuppsättningen Standard och lägg till en begränsning
 - Lägg till det nya attributet

@@ -36,7 +36,7 @@ Det finns några unika scenarier som kräver att varje radobjekt visar sin rabat
 
 >[!BEGINSHADEBOX]
 
-Prisregel = 10 % rabatt på 2 produkter i kundvagnsvillkoret för att prisregeln ska börja gälla: totalt antal artiklar i kundvagnen är 2 Åtgärder använder procent av produktprisrabatten och rabattbeloppet är 10
+Kundprisregel = 10 % rabatt tillämpad på två produkter i kundvagnsvillkoret för att prisregeln ska börja gälla: totalt antal artiklar i kundvagnen är 2 Åtgärder tillämpar procent av produktprisrabatten och det rabattbeloppet är 10
 
 2 artiklar läggs till i kundvagnen. Varje är 19,95 USD
 
@@ -93,7 +93,7 @@ Liknande problem om den tredje decimalen utelämnades för alla artiklar skulle 
 
 Samma rabatt på 10 % som ovan gällande kundvagnsregel Lägg till 2 produkter i kundvagnen som är 19,95
 
-Varje produkt bör få 1,995 USD i rabatt, men om vi bara släpper den tredje decimalen så händer detta: Produkt 1 - 19,95 x 0,1 = 1,995 Produkt 2 - 19,95 x 0,1 = 1,995
+Varje produkt bör få 1,995 USD i rabatt, men om vi bara släpper den tredje decimalen händer detta: Produkt 1 - 19,95 x 0,1 = 1,995 Produkt 2 - 19,95 x 0,1 = 1,995
 
 Konvertera för att släppa den tredje decimalen för alla artiklar Produkt 1 Nytt värde är 1,99 Produkt 2 Nytt värde är 1,99
 

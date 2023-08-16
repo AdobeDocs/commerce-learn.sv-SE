@@ -18,5 +18,5 @@ ht-degree: 0%
 * [Teknisk översikt för App Builder](../app-builder/app-builder-technical-overview.md)
 * [Skicka app till Marketplace](../app-builder/submit-app-process.md)
 * [Fyll i översikten över tilläggsinformation](https://developer.adobe.com/commerce/marketplace/guides/sellers/extension-information/){target="_blank"}
-* [Amazon Sales Channel i App Builder](https://developer.adobe.com/commerce/extensibility/amazon-sales-channel/){target="_blank"}
+* [Amazon-Sales Channel i App Builder](https://developer.adobe.com/commerce/extensibility/amazon-sales-channel/){target="_blank"}
 * [Administratörsgränssnitt SDK](https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/){target="_blank"}

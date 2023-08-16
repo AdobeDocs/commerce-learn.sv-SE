@@ -1,6 +1,6 @@
 ---
 title: .env-filen
-description: Lär dig mer om filtyperna i .env-filen för det här exempelprogrammet
+description: Läs mer om filtyperna i .env-filen för det här exempelprogrammet
 landing-page-description: Läs om Adobe Developer App Builder som används med Adobe Commerce och vilka typer av innehåll som används i .env-filen
 kt: 12423
 doc-type: tutorial
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Generera och konfigurera .env-filen {#env-file}
 
-The `.env` är en specialfil som inte ingår i exempelmodulen, men som är viktig att använda i ditt Adobe Developer App Builder-program. Den här filen innehåller hemligheter och annan information. Undvik att implementera den här filen i alla koddatabaser.
+The `.env` är en specialfil som inte ingår i exempelmodulen, men som är viktig att använda i ditt Adobe Developer App Builder-program. Filen innehåller hemligheter och annan information. Undvik att implementera den här filen i alla koddatabaser.
 
 ## Vem är den här videon till?
 
@@ -31,7 +31,7 @@ The `.env` är en specialfil som inte ingår i exempelmodulen, men som är vikti
 * Introduktion till .env-filen och dess syfte
 * Generera .env-filen
 * Lägga till nya hemligheter i filen
-* Undvik att implementera den här filen eftersom den innehåller känslig information
+* Undvik att implementera filen eftersom den innehåller känslig information
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416593?quality=12&learn=on)
 

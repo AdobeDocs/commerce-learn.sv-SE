@@ -22,7 +22,7 @@ ht-degree: 0%
 I den här videon:
 
 - Nödvändiga steg för att starta PWA-&#x200B;
-- Baslinje för &#x200B;
+- Baslinje för &#x200B; för inläsningstid
 - Hur prestanda förbättrar konverteringarna
 
 ## Vem är den här videon till?

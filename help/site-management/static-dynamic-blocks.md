@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Skapa statiska och dynamiska block
 
-Ett block är en modulär innehållsenhet som kan placeras mest var som helst på sidan. Innehållsblock kallas ibland för statiska block eller CMS-block. De kan användas för att visa fast information som text, bilder och inbäddad video samt dynamisk information som tillhandahålls av en widget eller som kommer från en databas eller annan källa. De flesta element på startsidan är block som enkelt kan hanteras. I den här videon får du lära dig hur du skapar statiska och dynamiska block.
+Ett block är en modulär innehållsenhet som kan placeras oftast var som helst på sidan. Innehållsblock kallas ibland för statiska block eller CMS-block. De kan användas för att visa fast information som text, bilder och inbäddad video samt dynamisk information som tillhandahålls av en widget eller som kommer från en databas eller annan källa. De flesta element på startsidan är block som enkelt kan hanteras. I den här videon får du lära dig hur du skapar statiska och dynamiska block.
 
 ## Vem är den här videon till?
 

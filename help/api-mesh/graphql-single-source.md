@@ -1,8 +1,8 @@
 ---
 title: Skapa ett GraphQL-nät med en enda källa i API-nät
-description: Upptäck hur du använder API Mesh på Adobe Commerce och [!DNL Adobe App Builder]. Lär dig hur du skapar ett nät som har en källa.
-landing-page-description: Upptäck hur du använder API Mesh på Adobe Commerce och [!DNL Adobe App Builder]. Lär dig hur du skapar ett nät som har en källa.
-short-description: Upptäck hur du använder API Mesh på Adobe Commerce och [!DNL Adobe App Builder]. Lär dig hur du skapar ett nät som har en källa.
+description: Upptäck hur du använder API Mesh i Adobe Commerce och [!DNL Adobe App Builder]. Lär dig hur du skapar ett nät som har en källa.
+landing-page-description: Upptäck hur du använder API Mesh i Adobe Commerce och [!DNL Adobe App Builder]. Lär dig hur du skapar ett nät som har en källa.
+short-description: Upptäck hur du använder API Mesh i Adobe Commerce och [!DNL Adobe App Builder]. Lär dig hur du skapar ett nät som har en källa.
 kt: 11804
 doc-type: tutorial
 audience: all
@@ -15,7 +15,7 @@ exl-id: 9a78457a-1539-49c0-ac69-4bbfc6786137
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 

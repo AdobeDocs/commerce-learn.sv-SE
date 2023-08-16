@@ -21,11 +21,11 @@ ht-degree: 0%
 
 # Teknisk översikt för App Builder
 
-I följande videofilm visas en teknisk översikt över hur du ansluter Adobe Commerce och Amazon Sales Channel. I den här självstudiekursen utforskas även hur du kan använda Adobe App Builder för anpassade funktioner och integreringar.
+I följande videofilm visas en teknisk översikt över hur du ansluter Adobe Commerce- och Amazon-Sales Channeler. I den här självstudiekursen utforskas även hur du kan använda Adobe App Builder för anpassade funktioner och integreringar.
 
 >[!IMPORTANT]
 >
->Utbyggnaden av Amazon Sales Channel är fortfarande under utveckling och har inte officiellt släppts.  Dessa videor och självstudiekurser är avsedda att visa hur du använder Adobe Developer App Builder i ett praktiskt syfte.
+>Utbyggnaden av Amazon-Sales Channelen håller fortfarande på att utvecklas och har inte officiellt släppts.  Dessa videoklipp och självstudiekurser är avsedda att visa hur du använder Adobe Developer App Builder i ett praktiskt syfte.
 
 
 ## App Builder för Adobe Commerce {#app-builder-technical-overview}

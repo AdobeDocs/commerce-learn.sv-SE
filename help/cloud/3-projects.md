@@ -1,6 +1,6 @@
 ---
 title: Adobe Commerce om molninfrastruktur - projekt och filer
-description: Lär dig mer om projektstruktur och bildfiler. Förstå filstrukturen i molnprojektet och alla nödvändiga databaser.
+description: Lär dig mer om projektstruktur och bildfiler. Förstå filstrukturen i Cloud-projektet och alla nödvändiga databaser.
 kt: 5658
 doc-type: video
 audience: all

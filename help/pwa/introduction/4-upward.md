@@ -1,6 +1,6 @@
 ---
 title: PWA Studio för utvecklare - UPWARD
-description: Lär dig mer om UPWARD (Unified Progressive Web App Response Definition).
+description: Läs mer om UPWARD (Unified Progressive Web App Response Definition).
 kt: 5647
 doc-type: video
 activity: use

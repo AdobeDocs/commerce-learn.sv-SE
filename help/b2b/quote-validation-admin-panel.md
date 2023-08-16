@@ -1,10 +1,10 @@
 ---
-title: Lär dig mer om valideringsnivåerna för B2B-offertprocessen från administratörspanelen
+title: Läs mer om valideringsnivåerna för B2B-offertprocessen från administratörspanelen
 description: Läs om hur Adobe Commerce har strikta valideringsprocesser.  I den här videosjälvstudien demonstreras valideringsprocessen från Adobe Commerce admin-panelen för att säkerställa att offertproceduren är giltig och konsekvent
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B for Adobe Commerce" type="Positive"
+badge: label="B2B för Adobe Commerce" type="Positive"
 last-substantial-update: 2023-6-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: aec1b339-f2d9-4815-a98f-0787bcd44975
 source-git-commit: 69fabe09524bdca4741f719245341045edc01ae9
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
