@@ -4,23 +4,20 @@ description: Lär dig hur du aktiverar inköpsorder och godkännanderegler för 
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B för Adobe Commerce" type="Positive"
 last-substantial-update: 2023-2-16
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: 05919e15260c0e2c2a684a12bca60a6d6cb536f5
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '155'
 ht-degree: 1%
 
 ---
 
 # Inköpsorder och godkännanden
-
-{{b2b-feature}}
 
 De flesta B2B-företag har ordergodkännanderegler för inköpsorder. Företagen kan styra vilka som får skapa inköpsorder och hur mycket de får spendera. Exempel:
 
@@ -30,6 +27,8 @@ De flesta B2B-företag har ordergodkännanderegler för inköpsorder. Företagen
 - En inköpsorder som skapats av alla på Director-nivå eller senare godkänns automatiskt.
 
 Med de behörigheter som krävs för deras roll kan B2B-kunder skapa godkännanderegler som följer företagets regler.
+
+{{b2b-feature}}
 
 ## Vem är den här videon till?
 
