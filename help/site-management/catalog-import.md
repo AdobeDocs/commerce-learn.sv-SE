@@ -10,14 +10,14 @@ feature: Backend Development, Data Import/Export, REST
 topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 273119420a7051b1833d9b796bdce36e17d893c7
+source-git-commit: 46855a18faf94c0d7347663ba6f83f423ef79c3c
 workflow-type: tm+mt
-source-wordcount: '826'
+source-wordcount: '825'
 ht-degree: 0%
 
 ---
 
-# Lär dig alternativ för att importera en katalog
+# Alternativ för att importera en katalog
 
 Det finns några inbyggda metoder för att importera en katalog till Adobe Commerce. Varje metod har en egen motivering för hur den används tillsammans med pros och cons som måste beaktas.
 
