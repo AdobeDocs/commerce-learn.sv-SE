@@ -3,23 +3,35 @@ title: Utför en fråga med GraphQL
 description: Lär dig hur du använder GraphQL på Adobe Commerce och [!DNL Magento Open Source]. Det här är en introduktion till GraphQL som använder GET- och POST-samtal.
 landing-page-description: Lär dig hur du använder GraphQL på Adobe Commerce och [!DNL Magento Open Source]. Det här är en introduktion till GraphQL som använder GET- och POST-samtal.
 short-description: Lär dig hur du använder GraphQL på Adobe Commerce och [!DNL Magento Open Source]. Det här är en introduktion till GraphQL som använder GET- och POST-samtal.
-kt: 11524
-doc-type: tutorial
+kt: 13937
+doc-type: video
 audience: all
-last-substantial-update: 2022-12-13T00:00:00Z
+last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
 workflow-type: tm+mt
-source-wordcount: '937'
+source-wordcount: '986'
 ht-degree: 0%
 
 ---
 
 # GraphQL-frågor
+
+Detta är en del 2 av serien för GraphQL och Adobe Commerce. I den här självstudiekursen och videon får du lära dig mer om GraphQL-frågor och hur du utför dem mot Adobe Commerce.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424120?learn=on)
+
+## Relaterade videor och självstudiekurser om GraphQL i den här serien
+
+* [Del 1 GraphQL - Introduktion](../graphql-rest/intro-graphql.md)
+* [Del 3 GraphQL - Mutationer](../graphql-rest/graphql-mutations.md)
+* [Del 4 GraphQL - Schema](../graphql-rest/graphql-schema.md)
+
+## Exempel på GraphQL Syntax
 
 Låt oss dyka rakt in i GraphQL frågesyntax med ett fullfjädrat exempel. (Kom ihåg att du själv kan prova detta mot https://venia.magento.com/graphql.)
 
