@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 1771ef7e11482fc663bedc162a48acd394bc0980
+source-git-commit: fae9666d2850afb5eb79ff174f376c324717d6c4
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '555'
 ht-degree: 3%
 
 ---
@@ -26,6 +26,7 @@ ht-degree: 3%
       + [Vad är den globala referensarkitekturen?](../global-reference-architecture/what-is-global-reference-architecture.md)
       + [Hur utnyttjar man den globala referensarkitekturen?](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
       + [Hur skapar man en global referensarkitektur?](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
+      + [Hur implementerar man den globala referensarkitekturen?](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
 + GraphQL och REST {#graphql-rest}
    + [Grundläggande om GraphQL](../graphql-rest/intro-graphql.md)
    + [Frågor](../graphql-rest/graphql-queries.md)
