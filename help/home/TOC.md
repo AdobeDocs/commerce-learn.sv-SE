@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 5f86788f8bd8c0281571ed2cd45c89963be9e98e
+source-git-commit: 7b8f3342db01907b2c8a575ac86f6784aec38112
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '549'
 ht-degree: 3%
 
 ---
@@ -133,7 +133,6 @@ ht-degree: 3%
    + [Använda verktyget Kompatibilitet för uppgradering i PHP Storm](../upgrade/uct-phpstorm.md)
 + Back-end Development {#backend-development}
    + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
-   + [Lägga till en tabell i en databas](../backend-development/new-db-table.md)
    + [Skapa en modul](../backend-development/create-module.md)
    + [Lägg till ett produktattribut](../backend-development/add-product-attribute.md)
    + [Exempel på beroendeinjektion](../backend-development/dependency-injection.md)
