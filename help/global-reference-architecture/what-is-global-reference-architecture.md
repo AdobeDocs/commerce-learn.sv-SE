@@ -1,5 +1,5 @@
 ---
-title: Vad är den globala referensarkitekturen?
+title: Introduktion till konceptet Global referensarkitektur
 description: Läs mer om tekniken som används för att hantera komplexa e-handelsprojekt och som kallas global referensarkitektur
 landing-page-description: Läs om Global Reference Architecture och hur den används med Adobe Commerce
 kt: 14039
@@ -10,18 +10,19 @@ feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-source-git-commit: eaee7e251c3b55d6d9991f61ddeffc6036725889
+exl-id: 71c310ab-593c-4f64-b07e-8337b3f3255e
+source-git-commit: d0a85c7d8300ab48e0b36ad66a2bf8cd23eb5b2b
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-# Introduktion till global referensarkitektur
+# Global referensarkitektur
 
 Läs mer om Global Reference Architecture, några viktiga koncept och fördelar med den här metoden.
 
-## Vem är den här videon till?
+## Målgrupp
 
 * Alla som behöver förstå detta koncept.
 * Stora projekt med flera varumärken

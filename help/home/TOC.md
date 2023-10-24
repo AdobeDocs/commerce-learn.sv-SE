@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: b2d93ce91f3268b4d6501941777a65c7ba8ff457
+source-git-commit: 3c020ae0cdf8fd45752dd44bfa4f914371d89549
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '536'
 ht-degree: 3%
 
 ---
@@ -23,10 +23,10 @@ ht-degree: 3%
       + [5 - Utveckling](../cloud/5-dev-config.md)
       + [6 - Tjänster och DNS](../cloud/6-launch.md)
    + Global referensarkitektur{#global-reference-architecture}
-      + [Vad är den globala referensarkitekturen?](../global-reference-architecture/what-is-global-reference-architecture.md)
-      + [Hur utnyttjar man den globala referensarkitekturen?](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
-      + [Hur skapar man en global referensarkitektur?](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
-      + [Hur implementerar man den globala referensarkitekturen?](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
+      + [Global referensarkitektur](../global-reference-architecture/what-is-global-reference-architecture.md)
+      + [Utnyttja den globala referensarkitekturen](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
+      + [Arkitekt GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
+      + [Implementera global referensarkitektur](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
 + GraphQL och REST {#graphql-rest}
    + [Grundläggande om GraphQL](../graphql-rest/intro-graphql.md)
    + [Frågor](../graphql-rest/graphql-queries.md)
