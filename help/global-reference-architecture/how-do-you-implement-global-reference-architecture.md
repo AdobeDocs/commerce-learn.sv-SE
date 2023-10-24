@@ -10,9 +10,10 @@ feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-source-git-commit: 449445ba629f8db9d0e3535e6bcb5339fab99070
+exl-id: 0eb1f994-24a7-491f-b267-00202f6086e6
+source-git-commit: 03e20a42f798bd7eac1971656e2ad9b99a8b784e
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 Lär dig implementera Global Reference Architecture eller GRA för kort tid. Läs om tidiga beslut som hjälper till att skapa ett lyckat GRA. Få idéer om hur du kan skilja olika webbplatser åt, nyckeln till framgång och några koncept för att utveckla funktioner på ett organiserat sätt.
 
-## Vem är den här videon till?
+## Målgrupp
 
 * Alla som behöver förstå detta koncept.
 * Stora projekt med flera varumärken
