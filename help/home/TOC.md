@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 3c020ae0cdf8fd45752dd44bfa4f914371d89549
+source-git-commit: 3f354cbac9d0f64fec509fc06c6cf0d41c7287ae
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '540'
 ht-degree: 3%
 
 ---
@@ -27,6 +27,9 @@ ht-degree: 3%
       + [Utnyttja den globala referensarkitekturen](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
       + [Arkitekt GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
       + [Implementera global referensarkitektur](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
+   + Commerce Capabilities {#capabilities}
+      + [Dataanslutning](../capabilities/data-connection.md)
+      + [Fullständig demonstration av Live Search](../capabilities/live-search-full-demonstration.md)
 + GraphQL och REST {#graphql-rest}
    + [Grundläggande om GraphQL](../graphql-rest/intro-graphql.md)
    + [Frågor](../graphql-rest/graphql-queries.md)
@@ -99,7 +102,7 @@ ht-degree: 3%
    + [Konfigurera Recommendations](../site-management/product-recommendations.md)
    + [Introduktion till Live Search](../site-management/live-search.md)
    + [Live Search - rekommendationer](../site-management/live-search-recommendations.md)
-   + [Fullständig demonstration av Live Search](../site-management/live-search-full-demonstration.md)
+
 + Beställningar och orderhantering {#orders}
    + [Butiksuppfyllelse - översikt](../site-management/store-fulfillment.md)
    + [Hantera orderstatus](../site-management/order-status.md)
