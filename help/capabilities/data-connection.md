@@ -9,9 +9,9 @@ feature: Configuration, System, Personalization
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
-source-git-commit: 2709ca7959de6e2decd1cda9dd0f746421c347de
+source-git-commit: 35bd4f00555f426223de701586d6e12fb329184d
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -30,18 +30,8 @@ Lär dig hur du använder Adobe Commerce Data Connection tillsammans med vissa g
 
 ## Videoinnehåll
 
-* Läs mer om kunddata som kan överföras från Commerce till Adobe Experience Edge
-* Vad är ett API?
-* Använda Adobe Journey Optimizer för att följa upp med en kund
-* Typer av storefront-händelser som kan fångas in
-* Kunddata i realtid utvärderades och personaliserat innehåll visas allt eftersom kunden fortsätter att bläddra
-* Kundsegment och hur de kan justeras automatiskt baserat på kundhistorik
-* Enhetliga profiler
-* Lämna ut kundvagnsmeddelanden, SMS-meddelanden och hur de kan användas med Adobe Journey Optimizer
-* Grundläggande konfigurationer och inställningar för Commerce Data Connector
-* Dynamiska block och kundvagnsprisregler som används för att ge rabatter
-* Kundprofiler, målgrupper och kundinformation i Adobe Experience Platform
-* Hur Adobe Target kan erbjuda dynamiskt personaliserat innehåll
-* Instrumentpaneler för Customer Journey Analytics introducerade
+* Skicka beteendedata från Adobe Commerce till andra DX-produkter (t.ex. AJO, Analytics, Target, Real-Time CDP) för segmentbeslut, profilberikning och personaliserade upplevelser under hela kundresan.
+* Real-Time CDP målgrupper uppdaterar och ändrar segmentering i realtid baserat på webbläsardata, serverdata (inklusive orderhistorik) och data från andra källor (dvs. lojalitetsdata).
+* Använda Real-Time CDP målgrupper för att personalisera både kundprisregler och dynamiska block i Adobe Commerce.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425591?learn=on)
