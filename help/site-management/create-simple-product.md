@@ -5,33 +5,33 @@ kt: 14446
 doc-type: video
 audience: all
 activity: use
-last-substantial-update: 2023-11-13T00:00:00Z
+last-substantial-update: 2023-11-14T00:00:00Z
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: 9f5d0e83995d12b5884c53fc8bcb0e9d1913768e
+source-git-commit: 89dc3b7f456c9434921ed870369712a721895d02
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
 # Skapa en enkel produkt
 
-Lär dig hur du skapar en enkel produkt med REST API och e-handelsadministratören.
+Lär dig hur du skapar en enkel produkt med REST API och Adobe Commerce Admin.
 
 ## Vem är den här videon till?
 
 - Webbplatschefer
 - e-handlare
-- Nya utvecklare till Adobe Commerce som behöver lära sig använda REST för att skapa en produkt i Adobe Commerce
+- Nya Adobe Commerce-utvecklare som vill lära sig hur man skapar produkter i Adobe Commerce med REST API.
 
 ## Videoinnehåll
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425650?learn=on)
 
-## Kodexempel för att skapa en produkt
+## Skapa en produkt med hjälp av profilen
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -49,7 +49,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }
 ```
 
-## Kodexempel för att hämta en produkt
+## Skaffa en produkt med hjälp av en licens
 
 ```bash
 curl --location '{{your.url.here}}rest/default/V1/products/some-product-sku' \
