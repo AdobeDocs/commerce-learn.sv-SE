@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 04936bd18dd2a34f8a1aa738594c7dd99cbeb37c
+source-git-commit: bc425e44acbd8cf726a7f947065cc59daa785b62
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '552'
 ht-degree: 3%
 
 ---
@@ -57,6 +57,7 @@ ht-degree: 3%
       + [Slutsats](../app-builder/first-app/conclusion.md)
       + [Exempelmodulens källkod](https://github.com/magento/app-builder-samples){target="_blank"}
    + IO-händelser för Adobe Commerce {#io-events}
+      + [Komma igång med IO-händelser](../io-events/getting-started-io-events.md)
       + [Installation av Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
       + [Installation av Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
       + [Skapa ett App Builder-projekt](../io-events/create-app-builder-project.md)
