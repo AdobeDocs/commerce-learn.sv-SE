@@ -10,9 +10,9 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: eec9a85198f963404f5ba82fc2fc76315a82f964
+source-git-commit: b44376f9f30e3c02d2c43934046e86faac76f17d
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '513'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,9 @@ ht-degree: 0%
 
 # Skapa en grupperad produkt
 
-En grupperad produkt består av enkla fristående produkter som presenteras som en grupp. Du kan erbjuda varianter av en enskild produkt eller gruppera dem efter årstid eller tema. Innan du skapar en grupperad produkt bör du kontrollera att alla enkla produkter som ska ingå i gruppen är tillgängliga i Adobe Commerce och skapa produkter som inte finns. I den här självstudien får du lära dig hur du skapar en grupperad produkt med REST API och Adobe Commerce Admin.
+En grupperad produkt består av enkla fristående produkter som presenteras som en grupp. Du kan erbjuda varianter av en enskild produkt eller gruppera dem efter årstid eller tema. Innan du skapar en grupperad produkt bör du kontrollera att alla enkla produkter som ska ingå i gruppen är tillgängliga i Adobe Commerce och skapa produkter som inte finns.
+
+I den här självstudien får du lära dig hur du skapar en grupperad produkt med REST API och Adobe Commerce Admin.
 
 Använd REST API för att skapa en gruppprodukt i administratören:
 
@@ -29,9 +31,9 @@ Använd REST API för att skapa en gruppprodukt i administratören:
 1. Fyll den tomma grupperade produkten med enkla produkter.
 1. Skapa en tom grupperad produkt och associera de enkla produkterna.
 
-När du skapar grupperade produkter i Adobe Commerce Admin bör du skapa enkla produkter först. När du är redo att skapa den grupperade produkten kopplar du de enkla produkterna genom att tilldela dem till den grupperade produkten i en batch.
+   När du associerar enkla produkter med den grupperade produkten, sorteringsordningens attribut (`position`) i nyttolasten används av frontend för att visa tillhörande produkter i önskad ordning. Om `position` inget attribut anges, produkterna visas i den ordning som de lades till i den grupperade produkten.
 
-Sorteringsordningsattributet i nyttolasten är obligatoriskt och används av frontend för att visa associerade produkter i önskad ordning.
+Skapa de enkla produkterna först när du skapar grupperade produkter från Adobe Commerce Admin. När du är redo att skapa den grupperade produkten kopplar du de enkla produkterna genom att tilldela dem till den grupperade produkten i en batch.
 
 ## Vem är den här videon till?
 
