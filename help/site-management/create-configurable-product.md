@@ -10,9 +10,9 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: 76716d4c9530963f198a855e101c76b6374c6d75
+source-git-commit: f3ec375c2332bfae98970d7e10a6a7ad258386e3
 workflow-type: tm+mt
-source-wordcount: '979'
+source-wordcount: '952'
 ht-degree: 0%
 
 ---
@@ -144,7 +144,6 @@ Innan du skickar begäran ska du uppdatera exemplet med värden för miljön.
 - Ändra `"attribute_set_id": 10,` och ersätta `10` med attributuppsättnings-ID:t från i din miljö.
 - Ändra `"value": "14"` och ersätta `14` med värdet från er miljö.
 
-
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
 --header 'Content-Type: application/json' \
@@ -179,7 +178,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Skapa den tredje enkla produkten med cURL
 
-Skapa den tredje enkla produkten med API:t för att skicka följande POST-förfrågan med cURL.
+Skapa den tredje enkla produkten genom att skicka följande POST med cURL.
 
 Innan du skickar begäran ska du uppdatera exemplet med värden för miljön.
 
@@ -220,7 +219,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Skapa en tom konfigurerbar produkt med cURL
 
-Skapa en tom konfigurerbar produkt genom att använda API:t för att skicka följande POST med cURL.
+Skapa en tom konfigurerbar POST genom att skicka följande begäran med cURL.
 
 Innan du skickar begäran ska du uppdatera exemplet med värden för miljön.
 
@@ -253,7 +252,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Ange tillgängliga alternativ för den konfigurerbara produkten
 
-Ange tillgängliga alternativ för den konfigurerbara produkten genom att använda API:t för att skicka följande POST med cURL.
+Ange tillgängliga alternativ för den konfigurerbara produkten genom att skicka följande POST med cURL.
 
 Ändra innan du skickar begäran `"attribute_id": 93,` att ersätta `93` med attribut-ID:t från din miljö.
 
@@ -289,7 +288,7 @@ Nu har du skapat tre enkla produkter:
 - `"Kids-Hawaiian-Ukulele-Blue"`
 - `"Kids-Hawaiian-Ukulele-Green"`
 
-Lägg till dessa enkla produkter som underordnade till den konfigurerbara produkten genom att använda API:t för att skicka följande begäran om POST för varje produkt. Skicka en separat begäran för varje produkt.
+Lägg till dessa enkla produkter som underordnade till den konfigurerbara produkten genom att skicka följande begäran om POST. Skicka en separat begäran för varje produkt.
 
 Uppdatera `childSKU` värdet med värdet för den underordnade produkt som du lägger till. I följande exempel tilldelas den enkla produkten `kids-Hawaiian-Ukulele-red` till den konfigurerbara produkten med SKU:n `Kids-Hawaiian-Ukulele-red`.
 
@@ -307,7 +306,7 @@ curl --location '{{your.url.here}}rest/default/V1/configurable-products/Kids-Haw
 
 ## Hämta en konfigurerbar produkt med cURL
 
-Nu när du har skapat en konfigurerbar produkt med tre tilldelade underordnade SKU. Du kan se de länkade ID:na för de tilldelade produkterna av API:t för att skicka följande GET-begäran med cURL. Denna förfrågan returnerar detaljerad information om den konfigurerbara produkten.
+Nu när du har skapat en konfigurerbar produkt med tre tilldelade underordnade SKU. Du kan se de länkade ID:na för de tilldelade produkterna genom att skicka följande GET-begäran med cURL. Denna förfrågan returnerar detaljerad information om den konfigurerbara produkten.
 
 ```json
 ...
@@ -328,7 +327,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/Kids-Hawaiian-Ukulel
 
 ## Hämta den underordnade produkten som är kopplad till en konfigurerbar produkt
 
-Denna begäran returnerar bara de underordnade som är kopplade till den konfigurerbara produkten. Det här svaret har alla attribut för den underordnade produkten, inklusive SKU och pris.
+Returnera endast de underordnade som är associerade med den konfigurerbara produkten genom att skicka följande begäran om GET. Svaret innehåller alla attribut för den underordnade produkten, inklusive SKU och pris.
 
 I följande används metoden GET
 
@@ -339,9 +338,7 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/kids-ha
 
 ## Ta bort en underordnad produkt från den överordnade konfigurerbara produkten
 
-Du kan ta bort en underordnad produkt från en konfigurerbar produkt utan att ta bort produkten från katalogen genom att använda API:t för att skicka följande DELETE-begäran med cURL.
-
-Följande använder metoden DELETE
+Du kan ta bort en underordnad produkt från en konfigurerbar produkt utan att ta bort produkten från katalogen genom att skicka följande DELETE-begäran med cURL.
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/children/Kids-Hawaiian-Ukulele-Blue' \
