@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 4d6b9e8fcdd7f544075ff9bb28fd95e28ab3d6a4
+source-git-commit: 7ffd5c0edaa446f8841e15012ff4a0ff4923466b
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '578'
 ht-degree: 3%
 
 ---
@@ -79,7 +79,10 @@ ht-degree: 3%
    + [Lägga till webbplatser, butiker och butiksvyer](../site-management/add-websites-stores-views.md)
    + [Ändra en butiks-URL](../site-management/change-store-url.md)
    + [Leveranssätt](../site-management/shipping-delivery.md)
-   + [Använd betaltjänster](../site-management/payment-services.md)
+   + Adobe Commerce Services {#adobe-commerce-services}
+      + [Konfigurera Service Connector](../site-management/configure-adobe-commerce-services-connector.md)
+      + [Konfigurera betalningstjänster](../site-management/configure-adobe-payment-services.md)
+      + [Använd betaltjänster](../site-management/payment-services.md)
 + Kundhantering {#customers}
    + [Skapa kundsegment](../site-management/customer-segments.md)
    + [Skapa kundgrupper](../site-management/customer-groups.md)
