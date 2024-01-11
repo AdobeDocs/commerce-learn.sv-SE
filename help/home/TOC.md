@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 7ffd5c0edaa446f8841e15012ff4a0ff4923466b
+source-git-commit: 07ffd14ee86e8491b883747c80f275deecc97946
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '580'
 ht-degree: 3%
 
 ---
@@ -36,6 +36,7 @@ ht-degree: 3%
       + [Nedladdningsbar produkt](../site-management/create-downloadable-product.md)
       + [Grupperad produkt](../site-management/create-grouped-product.md)
       + [Konfigurerbar produkt](../site-management/create-configurable-product.md)
+      + [Paketprodukt](../site-management/create-bundle-product.md)
 + GraphQL och REST {#graphql-rest}
    + [Grundläggande om GraphQL](../graphql-rest/intro-graphql.md)
    + [Frågor](../graphql-rest/graphql-queries.md)
