@@ -1,6 +1,7 @@
 ---
 title: Konfigurera Adobe Commerce Services Connector
 description: Lär dig hur du konfigurerar Adobe Commerce Services Connector för användning med Commerce SaaS-produkter och hur du löser vanliga problem.
+kt: 14777
 doc-type: video
 audience: all
 activity: use
@@ -9,16 +10,18 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 6ee0e0f90864899dd717397a672e1ba4a1ba4351
+source-git-commit: 08063ea820f91af5667e0abd2fd5d95207bd290e
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
 
 # Konfigurera Adobe Commerce Services Connector
 
-Om du vill använda betaltjänster för Adobe Commerce och Magento Open Source måste du slutföra några startsteg. I följande video får du lära dig hur du konfigurerar betaltjänster för Adobe Commerce.
+Commerce Services Connector är en konfiguration som utvecklats av Adobe som låser upp olika SaaS-funktioner. Om du vill använda betaltjänster för Adobe Commerce och Magento Open Source måste du ansluta din Commerce-instans med hjälp av API-nycklar för produktion och sandlåda och ange datamallen i konfigurationen för konfiguration.
+
+Titta på videon How to Configure the Adobe Commerce Services Connector som hjälper dig att konfigurera betaltjänster.
 
 ## Vem är den här videon till?
 
