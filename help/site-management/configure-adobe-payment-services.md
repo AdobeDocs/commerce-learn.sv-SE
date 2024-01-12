@@ -9,16 +9,16 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 81e41cdc55055d2144a3257e66d01b4a17bc50b7
+source-git-commit: 3e89efd4000f7983ea87eec87d0ca7a5fe9603b7
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
 # Konfigurera betaltjänster för Adobe Commerce
 
-Om du vill använda betaltjänster för Adobe Commerce och Magento Open Source måste du slutföra några startsteg. I följande video finns mer information om obligatoriska startsteg.
+För att komma igång med att använda betaltjänster för Adobe Commerce och Magento Open Source måste du slutföra några introduktionssteg. Se videon Konfigurera betaltjänster för Adobe Commerce för exempel på hur du kommer igång.
 
 ## Vem är den här videon till?
 
