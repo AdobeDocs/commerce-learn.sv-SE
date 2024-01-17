@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 07ffd14ee86e8491b883747c80f275deecc97946
+source-git-commit: 762d80791687787c6204160cbd81c9654bc187f6
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '584'
 ht-degree: 3%
 
 ---
@@ -113,7 +113,7 @@ ht-degree: 3%
    + [Konfigurera Recommendations](../site-management/product-recommendations.md)
    + [Introduktion till Live Search](../site-management/live-search.md)
    + [Live Search - rekommendationer](../site-management/live-search-recommendations.md)
-
+   + [Integrera handel med AJO](../site-management/integrate-commerce-ajo.md)
 + Beställningar och orderhantering {#orders}
    + [Butiksuppfyllelse - översikt](../site-management/store-fulfillment.md)
    + [Hantera orderstatus](../site-management/order-status.md)
