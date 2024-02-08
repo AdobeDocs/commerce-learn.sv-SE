@@ -1,6 +1,6 @@
 ---
-title: Lär dig hur du visar och ställer in administratörskonfigurationer med kommandoraden
-description: En demonstration om hur du visar och anger konfigureringsvärden med kommandoraden
+title: Visa och ange administratörskonfigurationer med kommandoraden
+description: Lär dig hur du visar och anger administratörskonfigurationer med kommandoraden.
 feature: Configuration,Console,System
 topic: Administration,Commerce
 role: Developer
@@ -10,15 +10,15 @@ duration: 462
 last-substantial-update: 2024-01-31T00:00:00Z
 jira: KT-14877
 thumbnail: KT-14877.jpeg
-source-git-commit: 9d4b01d383e5492ccc0cbd27636a49581e8ffb5b
+source-git-commit: a5ddf7591519b89efa2feb20ae601d36f5e5a1a7
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
 
-# Lär dig hur du visar och ställer in administratörskonfigurationer med kommandoraden
+# Visa och ange administratörskonfigurationer med kommandoraden
 
 Demo av hur du visar, ställer in och hittar konfigurationsvärden med Commerce CLI. Förstå var värdena sparas och var standardvärdena kommer ifrån.
 
