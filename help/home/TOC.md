@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 606b2aa8cc1df64816b459e7ca9e0a65d538463a
+source-git-commit: 535c9dbe9f1247cebd848f184dcf7ea07eab405e
 workflow-type: tm+mt
-source-wordcount: '590'
+source-wordcount: '598'
 ht-degree: 3%
 
 ---
@@ -144,7 +144,7 @@ ht-degree: 3%
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [Framtidsförberedande](../business-intelligence/prepare-for-future.md)
 + Commerce Upgrades {#upgrade}
-   + [Adobe Commerce 2.4 Upgrade Workshop](../upgrade/2.4-upgrade-workshop.md)
+   + [Adobe Commerce 2.4 Upgrade Workshop](../upgrade/2-4-upgrade-workshop.md)
    + [Översikt över verktyget Kompatibilitet för uppgradering](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Använda verktyget Kompatibilitet för uppgradering i PHP Storm](../upgrade/uct-phpstorm.md)
 + Back-end Development {#backend-development}
@@ -155,6 +155,7 @@ ht-degree: 3%
    + [Långsam replikering för Galera Cluster](../backend-development/galera-db-slow-replication.md)
    + [MySQL-frågecache](../backend-development/mysql-query-cache.md)
    + [PT-frågesammandrag](../backend-development/pt-query-digest.md)
+   + [Ansluta till och hämta Adobe Commerce-databasen](../backend-development/remote-db-connection-execute-queries.md)
 + Inbyggd Luma-utveckling för klientdelen {#frontend-development}
    + Page Builder för utvecklare {#page-builder}
       + [1 - Introduktion](../frontend-development/page-builder/1-intro-case-studies.md)
