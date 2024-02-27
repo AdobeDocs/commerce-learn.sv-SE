@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] Videor och självstudiekurser'
+title: '''[!DNL Commerce] Videor och Tutorials'
 description: En samling videor och självstudiekurser för Adobe Commerce och Magento Open Source
 last-substantial-update: 2023-01-19T00:00:00Z
 feature: B2B, GraphQL, REST, Commerce Intelligence, Cloud, Best Practices, API Mesh, App Builder
@@ -7,10 +7,10 @@ topic: Commerce, Architecture
 role: Architect, Developer, User
 level: Beginner, Intermediate
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: efe622f410a45ffbad210af2b5bbb1bda83b026b
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 2%
+source-wordcount: '108'
+ht-degree: 0%
 
 ---
 
@@ -18,16 +18,6 @@ ht-degree: 2%
 
 Välkommen till [!DNL Commerce] videor och självstudiekurser. Använd dessa resurser tillsammans med [dokumentation](https://experienceleague.adobe.com/docs/commerce.html), ger möjlighet att lära sig att använda Adobe Commerce och Magento Open Source för att stödja e-handelsverksamheten. Samlingen är utformad för att ge användbart innehåll för backend-utvecklare, klientutvecklare, systemadministratörer, handlare och andra roller inom organisationen.
 
-<div id="whats-new-section">
-
-## Nyheter
-
-- [Adobe Developer App Builder](../app-builder/introduction-to-app-builder.md)
-- [Kom igång med API Mesh](../api-mesh/getting-started-api-mesh.md)
-- [Introduktion till GraphQL](../graphql-rest/intro-graphql.md)
-- [Hitta en skadlig IP-adress](../new-relic/malicious-ip.md)
-
-</div>
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
 <div id="recs-overview-body-3"></div>
