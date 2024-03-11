@@ -1,5 +1,5 @@
 ---
-title: Lär dig ansluta och köra frågor mot Adobe Commerce-databasen
+title: Anslut och köra frågor mot databasen
 description: Lär dig flera metoder för att ansluta till ett Adobe Commerce molnprojekt. Lär dig hur du drar ned en databas för användning utanför webbplatsen. Lär dig några metoder för att maskera PII och ta bort det.
 feature: Backend Development,Console,Cloud
 topic: Commerce,Development
@@ -10,18 +10,17 @@ duration: 0
 last-substantial-update: 2024-02-14T00:00:00Z
 jira: KT-14910
 thumbnail: KT-14910.jpeg
-source-git-commit: 8499cae40bc14bfc505f0a84c7f481eddd80589b
+exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
+source-git-commit: a951f61ff71ad3777f8aebfa3c237b2ec1a4b1a5
 workflow-type: tm+mt
-source-wordcount: '1056'
+source-wordcount: '1047'
 ht-degree: 0%
 
 ---
 
-
-# Lär dig ansluta och köra frågor mot Adobe Commerce-databasen
+# Ansluta och köra frågor mot Adobe Commerce-databasen
 
 I den här självstudiekursen får du lära dig hur du ansluter till ett Adobe Commerce i ett molnprojekt, dumpar en databas för användning utanför webbplatsen och maskerar PII och tar bort den.
-
 
 Du kan komma åt Adobe Commerce-data från ditt molnprojekt på något av följande sätt:
 
@@ -378,4 +377,3 @@ MariaDB [main]>
 [Konfigurera tjänsten MySQL](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
 [Konfigurera en MySQL-fjärrdatabasanslutning](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
 [Skapa databasdump på Adobe Commerce i molninfrastrukturen](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)
-
