@@ -1,9 +1,9 @@
 ---
 title: Adobe Commerce Cloud sidor relaterade till teknisk introduktion
 description: Länkar till relaterade sidor i Adobe Commerce Cloud Technical onboarding
-source-git-commit: 3856060dd0c0e45c5e45e53e45a4a861d9723574
+source-git-commit: eae2b8a2eb815ff1b32a80dbd0f29fbfa82a0dc0
 workflow-type: tm+mt
-source-wordcount: '39'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---
@@ -16,3 +16,4 @@ ht-degree: 0%
 - [Bästa praxis för infrastruktur och utveckling](../cloud/infrastructure-development-best-practices.md)
 - [Snabbt](../cloud/fastly.md)
 - [Konfiguration och felsökning](../cloud/configuration-and-debugging.md)
+- [Driftsättning, testning, övervakning och säkerhet](../cloud/deployments-testing-monitoring-security.md)

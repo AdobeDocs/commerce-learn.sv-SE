@@ -10,15 +10,15 @@ duration: 0
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15019
 kt: 15019
-source-git-commit: 3856060dd0c0e45c5e45e53e45a4a861d9723574
+source-git-commit: 6b71a7b4bc3d770870a02bb868c7b01bd17a5931
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
 
-# Adobe Commerce Cloud tekniska introduktion och maskinvara - konfiguration och felsökning
+# Teknisk introduktion - Konfiguration och felsökning
 
 Lär dig hur du konfigurerar och felsöker Adobe Commerce Cloud.
 
@@ -32,7 +32,7 @@ Lär dig hur du konfigurerar och felsöker Adobe Commerce Cloud.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
 
-## Experience League dokumentation och snabbkontroll av Adobe Commerce som omnämns i videon
+## Experience League dokumentation som nämns i videon
 
 - [Konfigurera Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html)
 - [Konfigurera Xdebug för Cloud Docker](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/)
