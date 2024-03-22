@@ -1,6 +1,6 @@
 ---
 title: Adobe Commerce Cloud Technical onboarding and hardware handoff - Launch Process Timeline
-description: Läs mer om Adobe Commerce Cloud tekniska introduktion till tidslinjen för startprocessen.
+description: Lär dig mer om Adobe Commerce Clouds tekniska registrering för lanseringsprocessens tidslinje.
 feature: Cloud
 topic: Commerce, Architecture, Development
 role: Architect, Developer
@@ -15,13 +15,13 @@ exl-id: e68a8389-2cdc-495b-829b-24ea7502f66f
 source-git-commit: eae2b8a2eb815ff1b32a80dbd0f29fbfa82a0dc0
 workflow-type: tm+mt
 source-wordcount: '57'
-ht-degree: 0%
+ht-degree: 45%
 
 ---
 
 # Teknisk introduktion - Tidslinje för startprocess
 
-Läs mer om Adobe Commerce Cloud tekniska introduktion till tidslinjen för startprocessen.
+Lär dig mer om Adobe Commerce Clouds tekniska registrering för lanseringsprocessens tidslinje.
 
 ## Vem är den här videon till?
 
