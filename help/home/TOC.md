@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: cebfa71f156a77fcfee57d5e9d0048b1326d4e27
+source-git-commit: d403368cbd80ef40ea0c7652d97fc18570aa552c
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '616'
 ht-degree: 3%
 
 ---
@@ -140,6 +140,7 @@ ht-degree: 3%
    + New Relic {#new-relic}
       + [Hitta en skadlig IP-adress](../new-relic/malicious-ip.md)
 + Commerce Intelligence {#mbi}
+   + [Komma igång](../business-intelligence/getting-started.md)
    + [Filteruppsättning](../business-intelligence/filter-sets.md)
    + [Kohort Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
