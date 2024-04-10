@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: aff1af0df1fbf6bd90c55483bfb7994ab4d983ef
+source-git-commit: 503ed9349ade7d5da47592fb60fbb7114dbbf899
 workflow-type: tm+mt
-source-wordcount: '619'
+source-wordcount: '622'
 ht-degree: 3%
 
 ---
@@ -142,6 +142,7 @@ ht-degree: 3%
 + Commerce Intelligence {#mbi}
    + [Komma igång](../business-intelligence/getting-started.md)
    + [Integreringar och konfigurationer](../business-intelligence/integrations-configurations.md)
+   + [Rapporter och kontrollpaneler](../business-intelligence/reports-and-dashboards.md)
    + [Filteruppsättning](../business-intelligence/filter-sets.md)
    + [Kohort Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
