@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 88a50f1377207b99b524fb29017bc0cfe296d524
+source-git-commit: 5fdc149b4618a95de839942b26fef874ce1b5c47
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '660'
 ht-degree: 2%
 
 ---
@@ -47,6 +47,7 @@ ht-degree: 2%
       + [Sänk innehållsförteckningen för Commerce-integreringar](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
       + [Planera den moderna Adobe Commerce-implementeringen](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
       + [Starta, efter start, övervaka och felsöka](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
+      + [Edge Delivery Services med Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
 + GraphQL och REST {#graphql-rest}
    + [Grundläggande om GraphQL](../graphql-rest/intro-graphql.md)
    + [Frågor](../graphql-rest/graphql-queries.md)
