@@ -1,6 +1,6 @@
 ---
 title: Sänk innehållsförteckningen för Adobe Commerce-integreringar
-description: Det här webbinariet diskuterar de bästa sätten att sänka den totala ägandekostnaden för integrering med Adobe Commerce. Det betonar utmaningarna med traditionella integreringar och lyfter fram användningen av tilläggspunkter och inbyggd integrering med andra Experience Cloud-produkter för att minska kostnaderna och öka avkastningen på investeringen. Målet är att ge flexibilitet i utbyggnaden av produkten utan att behöva anpassa kärnan, vilket gör den enklare att underhålla och uppgradera.
+description: Lär dig de bästa sätten att sänka den totala ägandekostnaden för integreringar med Adobe Commerce.
 feature: API Mesh, App Builder, Backend Development, Best Practices, Best Practices, Extensibility, Integration
 topic: Architecture, Commerce, Integrations, Performance
 role: Architect, Data Architect, Leader
@@ -11,16 +11,18 @@ last-substantial-update: 2024-04-26T00:00:00Z
 jira: KT-15393
 auto-video-transcripts: true
 exl-id: 3c31c204-a33f-4f8a-b74d-d81f5ad6c433
-source-git-commit: 32f748b0489f165f43cbebb025709ad4cf929d61
+source-git-commit: 1293fcc506043601ced55286ea4d31b47a68d546
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
 # Sänk innehållsförteckningen för Adobe Commerce-integreringar
 
-Det här webbinariet avslöjar metoder för att sänka ägandekostnaden för integrering med Adobe Commerce. &#x200B; Talarna i webbinariet diskuterar de utmaningar och kostnader som är förknippade med integreringar, vikten av att minska den tekniska skulden och fördelarna med att använda utbyggnadsfunktioner från Adobe Commerce. De tar också upp specifika användningsfall som omfattar ett resurssnålt orderhanteringssystem med WhatsApp och en smart liten kurirlåda som skickar data för personaliserade produktrekommendationer.  Teamet diskuterar också hur man använder dataanslutningen Adobe för Commerce som gör det möjligt att skicka och ta emot data mellan Adobe Commerce och andra Adobe-produkter.
+Det här webbinariet avslöjar metoder för att sänka ägandekostnaden för integrering med Adobe Commerce.
+
+Talarna i webbinariet diskuterar de utmaningar och kostnader som är förknippade med integreringar, vikten av att minska den tekniska skulden och fördelarna med att använda utbyggnadsfunktioner från Adobe Commerce. De tar också upp specifika användningsfall som omfattar ett resurssnålt orderhanteringssystem med WhatsApp och en smart liten kurirlåda som skickar data för personaliserade produktrekommendationer.  Teamet diskuterar också hur man använder dataanslutningen Adobe för Commerce som gör det möjligt att skicka och ta emot data mellan Adobe Commerce och andra Adobe-produkter.
 
 ## Målgrupp
 
