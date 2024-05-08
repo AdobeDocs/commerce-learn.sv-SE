@@ -1,6 +1,6 @@
 ---
 title: Starta Adobe Commerce, efter start och löpande övervakning och felsökning
-description: Den här självstudiekursen innehåller tips och tips om hur du förbereder och startar en webbplats. Välja rätt staging-miljö, ge relevant information i supportärenden och använd samma övervakningsverktyg som supportteamet för bättre kommunikation. Framhäv behovet av grundlig testning av perifera system, som betalningsprocessorer, och planering av potentiella produktionsproblem som flaskhalsar i prestandan och cacheuppvärmning. Effektiv kommunikation, proaktiv planering och förståelse av modellen med delat ansvar betonas också. Genom att följa dessa standarder kan webbplatsens lansering bli smidigare och mer framgångsrik.
+description: Lär dig de bästa sätten och tipsen för att förbereda och lansera en webbplats. Lär dig hur du väljer rätt staging-miljö, ger relevant information i supportärenden och använder samma övervakningsverktyg som supportteamet för bättre kommunikation.
 feature: Best Practices, Cloud
 topic: Architecture, Commerce, Performance
 role: Architect, Data Architect, Leader
@@ -9,9 +9,10 @@ doc-type: Technical Video
 duration: 3483
 last-substantial-update: 2024-05-07T00:00:00Z
 jira: KT-15467
-source-git-commit: 88a50f1377207b99b524fb29017bc0cfe296d524
+exl-id: e3748ec2-b449-4cc2-927d-e7ba4f4dbaf8
+source-git-commit: 0822d94079879592bd88fd0fb318ce5fd143f487
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
