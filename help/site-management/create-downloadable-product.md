@@ -10,9 +10,10 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: 043d873e9b649455202de9df137c7283d92a2a4a
+exl-id: 90753b8d-eca0-4868-b40e-9563d2b0e1e8
+source-git-commit: 8ef4b0e0a0e4dfffdef8759e4ac7659ed854fae2
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '584'
 ht-degree: 0%
 
 ---
@@ -53,7 +54,7 @@ När det är klart `env.php` ändras inuti _downloadable_domains_ array.
 
 Nu när domänen har lagts till i `env.php`kan du skapa en nedladdningsbar produkt i Adobe Commerce Admin eller genom att använda REST API.
 
-Se [Konfigurationsreferens](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) om du vill veta mer. Se [CLI-referens för Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/reference/magento-open-source.html#downloadable%3Adomains%3Aadd för mer information.
+Se [Konfigurationsreferens](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) om du vill veta mer.
 
 >[!IMPORTANT]
 >I vissa versioner av Adobe Commerce kan följande fel uppstå när en produkt redigeras i Adobe Commerce Admin. Produkten skapas med REST API, men den länkade nedladdningen har en `null` pris.
@@ -111,7 +112,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 '
 ```
 
-## Skapa en nedladdningsbar produkt med cURL (hämta från Commerce-programserver)
+## Skapa en nedladdningsbar produkt med cURL (ladda ned från Commerce programserver)
 
 I det här exemplet visas hur du använder cURL för att skapa en nedladdningsbar produkt från Adobe Commerce Admin när filen lagras på samma server som Adobe Commerce-programmet.
 
@@ -237,6 +238,5 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 - [Nedladdningsbar produkttyp](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
 - [Konfigurationshandbok för hämtningsbara domäner](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
-- [Lägga till i hämtningsbara domäner i .env.php](https://experienceleague.adobe.com/docs/commerce-operations/reference/magento-open-source.html#downloadable%3Adomains%3Aadd){target="_blank}
 - [Adobe Developer REST - självstudiekurser](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
