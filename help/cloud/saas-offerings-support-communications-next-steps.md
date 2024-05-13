@@ -10,22 +10,22 @@ duration: 0
 last-substantial-update: 2024-03-14T00:00:00Z
 jira: KT-15022
 kt: 15022
-source-git-commit: cebfa71f156a77fcfee57d5e9d0048b1326d4e27
+exl-id: f8394eec-4579-4adb-abf3-ae2679683fe2
+source-git-commit: d5516a6d22105deab84a5b4c303c55448d156135
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
 
-
-# Teknisk introduktion - Driftsättning, testning, övervakning och säkerhet
+# Teknisk introduktion - SaaS-erbjudanden
 
 Läs mer om Adobe Commerce Cloud SaaS-erbjudanden, support och annan kommunikation och några andra steg framåt.
 
 ## Vem är den här videon till?
 
 - Webbplatschefer
-- Handelsarkitekter
+- Commerce arkitects
 - Ägare till e-handelsplats
 
 ## Videoinnehåll
@@ -81,8 +81,8 @@ Läs mer om Adobe Commerce Cloud SaaS-erbjudanden, support och annan kommunikati
 - [App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/app-builder-technical-overview.html)
 - [Delat ansvar](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/shared-responsibility.html)
 - [Åtkomst och integritet av kunddata](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/adobe-support-customer-data-access-and-privacy.html)
-- [Commerce Certifications](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html)
-- [Utbildning inom e-handel](https://learning.adobe.com/catalog.html?products=Commerce)
+- [Commerce-certifieringar](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html)
+- [Commerce kurser](https://learning.adobe.com/catalog.html?products=Commerce)
 - [Commerce Community Forum](https://community.magento.com/)
 -= [Konfigurera snabbt](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-configuration.html)
 - [Prestandatestning](https://experienceleague.adobe.com/docs/commerce-operations/deliver-commerce-at-scale/launch.html)
