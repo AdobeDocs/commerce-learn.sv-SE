@@ -10,9 +10,10 @@ feature: Backend Development, Data Import/Export, REST
 topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 46855a18faf94c0d7347663ba6f83f423ef79c3c
+exl-id: 18713a44-df39-4b94-91ce-c7efeb4ce2b3
+source-git-commit: 47a71d3523d5a894ca4edc458f7e2cf71c283618
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '829'
 ht-degree: 0%
 
 ---
@@ -29,7 +30,7 @@ Välj något av alternativen nedan om du vill veta mer.
 
 ## Skapa produkterna manuellt {#manual-import}
 
-Om du har en begränsad katalog och det inte finns så många uppdateringar kan det vara bäst att skapa dem manuellt. Det krävs tid för att registrera respektive produkt och viss begränsad utbildning i hur man använder Commerce Admin. Manuell kataloghantering är inte rätt alternativ för de flesta butiker, men i vissa situationer kan det vara bra. Mer information om processen finns på [Skapa en produkt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. Do not forget, you can use more than one method to manage your catalog, however once automation is used, manual edits must be limited. Automated updates have the opportunity to overwrite any changes performed manually, and therefore cause confusion. Once the integration with Adobe Commerce to manage the catalog is using automation and APIs, it is advised to restrict management of the catalog from the admin through [user roles and permissions](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
+Om du har en begränsad katalog och det inte finns så många uppdateringar kan det vara bäst att skapa dem manuellt. Det tar tid att gå in i respektive produkt och lite tid att lära sig hur man använder Commerce Admin. Manuell kataloghantering är inte rätt alternativ för de flesta butiker, men i vissa situationer kan det vara bra. Mer information om processen finns på [Skapa en produkt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. Glöm inte att du kan använda mer än en metod för att hantera katalogen, men när du väl har använt automatisering måste manuella redigeringar vara begränsade. Automatiska uppdateringar kan skriva över ändringar som har utförts manuellt och därför skapa förvirring. När integreringen med Adobe Commerce för att hantera katalogen använder automatisering och API:er bör du begränsa kataloghanteringen från administratören till [användarroller och behörigheter](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
 
 
 
@@ -92,7 +93,7 @@ Kon:
 
 - Katalogen har alla storlekar
 - Det är vanligt att det finns uppdateringar, mer än 1x om dagen kan användas
-- Tid för import är viktigt men inte
+- Det är viktigt att importera tiden, men den är inte avgörande och en kort fördröjning av bearbetningen av importdata kan accepteras
 - Data är inte strukturerade i CSV-format och du kan inte omvandla dem med automatisering
 
 
@@ -112,8 +113,6 @@ Yrkesverksamma:
 Kon:
 
 - GET-begäran stöds inte
-- Du måste använda alternativattributets ID i stället för etiketterna
-
 
 ### När den här metoden ska övervägas
 
@@ -138,7 +137,6 @@ Yrkesverksamma:
 Kon:
 
 - De bilder och videoklipp som är associerade måste överföras separat
-- Du måste använda alternativattributets ID:n, inte etiketterna
 - Data måste vara i ett CSV-format
 
 ### När den här metoden ska övervägas
