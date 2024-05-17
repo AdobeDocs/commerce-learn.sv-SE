@@ -11,9 +11,9 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 18713a44-df39-4b94-91ce-c7efeb4ce2b3
-source-git-commit: 47a71d3523d5a894ca4edc458f7e2cf71c283618
+source-git-commit: b0fe49352b00a68554e662327cd66983c30d8285
 workflow-type: tm+mt
-source-wordcount: '829'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -32,8 +32,6 @@ Välj något av alternativen nedan om du vill veta mer.
 
 Om du har en begränsad katalog och det inte finns så många uppdateringar kan det vara bäst att skapa dem manuellt. Det tar tid att gå in i respektive produkt och lite tid att lära sig hur man använder Commerce Admin. Manuell kataloghantering är inte rätt alternativ för de flesta butiker, men i vissa situationer kan det vara bra. Mer information om processen finns på [Skapa en produkt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. Glöm inte att du kan använda mer än en metod för att hantera katalogen, men när du väl har använt automatisering måste manuella redigeringar vara begränsade. Automatiska uppdateringar kan skriva över ändringar som har utförts manuellt och därför skapa förvirring. När integreringen med Adobe Commerce för att hantera katalogen använder automatisering och API:er bör du begränsa kataloghanteringen från administratören till [användarroller och behörigheter](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
 
-
-
 ### När den här metoden ska övervägas
 
 - Mycket liten katalog, till exempel färre än 50 produkter
@@ -41,8 +39,6 @@ Om du har en begränsad katalog och det inte finns så många uppdateringar kan 
 - Du har all produktinformation, bilder, videor och du vill inte ta dig tid att lära dig hur du konverterar data till CSV
 - Du vill lägga till bilder och videoklipp när du skapar produkterna
 - Ditt team är `not` känna till API:er och hur OAUTH fungerar
-
-
 
 >[!TAB Admin-CSV]
 
@@ -61,16 +57,12 @@ Kon:
 - Tidsplanerade importer är begränsade till högst 1x per dag
 - De bilder och videoklipp som är associerade måste överföras separat
 
-
-
 ### När den här metoden ska övervägas
 
 - Katalogstorleken är måttlig
 - Uppdateringar får inte vara mer än en gång om dagen
 - du har viss åtkomst till serverkonfigurationer om du måste öka den maximala filöverföringsstorleken
 - Ditt team är `not` känna till API:er och hur OAUTH fungerar
-
-
 
 >[!TAB Bulk REST API]
 
@@ -85,9 +77,6 @@ Kon:
 
 - De bilder och videoklipp som är associerade måste överföras separat
 - Kan begränsas av bandbreddsbegränsningar för värdtjänstleverantören
-- Du måste använda attribut-ID:n för alternativ, inte etiketterna
-
-
 
 ### När den här metoden ska övervägas
 
@@ -95,8 +84,6 @@ Kon:
 - Det är vanligt att det finns uppdateringar, mer än 1x om dagen kan användas
 - Det är viktigt att importera tiden, men den är inte avgörande och en kort fördröjning av bearbetningen av importdata kan accepteras
 - Data är inte strukturerade i CSV-format och du kan inte omvandla dem med automatisering
-
-
 
 >[!TAB ASYNC REST API]
 
@@ -118,7 +105,6 @@ Kon:
 
 - Importen är vanlig
 - Inga problem med en liten fördröjning från det att de skickas via API och sedan bearbetas från meddelandekön.
-
 
 
 >[!TAB CSV REST API]
@@ -145,8 +131,6 @@ Kon:
 - Det är vanligt att det finns uppdateringar, mer än 1x om dagen kan användas
 - Den övergripande tiden för import är viktig
 - Data är redan i CSV-format eller kan enkelt omvandlas med automatisering
-
-
 
 >[!ENDTABS]
 
