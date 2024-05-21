@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 5fdc149b4618a95de839942b26fef874ce1b5c47
+source-git-commit: 60b17889ea48d9594cf659972e0c256f01312bf3
 workflow-type: tm+mt
-source-wordcount: '660'
+source-wordcount: '661'
 ht-degree: 2%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 2%
 
 + [[!DNL Commerce] Självstudiekurser](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
+   + [Ökning](../cloud/overview.md)
    + Teknisk introduktion och maskinvaruhantering {#technical-onboarding-hardware-handoff}
       + [Bästa praxis för infrastruktur och utveckling](../cloud/infrastructure-development-best-practices.md)
       + [Snabbt](../cloud/fastly.md)
