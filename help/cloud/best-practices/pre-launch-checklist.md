@@ -10,13 +10,13 @@ duration: 0
 last-substantial-update: 2024-04-17T00:00:00Z
 jira: KT-15180
 kt: 15180
-source-git-commit: 7cc6ee2906e5f223575d98f0f1b6f4bdf4c936d0
+exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
+source-git-commit: 00a8d6883473de796abc79ef2e9be34f56429a17
 workflow-type: tm+mt
-source-wordcount: '1578'
+source-wordcount: '1605'
 ht-degree: 0%
 
 ---
-
 
 # Checklista för Commerce Cloud före start
 
@@ -53,7 +53,7 @@ Om du har tilldelats ett CTA/CSE-konto kontaktar du dem och kontohanteraren mins
 
 ## 3. Snabba konfigurationer
 
-1. [!BADGE Blockera]{type=caution tooltip="Potentiell blockerare"}[Helsidescache](https://developer.adobe.com/commerce/frontend-core/guide/caching/){target="_blank"} or [GraphQL caching](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}). Read the [Fastly set up guide](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/fastly){target="_blank"}.
+1. [!BADGE Blockera]{type=caution tooltip="Potentiell blockerare"}[Helsidescache](https://developer.adobe.com/commerce/frontend-core/guide/caching/){target="_blank"} eller [GraphQL cachning](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}). Läs [Konfigurera stödlinjen snabbt](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/fastly){target="_blank"}.
 2. Använd metoden GET för GraphQL-frågor på PWA/Headless-webbplatser när det är tillämpligt.
 
    >[!NOTE]
@@ -94,9 +94,9 @@ Adobe Commerce Cloud använder ett MariaDB Galera-kluster som databas för både
 
 ## 6. Distributioner
 
-1. Granska det idealiska läget för statisk innehållsdistribution (SCD) för att minska underhållstiden under distributioner i produktionsmiljön. Granska [Strategier för distribution av statiskt innehåll](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/deploy/static-content){target="_blank"} and [Store configuration management](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure-store/store-settings){target="_blank"} guide.
+1. Granska det idealiska läget för statisk innehållsdistribution (SCD) för att minska underhållstiden under distributioner i produktionsmiljön. Granska [Strategier för distribution av statiskt innehåll](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/deploy/static-content){target="_blank"} och [Hantera butikskonfiguration](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure-store/store-settings){target="_blank"} guide.
 2. Granska minifilinställningarna för HTML, JavaScript och CSS. (Detta gäller inte PWA/Headless-webbplatser).
-3. Bekräfta att användningen av följande molnvariabler överensstämmer med deras avsedda ändamål. ([SCD_MATRIX](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build#scd_matrix){target="_blank"}, [SCD_ON_DEMAND](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-global#scd_on_demand){target="_blank"} and [SKIP_SCD](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-deploy#skip_scd){target="_blank"})
+3. Bekräfta att användningen av följande molnvariabler överensstämmer med deras avsedda ändamål. ([SCD_MATRIX](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build#scd_matrix){target="_blank"}, [SCD_ON_DEMAND](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-global#scd_on_demand){target="_blank"} och [SKIP_SCD](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-deploy#skip_scd){target="_blank"})
 
 ## 7. Testning och felsökning
 
@@ -136,7 +136,7 @@ Adobe Commerce Cloud använder ett MariaDB Galera-kluster som databas för både
 5. Kontrollera att XDebug är inaktiverat om det aktiveras under utvecklingen (se [Konfigurera Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/){target="_blank"}).
 6. Kontrollera att op-cache och andra konfigurationer har uppdaterats korrekt i filen php.ini ([referera till detta exempel](https://github.com/magento/magento-cloud/blob/master/php.ini#L41){target="_blank"}).
 7. Prenumerera på [**Adobe Commerce statussida**](https://status.adobe.com/cloud/experience_cloud#/){target="_blank"}.
-8. Prenumerera på New Relic &quot;[Hanterade aviseringar för Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-for-magento-commerce){target="_blank"}" notification channels to monitor the given performance metrics ([read more](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service){target="_blank"}).
+8. Prenumerera på New Relic &quot;[Hanterade aviseringar för Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-for-magento-commerce){target="_blank"}&quot; meddelandekanaler för att övervaka angivna prestandamått ([läs mer](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service){target="_blank"}).
 
 ## 9. Säkerhet
 
@@ -182,7 +182,7 @@ Om du råkar ut för problem som hindrar dig från att starta under avslutningen
 När sajten är live skickar du ett e-postmeddelande till CTA (Customer Technical Advisory), CSE (Customer Success Engineer) och AM (Account Manager). Om du inte har någon kontoansvarig tilldelad till projektet kan du skapa en supportanmälan där du tillfrågas om High SLA-övervakning ska aktiveras när webbplatsen har publicerats. CTA/CSE utför följande uppgifter så snart platsen har verifierats för att startas med snabbaktiverad och cachelagring:
 
 - Tagga klustret som live och skapa en supportbiljett för att aktivera övervakning av High SLA (Service Level Agreements).
-- Aktivera arkivkontroller för övervakning av drifttid.
+- Aktivera New Relic Synthetics för övervakning av drifttid.
 
 >[!MORELIKETHIS]
 > 
