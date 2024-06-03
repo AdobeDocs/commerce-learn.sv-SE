@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 60b17889ea48d9594cf659972e0c256f01312bf3
+source-git-commit: 4b88c82052f8505cfe05255dd74bb2da5fa0f792
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '664'
 ht-degree: 2%
 
 ---
@@ -128,8 +128,9 @@ ht-degree: 2%
    + [Live Search - rekommendationer](../site-management/live-search-recommendations.md)
    + [Integrera handel med AJO](../site-management/integrate-commerce-ajo.md)
 + Beställningar och orderhantering {#orders}
-   + [Butiksuppfyllelse - översikt](../site-management/store-fulfillment.md)
-   + [Hantera orderstatus](../site-management/order-status.md)
+   + [Butiksuppfyllelse - översikt](../orders-and-fulfillment/store-fulfillment.md)
+   + [Hantera orderstatus](../orders-and-fulfillment/order-status.md)
+   + [Kontrollerar lagerstatus](../orders-and-fulfillment/checking-inventory-status.md)
 + B2B för Adobe Commerce {#b2b}
    + [Hantera företagskonton](../b2b/company-accounts.md)
    + [Hantera delade kataloger](../b2b/shared-catalogs.md)
