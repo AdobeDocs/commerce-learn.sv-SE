@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 4165664069b889e015bfc4b993dc9975ce3f5385
+source-git-commit: 0b42ffc1c0b55c75fdb7b25b86ec8049edb5db97
 workflow-type: tm+mt
-source-wordcount: '668'
+source-wordcount: '670'
 ht-degree: 2%
 
 ---
@@ -33,6 +33,7 @@ ht-degree: 2%
    + Commerce Capabilities {#capabilities}
       + [Dataanslutning](../capabilities/data-connection.md)
       + [Fullständig demonstration av Live Search](../capabilities/live-search-full-demonstration.md)
+      + [Commerce](../capabilities/what-is-composable-commerce.md)
    + Skapa produkter {#create-products}
       + [Enkel produkt](../site-management/create-simple-product.md)
       + [Virtuell produkt](../site-management/create-virtual-product.md)
@@ -68,7 +69,7 @@ ht-degree: 2%
       + [Läs mer om testmappen](../app-builder/first-app/test-folder.md)
       + [Upptäck syftet med webbmappen](../app-builder/first-app/web-src-folder.md)
       + [Testa lokalt](../app-builder/first-app/testing-locally.md)
-      + [Testa med App Builder-URL](../app-builder/first-app/testing-app-builder-url.md)
+      + [Testa med App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
       + [Slutsats](../app-builder/first-app/conclusion.md)
       + [Exempelmodulens källkod](https://github.com/magento/app-builder-samples){target="_blank"}
    + IO-händelser för Adobe Commerce {#io-events}
@@ -126,7 +127,7 @@ ht-degree: 2%
    + [Konfigurera Recommendations](../site-management/product-recommendations.md)
    + [Introduktion till Live Search](../site-management/live-search.md)
    + [Live Search - rekommendationer](../site-management/live-search-recommendations.md)
-   + [Integrera handel med AJO](../site-management/integrate-commerce-ajo.md)
+   + [Integrera Commerce med AJO](../site-management/integrate-commerce-ajo.md)
 + Beställningar och orderhantering {#orders}
    + [Butiksuppfyllelse - översikt](../orders-and-fulfillment/store-fulfillment.md)
    + [Hantera orderstatus](../orders-and-fulfillment/order-status.md)
