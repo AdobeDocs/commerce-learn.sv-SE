@@ -1,7 +1,7 @@
 ---
 source-git-commit: 2c20b58f285f116cd9ddfaa82df98c5f24ebeb47
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
 
 - [ ] Felkorrigering (fast ändring som åtgärdar ett problem)
-- [ ] Ny funktion (fast förändring som lägger till funktionalitet)
+- [ ] Ny funktion (fast ändring som lägger till funktioner)
 - [ ] Brytningsändring (korrigering eller funktion som skulle få befintliga funktioner att ändras)
 
 ## Checklista:
@@ -44,11 +44,11 @@ ht-degree: 0%
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-- [ ] Följde du efter [Namngivningsstandarder](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)
+- [ ] Följde du [Namngivningsstandarder](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)
 - [ ] Innehållsförteckningen och H1-matchningen för varje sida som skapas eller uppdateras.
 - [ ] Innehållsförteckningen och H1 har en associerad åtgärd, till exempel: Lär dig hur du skapar en GutHub-pull-begäran
 - [ ] Inget ska ha fast teckenbredd i H1
 - [ ] Varje sidrubrik ska börja med en ***C***kapitelbokstav
 - [ ] Jag kollade om några videoklipp borde ha kapitel
-- [ ] Alla videoklipp har en förhandsgranskning tilldelad för att återge videon korrekt
-- [ ] Använde du [Acrolinx](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html)
+- [ ] Alla videofilmer har en förhandsgranskning tilldelad för att återge videon korrekt
+- [ ] använde du [Acrolinx](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html)

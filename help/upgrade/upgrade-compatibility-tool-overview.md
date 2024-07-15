@@ -15,8 +15,8 @@ level: Beginner, Intermediate
 exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 24%
+source-wordcount: '206'
+ht-degree: 29%
 
 ---
 
@@ -30,7 +30,7 @@ I den här videon:
 - Hur du snabbt kan identifiera fel och korrigeringar som krävs för att uppgradera till en nyare version av Adobe Commerce
 - Så här får du åtkomst till HTML-resultaten för att visualisera moduler efter allvarlighetsgrad och antal inkompatibiliteter
 
-Mer information om verktyget finns i [Dokumentation för verktyget Kompatibilitet för uppgradering](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en). Om du vill veta mer om hur du utför och förenklar uppgraderingarna kan du läsa [Uppgraderingshandbok](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
+Mer information om verktyget finns i [dokumentationen för verktyget Kompatibilitet för uppgradering](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en). Om du vill veta mer om hur du utför och förenklar uppgraderingarna läser du [uppgraderingshandboken](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
 
 ## Vem är den här videon till?
 

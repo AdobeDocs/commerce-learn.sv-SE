@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] för företagsanvändare - kundhantering"
-description: Läs mer om de rekommenderade behörigheterna för kundtjänst, skapa en kund i [!DNL Admin], hantera kundinformation och skapa kundgrupper.
+title: "[!DNL Commerce] för företagsanvändare - Kundhantering"
+description: Lär dig mer om de rekommenderade behörigheterna för kundtjänst, skapa en kund i  [!DNL Admin], hantera kundinformation och skapa kundgrupper.
 kt: 5779
 doc-type: video
 activity: use
@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 7a0743ff-03dd-49cc-9d41-6674b71a4480
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -38,4 +38,4 @@ I den här videon:
 
 [Skapa ett enskilt kundkonto - [!DNL Commerce] Handbok för kundhantering](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
 
-[Kundgrupper - [!DNL Commerce] Handbok för kundhantering](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+[Kundgrupper - [!DNL Commerce] Kundhanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)

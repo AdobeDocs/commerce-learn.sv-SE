@@ -9,13 +9,13 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 badge: AR Viewer finns i Commerce Marketplace
-source-git-commit: d1d794a94cc60ad6441d95ff5b372092eeb28402
+exl-id: c57d44b3-2a9c-4623-b45a-678203d9a894
+source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
-
 
 # Augmented Reality Viewer for Adobe Commerce
 
@@ -24,7 +24,7 @@ AR Viewer är ett tillägg för Adobe Commerce som ger onlinebutiksägare en ny 
 
 AR Viewer fungerar som en bro mellan fysisk och digital detaljhandel, vilket gör det möjligt för säljarna att tillhandahålla en omfattande, interaktiv kundupplevelse utan omfattande tekniska kunskaper eller intensivt manuellt arbete. Det användarvänliga gränssnittet är smidigt integrerat i Adobe Commerce-administratören, vilket gör det till ett smidigt tillägg i alla onlinebutiker.
 
-AR Viewer visar [!DNL bridge] skillnaden mellan fysisk och digital detaljhandel, vilket gör det möjligt för säljarna att tillhandahålla en avancerad, interaktiv kundupplevelse utan omfattande tekniska kunskaper eller intensivt manuellt arbete. Det användarvänliga gränssnittet är smidigt integrerat i Adobe Commerce-administratören, vilket gör det till ett smidigt tillägg i alla onlinebutiker.
+AR Viewer fyller i [!DNL bridge] luckan mellan fysisk och digital detaljhandel, vilket gör det möjligt för säljarna att tillhandahålla en omfattande, interaktiv kundupplevelse utan omfattande tekniska kunskaper eller intensivt manuellt arbete. Det användarvänliga gränssnittet är smidigt integrerat i Adobe Commerce-administratören, vilket gör det till ett smidigt tillägg i alla onlinebutiker.
 
 ## Funktioner
 
@@ -39,7 +39,7 @@ AR Viewer visar [!DNL bridge] skillnaden mellan fysisk och digital detaljhandel,
 ## Lägga till 3D-modellen i en produkt
 
 Att lägga till en ny 3D-modell i produkten är en enkel process när modulen har installerats i Adobe Commerce-installationen.
-I följande video finns det ett nytt avsnitt som stöder överföringen av `.USDZ` filöverföring.
+I följande video finns det ett nytt avsnitt som stöder överföringen av filöverföringen `.USDZ`.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422370?learn=on)
 
@@ -62,5 +62,4 @@ När besökaren skannar QR-koden med sin enhet läggs objektet ovanpå kameravyn
 
 ## Adobe Commerce Marketplace-tillägg
 
-[AIR-visningsprogram](https://commercemarketplace.adobe.com/magento-module-arviewer.html){target="_blank"}
-
+[AR-visningsprogram](https://commercemarketplace.adobe.com/magento-module-arviewer.html){target="_blank"}

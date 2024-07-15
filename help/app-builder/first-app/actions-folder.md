@@ -1,7 +1,7 @@
 ---
 title: Mappen Åtgärder
 description: Läs mer om filtyperna i åtgärdsmappen för det här exempelprogrammet.
-landing-page-description: Läs om Adobe Developer App Builder som används med Adobe Commerce och vilka typer av filer som finns i åtgärdsmappen.
+landing-page-description: Lär dig mer om Adobe Developer App Builder som används med Adobe Commerce och vilka typer av filer som finns i åtgärdsmappen.
 kt: 12422
 doc-type: tutorial
 audience: all
@@ -13,26 +13,26 @@ level: Beginner, Intermediate
 exl-id: d13ed1e7-b18e-4bf5-af87-2a69e2588d65
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
 
 # Läs mer om åtgärdsmappen {#actions-folder}
 
-The `actions` mappen för det här exempelprogrammet innehåller några JavaScript-filer och en mapp med namnet `commerce`. JavaScript-koden som visas är en utmärkt exempelfil som kan återanvändas om den är relevant för ditt arbete. Den här mappen kan spara tid när du ansluter till Adobe Commerce med OAuth och REST.
+Mappen `actions` för det här exempelprogrammet innehåller några JavaScript-filer och en mapp med namnet `commerce`. Den exempelfil som visas för JavaScript är ett utmärkt exempel som kan återanvändas om den är relevant för ditt arbete. Den här mappen kan spara tid när du ansluter till Adobe Commerce med OAuth och REST.
 
 De faktiska namnen på mapparna i det här exemplet är godtyckliga, men om du vet deras namn kan du tolka exempelkoden. Genom att använda en meningsfull namnkonvention kan du undvika förvirring om programmet blir mer komplext.
 
 ## Vem är den här videon till?
 
-* Utvecklare som är nybörjare i Adobe Commerce och har begränsad erfarenhet av Adobe App Builder som håller på att lära sig om åtgärdsmappen i exempelprogrammet.
+* Utvecklare som är nybörjare i Adobe Commerce med begränsad erfarenhet av Adobe App Builder och som håller på att lära sig om åtgärdsmappen i exempelprogrammet.
 
 ## Videoinnehåll
 
-* Introduktion till App Builder och exempelmodulen med fokus på `actions` mapp
+* Introduktion till App Builder och exempelmodulen med fokus på mappen `actions`
 * Så här använder du mappen &quot;actions&quot;
-* Syftet med JavaScript-filen som finns i `actions` och `commerce` mappar
+* Syftet med JavaScript-filen som finns i mapparna `actions` och `commerce`
 * En snabb översikt över OAuth-autentiseringsfilerna
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416590?quality=12&learn=on)

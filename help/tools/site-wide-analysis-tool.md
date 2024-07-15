@@ -34,5 +34,5 @@ Site-Wide Analysis Tool är ett proaktivt självbetjäningsverktyg och en centra
 
 ## Ytterligare resurser
 
-- [Site-Wide Analysis Tool](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
+- [Webbplatsövergripande analysverktyg](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
 - [Visa och hantera loggar](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)

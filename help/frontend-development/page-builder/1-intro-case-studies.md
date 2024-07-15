@@ -1,8 +1,8 @@
 ---
 title: Page Builder för utvecklare - introduktion
 description: Page Builder-introduktion, förstå Page Builder-funktioner
-landing-page-description: Titta på den här videoserien för att lära dig mer om Page Builder och hur du kan utöka den för att skapa optimala [!DNL Commerce] butiksupplevelser.
-short-description: Titta på den här videoserien för att lära dig mer om Page Builder och hur du kan utöka den för att skapa optimala [!DNL Commerce] butiksupplevelser.
+landing-page-description: I den här videoserien får du lära dig mer om Page Builder och hur du kan utöka den för att skapa optimala [!DNL Commerce] butiksupplevelser.
+short-description: I den här videoserien får du lära dig mer om Page Builder och hur du kan utöka den för att skapa optimala [!DNL Commerce] butiksupplevelser.
 kt: 5650
 doc-type: video
 activity: use
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 436003ca-df48-4441-a1f4-bd8ea977a9cc
 source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -42,4 +42,4 @@ I den här videon:
 
 [Dokumentation för Page Builder-utvecklare](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Page Builder Guide](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[Guiden Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

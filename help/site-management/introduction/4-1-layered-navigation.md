@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] för företagsanvändare - navigering i flera lager"
-description: Aktivera navigering i flera lager i [!DNL Commerce] lagra så att kunderna snabbt och enkelt kan hitta produkterna.
+title: "[!DNL Commerce] för företagsanvändare - navigering i lager"
+description: Aktivera navigering i flera lager i din [!DNL Commerce] butik så att kunderna kan hitta produkterna snabbt och enkelt.
 kt: 5775
 doc-type: video
 activity: use
@@ -12,12 +12,12 @@ level: Beginner, Intermediate
 exl-id: 683d8f73-acd6-48e8-b4c3-b478db6e88fa
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] för företagsanvändare - navigering i flera lager
+# [!DNL Commerce] för företagsanvändare - navigering i lager
 
 I den här videon:
 
@@ -31,10 +31,10 @@ I den här videon:
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [versionsinformation](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36186?quality=12&learn=on)
 
 ## Ytterligare resurser
 
-[Navigering i flera lager - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-layered.html)
+[Navigering i lager - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-layered.html)

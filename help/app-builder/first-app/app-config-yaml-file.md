@@ -1,7 +1,7 @@
 ---
 title: filen app.config.yaml
 description: Lär dig mer om filtyperna i filen app.config.yaml för det här exempelprogrammet.
-landing-page-description: Läs om Adobe Developer App Builder som används med Adobe Commerce och vilka typer av filer som finns i app.config.yaml.
+landing-page-description: Lär dig mer om Adobe Developer App Builder som används med Adobe Commerce och vilka typer av filer som finns i app.config.yaml.
 kt: 12929
 doc-type: tutorial
 audience: all
@@ -24,12 +24,12 @@ Den här filen avgör programmets konfiguration.
 
 ## Vem är den här videon till?
 
-* Utvecklare som är nybörjare i Adobe Commerce och har begränsad erfarenhet av Adobe App Builder som håller på att lära sig om `app.config.yaml` i exempelprogrammet.
+* Utvecklare som är nybörjare i Adobe Commerce med begränsad erfarenhet av Adobe App Builder och som håller på att lära sig om `app.config.yaml` i exempelprogrammet.
 
 ## Videoinnehåll
 
-* The `app.config.yaml` filen diskuterades
-* Hur länkar definitioner till andra `.js` filer
+* Filen `app.config.yaml` diskuterades
+* Hur länkar definitioner till andra `.js`-filer?
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416592?quality=12&learn=on)
 

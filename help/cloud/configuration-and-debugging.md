@@ -10,13 +10,13 @@ duration: 0
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15019
 kt: 15019
-source-git-commit: 6b71a7b4bc3d770870a02bb868c7b01bd17a5931
+exl-id: 8f5895bb-b402-4187-abf7-d7b2ac3f3c93
+source-git-commit: 0cb0982df528dd66dbc8804d7d09e3949a2fd850
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
 
 ---
-
 
 # Teknisk introduktion - Konfiguration och felsökning
 
@@ -25,7 +25,7 @@ Lär dig hur du konfigurerar och felsöker Adobe Commerce Cloud.
 ## Vem är den här videon till?
 
 - Webbplatschefer
-- Handelsarkitekter
+- Commerce arkitects
 - Ägare till e-handelsplats
 
 ## Videoinnehåll
@@ -35,7 +35,7 @@ Lär dig hur du konfigurerar och felsöker Adobe Commerce Cloud.
 ## Experience League dokumentation som nämns i videon
 
 - [Konfigurera Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html)
-- [Konfigurera Xdebug för Cloud Docker](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/)
+- [Konfigurera Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/) för Cloud Docker
 - [Bästa tillvägagångssätt vid felsökning](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html)
 - [Översikt över konfigurationsfiler](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)
 - [ECE-verktyg](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html)

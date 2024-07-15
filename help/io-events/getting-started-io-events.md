@@ -1,7 +1,7 @@
 ---
 title: Komma igång med IO-händelser med Adobe App Builder och Adobe Commerce
-description: Komma igång med Adobe I/O Events. Skapa en App Builder-körningsåtgärd för Adobe Commerce-händelser.
-landing-page-description: Lär dig hur du använder en körningsåtgärd i App Builder för Adobe Commerce Events.
+description: Komma igång med Adobe I/O Events. Skapa en App Builder-runtime-åtgärd för Adobe Commerce-händelser.
+landing-page-description: Lär dig hur du använder App Builder runtime-åtgärden för Adobe Commerce Events.
 short-description: Skapa en App Builder-körningsåtgärd för Adobe Commerce-händelser.
 kt: 14583
 doc-type: tutorial
@@ -11,7 +11,8 @@ feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
 role: Architect, Developer
 level: Beginner, Intermediate
-source-git-commit: dee58b3d5cb3e9d37302bd739d6c4c4b42efbb62
+exl-id: 266d13ac-439e-4590-a0be-e22ea8e34014
+source-git-commit: b858cca427399963571847c71832841b64c88c95
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -30,7 +31,7 @@ Läs om Adobe I/O-händelser. I den här demonstrationen skickas ett event från
 
 * Läs mer om Adobe IO-händelser
 * Förstå de olika slutpunkterna för Adobe IO-händelser, inklusive Amazon EventBridge
-* Lär dig konfigurera och konfigurera ett App Builder-projekt
+* Så här konfigurerar du ett App Builder-projekt
 * Använda kommandon i Adobe I/O i CLI
 * Skapa en körningsåtgärd för hantering av händelser
 * Skicka ett evenemang från Adobe Commerce till en Slack-kanal

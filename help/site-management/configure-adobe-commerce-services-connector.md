@@ -10,7 +10,8 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 49dd1cecc9af2ed68150a8385e7800f35ca983fc
+exl-id: 3ddfab5e-18a4-47ce-8b80-d66db10eebee
+source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
@@ -19,9 +20,9 @@ ht-degree: 0%
 
 # Konfigurera Adobe Commerce Services Connector
 
-Commerce Services Connector är en konfiguration som utvecklats av Adobe som låser upp olika SaaS-funktioner. Om du vill använda betaltjänster för Adobe Commerce och Magento Open Source måste du ansluta din Commerce-instans med hjälp av API-nycklar för produktion och sandlåda och ange datamallen i konfigurationen för konfiguration.
+Commerce Services Connector är en konfiguration som utvecklats av Adobe som låser upp olika SaaS-funktioner. Om du vill använda Betalningstjänster för Adobe Commerce och Magento Open Source måste du ansluta din Commerce-instans med hjälp av API-nycklar för produktion och sandlåda och ange datautrymmet i konfigurationen.
 
-Titta på _Konfigurera Adobe Commerce Services Connector_ video som hjälper dig att konfigurera betaltjänster.
+Titta på videon _Konfigurera Adobe Commerce Services Connector_ som hjälp att konfigurera betaltjänster.
 
 ## Vem är den här videon till?
 
@@ -38,14 +39,14 @@ Commerce Services Connector är en konfiguration som utvecklats av Adobe som lå
 
 - Åtgärda ogiltiga eller offentliga nycklar.
 - Rotera butikens API-nyckel.
-- Navigera i steget SaaS-identifierare för att konfigurera Commerce Service Connector.
+- Navigera till steget SaaS-identifierare för att konfigurera Commerce Service Connector.
 - Felsök sandlådeknappen när du registrerar betaltjänster.
-- Commerce Service Connector läses inte in i gränssnittet.
+- Commerce Service Connector läses inte in i användargränssnittet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425959?learn=on)
 
 ## Ytterligare resurser
 
 - [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
-- [Betalningstjänster - guide](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
+- [Handbok för betaltjänster](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
 - [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}

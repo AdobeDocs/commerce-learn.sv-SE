@@ -14,7 +14,7 @@ level: Beginner, Intermediate
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
 source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -105,14 +105,14 @@ type Mutation {
 }
 ```
 
-Du kan ta dig till [GraphQL-dokumentationen](https://graphql.org/learn/schema/){target="_blank"} om du vill veta mer om typsystemets detaljer, inklusive syntax för vissa begrepp som inte finns här. Ovanstående exempel är dock självförklarande. (Observera också hur likartad syntaxen är för att fråga efter syntax.) Att definiera ett GraphQL-schema är helt enkelt en fråga om att uttrycka tillgängliga argument och fält av en viss typ, tillsammans med fälttyperna. Varje komplex fälttyp måste ha en definition, och så vidare, genom trädet tills du kommer till enkla skalära typer som `String`.
+Du kan ta bort [GraphQL-dokumentationen](https://graphql.org/learn/schema/){target="_blank"} om du vill veta mer om typsystemet, inklusive syntax för vissa koncept som inte finns representerade här. Ovanstående exempel är dock självförklarande. (Observera också hur likartad syntaxen är för att fråga efter syntax.) Att definiera ett GraphQL-schema är helt enkelt en fråga om att uttrycka tillgängliga argument och fält av en viss typ, tillsammans med fälttyperna. Varje komplex fälttyp måste ha en definition, och så vidare, genom trädet tills du kommer till enkla skalära typer som `String`.
 
-The `input` deklarationen i alla avseenden är som `type` men definierar en typ som kan användas som indata för ett argument. Observera även `interface` deklaration. Detta fungerar ungefär på samma sätt som gränssnitt i PHP. Andra typer ärver från det här gränssnittet.
+Deklarationen `input` fungerar i alla avseenden som en `type` men definierar en typ som kan användas som indata för ett argument. Observera även deklarationen `interface`. Detta fungerar ungefär på samma sätt som gränssnitt i PHP. Andra typer ärver från det här gränssnittet.
 
-Syntaxen `[CartItemInput!]!` i slutänden är den ganska intuitiv. The `!` _inuti_ hakparentesen deklarerar att alla värden i arrayen måste vara icke-null, medan de _utanför_ deklarerar att själva arrayvärdet måste vara icke-null (till exempel en tom array).
+Syntaxen `[CartItemInput!]!` ser besvärlig ut men är i slutändan ganska intuitiv. `!` _inuti_ hakparentesen deklarerar att alla värden i arrayen måste vara icke-null, medan den _utanför_ deklarerar att själva matrisvärdet måste vara icke-null (till exempel en tom array).
 
 >[!NOTE]
 >
->Logiken för hur data hämtas och formateras enligt ett schema, och hur sådan logik mappas till särskilda typer, är upp till implementeringen av GraphQL runtime. Implementeringar bör emellertid följa ett konceptuellt flöde som är rimligt mot bakgrund av en förståelse kring kapslade fält: En matchningsåtgärd som är associerad med roten `Query` eller `Mutation` typ utförs, som undersöker varje fält som anges i begäran. För varje fält som tolkas till en komplex typ utförs en liknande matchning för den typen, och så vidare, tills allt har lösts in i skalära värden.
+>Logiken för hur data hämtas och formateras enligt ett schema, och hur sådan logik mappas till särskilda typer, är upp till implementeringen av GraphQL runtime. Implementeringar bör emellertid följa ett konceptuellt flöde som är rimligt mot bakgrund av en förståelse kring kapslade fält: En matchningsåtgärd som är associerad med roten `Query` eller `Mutation` utförs, som undersöker varje fält som anges i begäran. För varje fält som tolkas till en komplex typ utförs en liknande matchning för den typen, och så vidare, tills allt har lösts in i skalära värden.
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

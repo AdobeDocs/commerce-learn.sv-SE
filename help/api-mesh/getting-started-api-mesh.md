@@ -1,8 +1,8 @@
 ---
 title: Kom igång med API Mesh
-description: Upptäck hur du använder API Mesh i Adobe Commerce och [!DNL Adobe App Builder]. Lär dig hur du installerar Adobe App Builder, arbetar med projekt, skapar en grafisk omvänd proxy och mycket annat.
-landing-page-description: Upptäck hur du använder API Mesh i Adobe Commerce och [!DNL Adobe App Builder]. Lär dig hur du installerar Adobe IO, arbetar med projekt, skapar en grafisk omvänd proxy och mycket annat.
-short-description: Upptäck hur du använder API Mesh i Adobe Commerce och [!DNL Adobe App Builder]. Lär dig hur du installerar Adobe IO, arbetar med projekt, skapar en grafisk omvänd proxy och mycket annat.
+description: Upptäck hur du använder API Mesh på Adobe Commerce och [!DNL Adobe App Builder]. Lär dig hur du installerar Adobe App Builder, arbetar med projekt, skapar en grafisk omvänd proxy och mycket annat.
+landing-page-description: Upptäck hur du använder API Mesh på Adobe Commerce och [!DNL Adobe App Builder]. Lär dig hur du installerar Adobe IO, arbetar med projekt, skapar en grafisk omvänd proxy och mycket annat.
+short-description: Upptäck hur du använder API Mesh på Adobe Commerce och [!DNL Adobe App Builder]. Lär dig hur du installerar Adobe IO, arbetar med projekt, skapar en grafisk omvänd proxy och mycket annat.
 kt: 11802
 doc-type: tutorial
 audience: all
@@ -14,24 +14,24 @@ level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
 source-git-commit: 366a7988dfa1de39ebccb8ab0e281d80b27dbb36
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 23%
+source-wordcount: '316'
+ht-degree: 15%
 
 ---
 
 # Kom igång med API Mesh
 
-Om du inte har använt API Mesh för Adobe Developer App Builder tidigare rekommenderar Adobe att du börjar med den här introduktionskursen innan du går vidare till de andra videoklippen och självstudiekurserna.
+Om du inte har använt API Mesh tidigare för Adobe Developer App Builder rekommenderar Adobe att du börjar med den här introduktionskursen innan du går vidare till andra videoklipp och självstudiekurser.
 
 ## Vad är API Mesh?
 
 API Mesh kombinerar flera datakällor för att få ett enda svar som programmet kan använda.
 
-[Visa den fullständiga dokumentationen för API Mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
+[Visa den fullständiga dokumentationen för API-nät](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
 
 ## Vem är den här videon till?
 
-* Alla utvecklare som är nybörjare i API-nät eller [!DNL Adobe Commerce] med begränsad erfarenhet [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} och API Mesh.
+* Utvecklare som är nybörjare i API-nät eller [!DNL Adobe Commerce] med begränsad erfarenhet av [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} och API-nät.
 
 ## Videoinnehåll
 
@@ -50,7 +50,7 @@ Ditt Commerce-program har en REST API och en GraphQL-slutpunkt. Du kan till exem
 
 Som utvecklare som använder Adobe App Builder och API Mesh behöver du inte förstå vad en omvänd proxy är. Om du är intresserad av den övergripande funktionaliteten som den gäller för Adobe App Builder använder du följande resurser:
 
-* [Vad är en omvänd proxy?](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
-* [Vad är en omvänd proxy och varför är det viktigt?](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}
+* [Vad är en omvänd proxy](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
+* [Vad är en omvänd proxy och varför spelar det någon roll](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}
 
 {{$include /help/_includes/api-mesh-related-links.md}}

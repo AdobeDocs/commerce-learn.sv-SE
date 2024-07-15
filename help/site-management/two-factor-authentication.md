@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 33d17977-f02e-492a-ac95-a84f2db3b4d0
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -31,11 +31,11 @@ För att förhindra obehörig åtkomst till dina data måste alla användare som
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.4.0. Mer information om uppdateringar i senare versioner finns i [versionsinformation](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Innehållet i videon återspeglar version 2.4.0. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/339104?quality=12&learn=on)
 
 ## Ytterligare resurser
 
 - [Tvåfaktorautentisering (2FA) - Handbok för administratörssystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/2fa/security-two-factor-authentication.html)
-- [Konfigurera tvåfaktorsautentisering (2FA) - dokumentation för utvecklare](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)
+- [Konfigurerar tvåfaktorsautentisering (2FA) - dokumentation för utvecklare](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)

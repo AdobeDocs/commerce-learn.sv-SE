@@ -1,6 +1,6 @@
 ---
 title: Hantera valuta- och skatteregler
-description: Lär dig hur du konfigurerar valuta och de skatteregler som [!DNL Commerce] använder för att beräkna lämplig skatt enligt kund- och produktklasserna.
+description: Lär dig hur du konfigurerar valuta och de momsregler som  [!DNL Commerce] använder för att beräkna lämplig skatt enligt kund- och produktklasserna.
 kt: 10542
 doc-type: feature video
 audience: all
@@ -13,14 +13,14 @@ level: Beginner, Intermediate
 exl-id: d72fd055-1497-41e7-ae2c-2bbc837d974c
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
 # Hantera valuta- och skatteregler
 
-Skattereglerna innehåller en kombination av produktklass, kundklass och momssats. Varje kund tilldelas en kundklass och varje produkt tilldelas en produktklass. [!DNL Commerce] analyserar kundvagnen och beräknar lämplig skatt enligt kund- och produktklasserna samt regionen (baserat på leveransadress, faktureringsadress eller leveransadress).
+Skattereglerna innehåller en kombination av produktklass, kundklass och momssats. Varje kund tilldelas en kundklass och varje produkt tilldelas en produktklass. [!DNL Commerce] analyserar kundvagnen och beräknar lämplig moms enligt kund- och produktklasserna samt regionen (baserat på leveransadress, faktureringsadress eller leveransadress).
 
 ## Vem är den här videon till?
 
@@ -33,5 +33,5 @@ Skattereglerna innehåller en kombination av produktklass, kundklass och momssat
 
 ## Ytterligare resurser
 
-- [Skatteregler - [!DNL Commerce] Butiks and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
-- [Valuta - [!DNL Commerce] Butiks and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)
+- [Skatteregler - [!DNL Commerce] Butiker och inköpsupplevelseguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
+- [Valuta - [!DNL Commerce] Butiker och inköpsupplevelseguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)

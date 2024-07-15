@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 8b982882-9c59-4d3f-b158-8ea5d38d7a22
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -34,5 +34,5 @@ Med verktyget för URL-omskrivning kan du ändra alla URL:er som är kopplade ti
 
 ## Ytterligare resurser
 
-- [URL-omskrivningar - [!DNL Commerce] Handbok för marknadsföring och reklam](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
-- [Allmänt > Webb - [!DNL Commerce] Referenshandbok för konfiguration](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)
+- [URL-omskrivning - [!DNL Commerce] Handbok för marknadsföring och marknadsföring](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
+- [Allmänt > Webb - [!DNL Commerce] Konfigurationsreferens](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)

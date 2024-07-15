@@ -11,7 +11,7 @@ level: Beginner, Intermediate
 exl-id: aa830d15-0095-450f-83a8-a4ea489d6aae
 source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -27,15 +27,15 @@ Skapa en sida som returnerar json med en parameter.
 ## Steg för att lägga till en sida
 
 - Skapa en modul
-- Lägg till en **route.xml** fil
+- Lägg till en **route.xml**-fil
 - Lägga till en kontrollenhetsfil (actionfil)
 
 ## Steg för att skapa en modul
 
 - Skapa modulmappen
-- Skapa `etc/module.xml` fil
-- Skapa `registration.php` fil
-- Kör `bin/magento setup:upgrade` skript för att installera den nya modulen
+- Skapa filen `etc/module.xml`
+- Skapa filen `registration.php`
+- Kör skriptet `bin/magento setup:upgrade` för att installera den nya modulen
 - Kontrollera att modulen fungerar
 
 ## Videoinnehåll
@@ -44,4 +44,4 @@ Skapa en sida som returnerar json med en parameter.
 
 ## Användbara resurser
 
-[Utvecklarhandbok för Fornend](https://developer.adobe.com/commerce/frontend-core/guide/)
+[Utvecklarhandbok för frontend](https://developer.adobe.com/commerce/frontend-core/guide/)

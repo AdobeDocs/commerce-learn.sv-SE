@@ -14,7 +14,7 @@ level: Beginner, Intermediate
 exl-id: 03787aa3-051b-4a35-b2e8-ecf6762b5eb4
 source-git-commit: e02da0901c01871360bcc556666e310acd7c7224
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Läs om villkorliga händelser i Adobe Commerce som kan användas i Adobe Develo
 
 ## Vem är den här videon till?
 
-* Utvecklare som är nybörjare i Adobe Commerce och Adobe Developer App Builder med I/O-händelser och som behöver skapa ett Adobe App Builder-projekt.
+* Utvecklare som är nybörjare på Adobe Commerce och Adobe Developer App Builder med I/O-event och behöver skapa ett Adobe App Builder-projekt.
 
 ## Videoinnehåll {#video-content}
 

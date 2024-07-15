@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: f9df7bb0-f5fe-41c0-8990-7d9b5db3596d
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -31,11 +31,11 @@ Alla installationer av Adobe Commerce och Magento Open Source har stöd för en 
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.1.0. Mer information om uppdateringar i senare versioner finns i [versionsinformation](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Innehållet i videon återspeglar version 2.1.0. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35787?quality=12&learn=on)
 
 ## Ytterligare resurser
 
-- [Webbplatser, butiker och vyer - [!DNL Commerce] Starthandbok](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+- [Webbplatser, butiker och vyer - [!DNL Commerce] Guiden Komma igång](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
 - [Rotkategori och hierarki - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-root.html)

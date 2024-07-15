@@ -41,7 +41,7 @@ Den bästa metoden är att göra en databasdump och svepa den för att ta bort a
 
 ## Använda Adobe Commerce Cloud CLI-verktyget
 
-Om du vill skapa en databasdump måste du ha [ADOBE COMMERCE CLOUD CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html) installerade. Gå till en katalog på din lokala bärbara dator och kör följande kommando. Se till att ersätta `your-project-id` med projekt-ID, som liknar `asasdasd45q`. Du måste även ersätta `your-environment-name` med namnet på miljön, till exempel `master` eller `staging`.
+Om du vill skapa en databasdump måste du ha [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html) installerat. Gå till en katalog på din lokala bärbara dator och kör följande kommando. Se till att ersätta `your-project-id` med projekt-ID:t, som liknar `asasdasd45q`. Du måste även ersätta `your-environment-name` med namnet på miljön, till exempel `master` eller `staging`.
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
 
@@ -83,7 +83,8 @@ Creating SQL dump file: /Users/<username>/Downloads/db-tutorial/abasrpikfw4123--
 
 ## Använda Adobe Commerce ECE-verktygen
 
-Om du inte har Adobe Commerce CLI-verktyget kan du `ssh` i projektet och kör `ece` kommando `vendor/bin/ece-tools db-dump`: Samplingssvar:
+Om du inte har Adobe Commerce CLI-verktyget kan du `ssh` in i ditt projekt och köra `ece` command `vendor/bin/ece-tools db-dump` :
+Exempelsvar:
 
 ```bash
 ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud
@@ -117,9 +118,9 @@ logout
 Connection to ssh.us-4.magento.cloud closed.
 ```
 
-Använd `SFTP` eller `rsync` för att dra databasdumpen till din lokala miljö.
+Använd `SFTP` eller `rsync` för att hämta databasdumpen till din lokala miljö.
 
-I följande exempel används `rsync` för att dra filen till `~/Downloads/db-tutorial` mapp.
+I följande exempel används `rsync` för att hämta filen till mappen `~/Downloads/db-tutorial`.
 
 ```bash
 rsync -avrp -e ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud:/app/var/dump-main-1707850906.sql.gz ~/Downloads/db-tutorial
@@ -250,7 +251,7 @@ Save encoded tunnel details to the MAGENTO_CLOUD_RELATIONSHIPS variable using:
   export MAGENTO_CLOUD_RELATIONSHIPS="$(magento-cloud tunnel:info --encode)"
 ```
 
-Upprätta en anslutning med hjälp av ett grafiskt MySQL-gränssnitt med `SSH tunnel opened to database at` kommandoalternativ.
+Upprätta en anslutning med ett MySQL-grafiskt gränssnitt genom att använda kommandoalternativet `SSH tunnel opened to database at`.
 
 ```bash
 SSH tunnel opened to database at: mysql://user:@127.0.0.1:30000/main
@@ -263,8 +264,8 @@ Du hittar SSH-värdnamnet och användarnamnet från molnautentiseringsuppgiftern
 ![logotyp - Adobe Commerce Cloud Console](./assets/cloud-ui-screenshot.png "Adobe Commerce Cloud Console")
 
 Här är ett exempel: `ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud`
-SSH-värdnamnet är allt efter @-tecknet: `ssh.us-4.magento.cloud` i detta exempel.
-SSH-användarnamnet är allt före @-tecknet:  `abasrpikfw4123-remote-db-ecpefky—mymagento`
+SSH-värdnamnet är allt efter @-tecknet: `ssh.us-4.magento.cloud` i det här exemplet.
+SSH-användarnamnet är allt före @-tecknet: `abasrpikfw4123-remote-db-ecpefky—mymagento`
 
 ## Söker efter värden att ansluta till databasen
 
@@ -276,7 +277,7 @@ För att få åtkomst till MariaDB-databasen direkt måste SSH användas för at
    magento-cloud ssh
    ```
 
-1. Hämta inloggningsuppgifterna för MySQL från `database` och `type` egenskaper i [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=en#relationships) variabel.
+1. Hämta inloggningsuppgifterna för MySQL från egenskaperna `database` och `type` i variabeln [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=en#relationships).
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp
@@ -314,7 +315,7 @@ För att få åtkomst till MariaDB-databasen direkt måste SSH användas för at
 
 Använd sedan konfigurationsvärdena i ditt MySQL-GUI. I följande exempel används MySQL Workbench, men alla program som har stöd för MySQL-anslutningar har liknande fält.
 
-![logo - Exempel på Mysql GUI med Mysql Workbench](./assets/mysql-workbench-after-connecting.png " Exempel på Mysql GUI som använder Mysql Workbench")
+![logo - Exempel på Mysql GUI med Mysql Workbench](./assets/mysql-workbench-after-connecting.png " Exempel på Mysql GUI med Mysql Workbench")
 
 ![logo - Exempel på Mysql GUI med TablesPlus](./assets/tablesPlus-db-connection.png " Exempel på Mysql GUI med TablesPlus")
 
@@ -322,7 +323,7 @@ När allt har konfigurerats går det att använda ett MySQL-GUI för att köra f
 
 ## Ansluta direkt till molnprojektdatabasen för att köra SQL
 
-Följande metod använder `magento-cloud` cli för att ansluta direkt till mysql-databasen och köra SQL, vilket ger snabbare databasfrågor. Om du behöver kopiera den här databasen kan du gå till någon av de alternativa metoderna för att [skapa en databasdump](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html).
+Följande metod använder klippet `magento-cloud` för att ansluta direkt till mysql-databasen och köra SQL, vilket möjliggör snabbare databasfrågor. Om du behöver kopiera den här databasen kan du referera till en av de alternativa metoderna för att [skapa en databasdump](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html).
 
 ```bash
 magento-cloud db:sql    
@@ -348,7 +349,7 @@ Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
 Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 ```
 
-Du kan till exempel hitta alla poster från `core_config_data` tabell som innehåller ordet `secure` som en del av kolumnen `path`:
+Du kan till exempel hitta alla poster från tabellen `core_config_data` som innehåller ordet `secure` som en del av kolumnen `path`:
 
 ```sql
 MariaDB [main]> SELECT * FROM core_config_data WHERE path LIKE '%secure%' \G;
@@ -382,7 +383,7 @@ MariaDB [main]>
 
 ## Ytterligare resurser
 
-[ADOBE COMMERCE CLOUD CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
-[Konfigurera tjänsten MySQL](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
+[Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
+[Konfigurera MySQL-tjänsten](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
 [Konfigurera en MySQL-fjärrdatabasanslutning](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
-[Skapa databasdump på Adobe Commerce i molninfrastrukturen](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)
+[Skapa databasdump på Adobe Commerce i molninfrastruktur](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)

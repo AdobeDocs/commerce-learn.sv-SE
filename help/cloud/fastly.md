@@ -25,7 +25,7 @@ Läs mer om molnanvändningen av Fastly för Adobe Commerce.
 ## Vem är den här videon till?
 
 - Webbplatschefer
-- Handelsarkitekter
+- Commerce arkitects
 - Ägare till e-handelsplats
 
 ## Videoinnehåll

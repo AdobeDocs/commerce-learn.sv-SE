@@ -1,8 +1,8 @@
 ---
 title: Lär dig skapa ett App Builder-projekt med Commerce Events
-description: Lär dig hur du skapar ett App Builder-projekt som ska användas med Commerce-händelser
-landing-page-description: Lär dig hur du skapar ett Adobe App Builder-projekt för Adobe Commerce-händelser
-short-description: Lär dig hur du skapar ett Adobe App Builder-projekt för Adobe Commerce-händelser
+description: Lär dig hur du skapar ett App Builder-projekt för Commerce-event
+landing-page-description: Lär dig hur du skapar ett Adobe App Builder-projekt för Adobe Commerce-event
+short-description: Lär dig hur du skapar ett Adobe App Builder-projekt för Adobe Commerce-event
 kt: 11888
 doc-type: tutorial
 audience: all
@@ -14,18 +14,18 @@ level: Beginner, Intermediate
 exl-id: ec746cde-856b-4076-8ea4-e1c3f2f4b97b
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
 # Skapa ett App Builder-projekt
 
-Lär dig hur du skapar ett Adobe Developer App Builder-projekt för att förbruka händelser från Adobe Commerce. Ytterligare dokumentation finns på [Installera Adobe I/O-händelser för Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Lär dig hur du skapar ett Adobe Developer App Builder-projekt för att förbruka event från Adobe Commerce. Ytterligare dokumentation finns på [Installera Adobe I/O-händelser för Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Vem är den här videon till?
 
-* Utvecklare som är nybörjare i Adobe Commerce och Adobe Developer App Builder med I/O-händelser och som behöver skapa ett Adobe App Builder-projekt.
+* Utvecklare som är nybörjare på Adobe Commerce och Adobe Developer App Builder med I/O-event och behöver skapa ett Adobe App Builder-projekt.
 
 ## Videoinnehåll {#video-content}
 

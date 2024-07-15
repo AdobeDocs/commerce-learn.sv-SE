@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] för företagsanvändare - produkttyper"
-description: Läs mer om [!DNL Commerce] produkttyper och alternativ för varje.
+description: Lär dig mer om  [!DNL Commerce] produkttyperna och alternativen för varje.
 kt: 5767
 doc-type: video
 activity: use
@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 8067f749-31fb-4a71-9c7c-ee31720aa6ce
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ I den här videon:
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [versionsinformation](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35952?quality=12&learn=on)
 

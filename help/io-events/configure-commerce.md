@@ -1,8 +1,8 @@
 ---
 title: Konfigurera Adobe Commerce
 description: Lär dig hur du konfigurerar Adobe Commerce så att händelser kan användas i Adobe Developer App Builder.
-landing-page-description: Lär dig hur du konfigurerar Adobe Commerce att använda händelsemekanismen för Adobe Developer App Builder.
-short-description: Lär dig hur du konfigurerar Adobe Commerce att använda händelsemekanismen för Adobe Developer App Builder.
+landing-page-description: Lär dig hur du konfigurerar Adobe Commerce att använda händelsemekanismen för Adobe Developer App Builder användning.
+short-description: Lär dig hur du konfigurerar Adobe Commerce att använda händelsemekanismen för Adobe Developer App Builder användning.
 kt: 11889
 doc-type: tutorial
 audience: all
@@ -14,7 +14,7 @@ level: Beginner, Intermediate
 exl-id: b8062042-2e90-4750-92ef-d55a76f2d842
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -25,13 +25,13 @@ Lär dig hur du konfigurerar Adobe Commerce för att visa händelserna. Ytterlig
 
 ## Vem är den här videon till?
 
-* Utvecklare som är nybörjare i Adobe Commerce och Adobe Developer App Builder med I/O-händelser och som behöver skapa ett Adobe App Builder-projekt.
+* Utvecklare som är nybörjare på Adobe Commerce och Adobe Developer App Builder med I/O-event och behöver skapa ett Adobe App Builder-projekt.
 
 ## Videoinnehåll {#video-content}
 
-* Konfiguration av Adobe I/O-händelser i Commerce Admin
+* Konfiguration av Adobe I/O-händelser i Commerce-administratören
 * Spara en privat nyckel i Commerce-administratören
-* Sparar den unika identifieraren i Commerce-administratören
+* Spara den unika identifieraren i Commerce-administratören
 * Skapa en händelseprovider
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415799?quality=12&learn=on)

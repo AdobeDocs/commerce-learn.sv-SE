@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
 source-git-commit: 05919e15260c0e2c2a684a12bca60a6d6cb536f5
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '138'
 ht-degree: 1%
 
 ---
@@ -42,4 +42,4 @@ Med de behörigheter som krävs för deras roll kan B2B-kunder skapa godkännand
 ## Ytterligare resurser
 
 - [Inköpsorder för företag](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html){target="_blank"}
-- [Godkännanderegler för inköpsorder](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html){target="_blank"}
+- [Regler för godkännande av inköpsorder](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html){target="_blank"}

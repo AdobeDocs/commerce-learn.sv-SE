@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Hantera orderstatus
 
-När en kund gör en beställning skapas en försäljningsorder som en tillfällig post för transaktionen. Försäljningsordern har statusen _Väntande_ tills betalningen har tagits emot. I Väntande status kan beställningar redigeras eller annulleras tills den tidpunkt då betalningen tas emot och en faktura genereras. I den här videon får du lära dig hur du kontrollerar orderstatus och dess detaljer samt hur du ändrar status för en order, om det behövs.
+När en kund gör en beställning skapas en försäljningsorder som en tillfällig post för transaktionen. Försäljningsordern har statusen _Väntande_ tills betalningen tas emot. I Väntande status kan beställningar redigeras eller annulleras tills den tidpunkt då betalningen tas emot och en faktura genereras. I den här videon får du lära dig hur du kontrollerar orderstatus och dess detaljer samt hur du ändrar status för en order, om det behövs.
 
 ## Vem är den här videon till?
 
@@ -32,5 +32,5 @@ När en kund gör en beställning skapas en försäljningsorder som en tillfäll
 
 ## Ytterligare resurser
 
-- [Bearbeta en order - [!DNL Commerce] Butiks and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
-- [Orderstatus - [!DNL Commerce] Butiks and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)
+- [Bearbeta en beställning - [!DNL Commerce] Lagrar och köpguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
+- [Beställningsstatus - [!DNL Commerce] Butiker och inköpsupplevelseguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)

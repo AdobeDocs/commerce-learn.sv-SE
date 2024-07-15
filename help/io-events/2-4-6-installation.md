@@ -15,7 +15,7 @@ level: Beginner, Intermediate
 exl-id: 41b31ed8-04c5-4d50-aaff-abc3718b5957
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Lär dig installera flera nya moduler i Adobe Commerce med Composer för version
 
 ## Vem är den här videon till?
 
-* Utvecklare som är nya i Adobe Commerce och Adobe Developer App Builder med I/O Events.
+* Utvecklare som är nybörjare i Adobe Commerce och Adobe Developer App Builder med I/O Events.
 
 ## Videoinnehåll {#video-content}
 

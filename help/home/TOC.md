@@ -15,7 +15,7 @@ ht-degree: 2%
 
 + [[!DNL Commerce] Självstudiekurser](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
-   + [Migrera från en självserverbaserad lösning](../cloud/overview.md)
+   + [Migrera från en självvärdbaserad lösning](../cloud/overview.md)
    + Teknisk introduktion och maskinvaruhantering {#technical-onboarding-hardware-handoff}
       + [Bästa praxis för infrastruktur och utveckling](../cloud/infrastructure-development-best-practices.md)
       + [Snabbt](../cloud/fastly.md)
@@ -42,9 +42,9 @@ ht-degree: 2%
       + [Konfigurerbar produkt](../site-management/create-configurable-product.md)
       + [Paketprodukt](../site-management/create-bundle-product.md)
       + [Presentkortsprodukt](../site-management/create-gift-card-product.md)
-   + Startpaket för integrering av backoffice {#back-office-integration-starter-kit}
+   + Startsats för integrering av bakgrunder {#back-office-integration-starter-kit}
       + [Demonstration av startkit](../back-office-integrations/starter-kit-demo.md)
-+ Webbinarier och event {#webinars-and-events}
++ Webbinarier och händelser {#webinars-and-events}
    + Aktivera serie {#enablement-series}
       + [Sänk innehållsförteckningen för Commerce-integreringar](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
       + [Planera den moderna Adobe Commerce-implementeringen](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
@@ -71,14 +71,14 @@ ht-degree: 2%
       + [Testa lokalt](../app-builder/first-app/testing-locally.md)
       + [Testa med App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
       + [Slutsats](../app-builder/first-app/conclusion.md)
-      + [Exempelmodulens källkod](https://github.com/magento/app-builder-samples){target="_blank"}
+      + [Källkod för exempelmodul](https://github.com/magento/app-builder-samples){target="_blank"}
    + IO-händelser för Adobe Commerce {#io-events}
       + [Komma igång med IO-händelser](../io-events/getting-started-io-events.md)
       + [Installation av Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
       + [Installation av Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
       + [Skapa ett App Builder-projekt](../io-events/create-app-builder-project.md)
       + [Konfigurera Adobe Commerce](../io-events/configure-commerce.md)
-      + [Utveckling av modulen Adobe Commerce](../io-events/commerce-module-development.md)
+      + [Adobe Commerce modulutveckling](../io-events/commerce-module-development.md)
       + [Adobe Commerce villkorsstyrda evenemang](../io-events/conditional-events.md)
    + API-nät {#api-mesh}
       + [Kom igång med API Mesh](../api-mesh/getting-started-api-mesh.md)
@@ -126,9 +126,9 @@ ht-degree: 2%
    + [Hantera relaterade produktregler](../site-management/related-product-rules.md)
    + [Konfigurera Recommendations](../site-management/product-recommendations.md)
    + [Introduktion till Live Search](../site-management/live-search.md)
-   + [Live Search - rekommendationer](../site-management/live-search-recommendations.md)
+   + [Live Search för rekommendationer](../site-management/live-search-recommendations.md)
    + [Integrera Commerce med AJO](../site-management/integrate-commerce-ajo.md)
-+ Beställningar och orderhantering {#orders}
++ Beställningar och uppfyllelse {#orders}
    + [Butiksuppfyllelse - översikt](../orders-and-fulfillment/store-fulfillment.md)
    + [Hantera orderstatus](../orders-and-fulfillment/order-status.md)
    + [Kontrollerar lagerstatus](../orders-and-fulfillment/checking-inventory-status.md)
@@ -158,12 +158,12 @@ ht-degree: 2%
    + [Filteruppsättning](../business-intelligence/filter-sets.md)
    + [Kohort Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
-   + [Framtidsförberedande](../business-intelligence/prepare-for-future.md)
-+ Commerce Upgrades {#upgrade}
+   + [Förbereder för framtiden](../business-intelligence/prepare-for-future.md)
++ Commerce-uppgraderingar {#upgrade}
    + [Adobe Commerce 2.4 Upgrade Workshop](../upgrade/2-4-upgrade-workshop.md)
    + [Översikt över verktyget Kompatibilitet för uppgradering](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Använda verktyget Kompatibilitet för uppgradering i PHP Storm](../upgrade/uct-phpstorm.md)
-+ Back-end Development {#backend-development}
++ Serverutveckling {#backend-development}
    + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Skapa en modul](../backend-development/create-module.md)
    + [Lägg till ett produktattribut](../backend-development/add-product-attribute.md)
@@ -184,7 +184,7 @@ ht-degree: 2%
    + [Skapa en sida](../frontend-development/create-page.md)
 + Headless Architecture {#headless-architecture}
    + Introduktion till headless {#introduction-to-headless}
-      + [Headless Architecture - Session 1](../headless/session-1.md)
+      + [Arkitektur utan rubrik - session 1](../headless/session-1.md)
    + Introduktion till PWA Studio {#introduction}
       + [1 - Översikt](../pwa/introduction/1-overview.md)
       + [2 - PWA STUDIO](../pwa/introduction/2-pwa-studio-tools.md)

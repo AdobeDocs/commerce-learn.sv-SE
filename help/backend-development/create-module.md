@@ -12,14 +12,14 @@ level: Beginner, Intermediate
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
 # Skapa en modul
 
-Modulen är ett strukturelement i [!DNL Commerce] - hela systemet bygger på moduler. Det första steget i att skapa en anpassning är oftast att skapa en modul.
+Modulen är ett strukturelement i [!DNL Commerce] - hela systemet är baserat på moduler. Det första steget i att skapa en anpassning är oftast att skapa en modul.
 
 ## Vem är den här videon till?
 
@@ -71,12 +71,12 @@ Nästa steg är att lägga till vissa funktioner i vår grundläggande modul. En
 
 ### Saker att komma ihåg för plugin-program
 
-- Alla plugin-program deklareras i `di.xml`.
+- Alla plugin-program har deklarerats i `di.xml`.
 - Plugin-programmet måste ha ett unikt namn
 - inaktiverad och sortOrder är valfria
 - Plugin-programmets omfång anges av mappen som det finns i
 - Plugin-program kan köras före, efter eller båda (runt) när metoden anropas
-- Undvik användning `around` plugins. De är frestande att använda, men är ofta fel val och kommer att leda till prestandaproblem.
+- Undvik att använda `around` plugin-program. De är frestande att använda, men är ofta fel val och kommer att leda till prestandaproblem.
 
 ### Plugin-kodexempel
 

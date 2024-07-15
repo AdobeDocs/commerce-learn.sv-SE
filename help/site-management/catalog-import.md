@@ -38,16 +38,17 @@ Om du har en begränsad katalog och det inte finns så många uppdateringar kan 
 - Uppdateringar är ovanliga
 - Du har all produktinformation, bilder, videor och du vill inte ta dig tid att lära dig hur du konverterar data till CSV
 - Du vill lägga till bilder och videoklipp när du skapar produkterna
-- Ditt team är `not` känna till API:er och hur OAUTH fungerar
+- Ditt team är `not` bekant med API:er och hur OAUTH fungerar
 
->[!TAB Admin-CSV]
+>[!TAB Admin CSV]
 
 ## Administratörens CSV-importverktyg {#admin-csv}
 
 Med det här verktyget kan en butiksägare importera en katalog via en CSV-fil direkt från e-handelsadministratören.
 [Importera data från Commerce Admin](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
 
-Pros: Att överföra en CSV-fil från administratören är ett enkelt sätt att hantera kataloger. Det ger snabbare katalogproduktuppdateringar till en katalog i måttlig storlek.
+Yrkesverksamma:
+Att överföra en CSV-fil från administratören är ett enkelt sätt att hantera kataloger. Det ger snabbare katalogproduktuppdateringar till en katalog i måttlig storlek.
 
 Kon:
 
@@ -62,16 +63,17 @@ Kon:
 - Katalogstorleken är måttlig
 - Uppdateringar får inte vara mer än en gång om dagen
 - du har viss åtkomst till serverkonfigurationer om du måste öka den maximala filöverföringsstorleken
-- Ditt team är `not` känna till API:er och hur OAUTH fungerar
+- Ditt team är `not` bekant med API:er och hur OAUTH fungerar
 
->[!TAB Bulk REST API]
+>[!TAB MassREST API]
 
 ## Bulk REST API {#bulk-rest-api}
 
 Med REST API:t för större datamängder kan man automatisera och få uppdateringar oftare. Det här API:t är snabbare än att överföra CSV-filer till administratörer.
 [Dokumentation för massslutpunkter](https://developer.adobe.com/commerce/webapi/rest/use-rest/bulk-endpoints/){target="_blank"}
 
-Pros: Möjlighet att importera stora datauppsättningar som inte är i CSV-format.
+Yrkesverksamma:
+Möjlighet att importera stora datauppsättningar som inte är i CSV-format.
 
 Kon:
 
@@ -95,7 +97,7 @@ En asynkron webbslutpunkt fångar upp meddelanden till ett webb-API och skriver 
 Yrkesverksamma:
 
 - Snabb import av data
-- Butiksomfånget stöds eller så kan du ange `all` för att utföra åtgärden på alla befintliga arkiv
+- Butiksomfånget stöds eller så kan du ange att `all` ska utföra åtgärden i alla befintliga butiker
 
 Kon:
 
@@ -138,5 +140,5 @@ Kon:
 
 - [Importera data med ny REST CSV](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
 - [Importera huvuddokumentation för data](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
-- [Versionsinformation om Adobe Commerce version 2.4.6](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html){target="_blank"}
+- [Versionsinformation för Adobe Commerce version 2.4.6](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html){target="_blank"}
 - [Användare, roller och behörigheter](../site-management/users-roles-permissions.md){target="_blank"}

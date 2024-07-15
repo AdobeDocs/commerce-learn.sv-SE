@@ -14,19 +14,19 @@ level: Beginner, Intermediate
 exl-id: 898a0918-0362-4fa4-9204-d770ff1a7e6f
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
 # Installera Adobe I/O Runtime CLI- och Mesh-plugin
 
-Innan du börjar använda API Mesh för Adobe Developer App Builder måste du installera `aio` CLI och API Mesh-plugin.
-Installationsanvisningar och krav finns på API Mesh [Komma igång](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"} sida.
+Innan du börjar använda API Mesh för Adobe Developer App Builder måste du installera CLI:n `aio` och API Mesh-pluginen.
+Installationsanvisningar och krav finns på sidan [Komma igång](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"} för API-nät.
 
 ## Vem är den här videon till?
 
-* Utvecklare som är nya för API Mesh eller [!DNL Adobe Commerce] med begränsad erfarenhet [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} och API Mesh.
+* Utvecklare som är nybörjare i API-nät eller [!DNL Adobe Commerce] med begränsad erfarenhet av att använda [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} och API-nät.
 
 ## Videoinnehåll
 
@@ -36,9 +36,9 @@ Installationsanvisningar och krav finns på API Mesh [Komma igång](https://deve
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414122?quality=12&learn=on)
 
-## Installera `aio` CLI- och API Mesh-plugin
+## Installerar plugin-programmet `aio` för CLI och API Mesh
 
-Efter installation `node` och `npm`kör du följande kommando för att installera `aio` CLI:
+När du har installerat `node` och `npm` kör du följande kommando för att installera CLI:n för `aio`:
 
 ```bash
 npm install -g @adobe/aio-cli

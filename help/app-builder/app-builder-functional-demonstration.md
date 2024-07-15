@@ -1,8 +1,8 @@
 ---
-title: Funktionsdemonstration för App Builder
-description: Läs om Adobe Developer App Builder som används i Adobe Commerce i en teknisk demonstration
-landing-page-description: Läs om Adobe Developer App Builder som används i Adobe Commerce i en teknisk demonstration
-short-description: Läs om Adobe Developer App Builder som används i Adobe Commerce i en teknisk demonstration
+title: App Builder funktionsdemonstration
+description: Läs om Adobe Developer App Builder i Adobe Commerce i en teknisk demonstration
+landing-page-description: Läs om Adobe Developer App Builder i Adobe Commerce i en teknisk demonstration
+short-description: Läs om Adobe Developer App Builder i Adobe Commerce i en teknisk demonstration
 kt: 11762
 doc-type: tutorial
 audience: all
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Funktionell demonstration för App Builder
 
-Om du vill veta mer om hur du använder Adobe Commerce med App Builder kan du titta på videon nedan som visar hur du ansluter Adobe Commerce till Amazon Seller Central. Den här demonstrationen använder händelser från Adobe Commerce som används av App Builder för att möjliggöra kontinuerlig integrering med Amazon Marketplace. Denna funktionella demonstration beskriver hur den här integreringen fungerar och utforskar potentialen i Adobe App Builder.
+Om du vill veta mer om hur du använder Adobe Commerce med App Builder kan du titta på videon nedan som visar hur du ansluter Adobe Commerce till Amazon Seller Central. Den här demonstrationen använder evenemang från Adobe Commerce som används av App Builder för att möjliggöra kontinuerlig integrering med Amazon Marketplace. Denna funktionella demonstration beskriver hur denna integrering fungerar och utforskar Adobe App Builder potential.
 
 ## App Builder för Adobe Commerce {#app-builder-functional-demonstration}
 

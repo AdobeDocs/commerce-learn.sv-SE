@@ -13,14 +13,14 @@ level: Beginner, Intermediate
 exl-id: b43c5464-e103-4956-8352-3444f09e1ceb
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
 # Skapa kundgrupper
 
-Kundgrupper avgör vilka rabatter som är tillgängliga och vilken skatteklass som är associerad med gruppen. Standardkundgrupperna är _Allmänt_, _Inte inloggad_ och _Grossist_. I den här videon får du lära dig hur du skapar en kundgrupp och hur du tilldelar kunder till specifika grupper.
+Kundgrupper avgör vilka rabatter som är tillgängliga och vilken skatteklass som är associerad med gruppen. Standardkundgrupperna är _Allmänt_, _Inte inloggad_ och _Partihandel_. I den här videon får du lära dig hur du skapar en kundgrupp och hur du tilldelar kunder till specifika grupper.
 
 ## Vem är den här videon till?
 
@@ -33,5 +33,5 @@ Kundgrupper avgör vilka rabatter som är tillgängliga och vilken skatteklass s
 
 ## Ytterligare resurser
 
-- [Kundgrupper - [!DNL Commerce] Handbok för kundhantering](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
-- [Kundgruppsbegränsningar per webbplats - [!DNL Commerce] Handbok för kundhantering](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)
+- [Kundgrupper - [!DNL Commerce] Kundhanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+- [Begränsningar av kundgrupper per webbplats - [!DNL Commerce] Handbok för kundhantering](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)

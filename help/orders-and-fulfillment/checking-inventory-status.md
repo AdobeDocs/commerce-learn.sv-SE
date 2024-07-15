@@ -9,17 +9,17 @@ doc-type: Tutorial
 duration: 0
 last-substantial-update: 2024-05-09T00:00:00Z
 jira: KT-15462
-source-git-commit: e171d0a0b6272db5e9ca88992a73395af57072ed
+exl-id: bd2be562-5738-4398-8afb-2faeb0ba6b83
+source-git-commit: 84f9139181bf57d967494da97d4d27d297513c31
 workflow-type: tm+mt
 source-wordcount: '1932'
 ht-degree: 0%
 
 ---
 
-
 # Lagerstatus kontrollerar utveckling och prestanda
 
-Noggrannhet i inventeringen är mycket viktigt. Det finns vissa inbyggda funktioner som kan säkerställa att den här risken är så låg som möjligt, till exempel återbeställningar och fastställande av utgångsvärdet för lager. Båda dessa ämnen kan läsas vidare [Experience League](https://experienceleague.adobe.com/en/docs/commerce-admin/inventory/configuration/backorders) för ytterligare förklaringar.
+Noggrannhet i inventeringen är mycket viktigt. Det finns vissa inbyggda funktioner som kan säkerställa att den här risken är så låg som möjligt, till exempel återbeställningar och fastställande av utgångsvärdet för lager. Båda dessa ämnen kan läsas på [Experience League](https://experienceleague.adobe.com/en/docs/commerce-admin/inventory/configuration/backorders) för ytterligare information.
 
 Det finns projekt och användningsfall där inventeringsstatus i realtid begärs för en Adobe Commerce-butik. Den här självstudiekursen ger dig insikt i hur du hanterar den här konversationen med hänsyn till utveckling och prestanda.
 
@@ -57,9 +57,9 @@ Att använda Adobe App Builder med API-nät är också ett bra alternativ när d
 
 ## Flytta körningslogiken till en plats utanför processen
 
-Adobe Developer App Builder är ett enhetligt ramverk för tredjepartsutbyggbarhet som gör det möjligt att integrera och skapa anpassade upplevelser för att utöka lösningarna från Adobe. Adobe Commerce kan använda Adobe Developer App Builder. Detta skulle vara ett bra sätt att utöka vissa funktioner som normalt finns i kärnprogrammet och som flyttar dem utanför webbplatsen. Genom att ta bort funktioner från Commerce-programmet minskar detta antalet moduler och komplexitet i Commerce-programmet. Lägre antal processanpassade anpassningar minskar i sin tur komplexiteten vid uppgradering och underhåll.
+Adobe Developer App Builder har ett enhetligt ramverk för utbyggbarhet från tredje part för att integrera och skapa anpassade upplevelser för att utöka lösningarna från Adobe. Adobe Commerce kan använda Adobe Developer App Builder. Detta skulle vara ett bra sätt att utöka vissa funktioner som normalt finns i kärnprogrammet och som flyttar dem utanför webbplatsen. Genom att ta bort funktioner från Commerce-programmet minskar detta antalet moduler och komplexitet i Commerce-programmet. Lägre antal processanpassade anpassningar minskar i sin tur komplexiteten vid uppgradering och underhåll.
 
-Vi på Adobe har tagit fram dokumentation som kan vara inspiration och innehålla kodexempel. När en kund lägger till en produkt i kundvagnen kontrollerar ett lagerhanteringssystem från en annan leverantör om artikeln finns i lager. Om så är fallet, tillåt du produkten. Annars visar du ett felmeddelande.  För kodexempel och mer information finns på [Webkroks användningsexempel](https://developer.adobe.com/commerce/extensibility/webhooks/use-cases/#add-product-to-cart).
+Vi på Adobe har tagit fram dokumentation som kan vara inspiration och innehålla kodexempel. När en kund lägger till en produkt i kundvagnen kontrollerar ett lagerhanteringssystem från en annan leverantör om artikeln finns i lager. Om så är fallet, tillåt du produkten. Annars visar du ett felmeddelande.  För kodexempel och mer information, gå till [Webkroks användningsfall](https://developer.adobe.com/commerce/extensibility/webhooks/use-cases/#add-product-to-cart).
 
 ## När inventeringskontroller ska utföras
 

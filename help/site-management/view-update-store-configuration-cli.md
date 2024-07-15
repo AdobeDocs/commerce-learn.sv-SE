@@ -10,13 +10,13 @@ duration: 462
 last-substantial-update: 2024-01-31T00:00:00Z
 jira: KT-14877
 thumbnail: KT-14877.jpeg
-source-git-commit: a5ddf7591519b89efa2feb20ae601d36f5e5a1a7
+exl-id: 6cecba51-8d39-46f5-9864-80126d8ca3da
+source-git-commit: 48a98261a827741459e45f14f7463f4a989c49d2
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
-
 
 # Visa och ange administratörskonfigurationer med kommandoraden
 
@@ -59,7 +59,7 @@ SELECT * FROM core_config_data WHERE path = 'trans_email/ident_sales/email';
 Hur hittar jag konfigurationsvärdet som är definierat någonstans i kodbasen?
 `grep -rnw vendor/magento/ -e 'sales@example.com'`
 
-Visa en sida i terminal och visa radnummer `cat -n vendor/magento/module-email/etc/config.xml`
+Visa en sida i terminalen och visa radnummer `cat -n vendor/magento/module-email/etc/config.xml`
 
 ## Ytterligare resurser
 

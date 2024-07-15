@@ -10,19 +10,19 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: e02540438df1cc85e6be7440351a72e77cfc1bf2
+exl-id: 5d688e6a-ae8c-4a55-b16c-5d3ae2d1bfd5
+source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 0%
 
 ---
 
-
 # Skapa en paketprodukt
 
 En paketprodukt är ett sätt att gruppera flera produkter under en överordnad produkt. Dessa underordnade produkter kan vara en definierad uppsättning produkter eller erbjuda några varianter som erbjuder flexibla konfigurationsalternativ för kunder. Det tar lite längre tid att konfigurera paketprodukttyper, och du måste göra lite planering innan du konfigurerar dem. Men att erbjuda paketprodukter förbättrar köpupplevelsen genom att göra det enklare för kunderna att anpassa sina produktval.
 
-Du kan till exempel erbjuda ett produktpaket som kallas `Learning to surf` i din webbutik. Paketet är den överordnade produkten som fungerar som behållare för de tilldelade underordnade produkterna och anger tillgängliga alternativ:
+Du kan till exempel erbjuda ett produktpaket som heter `Learning to surf` i din webbutik. Paketet är den överordnade produkten som fungerar som behållare för de tilldelade underordnade produkterna och anger tillgängliga alternativ:
 
 - Ett standardsurfbord
 - Ett vanligt surfbords-utslag
@@ -69,7 +69,7 @@ Följande kommandon skapar alla produkter som behövs för att definiera paketpr
 
 Innan du skickar begäran ska du uppdatera exemplet med värden för miljön.
 
-- Ändra `"attribute-set": 4` att ersätta `4` med attributuppsättnings-ID:t från din miljö.
+- Ändra `"attribute-set": 4` så att `4` ersätts med attributuppsättnings-ID:t från din miljö.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -192,7 +192,7 @@ Skapa en paketprodukt genom att skicka följande POST.
 
 Innan du skickar begäran ska du uppdatera exemplet med värden för miljön.
 
-- Ändra `"attribute_set_id": 4,` och ersätta `4` med attributuppsättnings-ID:t från din miljö.
+- Ändra `"attribute_set_id": 4,` och ersätt `4` med attributuppsättnings-ID:t från din miljö.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -321,7 +321,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-produ
 
 När du uppdaterar alternativ för paketprodukter måste du ta med alla alternativ som du vill associera med den här produkten. Om den ursprungliga uppsättningen med alternativ innehöll tre produkter och en togs bort, tar du med alla tre alternativen i produktpaketet för att vara säker på att produktpaketet anger alla alternativ. Om du bara tog med det alternativ du tog bort innehåller det uppdaterade produktpaketet bara det alternativet.
 
-Leta reda på alternativ-ID genom att granska svaret från det att paketet skapades för paketprodukten. I det svaret `option_id` är `35`.
+Leta reda på alternativ-ID genom att granska svaret från det att paketet skapades för paketprodukten. I det svaret är `option_id` `35`.
 
 ```json
 ...
@@ -429,7 +429,7 @@ curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' 
 
 ## Ytterligare resurser
 
-- [Skapa en produktpaketsjälvstudiekurs](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
+- [Skapa en produktsjälvstudiekurs](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
 - [Paketprodukt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
-- [Adobe Developer REST - självstudiekurser](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+- [Adobe Developer REST-självstudiekurser](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

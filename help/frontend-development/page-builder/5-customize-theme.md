@@ -11,7 +11,7 @@ level: Beginner, Intermediate
 exl-id: e88e6056-a7c8-4b89-b992-777e74467135
 source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -39,4 +39,4 @@ I den här videon:
 
 [Dokumentation för Page Builder-utvecklare](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Page Builder Guide](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[Guiden Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

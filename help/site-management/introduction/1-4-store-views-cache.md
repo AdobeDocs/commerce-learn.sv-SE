@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 53c35861-6ad9-4a22-a3e5-6fa2165c26ca
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,6 @@ I den här videon:
 
 ## Ytterligare resurser
 
-[Webbplatser, butiker och vyer - [!DNL Commerce] Starthandbok](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+[Webbplatser, butiker och vyer - [!DNL Commerce] Guiden Komma igång](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
 
-[Cachehantering - [!DNL Commerce] Handbok för adminsystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html)
+[Cachehantering - [!DNL Commerce] Handbok för administratörssystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html)

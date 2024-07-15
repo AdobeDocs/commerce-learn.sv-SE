@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 67bbb464-1c2e-493e-9d7f-1051dfeec4ee
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -24,13 +24,13 @@ Webbmappen för det här exempelprogrammet innehåller många JavaScript-filer o
 
 ## Vem är den här videon till?
 
-* Utvecklare som är nybörjare på Adobe Commerce med begränsad erfarenhet av Adobe App Builder och som håller på att lära sig om `web-src` och dess innehåll.
+* Utvecklare som är nybörjare i Adobe Commerce med begränsad erfarenhet av att använda Adobe App Builder och som håller på att lära sig om mappen `web-src` och dess innehåll.
 
 ## Videoinnehåll
 
-* Vad är huvudsyftet med `web-src` mapp?
+* Vad är huvudsyftet med mappen `web-src`?
 * Filer och mappar som vanligtvis ingår
-* Hur `web-src` och innehållet i dem används i exempelprogrammet
+* Hur mappen `web-src` och innehållet i den används i exempelprogrammet
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416665?quality=12&learn=on)
 
@@ -128,7 +128,7 @@ web-src/src/hooks/useCommerceOrders.js
 
 {{avoid-400-error}}
 
-I exemplet nedan är kodexemplet `not` begränsa begäran. För att undvika ett 400-fel ska du minska svarsstorleken genom att använda `searchCriteria`.
+I exemplet nedan är kodexemplet `not` som begränsar begäran. Om du vill undvika ett 400-fel minskar du svarsstorleken med `searchCriteria`.
 
 `?searchCriteria[filter_groups][0][filters][0][field]=created_at&searchCriteria[filter_groups][0][filters][0][value]=2022-12-01&searchCriteria[filter_groups][0][filters][0][condition_type]=gt`
 

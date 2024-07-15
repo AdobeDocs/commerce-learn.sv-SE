@@ -11,7 +11,7 @@ level: Beginner, Intermediate
 exl-id: 5f2984d5-84f7-41d4-99e5-2a2c0ff1b1c7
 source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ I den här videon får du en genomgång för att utveckla en enkel JS-modul med 
 ## Steg
 
 - Skapa en modul
-- Skapa en `requirejs-config.js` och en JavaScript-modulfil
+- Skapa en `requirejs-config.js`- och en JavaScript-modulfil
 - Skapa layoutuppdatering för att lägga till en mall som aktiverar JS-modulen
 - Skapa mallfil
 - Lägg till modulen och testa den
@@ -38,5 +38,5 @@ I den här videon får du en genomgång för att utveckla en enkel JS-modul med 
 
 ## Användbara resurser
 
-- [Utvecklarhandbok för JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/)
-- [Anropa och initiera JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
+- [JavaScript utvecklarguide](https://developer.adobe.com/commerce/frontend-core/javascript/)
+- [Anropar och initierar JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/)

@@ -13,14 +13,14 @@ level: Beginner, Intermediate
 exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
 source-git-commit: d6e7cfeca2a3d3e747abf49d4c5b3e3537299507
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
 # Hantera företagskrediter
 
-För företag som har _[!UICONTROL Payment on Account]_aktiveras och har företagskrediter tillgängliga, kan de göra köp på sitt konto upp till den kreditgräns som beviljas. Med den här funktionen kan kunderna kontrollera status för sina företagskrediter från sin kontokontrollpanel.
+För företag som har _[!UICONTROL Payment on Account]_aktiverat och har företagskrediter tillgängliga kan de göra köp på sitt konto upp till den kreditgräns som har beviljats. Med den här funktionen kan kunderna kontrollera status för sina företagskrediter från sin kontokontrollpanel.
 
 Du kan ange följande kreditrelaterade parametrar för varje företagsprofil:
 
@@ -43,5 +43,5 @@ Du kan ange följande kreditrelaterade parametrar för varje företagsprofil:
 
 ## Ytterligare resurser
 
-- [Konfigurera betalning a conto](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
+- [Konfigurera betalning på konto](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
 - [Hantera företagskrediter](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html)

@@ -9,7 +9,8 @@ doc-type: Technical Video
 duration: 3511
 last-substantial-update: 2024-05-07T00:00:00Z
 jira: KT-15465
-source-git-commit: fd5b387c1ac8f207d866ae7a3b95c5c28055a744
+exl-id: a8e1cd14-e9ff-46ba-87ea-c1cba3b4f72f
+source-git-commit: 670f1676128544811e471a3dfbcab80cdb95b94f
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%
@@ -18,7 +19,8 @@ ht-degree: 0%
 
 # Planera den moderna Adobe Commerce-implementeringen
 
-Det här webbinariet ger en omfattande översikt över olika ämnen som rör Adobe Commerce, bland annat katalogtjänst, förståelse för kundarkitektur och Edge Delivery Services. &#x200B;Ämnena omfattar nya eller befintliga funktioner och fördelar för varje tjänst, t.ex. direktsökning och produktrekommendationer i Adobe Commerce Catalog som en tjänst, analys av API:er och dataflöde för att förstå kundens arkitektur samt Edge Delivery Servicens höga prestanda och låga latens. I dokumentet nämns dessutom vikten av att ha standarddokument och en lista med frågor när man interagerar med kunder, liksom konceptet med Global Reference Architecture (GRA) för effektiv projektutveckling.
+Det här webbinariet ger en omfattande översikt över olika ämnen som rör Adobe Commerce, bland annat katalogtjänst, förståelse för kundarkitektur och Edge Delivery Services.
+&#x200B;Ämnena omfattar nya eller befintliga funktioner och fördelar för varje tjänst, t.ex. direktsökning och produktrekommendationer i Adobe Commerce Catalog som en tjänst, analys av API:er och dataflöde för att förstå kundens arkitektur samt Edge Delivery Servicens höga prestanda och låga latens. I dokumentet nämns dessutom vikten av att ha standarddokument och en lista med frågor när man interagerar med kunder, liksom konceptet med Global Reference Architecture (GRA) för effektiv projektutveckling.
 
 ## Målgrupp
 

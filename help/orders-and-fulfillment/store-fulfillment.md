@@ -43,10 +43,10 @@ I den här videon får du en snabb översikt över BOPIS-upplevelsen från börj
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar Store Fulfillment solution 1.0 som är installerad på en butiksskylt med Adobe Commerce 2.4. Se [Användarhandbok för att uppfylla kraven](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html) för den senaste informationen.
+>Innehållet i videon återspeglar Store Fulfillment solution 1.0 som är installerad på en butiksskylt med Adobe Commerce 2.4. Den senaste informationen finns i [Store Fulfillment User Guide](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/343653?quality=12&learn=on)
 
 ## Ytterligare resurser
 
-[Användarhandbok för att uppfylla kraven](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html)
+[Lagra användarhandbok för uppfyllelse](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html)

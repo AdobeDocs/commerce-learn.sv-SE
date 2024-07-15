@@ -1,5 +1,5 @@
 ---
-title: '''[!DNL Commerce] Videor och Tutorials'
+title: '[!DNL Commerce] videofilmer och Tutorials'
 description: En samling videor och självstudiekurser för Adobe Commerce och Magento Open Source
 last-substantial-update: 2023-01-19T00:00:00Z
 feature: B2B, GraphQL, REST, Commerce Intelligence, Cloud, Best Practices, API Mesh, App Builder
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 ---
 
-# Självstudiekurser för handel {#videos}
+# Commerce självstudiekurser {#videos}
 
-Välkommen till [!DNL Commerce] videor och självstudiekurser. Använd dessa resurser tillsammans med [dokumentation](https://experienceleague.adobe.com/docs/commerce.html), ger möjlighet att lära sig att använda Adobe Commerce och Magento Open Source för att stödja e-handelsverksamheten. Samlingen är utformad för att ge användbart innehåll för backend-utvecklare, klientutvecklare, systemadministratörer, handlare och andra roller inom organisationen.
+Välkommen till samlingen [!DNL Commerce] videor och självstudiekurser. Genom att använda dessa resurser, tillsammans med [dokumentationen](https://experienceleague.adobe.com/docs/commerce.html), får du lära dig hur du använder Adobe Commerce och Magento Open Source för att stödja e-handelsverksamheten. Samlingen är utformad för att ge användbart innehåll för backend-utvecklare, klientutvecklare, systemadministratörer, handlare och andra roller inom organisationen.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -27,10 +27,10 @@ Välkommen till [!DNL Commerce] videor och självstudiekurser. Använd dessa res
 
 >[!TIP]
 >
->The [Commerce Events](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) utrymme ger åtkomst till inspelat händelseinnehåll som du kan titta på on demand.
+>Utrymmet [Commerce Events](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) ger åtkomst till inspelat händelseinnehåll som du kan titta på on demand.
 
 ## Ytterligare resurser
 
-- [Handlingar](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)
-- [Dokumentation för utvecklare](https://developer.adobe.com/commerce)
+- [Handlingar för marknadsföring](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)
+- [Utvecklardokumentation](https://developer.adobe.com/commerce)
 - [Adobe Digital Learning Services - Adobe Commerce kurskatalog](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)

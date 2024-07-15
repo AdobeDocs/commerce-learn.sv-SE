@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: c245e4f7-54cd-4fa8-8d6c-6b7eb2e2beea
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -32,5 +32,5 @@ Med Adobe Commerce eller Magento Open Source 2.4 kan handlare använda det nya f
 
 ## Ytterligare resurser
 
-- [Mediegalleriet - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/gallery/media-gallery.html)
-- [Alternativ medielagring - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/storage/media-storage.html)
+- [Mediegalleriet - [!DNL Commerce] Innehålls- och designguiden](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/gallery/media-gallery.html)
+- [Alternativ medielagring - [!DNL Commerce] Handbok för innehåll och design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/storage/media-storage.html)

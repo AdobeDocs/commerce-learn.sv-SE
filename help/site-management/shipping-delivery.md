@@ -1,6 +1,6 @@
 ---
 title: Hantera leverans- och leveransmetoder
-description: Lär dig hur du konfigurerar inställningar för leveransursprung, multileverans, leveransavgift och transportföretag för din Commerce Store.
+description: Lär dig hur du konfigurerar inställningar för fraktursprung, multifrakt, leveransavgift och fraktfirmor för din Commerce-butik.
 kt: 10543
 doc-type: feature video
 audience: all
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: fccbdb7b-2051-490a-a249-3525f96c51ab
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,6 @@ Att hantera leverans- och leveransmetoder är avgörande för att ni ska kunna g
 
 ## Ytterligare resurser
 
-- [Leveransinställningar - [!DNL Commerce] Butiks and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html)
-- [Grundläggande leveransmetoder - [!DNL Commerce] Butiks and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html#basic-delivery-methods)
-- [Inställningar för fraktfirma - [!DNL Commerce] Butiks and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html)
+- [Leveransinställningar - [!DNL Commerce] Lagrar och köpguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html)
+- [Grundläggande leveransmetoder - [!DNL Commerce] Lagrar och köpguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html#basic-delivery-methods)
+- [Installation av transportföretag - [!DNL Commerce] Lagrar och köpguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html)

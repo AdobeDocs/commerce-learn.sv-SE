@@ -10,13 +10,13 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: f3ec375c2332bfae98970d7e10a6a7ad258386e3
+exl-id: 112bec9a-0f8e-4252-8c52-f486a5e663b5
+source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
 workflow-type: tm+mt
 source-wordcount: '952'
 ht-degree: 0%
 
 ---
-
 
 # Skapa en konfigurerbar produkt
 
@@ -30,7 +30,7 @@ I den här självstudiekursen får du lära dig hur du skapar en konfigurerbar p
 
 Använd REST API för att skapa en konfigurerbar produkt:
 
-1. Hämta attributen för en [attributuppsättning](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html) om du vill använda ID-nummer för efterföljande API-anrop.
+1. Hämta attributen för en [attributuppsättning](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html) för att använda ID-nummer för efterföljande API-anrop.
 1. Skapa enkla produkter som kan användas i den konfigurerbara produkten.
 1. Skapa en tom konfigurerbar produkt och associera de enkla produkterna.
 1. Ange produktattributen för den konfigurerbara produkten.
@@ -85,7 +85,7 @@ I det här exemplet returneras hela attributuppsättningen med alla enskilda att
 ```
 
 
-Om du vill hämta attribut-ID:n för att konfigurera din konfigurerbara produkt uppdaterar du `attribute-sets/10/attributes` del av följande cURL-begäran som ska ersättas `10` med attributuppsättnings-ID i din miljö. Den här begäran använder metoden GET.
+Om du vill hämta attribut-ID:n för att konfigurera din konfigurerbara produkt uppdaterar du `attribute-sets/10/attributes`-delen av följande cURL-begäran så att `10` ersätts med attributuppsättnings-ID:t i din miljö. Den här begäran använder metoden GET.
 
 ```bash
 curl --location '{{your.url.here}}rest/V1/products/attribute-sets/10/attributes' \
@@ -100,8 +100,8 @@ Skapa den första enkla produkten med API:t för att skicka följande POST-förf
 
 Innan du skickar begäran ska du uppdatera exemplet med värden för miljön.
 
-- Ändra `"attribute-set": 10` att ersätta `10` med attributuppsättnings-ID:t från din miljö.
-- Ändra `"value": "13"` att ersätta `13` med värdet från er miljö.
+- Ändra `"attribute-set": 10` så att `10` ersätts med attributuppsättnings-ID:t från din miljö.
+- Ändra `"value": "13"` så att `13` ersätts med värdet från din miljö.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -141,8 +141,8 @@ Skapa den andra enkla produkten med API:t för att skicka följande POST-förfr�
 
 Innan du skickar begäran ska du uppdatera exemplet med värden för miljön.
 
-- Ändra `"attribute_set_id": 10,` och ersätta `10` med attributuppsättnings-ID:t från i din miljö.
-- Ändra `"value": "14"` och ersätta `14` med värdet från er miljö.
+- Ändra `"attribute_set_id": 10,` och ersätt `10` med attributuppsättnings-ID:t från i din miljö.
+- Ändra `"value": "14"` och ersätt `14` med värdet från din miljö.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -182,8 +182,8 @@ Skapa den tredje enkla produkten genom att skicka följande POST med cURL.
 
 Innan du skickar begäran ska du uppdatera exemplet med värden för miljön.
 
-- Ändra `"attribute_set_id": 10,` att ersätta `10` med attributuppsättnings-ID:t från din miljö.
-- Ändra `"value": "15"` och ersätta `15` med värdet från er miljö.
+- Ändra `"attribute_set_id": 10,` så att `10` ersätts med attributuppsättnings-ID:t från din miljö.
+- Ändra `"value": "15"` och ersätt `15` med värdet från din miljö.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -223,8 +223,8 @@ Skapa en tom konfigurerbar POST genom att skicka följande begäran med cURL.
 
 Innan du skickar begäran ska du uppdatera exemplet med värden för miljön.
 
-- Ändra `"attribute_set_id": 10,` och ersätta `10` med attributuppsättnings-ID:t från din miljö.
-- Ändra `"value": "93"` och ersätta `93` med värdet från er miljö.
+- Ändra `"attribute_set_id": 10,` och ersätt `10` med attributuppsättnings-ID:t från din miljö.
+- Ändra `"value": "93"` och ersätt `93` med värdet från din miljö.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -254,7 +254,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 Ange tillgängliga alternativ för den konfigurerbara produkten genom att skicka följande POST med cURL.
 
-Ändra innan du skickar begäran `"attribute_id": 93,` att ersätta `93` med attribut-ID:t från din miljö.
+Innan du skickar begäran ändrar du `"attribute_id": 93,` så att `93` ersätts med attribut-ID:t från din miljö.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/options' \
@@ -290,7 +290,7 @@ Nu har du skapat tre enkla produkter:
 
 Lägg till dessa enkla produkter som underordnade till den konfigurerbara produkten genom att skicka följande begäran om POST. Skicka en separat begäran för varje produkt.
 
-Uppdatera `childSKU` värdet med värdet för den underordnade produkt som du lägger till. I följande exempel tilldelas den enkla produkten `kids-Hawaiian-Ukulele-red` till den konfigurerbara produkten med SKU:n `Kids-Hawaiian-Ukulele-red`.
+Uppdatera värdet `childSKU` för varje begäran med värdet för den underordnade produkten som du lägger till. I följande exempel tilldelas den enkla produkten `kids-Hawaiian-Ukulele-red` till den konfigurerbara produkten med SKU:n `Kids-Hawaiian-Ukulele-red`.
 
 
 ```bash
@@ -349,5 +349,5 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable
 
 - [Skapa en konfigurerbar produktsjälvstudiekurs](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
 - [Konfigurerbar produkt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html){target="_blank"}
-- [Adobe Developer REST - självstudiekurser](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+- [Adobe Developer REST-självstudiekurser](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

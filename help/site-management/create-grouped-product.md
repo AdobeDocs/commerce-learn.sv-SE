@@ -10,13 +10,13 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: b44376f9f30e3c02d2c43934046e86faac76f17d
+exl-id: 3ad7125b-ef6d-4ea0-9fa7-8fc9eb399ec1
+source-git-commit: 76a67af957b0d8c1eb64ad42f92412f338650d4b
 workflow-type: tm+mt
 source-wordcount: '513'
 ht-degree: 0%
 
 ---
-
 
 # Skapa en grupperad produkt
 
@@ -31,7 +31,7 @@ Använd REST API för att skapa en gruppprodukt i administratören:
 1. Fyll den tomma grupperade produkten med enkla produkter.
 1. Skapa en tom grupperad produkt och associera de enkla produkterna.
 
-   När du associerar enkla produkter med den grupperade produkten, sorteringsordningens attribut (`position`) i nyttolasten används av frontend för att visa tillhörande produkter i önskad ordning. Om `position` inget attribut anges, produkterna visas i den ordning som de lades till i den grupperade produkten.
+   När du associerar enkla produkter med den grupperade produkten används attributet för sorteringsordning (`position`) i nyttolasten av frontend för att visa de associerade produkterna i önskad ordning. Om attributet `position` inte anges visas produkterna i den ordning som de lades till i den grupperade produkten.
 
 Skapa de enkla produkterna först när du skapar grupperade produkter från Adobe Commerce Admin. När du är redo att skapa den grupperade produkten kopplar du de enkla produkterna genom att tilldela dem till den grupperade produkten i en batch.
 
@@ -158,7 +158,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/my-new-grouped-produ
 
 ## Lägg till den tredje enkla produkten i den befintliga grupperade produkten
 
-Inkludera lämpligt positionsnummer (allt utom `1` eller `2`), som används för de två första produkterna som ursprungligen var kopplade till den grupperade produkten. I det här exemplet är positionen `4`.
+Inkludera lämpligt positionsnummer (allt utom `1` eller `2`) som används för de två första produkterna som ursprungligen associeras med den grupperade produkten. I detta exempel är positionen `4`.
 
 ```bash
 curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new-grouped-product/links' \
@@ -183,9 +183,9 @@ curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new
 
 ## Ta bort en enkel produkt från en grupperad produkt
 
-Till [ta bort en enkel produkt](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) från en grupperad produkt, använd `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`.
+Använd `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}` om du vill [ta bort en enkel produkt](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) från en grupperad produkt.
 
-Upptäck vad du ska använda som `{type}`använder du xdebug för att hämta begäran och utvärdera $linkTypes: `related`, `crosssell`, `uupsell`och `associated`.
+Om du vill ta reda på vad som ska användas som `{type}` använder du xdebug för att hämta begäran och utvärdera $linkTypes: `related`, `crosssell`, `uupsell` och `associated`.
 ![Länktyper för grupperad produkt - alt text](/help/assets/site-management/catalog/grouped-types.png "Grupperade produktlänkstyper som hämtats under xdebug-sessionen")
 
 När de enkla produkterna skulle länkas till den grupperade produkten innehöll nyttolasten några avsnitt som liknar:
@@ -203,9 +203,9 @@ När de enkla produkterna skulle länkas till den grupperade produkten innehöll
         }
 ```
 
-I nyttolasten `link_type` value `associated` ger `{type}` värde som krävs i DELETE-begäran. Begär-URL:en liknar `/V1/products/my-new-grouped-product/links/associated/product-sku-three`.
+I nyttolasten tillhandahåller värdet `link_type` `associated` det `{type}`-värde som krävs i DELETE-begäran. Begär-URL:en liknar `/V1/products/my-new-grouped-product/links/associated/product-sku-three`.
 
-Se cURL-begäran för att ta bort den enkla produkten med `product-sku-three` SKU från den grupperade produkten med `my-new-grouped-product` SKU:
+Se cURL-begäran för att ta bort den enkla produkten med SKU:n `product-sku-three` från den grupperade produkten med SKU:n `my-new-grouped-product`:
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}rest/default/V1/products/my-new-grouped-product/links/associated/product-sku-three' \
@@ -225,5 +225,5 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-grouped-product-
 
 - [Skapa och hantera grupperade produkter](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
 - [Grupperad produkt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html){target="_blank"}
-- [Adobe Developer REST - självstudiekurser](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+- [Adobe Developer REST-självstudiekurser](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

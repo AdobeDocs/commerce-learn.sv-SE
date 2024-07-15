@@ -20,17 +20,17 @@ ht-degree: 0%
 
 # Läs mer om testmappen {#test-folder}
 
-The `test` -mappen för det här exempelprogrammet innehåller en enda JavaScript-fil, som används när enhetstester körs i programmet.
+Mappen `test` för det här exempelprogrammet innehåller en enda JavaScript-fil, som används när enhetstester körs i programmet.
 
 Detta är ett enkelt exempel och kan utökas för att skapa omfattande tester för dina specifika program.
 
 ## Vem är den här videon till?
 
-* Utvecklare som är nybörjare på Adobe Commerce med begränsad erfarenhet av att använda Adobe App Builder och som vill veta mer om `test` mapp.
+* Utvecklare som är nybörjare i Adobe Commerce med begränsad erfarenhet och använder Adobe App Builder som vill veta mer om mappen `test`.
 
 ## Videoinnehåll
 
-* Varför ska du använda `test` mapp?
+* Varför ska du använda mappen `test`?
 * En kort förklaring av enhetens testfil och dess komponenter
 * Introduktion till komplett testning
 

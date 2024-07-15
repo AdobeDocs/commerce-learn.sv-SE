@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Page Builder] overview'
-description: Lär dig hur du bygger sidor [!DNL Commerce] lagra sidor i administratören med [!DNL Page Builder].
+title: Översikt över [!DNL Page Builder]
+description: Lär dig hur du skapar sidor i  [!DNL Commerce] lagrar sidor i administratören med  [!DNL Page Builder].
 kt: 5563
 doc-type: feature video
 audience: all
@@ -13,16 +13,16 @@ level: Beginner, Intermediate
 exl-id: b68e3fef-c392-48ad-af93-ae535f5cdc3c
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
-# [!DNL Page Builder] översikt
+# [!DNL Page Builder] - översikt
 
-[!DNL Page Builder] gör det enkelt att skapa innehållsrika sidor med anpassade layouter som förbättrar ert visuella berättande, samt ökar kundengagemanget och kundlojaliteten.
+Med [!DNL Page Builder] är det enkelt att skapa innehållsrika sidor med anpassade layouter som förbättrar ditt visuella berättande, och som ökar kundernas engagemang och lojalitet.
 
-Från och med version 2.4.3, [!DNL Page Builder] är som standard tillgängligt i både Adobe Commerce och Magento Open Source. Med [!DNL Page Builder] i Adobe Commerce kan du lägga in testning och förhandsgranskning, skräddarsytt innehåll och produktrekommendationer, med ytterligare möjligheter.
+Från och med version 2.4.3 är [!DNL Page Builder] tillgängligt som standard i både Adobe Commerce och Magento Open Source. Med [!DNL Page Builder] i Adobe Commerce kan du inkludera testning och förhandsgranskning, anpassat innehåll och produktrekommendationer, med ytterligare funktioner som kommer.
 
 I den här videon får du lära dig att:
 

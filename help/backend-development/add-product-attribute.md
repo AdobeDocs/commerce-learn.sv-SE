@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
 source-git-commit: 88b957a33d6061c8053e598248fcbfff5cf0f010
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -64,7 +64,7 @@ ComponentRegistrar::register(
 
 >[!NOTE]
 >
->Om modulen använder deklarativt schema, och de flesta har sedan 2.3.0, bör du utelämna setup_version. Om du har äldre projekt kan du se hur den här metoden används.  Se [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"} för mer information.
+>Om modulen använder deklarativt schema, och de flesta har sedan 2.3.0, bör du utelämna setup_version. Om du har äldre projekt kan du se hur den här metoden används.  Mer information finns på [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"}.
 
 
 ```xml
@@ -231,4 +231,4 @@ class InstallData implements InstallDataInterface
 
 [Skapa ett produktattribut](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)
 
-[Lägga till ett anpassat textfältsattribut](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)
+[Lägg till ett anpassat textfältsattribut](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)

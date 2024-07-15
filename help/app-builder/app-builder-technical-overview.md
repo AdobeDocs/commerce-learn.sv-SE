@@ -1,8 +1,8 @@
 ---
-title: App Builder - teknisk översikt
-description: Läs om Adobe Developer App Builder som används i Adobe Commerce med en teknisk översikt
-landing-page-description: Läs om Adobe Developer App Builder som används i Adobe Commerce med en teknisk översikt
-short-description: Läs om Adobe Developer App Builder som används i Adobe Commerce med en teknisk översikt
+title: App Builder Technical Overview
+description: Läs om Adobe Developer App Builder i Adobe Commerce med en teknisk översikt
+landing-page-description: Läs om Adobe Developer App Builder i Adobe Commerce med en teknisk översikt
+short-description: Läs om Adobe Developer App Builder i Adobe Commerce med en teknisk översikt
 kt: 11763
 doc-type: tutorial
 audience: all
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Teknisk översikt för App Builder
 
-I följande videofilm visas ett exempel på ett integreringsmönster som ansluter Adobe Commerce till Amazon Seller Central. I den här självstudiekursen utforskas även skillnaderna mellan att utveckla traditionella PHP-tillägg och App Builder-appar.
+I följande videofilm visas ett exempel på ett integreringsmönster som ansluter Adobe Commerce till Amazon Seller Central. I den här självstudiekursen utforskas även skillnaderna mellan att utveckla traditionella PHP-tillägg och App Builder-program.
 
 
 ## App Builder för Adobe Commerce {#app-builder-technical-overview}

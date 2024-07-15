@@ -20,11 +20,11 @@ ht-degree: 0%
 
 # Generera och konfigurera .env-filen {#env-file}
 
-The `.env` är en specialfil som inte ingår i exempelmodulen, men som är viktig att använda i ditt Adobe Developer App Builder-program. Filen innehåller hemligheter och annan information. Undvik att implementera den här filen i alla koddatabaser.
+`.env` är en specialfil som inte ingår i exempelmodulen, men som är viktig att använda i ditt Adobe Developer App Builder-program. Filen innehåller hemligheter och annan information. Undvik att implementera den här filen i alla koddatabaser.
 
 ## Vem är den här videon till?
 
-* Utvecklare som är nybörjare på Adobe Commerce med begränsad erfarenhet av att använda Adobe App Builder och som vill veta mer om `.env` -fil.
+* Utvecklare som är nybörjare i Adobe Commerce med begränsad erfarenhet av att använda Adobe App Builder och som vill veta mer om filen `.env`.
 
 ## Videoinnehåll
 

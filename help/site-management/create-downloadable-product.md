@@ -34,7 +34,7 @@ Lär dig hur du skapar en nedladdningsbar produkt med REST API och Adobe Commerc
 
 ## Tillåtna nedladdningsbara domäner
 
-Du måste ange vilka domäner som tillåts för nedladdning. Domäner läggs till i projektets `env.php` via kommandoraden. The `env.php` filinformation om de domäner som tillåts innehålla hämtningsbart innehåll. Ett fel inträffar om en nedladdningsbar produkt skapas med REST API _före_  den `php.env` filen uppdateras:
+Du måste ange vilka domäner som tillåts för nedladdning. Domäner läggs till i projektets `env.php`-fil via kommandoraden. Filen `env.php` innehåller information om de domäner som tillåts innehålla hämtningsbart innehåll. Ett fel inträffar om en nedladdningsbar produkt skapas med REST API _innan_ filen `php.env` uppdateras:
 
 ```bash
 {
@@ -42,9 +42,9 @@ Du måste ange vilka domäner som tillåts för nedladdning. Domäner läggs til
 }
 ```
 
-Om du vill ange domänen ansluter du till servern: `bin/magento downloadable:domains:add www.example.com`
+Anslut till servern för att ange domänen: `bin/magento downloadable:domains:add www.example.com`
 
-När det är klart `env.php` ändras inuti _downloadable_domains_ array.
+När det är klart ändras `env.php` inuti arrayen _downloadable_domains_.
 
 ```php
     'downloadable_domains' => [
@@ -52,18 +52,18 @@ När det är klart `env.php` ändras inuti _downloadable_domains_ array.
     ],
 ```
 
-Nu när domänen har lagts till i `env.php`kan du skapa en nedladdningsbar produkt i Adobe Commerce Admin eller genom att använda REST API.
+Nu när domänen har lagts till i `env.php` kan du skapa en nedladdningsbar produkt i Adobe Commerce Admin eller genom att använda REST API.
 
-Se [Konfigurationsreferens](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) om du vill veta mer.
+Mer information finns i [Konfigurationsreferens](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains).
 
 >[!IMPORTANT]
->I vissa versioner av Adobe Commerce kan följande fel uppstå när en produkt redigeras i Adobe Commerce Admin. Produkten skapas med REST API, men den länkade nedladdningen har en `null` pris.
+>I vissa versioner av Adobe Commerce kan följande fel uppstå när en produkt redigeras i Adobe Commerce Admin. Produkten skapas med REST API, men den länkade nedladdningen har ett pris på `null`.
 
 `Deprecated Functionality: number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /app/vendor/magento/module-downloadable/Ui/DataProvider/Product/Form/Modifier/Data/Links.php on line 228`.
 
-Använd API:t för uppdateringslänk om du vill åtgärda det här felet: `POST V1/products/{sku}/downloadable-links.`
+Använd API:t för uppdateringslänk om du vill åtgärda felet: `POST V1/products/{sku}/downloadable-links.`
 
-Se [Uppdatera en nedladdningslänk med cURL](#update-downloadable-links) för mer information.
+Mer information finns i avsnittet [Uppdatera en produktnedladdningslänk med cURL](#update-downloadable-links).
 
 ## Skapa en nedladdningsbar produkt med cURL (hämta från fjärrserver)
 
@@ -116,20 +116,20 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 I det här exemplet visas hur du använder cURL för att skapa en nedladdningsbar produkt från Adobe Commerce Admin när filen lagras på samma server som Adobe Commerce-programmet.
 
-I det här fallet när administratören som hanterar katalogen väljer `upload file`, överförs filen till `pub/media/downloadable/files/links/` katalog.  Automatisering skapar och flyttar filerna till respektive plats baserat på följande mönster:
+I det här fallet överförs filen till katalogen `pub/media/downloadable/files/links/` när administratören som hanterar katalogen väljer `upload file`.  Automatisering skapar och flyttar filerna till respektive plats baserat på följande mönster:
 
 - Varje överförd fil lagras i en mapp baserat på de två första tecknen i filnamnet.
 - När överföringen initieras skapar eller använder Commerce-programmet befintliga mappar för att överföra filen.
-- När du hämtar filen visas `link_file` används den del av banan som läggs till i `pub/media/downloadable/files/links/` katalog.
+- När du hämtar filen används den del av sökvägen som är kopplad till katalogen `pub/media/downloadable/files/links/` i `link_file`-avsnittet av sökvägen.
 
-Om den överförda filen till exempel har ett namn `download-example.zip`:
+Om den överförda filen till exempel har namnet `download-example.zip`:
 
 - Filen överförs till sökvägen `pub/media/downloadable/files/links/d/o/`.
 Underkatalogerna `/d` och `/d/o` skapas om de inte finns.
 
 - Den sista sökvägen till filen är `/pub/media/downloadable/files/links/d/o/download-example.zip`.
 
-- The `link_url` värdet för det här exemplet är `d/o/download-example.zip`
+- Värdet `link_url` för det här exemplet är `d/o/download-example.zip`
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -181,8 +181,8 @@ curl --location '{{your.url.here}}/rest/default/V1/products/POSTMAN-download-pro
 
 ## Uppdatera produkten med Postman {#update-downloadable-links}
 
-Använda slutpunkten `rest/all/V1/products/{sku}/downloadable-links`
-The `SKU` är det produkt-ID som genererades när produkten skapades. I kodexemplet nedan är det till exempel siffran 39, men se till att den uppdateras för att använda ID:t från din webbplats. Länkarna för de hämtningsbara produkterna uppdateras.
+Använd slutpunkten `rest/all/V1/products/{sku}/downloadable-links`
+`SKU` är det produkt-ID som genererades när produkten skapades. I kodexemplet nedan är det till exempel siffran 39, men se till att den uppdateras för att använda ID:t från din webbplats. Länkarna för de hämtningsbara produkterna uppdateras.
 
 ```json
 {
@@ -207,7 +207,7 @@ The `SKU` är det produkt-ID som genererades när produkten skapades. I kodexemp
 
 ## Uppdatera en nedladdningslänk med CURL
 
-När du uppdaterar en produktnedladdningslänk med cURL, innehåller URL:en SKU:n för den produkt som uppdateras.  I följande kodexempel är SKU:n `abcd12345`. När du skickar kommandot ändrar du värdet så att det matchar SKU:n för den produkt du vill uppdatera.
+När du uppdaterar en produktnedladdningslänk med cURL, innehåller URL:en SKU:n för den produkt som uppdateras.  I följande kodexempel är SKU `abcd12345`. När du skickar kommandot ändrar du värdet så att det matchar SKU:n för den produkt du vill uppdatera.
 
 ```bash
 curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-links' \
@@ -236,7 +236,7 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 ## Ytterligare resurser
 
-- [Nedladdningsbar produkttyp](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
+- [Hämtningsbar produkttyp](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
 - [Konfigurationshandbok för hämtningsbara domäner](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
-- [Adobe Developer REST - självstudiekurser](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+- [Adobe Developer REST-självstudiekurser](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

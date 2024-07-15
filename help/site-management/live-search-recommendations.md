@@ -1,6 +1,6 @@
 ---
-title: '''[!DNL Live Search] för rekommendationer'
-description: Lär dig hur du lägger till [!DNL Live Search] för produktrekommendationer till er butik och skapa engagerande, relevanta och personaliserade shoppingupplevelser.
+title: '[!DNL Live Search] för rekommendationer'
+description: Lär dig hur du lägger till  [!DNL Live Search] för produktrekommendationer i din butik och skapar engagerande, relevanta och personaliserade shoppingupplevelser.
 doc-type: feature video
 audience: all
 activity: use
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: af13f1c2-d888-4774-8254-efdb3ce383bb
 source-git-commit: 4cd68304f60ef6bb0a8f6ba21fc1a8a662225a88
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 {{ee-feature}}
 
-[!DNL Live Search] från Adobe Commerce ger Adobe Commerce en snabb, superrelevant och intuitiv sökupplevelse utan extra kostnad. [!DNL Live Search] som drivs av Adobe Sensei använder artificiell intelligens och maskininlärningsalgoritmer för att göra en djupgående analys av samlade besöksdata. När dessa data kombineras med er Adobe Commerce-katalog kan ni skapa engagerande, relevanta och personaliserade shoppingupplevelser. I den här videon förklaras hur man använder direktsökning för att få bättre produktrekommendationer och var en del av en pågående webbinariserie -&quot;Commerce quick wins&quot;.
+[!DNL Live Search] från Adobe Commerce ger en snabb, superrelevant och intuitiv sökupplevelse för Adobe Commerce utan extra kostnad. [!DNL Live Search] som drivs av Adobe Sensei använder artificiell intelligens och maskininlärningsalgoritmer för att utföra en djupanalys av aggregerade besökardata. När dessa data kombineras med er Adobe Commerce-katalog kan ni skapa engagerande, relevanta och personaliserade shoppingupplevelser. I den här videon förklaras hur man använder direktsökning för att få bättre produktrekommendationer och var en del av en pågående webbseminarieserie -&quot;Commerce quick wins&quot;.
 
 ## Vem är den här videon till?
 
