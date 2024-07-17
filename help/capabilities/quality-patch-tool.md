@@ -9,14 +9,18 @@ doc-type: Technical Video
 duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
-source-git-commit: 5a2a757bc97c5af25070e448abf119e2e657b6c8
+source-git-commit: 0458526b13266625a23d8ddc2ca8829d11ed07d5
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
 
-# Vad du kan förvänta dig av att titta på videon
+# Adobe Commerce kvalitetsverktyg
+
+Lär dig hur du använder verktyget för kvalitetskorrigering när du diagnostiserar ett problem, söker efter en lösning och använder en korrigering som finns i den befintliga listan med tillgängliga korrigeringsfiler.
+
+## Vad du kan förvänta dig av att titta på videon
 
 Lär dig hur du löser ett problem och sedan använder du några grundläggande tekniker för att hitta en kvalitetskorrigering och tillämpa en korrigering.
 
