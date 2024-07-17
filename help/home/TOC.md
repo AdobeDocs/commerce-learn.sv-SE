@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 0b42ffc1c0b55c75fdb7b25b86ec8049edb5db97
+source-git-commit: c515ff321849045ba1abed2b3b5f6d3795854f91
 workflow-type: tm+mt
-source-wordcount: '670'
+source-wordcount: '673'
 ht-degree: 2%
 
 ---
@@ -34,6 +34,7 @@ ht-degree: 2%
       + [Dataanslutning](../capabilities/data-connection.md)
       + [Fullständig demonstration av Live Search](../capabilities/live-search-full-demonstration.md)
       + [Commerce](../capabilities/what-is-composable-commerce.md)
+      + [Verktyget Kvalitetskorrigering](../capabilities/quality-patch-tool.md)
    + Skapa produkter {#create-products}
       + [Enkel produkt](../site-management/create-simple-product.md)
       + [Virtuell produkt](../site-management/create-virtual-product.md)
