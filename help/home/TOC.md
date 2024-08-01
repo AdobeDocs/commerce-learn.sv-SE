@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: c515ff321849045ba1abed2b3b5f6d3795854f91
+source-git-commit: 4445a494d0d84c8ececba27c976d06fe0f54fb70
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '684'
 ht-degree: 2%
 
 ---
@@ -45,6 +45,11 @@ ht-degree: 2%
       + [Presentkortsprodukt](../site-management/create-gift-card-product.md)
    + Startsats för integrering av bakgrunder {#back-office-integration-starter-kit}
       + [Demonstration av startkit](../back-office-integrations/starter-kit-demo.md)
+      + [Integreringar](../back-office-integrations/integrations.md)
+      + [Source Code Organization](../back-office-integrations/source-code-organization.md)
+      + [Integrering med sista milstolpen](../back-office-integrations/last-mile-integration.md)
+      + [Webkrok-förtäring](../back-office-integrations/webhook-ingestion.md)
+      + [Återförsöksmekanism](../back-office-integrations/retry-mechanism.md)
 + Webbinarier och händelser {#webinars-and-events}
    + Aktivera serie {#enablement-series}
       + [Sänk innehållsförteckningen för Commerce-integreringar](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
