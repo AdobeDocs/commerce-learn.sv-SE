@@ -1,6 +1,6 @@
 ---
-title: Lär dig mer om verktyget för kvalitetskorrigering
-description: Förbättra e-handelsplattformens stabilitet och säkerhet genom att lägga på kvalitetspatchar. Håll dig uppdaterad, åtgärda problem och optimera prestanda med detta oumbärliga verktyg.
+title: Lappa kvalitet
+description: Lär dig hur du använder verktyget för kvalitetskorrigering när du diagnostiserar ett problem, söker efter en lösning och använder en korrigering som finns i den befintliga listan med tillgängliga korrigeringsfiler.
 feature: Cloud, Configuration, Logs, System, Tools and External Services
 topic: Architecture, Commerce, Development
 role: Admin, Architect, User
@@ -9,14 +9,15 @@ doc-type: Technical Video
 duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
-source-git-commit: 0458526b13266625a23d8ddc2ca8829d11ed07d5
+exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
+source-git-commit: 43085b1a139e21ea695cc10ffab1413088ba4426
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
 
-# Adobe Commerce kvalitetsverktyg
+# Verktyget Kvalitetskorrigering
 
 Lär dig hur du använder verktyget för kvalitetskorrigering när du diagnostiserar ett problem, söker efter en lösning och använder en korrigering som finns i den befintliga listan med tillgängliga korrigeringsfiler.
 
@@ -24,7 +25,7 @@ Lär dig hur du använder verktyget för kvalitetskorrigering när du diagnostis
 
 Lär dig hur du löser ett problem och sedan använder du några grundläggande tekniker för att hitta en kvalitetskorrigering och tillämpa en korrigering.
 
-## Vem är den här videon till?
+## Målgrupp
 
 * Utvecklare lär sig att hitta problem och använda det här verktyget för GIT-korrigeringar för kända problem
 
