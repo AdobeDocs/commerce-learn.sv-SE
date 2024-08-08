@@ -1,5 +1,5 @@
 ---
-title: Konfigurera, driftsätta och anpassa en webkrok för inkommande trafik för integrering av Commerce med ett tredjepartssystem
+title: Konfigurera, distribuera och anpassa en webkrok för intag
 description: Lär dig hur du konfigurerar och anpassar en webkrok för att underlätta kommunikationen mellan Commerce och ett back office-system från en annan leverantör.
 landing-page-description: Lär dig hur du använder Commerce Integration Starter Kit för att integrera Commerce med ett back office-system från tredje part med hjälp av en webkrok för inmatning.
 kt: 15870
@@ -11,9 +11,9 @@ feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
-source-git-commit: f0c6e9262a2bf2de3144255de1fc78d6972b6d33
+source-git-commit: 45c018813ed8d5487e1491e09afc34e2de39c5b2
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
