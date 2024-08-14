@@ -11,16 +11,16 @@ feature: Tools and External Services, Communications, Security
 topic: Commerce, Architecture
 role: Architect, Developer
 level: Beginner, Intermediate
-source-git-commit: 7873d61123734cbe876ec2f00d552505457053c0
+source-git-commit: fae28537a460ccaa119b5374cff9e96378aad31d
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
 # Inställning av aviseringsmeddelanden från New Relic
 
-Lär dig hur du hittar varningar, vad som är policy och mål i New Relic. Lägg märke till hur enkelt det är att lägga till ett e-postmeddelande till en befintlig profil.
+Lär dig hur du hittar varningar, policyer, arbetsflöden och mål i New Relic. Lägg märke till hur enkelt det är att lägga till ett e-postmeddelande till en befintlig profil.
 
 ## Vem är den här videon till?
 
