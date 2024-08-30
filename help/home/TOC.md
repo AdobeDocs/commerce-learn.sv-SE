@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 6ae8bc718b34a7330357a588d64e968050e8b106
+source-git-commit: 8a90379998b5540c9fe88dafed14002cd276e926
 workflow-type: tm+mt
-source-wordcount: '687'
+source-wordcount: '712'
 ht-degree: 2%
 
 ---
@@ -23,6 +23,7 @@ ht-degree: 2%
       + [Driftsättning, testning, övervakning och säkerhet](../cloud/deployments-testing-monitoring-security.md)
       + [SaaS-erbjudanden, support, kommunikation och nästa steg](../cloud/saas-offerings-support-communications-next-steps.md)
    + Bästa praxis {#commerce-cloud-best-practices}
+      + [Supportförfrågan](../cloud/best-practices/support-request.md)
       + [Checklista före start](../cloud/best-practices/pre-launch-checklist.md)
 + Komma igång {#getting-started}
    + Global referensarkitektur{#global-reference-architecture}
@@ -50,6 +51,10 @@ ht-degree: 2%
       + [Integrering med sista milstolpen](../back-office-integrations/last-mile-integration.md)
       + [Webkrok-förtäring](../back-office-integrations/webhook-ingestion.md)
       + [Återförsöksmekanism](../back-office-integrations/retry-mechanism.md)
+   + Hjälp och support {#help-and-support}
+      + [Skapa en supportanmälan](../help-and-support/create-a-support-ticket.md)
+      + [Sök, spåra, kommentera och eskalera supportanmälan](../help-and-support/search-track-comment-escalate-support-ticket.md)
+      + [Lägga till och ta bort bevakare, stänga och öppna en biljett igen](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 + Webbinarier och händelser {#webinars-and-events}
    + Aktivera serie {#enablement-series}
       + [Sänk innehållsförteckningen för Commerce-integreringar](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
