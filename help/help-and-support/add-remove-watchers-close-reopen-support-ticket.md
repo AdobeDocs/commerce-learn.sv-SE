@@ -9,15 +9,15 @@ doc-type: Technical Video
 duration: 131
 last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-16050
-source-git-commit: 8a90379998b5540c9fe88dafed14002cd276e926
+exl-id: 15212a32-5b6b-4b49-8bf7-acc3bf39b6fa
+source-git-commit: 82e4e3e2a922a513c7d45ce3833971bda093a86f
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-
-# Lägg till och ta bort bevakare Stäng och öppna biljetter igen
+# Lägg till och ta bort bevakare, stäng och öppna biljetter igen
 
 Lär dig hur du lägger till och tar bort bevakare samt stänger och öppnar en supportanmälan i Experience League för Adobe Commerce.
 
