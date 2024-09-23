@@ -9,9 +9,9 @@ doc-type: Technical Video
 duration: 278
 last-substantial-update: 2024-10-09T00:00:00Z
 jira: KT-16185
-source-git-commit: 2d1118ce273c7d641486f6878b6737bc5c3b2d4f
+source-git-commit: 3d73ed6501bf7b592b03d4243491e49d66be5460
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Adobe Commerce är en hybridplattform för e-handel i molnet som finns på AWS o
 ## Videoinnehåll
 
 - Skalbar och säker infrastruktur.  Lär dig mer om den fullständigt redundanta infrastrukturen i flera moln på AWS och Azure, vilket garanterar optimerade prestanda, flexibilitet och elastisk skalbarhet med höga säkerhets- och efterlevnadsstandarder.
-- Avancerade AI-drivna tjänster. Ni får förståelse för de intelligenta, API-första tjänsterna som direktsökning, AI-uppgraderade produktrekommendationer och katalogtjänster för att förbättra kundupplevelsen och effektiviteten. &#x200B;
-- Omfattande utvecklingsverktyg. Läs mer om de serverlösa utvecklingsverktygen i molnet, som API Mesh och App Builder, som möjliggör smidig integrering och anpassning för att utöka affärsfunktionerna. &#x200B;
+- Avancerade AI-drivna tjänster. Ni får förståelse för de intelligenta, API-första tjänsterna som direktsökning, AI-uppgraderade produktrekommendationer och katalogtjänster för att förbättra kundupplevelsen och effektiviteten.
+- Omfattande utvecklingsverktyg. Läs mer om de serverlösa utvecklingsverktygen i molnet, som API Mesh och App Builder, som möjliggör smidig integrering och anpassning för att utöka affärsfunktionerna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433500?learn=on)
