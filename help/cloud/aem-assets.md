@@ -8,9 +8,9 @@ doc-type: Technical Video
 duration: 189
 last-substantial-update: 2024-12-09T00:00:00Z
 jira: KT-16203
-source-git-commit: 8ebc37e432f2898ad9df0497b41f5d4df8947e67
+source-git-commit: 33b4f9f612138656d792b40012446ce9f31cf2f5
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -28,8 +28,8 @@ Genom att integrera AI med Adobe Commerce centraliseras resurshanteringen, vilke
 
 ## Videoinnehåll
 
-- Förbättrad effektivitet och hastighet. &#x200B;
-- Smidig synkronisering mellan produkter och resurser. &#x200B;
-- Fullständig livscykelkontroll, inklusive godkännande, borttagning och förfallodatum. &#x200B;
+- Förbättrad effektivitet och hastighet.
+- Smidig synkronisering mellan produkter och resurser.
+- Fullständig livscykelkontroll, inklusive godkännande, borttagning och förfallodatum.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434076?learn=on)
