@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 14206ddbc60a973faca5c4ca43cb40565d8a4323
+source-git-commit: 815a309dbba2ed1699cce8f74d97bf999407be4b
 workflow-type: tm+mt
-source-wordcount: '738'
+source-wordcount: '742'
 ht-degree: 2%
 
 ---
@@ -37,6 +37,8 @@ ht-degree: 2%
 + Komma igång {#getting-started}
    + Migrerar till Adobe Commerce{#migrating-to-adobe-commerce}
       + [Ökning](../migrating-to-adobe-commerce/overview.md)
+      + Anpassningar{#customizations}
+         + [Kodstandarder under bearbetning](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
    + Global referensarkitektur{#global-reference-architecture}
       + [Global referensarkitektur](../global-reference-architecture/what-is-global-reference-architecture.md)
       + [Utnyttja den globala referensarkitekturen](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
