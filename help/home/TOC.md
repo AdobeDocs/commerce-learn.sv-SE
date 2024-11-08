@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 08e07add8628146271cf09e3cd6370f31521c726
+source-git-commit: 708ac8a909f0ef9736527d3b221f909a978c4478
 workflow-type: tm+mt
-source-wordcount: '765'
+source-wordcount: '767'
 ht-degree: 2%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 2%
    + Felsökning av {#troubleshooting}
       + [Ogiltig SSL](../cloud/troubleshooting/invalid-ssl.md)
       + [Testa och åtgärda två vanliga webbplatsfel](../cloud/troubleshooting/triage-two-common-site-errors.md)
+      + [Konfigurationsvärden](../cloud/troubleshooting/config-values.md)
    + [Marketecture](../cloud/marketecture.md)
    + [Global leveransmodell](../cloud/global-delivery-model.md)
    + [Administratörsroller](../cloud/admin-roles.md)
