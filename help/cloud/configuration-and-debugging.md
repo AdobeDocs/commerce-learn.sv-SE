@@ -1,32 +1,32 @@
 ---
 title: Konfigurera och felsöka Adobe Commerce Cloud
-description: Läs mer om Adobe Commerce Cloud konfigurationer och felsökning.
+description: Lär dig mer om Adobe Commerce Cloud konfigurationsfiler, felsökningsverktyg och logghantering, vilket är nödvändigt för DevOps, systemadministratörer och serverutvecklare.
 feature: Cloud
 topic: Commerce, Architecture, Development
 role: Architect, Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 0
+duration: 500
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15019
 kt: 15019
 exl-id: 8f5895bb-b402-4187-abf7-d7b2ac3f3c93
-source-git-commit: 0cb0982df528dd66dbc8804d7d09e3949a2fd850
+source-git-commit: 661e8cafc5870e4480c804c2aa482864272f602f
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
 # Teknisk introduktion - Konfiguration och felsökning
 
-Lär dig hur du konfigurerar och felsöker Adobe Commerce Cloud.
+Lär dig mer om de Yaml-filer som används i Adobe Commerce Cloud för konfigurering i olika miljöer, de verktyg som finns för validering och optimering av dessa konfigurationer samt processen för felsökning och loggning. Förstå vikten av miljöspecifika inställningar, hur man använder EG-verktyg och kvalitetskorrigeringar samt New Relic roll vid loggaggregering. Få insikter om fjärrfelsökning med Xdebug och behovet av att hantera loggar över flera appservrar.
 
 ## Vem är den här videon till?
 
-- Webbplatschefer
+- DevOp-tekniker
 - Commerce arkitects
-- Ägare till e-handelsplats
+- Utvecklare
 
 ## Videoinnehåll
 
