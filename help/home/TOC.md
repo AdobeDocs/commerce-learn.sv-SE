@@ -3,7 +3,7 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 708ac8a909f0ef9736527d3b221f909a978c4478
+source-git-commit: 2a9c0602a94613173e975bf53d80f3465e9c7c25
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 2%
