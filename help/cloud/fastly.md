@@ -36,7 +36,7 @@ Läs mer om molnanvändningen av Fastly för Adobe Commerce.
 
 - [Snabbkontroll](https://adobe-commerce-tester.freetls.fastly.net/adobe-commerce-tester/)
 - [Snabba tjänster i Experience League](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly.html)
-- [Vanliga frågor om snabbVAF](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/faq/web-application-firewall-waf-powered-by-fastly-the-faq.html)
+- [Vanliga frågor om WAF](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/faq/web-application-firewall-waf-powered-by-fastly-the-faq.html)
 - [Bildoptimering](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/image-optimization.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

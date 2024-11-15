@@ -37,7 +37,7 @@ Läs mer om Adobe Commerce Cloud SaaS-erbjudanden, support och annan kommunikati
 +++Akronym ordlista
 
 - SAM Solution Account Manager
-- CTA kundens tekniska rådgivare
+- CTA kundrådgivare
 - PaaS-plattform som tjänst
 - IaaS-infrastruktur som en tjänst
 - CPU-centralprocessor
@@ -47,7 +47,7 @@ Läs mer om Adobe Commerce Cloud SaaS-erbjudanden, support och annan kommunikati
 - CDN-leveransnätverk
 - Snabb IO-optimering
 - Konfigurationsspråk för VCL-lack
-- Brandvägg för WAF-webbprogram
+- Brandvägg för WAF webbprogram
 - PCI-betalkortsbranschen
 - TLS transporttjänst
 - Åtkomstkontrollista för ACL

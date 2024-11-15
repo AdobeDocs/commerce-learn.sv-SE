@@ -38,7 +38,7 @@ Läs mer om Adobe Commerce Cloud distributionsstrategier, testning av bästa pra
 - [SWAT Site-Wide Analysis Tool](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
 - [ECE-verktyg, smart guide](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
 - [Säkerhetsgenomsökning](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
-- [Brandvägg för SNABBT WF-webbprogram](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
+- [Snabbt Brandvägg för WAF-webbprogram](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
 - [Översikt över New Relic-tjänsten](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
