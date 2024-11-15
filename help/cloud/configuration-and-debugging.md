@@ -47,3 +47,4 @@ Lär dig mer om de Yaml-filer som används i Adobe Commerce Cloud för konfigure
 - [Användning av verktyget för kvalitetskorrigering](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
+
