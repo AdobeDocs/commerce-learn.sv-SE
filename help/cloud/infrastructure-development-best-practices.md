@@ -42,3 +42,4 @@ Läs mer om molninfrastrukturen och några metodtips för Adobe Commerce.
 - [Skapar supportärenden](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
+
