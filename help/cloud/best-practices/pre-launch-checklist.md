@@ -11,7 +11,7 @@ last-substantial-update: 2024-04-17T00:00:00Z
 jira: KT-15180
 kt: 15180
 exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
-source-git-commit: 00a8d6883473de796abc79ef2e9be34f56429a17
+source-git-commit: 191cfb29de7b4fff5ca73dcd1603b51d852aebd1
 workflow-type: tm+mt
 source-wordcount: '1605'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Nedan följer en sammanfattning av Adobe Commerce [dokumentation för att starta webbplatsen](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/overview){target="_blank"}.
 
-Denna checklista är till för att hjälpa till att planera och genomföra en lyckad start av Adobe Commerce Cloud webbplats. Samarbeta med systemintegratören för Adobe Commerce Cloud för att säkerställa att alla konfigurationsuppgifter och checklisteobjekt är slutförda och verifierade. Om du har problem med några checklisteartiklar eller har frågor kan du kontakta kundens tekniska rådgivare eller Customer Success Engineer. Om ditt konto inte har någon tilldelad CTA/CSE kan du skapa en supportanmälan för hjälp.
+Denna checklista är till för att hjälpa till att planera och genomföra en lyckad start av Adobe Commerce Cloud webbplats. Samarbeta med systemintegratören för Adobe Commerce Cloud för att säkerställa att alla konfigurationsuppgifter och checklisteobjekt är slutförda och verifierade. Om du har problem med några checklisteartiklar eller har frågor kan du kontakta kundens tekniska rådgivare eller Customer Success Engineer. Om ditt konto inte har något tilldelat CTA/CSE kan du skapa ett supportärende för hjälp.
 
 Om du har tilldelats ett CTA/CSE-konto kontaktar du dem och kontohanteraren minst fyra veckor innan du startar den nya Adobe Commerce Cloud-webbplatsen och meddelar dem om din **avsikt** att starta.
 
@@ -179,14 +179,14 @@ Om du råkar ut för problem som hindrar dig från att starta under klippet är 
 
 ## 11. Post Go-Live
 
-När sajten är live skickar du ett e-postmeddelande till CTA (Customer Technical Advisory), CSE (Customer Success Engineer) och AM (Account Manager). Om du inte har någon kontoansvarig tilldelad till projektet kan du skapa en supportanmälan där du tillfrågas om High SLA-övervakning ska aktiveras när webbplatsen har publicerats. CTA/CSE utför följande uppgifter så snart platsen har verifierats för att startas med snabbaktiverad och cachelagring:
+När webbplatsen är klar skickar du ett e-postmeddelande till den tilldelade CTA (Customer Technical Advisory), CSE (Customer Success Engineer) och AM (Account Manager). Om du inte har någon kontoansvarig tilldelad till projektet kan du skapa en supportanmälan som ber om att High SLA Monitoring ska aktiveras när webbplatsen har publicerats. CTA/CSE utför följande uppgifter så snart sajten har bekräftats startas med Snabbaktiverad och cachelagring:
 
 - Tagga klustret som live och skapa en supportbiljett för att aktivera övervakning av High SLA (Service Level Agreements).
 - Aktivera New Relic Synthetics för övervakning av drifttid.
 
 >[!MORELIKETHIS]
 > 
-> - [Starta beredskapsöversikt - Implementeringsspelbok](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/launch/overview){target="_blank"}
+> - [Starta beredskapsöversikt - Implementeringsspelbok](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/overview){target="_blank"}
 > - [Startchecklista - användarhandbok](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/checklist){target="_blank"}
 > - [Förhandsstarta checklista - Webbplatshanteraren/Commerce Admin&#39;s Guide](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/prelaunch-checklist){target="_blank"}
 > - [Säkerhetsmodell för delat ansvar](https://experienceleague.adobe.com/en/docs/commerce-operations/security-and-compliance/shared-responsibility){target="_blank"}

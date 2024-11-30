@@ -11,7 +11,7 @@ last-substantial-update: 2024-03-14T00:00:00Z
 jira: KT-15022
 kt: 15022
 exl-id: f8394eec-4579-4adb-abf3-ae2679683fe2
-source-git-commit: d5516a6d22105deab84a5b4c303c55448d156135
+source-git-commit: 191cfb29de7b4fff5ca73dcd1603b51d852aebd1
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -85,7 +85,7 @@ Läs mer om Adobe Commerce Cloud SaaS-erbjudanden, support och annan kommunikati
 - [Commerce kurser](https://learning.adobe.com/catalog.html?products=Commerce)
 - [Commerce Community Forum](https://community.magento.com/)
 -= [Konfigurera snabbt](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-configuration.html)
-- [Prestandatestning](https://experienceleague.adobe.com/docs/commerce-operations/deliver-commerce-at-scale/launch.html)
+- [Prestandatestning](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/backend-performance)
 - [Verktyget för platsomfattande analys - SWAT](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/site-wide-analysis-tool/swat-tool-overview.html?)
 - [ny Relic Observation för Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)
   [Säkerhetsuppdateringar](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/security-patches/overview.html)
