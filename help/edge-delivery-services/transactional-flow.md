@@ -9,9 +9,10 @@ doc-type: Technical Video
 duration: 453
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16685
-source-git-commit: c736f5d0a7277a0540f6257fb43a4224424b22bd
+exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
+source-git-commit: 624c5dbdab820ecdcf51e3cdf7d4c7459676c2df
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '201'
 ht-degree: 1%
 
 ---
@@ -22,7 +23,7 @@ Lär dig hur du justerar transaktionsflödet för utcheckning med hjälp av Edge
 
 ## Vad du kan förvänta dig av att titta på videon
 
-Lär dig hur du använder Adobe Commerce kundvagnsbortfall och justerar transaktionsflödet för att visa kunderna en ny uppsättning funktioner genom att ändra några kodrader.  Lär dig även hur du konverterar dessa ändringar till att hanteras från Sharepoint för att utföra AB-testning.
+Få en förståelse för hur man använder kundvagnsbortfall i Adobe Commerce och justera transaktionsflödet för att visa kunderna en ny uppsättning funktioner genom att ändra några kodrader.  Lär dig även hur du konverterar dessa ändringar till att hanteras från Sharepoint för att utföra AB-testning.
 
 ## Vem är den här videon till?
 

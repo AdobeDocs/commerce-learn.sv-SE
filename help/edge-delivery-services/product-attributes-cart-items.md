@@ -9,16 +9,17 @@ doc-type: Technical Video
 duration: 363
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
-source-git-commit: cbc159d0b77613d49f66ddc0a2bc4001994e5429
+exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
+source-git-commit: 624c5dbdab820ecdcf51e3cdf7d4c7459676c2df
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '262'
 ht-degree: 1%
 
 ---
 
 # Använd produktattribut för varukorgsartiklar
 
-I utskriften visar en utvecklare vid namn Ali från Acme hur man anpassar och utökar kundvagnen i Adobe Commerce. Ali uppfyller tre projektkrav: att visa leveranstider för restorderprodukter, visa meddelanden om returer och slutförsäljning samt att tillämpa en 25-procentig rabatt på kundvagnar med en delsumma på minst 75 USD. Genom att utnyttja produktattribut och kortplatser kan Ali integrera dessa funktioner i kundvagnen, vilket förbättrar den övergripande användarupplevelsen och uppfyller alla projektkrav.
+Lär dig anpassa och utöka kundvagnen från Adobe Commerce. I den här demonstrationen finns det tre uppdateringar.  Demonstrationen börjar med att visa leveranstider för restorderprodukter, visa meddelanden om returer och slutförsäljning, och tillämpa en rabatt på 25 % för kundvagnar med en delsumma på minst 75 USD. Genom att utnyttja produktattribut och kortplatser kan du förbättra användarupplevelsen genom att lägga till dessa funktioner i kundvagnen.
 
 ## Vad du kan förvänta dig av att titta på videon
 
