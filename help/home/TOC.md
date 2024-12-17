@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: fc3a65e00b36d4af76f75fd0e956104b90e8393d
+source-git-commit: 8720b575d72443faa1889d27d692283ca47cc012
 workflow-type: tm+mt
-source-wordcount: '773'
+source-wordcount: '781'
 ht-degree: 2%
 
 ---
@@ -76,6 +76,9 @@ ht-degree: 2%
       + [Skapa en supportanmälan](../help-and-support/create-a-support-ticket.md)
       + [Sök, spåra, kommentera och eskalera supportanmälan](../help-and-support/search-track-comment-escalate-support-ticket.md)
       + [Lägga till och ta bort bevakare, stänga och öppna en biljett igen](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
++ Edge Delivery Services {#edge-delivery-services}
+   + Komma igång {#getting-started}
+      + [Ändra transaktionsflöde](../edge-delivery-services/transactional-flow.md)
 + Webbinarier och händelser {#webinars-and-events}
    + Aktivera serie {#enablement-series}
       + [Sänk innehållsförteckningen för Commerce-integreringar](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
