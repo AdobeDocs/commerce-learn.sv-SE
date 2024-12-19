@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 7e35428a32457bc763fad8c60cd8c550bbb2c56f
+source-git-commit: 7d10b42c5ff4753eed616de8b472d0c662d3ed9d
 workflow-type: tm+mt
-source-wordcount: '791'
+source-wordcount: '795'
 ht-degree: 2%
 
 ---
@@ -81,6 +81,7 @@ ht-degree: 2%
       + [Ändra transaktionsflöde](../edge-delivery-services/transactional-flow.md)
       + [Använd produktattribut för varukorgsartiklar](../edge-delivery-services/product-attributes-cart-items.md)
       + [Uppdatera ordersammanfattningen](../edge-delivery-services/update-order-summary.md)
+      + [Lägga till BOPIS i kassan](../edge-delivery-services/add-bopis-to-checkout.md)
 + Webbinarier och händelser {#webinars-and-events}
    + Aktivera serie {#enablement-series}
       + [Sänk innehållsförteckningen för Commerce-integreringar](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
