@@ -10,7 +10,7 @@ duration: 453
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16685
 exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
-source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
+source-git-commit: 18559dd4c970217497470494009e392fccddfe34
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
@@ -37,7 +37,7 @@ Få en förståelse för hur man använder kundvagnsbortfall i Adobe Commerce oc
 * A/B-testningsflexibilitet. Möjliggör konfigurationer via SharePoint, vilket ger marknadsförarna möjlighet att styra och testa dessa funktioner.
 * Förbättrad marknadsföringskontroll. Hantera och testa enkelt konfigurationer, förbättra användarupplevelsen och marknadsföringseffektiviteten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441102?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
 
 ## Ytterligare dokumentation
 
