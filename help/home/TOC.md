@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: d902059666b3c812442f66e8e982785b79cbce9b
+source-git-commit: 916586d3b71b8b74baa04af2ab39abc86ec94f5b
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '807'
 ht-degree: 2%
 
 ---
@@ -72,10 +72,15 @@ ht-degree: 2%
       + [Integrering med sista milstolpen](../back-office-integrations/last-mile-integration.md)
       + [Webkrok-förtäring](../back-office-integrations/webhook-ingestion.md)
       + [Återförsöksmekanism](../back-office-integrations/retry-mechanism.md)
-   + Hjälp och support {#help-and-support}
-      + [Skapa en supportanmälan](../help-and-support/create-a-support-ticket.md)
-      + [Sök, spåra, kommentera och eskalera supportanmälan](../help-and-support/search-track-comment-escalate-support-ticket.md)
-      + [Lägga till och ta bort bevakare, stänga och öppna en biljett igen](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
++ Global referensarkitektur {#global-reference-architecture-implementation-techniques}
+   + [Ökning](../global-reference-architecture/overview.md)
+   + [Delad Git](../global-reference-architecture/split-git.md)
+   + [Paket i grupp](../global-reference-architecture/bulk-packages.md)
+   + [Separata paket](../global-reference-architecture/separate-packages.md)
++ Hjälp och support {#help-and-support}
+   + [Skapa en supportanmälan](../help-and-support/create-a-support-ticket.md)
+   + [Sök, spåra, kommentera och eskalera supportanmälan](../help-and-support/search-track-comment-escalate-support-ticket.md)
+   + [Lägga till och ta bort bevakare, stänga och öppna en biljett igen](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 + Edge Delivery Services {#edge-delivery-services}
    + Komma igång {#getting-started}
       + [Ändra transaktionsflöde](../edge-delivery-services/transactional-flow.md)
