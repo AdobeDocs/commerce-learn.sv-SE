@@ -8,15 +8,15 @@ level: Beginner
 doc-type: Technical Video
 duration: 613
 last-substantial-update: 2025-1-13
-source-git-commit: 82303ee7bbae300dec94dec8a0bb8cb49a8d0ac4
+exl-id: 91535671-02ff-4611-b452-0325792ad70b
+source-git-commit: 4b60aff89575dc431d77f66b94113966f2c26659
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
 
-
-# UpdateEnhancing E-commerceOut: Custom Address Form Layout and Google Address Lookup Integration
+# Anpassad adresslayout och integrering av Google-adresssökning
 
 Lär dig hur du anpassar adressformulärslayouten vid utcheckning för att se till att alla fält har 50 % bredd, med undantag för textområdet. Lär dig ett sätt att använda ett integrerat tredjeparts-API, särskilt Google Address API, för att aktivera automatisk adresssökning och validering i adressformuläret. &#x200B; Lär dig hur du lägger till ett nytt sidofältsmenyalternativ på kontrollpanelen för användarkonton, som länkar till en anpassad sida för en butikspositionerare.
 
