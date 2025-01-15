@@ -7,14 +7,16 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 613
-last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
-source-git-commit: 4b60aff89575dc431d77f66b94113966f2c26659
+jira: KT-16729
+last-substantial-update: 2025-1-15
+source-git-commit: b2d03fed21bd54044571084206097b8455db33c8
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 0%
 
 ---
+
 
 # Anpassad adresslayout och integrering av Google-adresssökning
 
@@ -36,7 +38,7 @@ Projektledare som behöver följa upp utvecklingen av utvecklingsuppgifter och f
 * Enhetliga fältbredder i Forms Checkout för att anpassa adressformuläret i kassan för att säkerställa att alla fält är korrekta.
 * Integrering av Google Address API för att möjliggöra automatisk adresssökning och -komplettering, vilket minskar antalet inmatningsfel och effektiviserar utcheckningsprocessen.
 * Validering och felhantering för adressindatafälten, vilket säkerställer att användarna får omedelbar feedback om felaktiga eller ofullständiga poster, vilket förbättrar användarupplevelsen.
-* Tillägg till kontrollpanelen för användarkonto som lägger till ett nytt sidofältsmenyalternativ på kontrollpanelen för användarkonton
+* Tillägg till kontrollpanelen för användarkonto som lägger till ett nytt sidofältsmenyalternativ på kontrollpanelen för användarkonton.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
