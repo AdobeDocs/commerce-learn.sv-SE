@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 7988dcc031956b880b67363a6c9b2705dbe7b4af
+source-git-commit: cf9de69246757d62cdb7cb952761a04c78953f56
 workflow-type: tm+mt
-source-wordcount: '819'
+source-wordcount: '820'
 ht-degree: 2%
 
 ---
@@ -77,6 +77,7 @@ ht-degree: 2%
    + [Delad Git](../global-reference-architecture/split-git.md)
    + [Paket i grupp](../global-reference-architecture/bulk-packages.md)
    + [Separata paket](../global-reference-architecture/separate-packages.md)
+   + [Monorepo](../global-reference-architecture/monorepo.md)
 + Hjälp och support {#help-and-support}
    + [Skapa en supportanmälan](../help-and-support/create-a-support-ticket.md)
    + [Sök, spåra, kommentera och eskalera supportanmälan](../help-and-support/search-track-comment-escalate-support-ticket.md)
