@@ -2,7 +2,7 @@
 title: Hur utnyttjar man den globala referensarkitekturen?
 description: Lär dig utnyttja en global referensarkitektur för att skapa en skalbar och flexibel e-handelsupplevelse
 landing-page-description: Läs om Global Reference Architecture och hur den används med Adobe Commerce
-kt: 14040
+jira: KT-16728
 doc-type: tutorial
 audience: all
 last-substantial-update: 2025-1-6
@@ -11,7 +11,7 @@ badge: label="Medverkad av Tony Evers, Sr. Technical Architect, Adobe" type="Inf
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Intermediate, Advanced
-source-git-commit: dacd43ef84dcb2c2633221a90642a469b2ff5a30
+source-git-commit: 7e7c22e994ac5be6eacbcd0084d8ec92666b2024
 workflow-type: tm+mt
 source-wordcount: '1385'
 ht-degree: 0%
