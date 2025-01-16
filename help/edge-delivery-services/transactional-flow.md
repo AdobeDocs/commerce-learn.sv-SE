@@ -10,9 +10,9 @@ duration: 453
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16685
 exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
-source-git-commit: 18559dd4c970217497470494009e392fccddfe34
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Lär dig hur du justerar transaktionsflödet för utcheckning med hjälp av Edge Delivery Services för kundvagn.
 
-## Vad du kan förvänta dig av att titta på videon
+## Vad du kommer att lära dig
 
 Få en förståelse för hur man använder kundvagnsbortfall i Adobe Commerce och justera transaktionsflödet för att visa kunderna en ny uppsättning funktioner genom att ändra några kodrader.  Lär dig även hur du konverterar dessa ändringar till att hanteras från Sharepoint för att utföra AB-testning.
 

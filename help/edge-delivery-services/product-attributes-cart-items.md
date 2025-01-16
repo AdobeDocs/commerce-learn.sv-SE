@@ -10,9 +10,9 @@ duration: 363
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
 exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
-source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Lär dig anpassa och utöka kundvagnen från Adobe Commerce. I den här demonstrationen finns det tre uppdateringar.  Demonstrationen börjar med att visa leveranstider för restorderprodukter, visa meddelanden om returer och slutförsäljning, och tillämpa en rabatt på 25 % för kundvagnar med en delsumma på minst 75 USD. Genom att utnyttja produktattribut och kortplatser kan du förbättra användarupplevelsen genom att lägga till dessa funktioner i kundvagnen.
 
-## Vad du kan förvänta dig av att titta på videon
+## Vad du kommer att lära dig
 
 Lär dig hur du använder Adobe Commerce kundvagnsbortfall och justerar transaktionsflödet för att visa kunderna en ny uppsättning funktioner genom att ändra några kodrader.  Lär dig även hur du konverterar dessa ändringar till att hanteras från Sharepoint för att utföra AB-testning.
 
