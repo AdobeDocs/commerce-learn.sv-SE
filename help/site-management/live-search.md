@@ -1,6 +1,6 @@
 ---
-title: "Introduktion till  [!DNL Live Search]"
-description: "Lär dig hur du lägger till [!DNL Live Search] i din butik och skapar engagerande, relevanta och personaliserade shoppingupplevelser."
+title: Introduktion till  [!DNL Live Search]
+description: Lär dig hur du lägger till  [!DNL Live Search]  i din butik och skapar engagerande, relevanta och personaliserade shoppingupplevelser.
 doc-type: feature video
 audience: all
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -8,8 +8,9 @@ feature: Configuration, System, Personalization, Search
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
+jira: KT-17151
 exl-id: a2a65242-9510-447d-8e35-4b9698ddd7b2
-source-git-commit: ff8ae08e9bc1e9ff070ce149f18c1b779badcfe8
+source-git-commit: 90752025ab3bc5650f871d6a12d907bfa5d22134
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
