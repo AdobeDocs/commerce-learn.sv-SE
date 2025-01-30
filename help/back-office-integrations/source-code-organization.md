@@ -11,7 +11,8 @@ feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
-source-git-commit: f0c6e9262a2bf2de3144255de1fc78d6972b6d33
+exl-id: 678f4d2b-c57e-4afb-a535-1048a88bc3b1
+source-git-commit: 6c5017b0c4bbafdd143b78b05cd92853efa7f831
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -36,8 +37,8 @@ Utforska logiken bakom källkodsstrukturen och beskriv hur mapparna `commerce` o
 * Lär dig mer om mappen `actions` och hur den innehåller viktiga undermappar som `ingestion` och `webhook`.
 * Utforska mappen `actions` och varför det finns specifika mappar för entiteter som `customer`, `order`, `product` och `stock`, som var och en innehåller körningsåtgärder som är strukturerade i mapparna `commerce` och `external` för att hantera händelser från Commerce och tredjepartssystem effektivt. &#x200B;
 * Lär dig hur viktigt det är att inte ändra koden i mappen `starter-kit-info`, som innehåller en körningsåtgärd som används av Adobe för att spåra projektdistributioner baserat på startpaketet. &#x200B;
-* Förstå mappen `scripts` som innehåller automatiseringsskript som `commerce-event-subscribe` och `onboarding` som automatiserar händelsekonfigurationen, providerkonfigurationen och konfigurationen av modulen Adobe I/O-händelser i Commerce. &#x200B;
+* Förstå mappen `scripts` som innehåller automatiseringsskript som `commerce-event-subscribe` och `onboarding` som automatiserar händelsekonfigurationen, providerkonfigurationen och konfigurationen av Adobe I/O Events-modulen i Commerce. &#x200B;
 
-  >[!VIDEO](https://video.tv.adobe.com/v/3431691?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431691?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
