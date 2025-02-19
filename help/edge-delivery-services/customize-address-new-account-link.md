@@ -1,5 +1,5 @@
 ---
-title: Edge Delivery Services anpassar adress inklusive automatisk ifyllnad
+title: Edge Delivery Services anpassningsadress inklusive automatisk ifyllning
 description: Läs om hur man anpassar utcheckningsblanketter för e-handel och integrerar Google Address Lookup för att förbättra användarupplevelsen och minska antalet inmatningsfel.
 feature: Best Practices, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
@@ -10,15 +10,15 @@ duration: 613
 last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
-source-git-commit: 097d5a74f1a74fb0e1e8ff739272e32752d5aa78
+source-git-commit: 9bb310a586c707ff02c3d8a1d13e86075baec603
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
 
 
-# Anpassad adresslayout och integrering av Google-adresssökning
+# Anpassa en adresslayout
 
 Lär dig hur du anpassar adressformulärslayouten vid utcheckning för att se till att alla fält har 50 % bredd, med undantag för textområdet. Lär dig ett sätt att använda ett integrerat tredjeparts-API, särskilt Google Address API, för att aktivera automatisk adresssökning och validering i adressformuläret. &#x200B; Lär dig hur du lägger till ett nytt sidofältsmenyalternativ på kontrollpanelen för användarkonton, som länkar till en anpassad sida för en butikspositionerare.
 

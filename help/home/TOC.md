@@ -3,15 +3,15 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: cf9de69246757d62cdb7cb952761a04c78953f56
+source-git-commit: 8dc009c1a7234ac251b0a29533fa188287c0c862
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '814'
 ht-degree: 2%
 
 ---
 
 
-# Adobe Commerce Videos och Tutorials {#tutorials}
+# Adobe Commerce videor och självstudiekurser {#tutorials}
 
 + [[!DNL Commerce] Självstudiekurser](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
@@ -89,7 +89,7 @@ ht-degree: 2%
       + [Uppdatera ordersammanfattningen i kassan](../edge-delivery-services/update-order-summary.md)
       + [Lägga till BOPIS i kassan](../edge-delivery-services/add-bopis-to-checkout.md)
       + [Anpassa utcheckning](../edge-delivery-services/customize-checkout.md)
-      + [Justera adress inklusive automatisk ifyllnad och ny länk till mitt konto](../edge-delivery-services/customize-address-new-account-link.md)
+      + [Anpassa en adresslayout](../edge-delivery-services/customize-address-new-account-link.md)
 + Webbinarier och händelser {#webinars-and-events}
    + Aktivera serie {#enablement-series}
       + [Sänk innehållsförteckningen för Commerce-integreringar](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
@@ -128,7 +128,7 @@ ht-degree: 2%
       + [Adobe Commerce villkorsstyrda evenemang](../io-events/conditional-events.md)
    + API-nät {#api-mesh}
       + [Kom igång med API Mesh](../api-mesh/getting-started-api-mesh.md)
-      + [Installera Adobe IO och nät-plugin](../api-mesh/installing-aio-mesh-plugin.md)
+      + [Installera Adobe IO och nätplugin](../api-mesh/installing-aio-mesh-plugin.md)
       + [Arbeta med projekt och arbetsytor](../api-mesh/aio-projects-workspaces.md)
       + [Skapa GraphQL API-nät med en källa](../api-mesh/graphql-single-source.md)
       + [Skapa GraphQL API-nät med flera källor](../api-mesh/graphql-multiple-source.md)
@@ -172,7 +172,7 @@ ht-degree: 2%
    + [Skapa prisregler för kataloger](../site-management/catalog-price-rules.md)
    + [Skapa kundprisregler](../site-management/cart-price-rules.md)
    + [Hantera relaterade produktregler](../site-management/related-product-rules.md)
-   + [Konfigurera Recommendations](../site-management/product-recommendations.md)
+   + [Ställ in produktrekommendationer](../site-management/product-recommendations.md)
    + [Introduktion till Live Search](../site-management/live-search.md)
    + [Live Search för rekommendationer](../site-management/live-search-recommendations.md)
    + [Integrera Commerce med AJO](../site-management/integrate-commerce-ajo.md)
@@ -206,7 +206,7 @@ ht-degree: 2%
    + [Integreringar och konfigurationer](../business-intelligence/integrations-configurations.md)
    + [Rapporter och kontrollpaneler](../business-intelligence/reports-and-dashboards.md)
    + [Filteruppsättning](../business-intelligence/filter-sets.md)
-   + [Kohort Report Builder](../business-intelligence/cohort-report-builder.md)
+   + [Cohort Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [Förbereder för framtiden](../business-intelligence/prepare-for-future.md)
 + Commerce-uppgraderingar {#upgrade}
