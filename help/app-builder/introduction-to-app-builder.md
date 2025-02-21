@@ -12,10 +12,10 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 241f99eaed68488b952e8ed76186499ca1a20417
 workflow-type: tm+mt
-source-wordcount: '796'
-ht-degree: 5%
+source-wordcount: '728'
+ht-degree: 6%
 
 ---
 
@@ -27,7 +27,7 @@ Historiskt sett har Adobe Commerce-utveckling använt processens utökningsmöjl
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412839?quality=12&learn=on)
 
-Adobe Developer App Builder är en serverlös utbyggbar plattform för att integrera och skapa anpassade upplevelser för att utöka Adobe-lösningar, och den finns nu för Adobe Commerce. Med App Builder kan ni skapa säkra och skalbara appar som utökar Commerce inbyggda funktioner och integreras med tredjepartslösningar. Som utvecklare kan du nu utnyttja Adobe Commerce utbyggbarhet som inte längre fungerar och som i sin tur ger omedelbara och långsiktiga fördelar.
+Adobe Developer App Builder är en serverlös utbyggbar plattform för att integrera och skapa anpassade upplevelser för att utöka Adobe lösningar, och den finns nu för Adobe Commerce. Med App Builder kan ni skapa säkra och skalbara appar som utökar Commerce inbyggda funktioner och integreras med tredjepartslösningar. Som utvecklare kan du nu utnyttja Adobe Commerce utbyggbarhet som inte längre fungerar och som i sin tur ger omedelbara och långsiktiga fördelar.
 
 App Builder tillhandahåller ett enhetligt ramverk för utbyggbarhet från tredje part för integrering och skapande av anpassade program som utökar [!DNL Adobe Commerce]. Eftersom det här utökningsramverket bygger på Adobe infrastruktur kan utvecklare skapa anpassade mikrotjänster och utöka och integrera [!DNL Adobe Commerce] i andra Adobe-lösningar och tredjepartsintegreringar.
 
@@ -51,11 +51,11 @@ Andra fördelar:
 
 ## Arkitektur {#architecture}
 
-I stället för en färdig lösning erbjuder Adobe Developer App Builder en gemensam, enhetlig och standardiserad utvecklingsplattform för utökade Adobe Cloud-lösningar som Adobe Commerce, som:
+Istället för en körklar lösning erbjuder Adobe Developer App Builder en gemensam, enhetlig och standardiserad utvecklingsplattform för utbyggnad av Adobe Cloud-lösningar som Adobe Commerce:
 
 * Adobe Developer Console används för utveckling av anpassade mikrotjänster och tillägg. Bygg och hantera projekt med tillgång till alla verktyg och API:er som behövs för att skapa plugins och integreringar.
-* Verktyg, SDK:er och bibliotek med öppen källkod för att skapa anpassade tillägg och integreringar. Använd React Spectrum (Adobe UI-verktygslådan) om du vill ha ett gemensamt användargränssnitt för alla Adobe-program.
-* tjänster som I/O Runtime för värdinfrastruktur på Adobe serverless-plattformen och I/O Events för händelsebaserade integreringar. Adobe har också färdiga funktioner för lagring av data och filer.
+* Verktyg, SDK:er och bibliotek med öppen källkod för att skapa anpassade tillägg och integreringar. Använd React Spectrum (Adobe UI Toolkit) för att ha ett gemensamt användargränssnitt för alla Adobe-program.
+* tjänster som I/O Runtime för värdinfrastruktur på Adobe serverlösa plattform och I/O Events för händelsebaserade integreringar. Adobe har också färdiga funktioner för lagring av data och filer.
 * Adobe Experience Cloud där du skickar tillägg och integreringar som ska publiceras i din Experience Cloud-organisation. Systemadministratörer kan granska, hantera och godkänna dessa tillägg. När de har publicerats är dina anpassade App Builder-tillägg och verktyg tillgängliga tillsammans med andra Adobe Experience Cloud-program.
 
 Följande diagram visar hur ett standardprogram som bygger på App Builder använder dessa funktioner:
@@ -64,25 +64,13 @@ Följande diagram visar hur ett standardprogram som bygger på App Builder anvä
 
 Mer information om App Builder-arkitekturen finns i [Översikt över arkitekturen](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
 
-## Amazon Sales Channel Extension {#amazon-sales-channel-extension}
-
->[!IMPORTANT]
->
->Utbyggnaden av Amazon-Sales Channelen håller fortfarande på att utvecklas och har inte officiellt släppts.  Dessa videofilmer och självstudiekurser är avsedda att visa hur du använder Adobe Developer App Builder i ett praktiskt syfte.
-
-I följande självstudier visas hur du ansluter Adobe Commerce till Amazon-Sales Channel med ett App Builder-tillägg.
-
-* [teknisk översikt App Builder](../app-builder/app-builder-technical-overview.md)
-* [utökningsramverk](../app-builder/extensibility-framework-commerce-eventing.md)
-* [funktionsdemonstration av App Builder](../app-builder/app-builder-functional-demonstration.md)
-
 ## Kom igång med App Builder {#additional-resources}
 
 En översikt över strategin för sammanställbar e-handel, som innehåller den första konfigurationen, finns i följande blogginlägg:
 
 [Så här kan App Builder bidra till ökad rörlighet för e-handelsplattformen](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
 
-För att hjälpa dig komma igång med App Builder har Adobe skapat följande dokumentation:
+För att du ska komma igång med App Builder har Adobe skapat följande dokumentation:
 
 * [App Builder - Komma igång](https://developer.adobe.com/app-builder/docs/getting_started/){target="_blank"}
 
@@ -101,6 +89,6 @@ Vill du börja utveckla? Följande länk innehåller exempelprogram som hjälper
 
 ## Support {#support}
 
-Använd [Experience League-forumet](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} för att få hjälp med supportförfrågningar för utvecklare.
+Använd [Experience League-forumet](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} för att få hjälp med supportförfrågningar från utvecklare.
 
 {{$include /help/_includes/app-builder-related-links.md}}
