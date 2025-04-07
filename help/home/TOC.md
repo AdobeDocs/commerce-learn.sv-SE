@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: b90aa9eb8759391a16dfb29ca25b0d2d271956ed
+source-git-commit: 3f6d35a8c11e86524b5e97b19bd481d2b715fdbe
 workflow-type: tm+mt
-source-wordcount: '828'
+source-wordcount: '831'
 ht-degree: 2%
 
 ---
@@ -20,6 +20,7 @@ ht-degree: 2%
       + [Testa och åtgärda två vanliga webbplatsfel](../cloud/troubleshooting/triage-two-common-site-errors.md)
       + [Konfigurationsvärden](../cloud/troubleshooting/config-values.md)
       + [Trunkera loggar](../cloud/troubleshooting/truncate-logs.md)
+   + [Identifiera IP-adress](../cloud/detect-ip-address.md)
    + [Marketecture](../cloud/marketecture.md)
    + [Global leveransmodell](../cloud/global-delivery-model.md)
    + [Administratörsroller](../cloud/admin-roles.md)
