@@ -9,14 +9,15 @@ doc-type: Feature Video
 duration: 180
 last-substantial-update: 2025-03-6
 jira: KT-17420
-source-git-commit: 544a33f7464ec988a8132010962a73715fa83686
+exl-id: e6a59ee0-3e13-41c0-a189-402bf8554f8e
+source-git-commit: 313dd669c38dc6b6bcca4e67dff98409e4061d8f
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
-# Översikt Adobe Commerce Optimizer
+# Översikt över Adobe Commerce Optimizer
 
 Adobe Commerce Optimizer förbättrar sina befintliga handelsplattformar genom att tillhandahålla en högpresterande, headless Store som ökar den organiska trafiken och stöder säljverktyg som A/B-testning. Det fokuserar på att öka antalet butikstrafik och konverteringar, öka handlarnas produktivitet, skala den digitala verksamheten och förenkla hanteringen för lägre kostnader och snabbare innovation. Den här lösningen integreras smidigt med befintliga system, som erbjuder migreringstjänster för butiker, katalogintegrering för plug-and-play och enhetlig katalogsamordning, vilket gör den idealisk för företag som vill öka intäkterna och optimera shoppingupplevelser utan att behöva omforma sina webbplatser.
 
