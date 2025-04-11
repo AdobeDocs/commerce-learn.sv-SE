@@ -9,15 +9,15 @@ doc-type: Technical Video
 duration: 0
 last-substantial-update: 2025-04-07T00:00:00Z
 jira: KT-17553
-source-git-commit: a14a878217a145ecee0b29247ec7ccb224edd883
+exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2
+source-git-commit: 3acec65129773a8ba94eb52c53d15d7633440717
 workflow-type: tm+mt
-source-wordcount: '1106'
+source-wordcount: '1095'
 ht-degree: 0%
 
 ---
 
-
-# Lär dig att identifiera IP-adresser för alla typer av miljöer i ditt Commerce Cloud-projekt
+# Identifiera IP-adresser för olika miljöer
 
 Lär dig hur du identifierar IP-adresser för olika miljöer i ett Adobe Commerce Cloud-projekt. Genom att använda en rad kommandon, bland annat Adobe Commerce CLI, sed, xargs, dig, grep och sort-u, kan man identifiera IP-adresser för utvecklings-, staging- och produktionsmiljöer.
 
