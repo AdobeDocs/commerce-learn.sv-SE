@@ -10,10 +10,11 @@ feature: Configuration, System, Staging
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
+badgePaas: label="Endast PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Gäller endast Adobe Commerce i molnprojekt (Adobe-hanterad PaaS-infrastruktur) och lokala projekt."
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
-source-git-commit: 85cd8ab916d2125333d5fe11affeab7620f7f6b1
+source-git-commit: efb067d8595079cc33a9af0c15eb1e60e0dd5796
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -36,4 +37,4 @@ Med Content Staging kan ert affärsteam enkelt skapa, förhandsgranska och schem
 ## Ytterligare resurser
 
 - [Mellanlagring av innehåll - [!DNL Commerce] Handbok för innehåll och design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
-- [Förhandsgranska en kampanj - [!DNL Commerce] Handbok för innehåll och design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html){target="_blank"}
+- [Förhandsgranska en kampanj - [!DNL Commerce] Innehåll- och designguide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html){target="_blank"}
