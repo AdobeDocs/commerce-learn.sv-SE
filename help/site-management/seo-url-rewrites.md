@@ -1,6 +1,6 @@
 ---
 title: Hantera URL-återskrivningar för SEO
-description: Lär dig hur du använder verktyget URL-omskrivning för att ändra URL:er som är kopplade till en produkt, kategori eller CMS-sida.
+description: Lär dig hur du använder verktyget URL-omskrivning för att ändra URL-adresser som är kopplade till en produkt, kategori eller CMS-sida.
 kt: 10554
 doc-type: feature video
 audience: all
@@ -11,16 +11,17 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 8b982882-9c59-4d3f-b158-8ea5d38d7a22
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+badgePaas: label="Endast PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Gäller endast Adobe Commerce i molnprojekt (Adobe-hanterad PaaS-infrastruktur) och lokala projekt."
+source-git-commit: 29d48213b0f7d4425925ea8234d09867aa6d7577
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
 # Hantera URL-återskrivningar för SEO
 
-Med verktyget för URL-omskrivning kan du ändra alla URL:er som är kopplade till en produkt, kategori eller CMS-sida. När omskrivningen börjar gälla omdirigeras alla länkar som pekar på den tidigare URL:en till den nya adressen.
+Med verktyget URL-omskrivning kan du ändra alla URL-adresser som är kopplade till en produkt, kategori eller CMS-sida. När omskrivningen börjar gälla omdirigeras alla länkar som pekar på den tidigare URL:en till den nya adressen.
 
 ## Vem är den här videon till?
 
