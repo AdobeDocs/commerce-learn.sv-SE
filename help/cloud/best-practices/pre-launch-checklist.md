@@ -37,7 +37,7 @@ Om du har tilldelats ett CTA/CSE-konto kontaktar du dem och kontohanteraren mins
 1. Granska dokumentationen om testning och publicering [Dokumentation för att starta webbplatsen](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/overview){target="_blank"}
 
    >[!NOTE]
-   >Se till att en omfattande _&quot;go live readiness plan&quot;_ har förberetts fullständigt med din partner eller systemintegratör, med alla nödvändiga åtgärdsobjekt. Kom ihåg att checklistan före start betonar Adobe bästa praxis, men _**ersätter inte**_ behovet av en egen beredskapsplan.
+   >Se till att en omfattande _&quot;go live readiness plan&quot;_ har förberetts fullständigt med din partner eller systemintegratör, med alla nödvändiga åtgärdsobjekt. Kom ihåg att checklistan före start betonar Adobe bästa praxis, men _&#x200B;**ersätter inte**&#x200B;_ behovet av en egen beredskapsplan.
 
 2. [!BADGE Blockerare]{type=caution tooltip="Potentiell blockerare"}[Användarhandbok](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro){target="_blank"})
 3. Slutanvändare/handlare utförde UAT (User Acceptance Testing), inklusive backend-operationer.

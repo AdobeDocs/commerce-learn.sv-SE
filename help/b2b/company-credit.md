@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Hantera företagskrediter
 
-För företag som har _[!UICONTROL Payment on Account]_aktiverat och har företagskrediter tillgängliga kan de göra köp på sitt konto upp till den kreditgräns som har beviljats. Med den här funktionen kan kunderna kontrollera status för sina företagskrediter från sin kontokontrollpanel.
+För företag som har _[!UICONTROL Payment on Account]_&#x200B;aktiverat och har företagskrediter tillgängliga kan de göra köp på sitt konto upp till den kreditgräns som har beviljats. Med den här funktionen kan kunderna kontrollera status för sina företagskrediter från sin kontokontrollpanel.
 
 Du kan ange följande kreditrelaterade parametrar för varje företagsprofil:
 

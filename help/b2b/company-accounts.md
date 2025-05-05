@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Hantera företagskonton
 
-För B2B-handlare visas på sidan _[!UICONTROL Companies]_alla aktuella företagskonton och deras status. Du kan hantera dina företagskonton här och eventuella väntande begäranden om godkännande visas högst upp i listan. Standardkontrollerna på arbetsytan kan användas för att filtrera listan, ändra kolumnlayouten, spara vyer och exportera data.
+För B2B-handlare visas på sidan _[!UICONTROL Companies]_&#x200B;alla aktuella företagskonton och deras status. Du kan hantera dina företagskonton här och eventuella väntande begäranden om godkännande visas högst upp i listan. Standardkontrollerna på arbetsytan kan användas för att filtrera listan, ändra kolumnlayouten, spara vyer och exportera data.
 
 {{b2b-feature}}
 
