@@ -33,7 +33,7 @@ Om du tror att du behöver de här loggfilerna kan du `rsync` dem eller använda
 - Där några vanliga stora loggfiler hittas
 - Snabbmetod för att korta av en loggfil
 
->[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454587?learn=on&captions=swe)
 
 
 ## Kommandon som används i videon

@@ -38,4 +38,4 @@ Läs om arkitekturen och de viktigaste funktionerna i Adobe Commerce som molntj�
 * Omfattande API-täckning: Plattformen har stöd för omfattande API-täckning med GraphQL- och REST-API:er, vilket möjliggör smidig integrering med tredjepartssystem.
 * Headless Architecture: Med en helt fristående arkitektur kan utvecklare använda olika frontramverk, vilket ger flexibilitet och prestanda.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443232?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443271?learn=on&captions=swe)

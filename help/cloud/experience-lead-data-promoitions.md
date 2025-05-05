@@ -38,7 +38,7 @@ Upptäck Adobe Commerce kraftfulla kataloghanteringsverktyg för e-handelsadmini
 - Avancerad integrering och anpassning.
 - Förbättrad shoppingupplevelse.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434039?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434068?learn=on&captions=swe)
 
 ## Live Search
 
@@ -50,7 +50,7 @@ Upptäck de avancerade sökfunktionerna i Adobe Commerce, som bygger på Adobe S
 - Skräddarsydd sökupplevelse: Funktioner som avancerade sökregler, synonymer och ansikten ger en skräddarsydd och optimerad sökupplevelse för kunderna.
 - B2B-integrering: Live Search har stöd för B2B-modeller med delade kataloger och specifika priser, vilket förbättrar dess mångsidighet för olika affärsbehov.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434040?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434046?learn=on&captions=swe)
 
 ## Erbjudanden  
 
@@ -62,5 +62,5 @@ Adobe Commerce ger butikscheferna möjlighet att enkelt skapa och hantera produk
 - Avancerade kampanjstrategier.
 - Smidig integrering med tredjepartssystem, vilket ger ökad flexibilitet och automatisering.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434041?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434057?learn=on&captions=swe)
 >

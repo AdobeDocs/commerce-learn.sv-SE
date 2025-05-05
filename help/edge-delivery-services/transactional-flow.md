@@ -37,7 +37,7 @@ Få en förståelse för hur man använder kundvagnsbortfall i Adobe Commerce oc
 * A/B-testningsflexibilitet. Möjliggör konfigurationer via SharePoint, vilket ger marknadsförarna möjlighet att styra och testa dessa funktioner.
 * Förbättrad marknadsföringskontroll. Hantera och testa enkelt konfigurationer, förbättra användarupplevelsen och marknadsföringseffektiviteten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442355?learn=on&captions=swe)
 
 ## Ytterligare dokumentation
 

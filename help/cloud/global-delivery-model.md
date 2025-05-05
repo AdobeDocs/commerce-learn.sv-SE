@@ -33,4 +33,4 @@ Adobe Commerce är en hybridplattform för e-handel i molnet som finns på AWS o
 - Avancerade AI-drivna tjänster. Ni får förståelse för de intelligenta, API-första tjänsterna som direktsökning, AI-uppgraderade produktrekommendationer och katalogtjänster för att förbättra kundupplevelsen och effektiviteten.
 - Omfattande utvecklingsverktyg. Läs mer om de serverlösa utvecklingsverktygen i molnet, som API Mesh och App Builder, som möjliggör smidig integrering och anpassning för att utöka affärsfunktionerna.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433500?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433504?learn=on&captions=swe)

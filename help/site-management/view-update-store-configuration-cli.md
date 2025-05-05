@@ -27,7 +27,7 @@ Demo av hur du visar, ställer in och hittar konfigurationsvärden med Commerce 
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3427123?&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439974?&learn=on&captions=swe)
 
 ## Vissa kommandon som används i självstudien
 

@@ -37,7 +37,7 @@ Lär dig hur du använder Adobe Commerce kundvagn från Edge Delivery Services f
 * Växla mellan leverans och hämtning i butik
 * Hämtar hämtningsplatser
 
->[!VIDEO](https://video.tv.adobe.com/v/3441699?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441704?learn=on&captions=swe)
 
 ## Ytterligare dokumentation
 

@@ -37,4 +37,4 @@ Läs mer om Adobe Commerce startsverktyg för integration av backoffice-system. 
 * Konfigurera I/O-händelser
 * Ansluta till en tredje part för att synkronisera data
 
->[!VIDEO](https://video.tv.adobe.com/v/3428629?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452018?learn=on&captions=swe)

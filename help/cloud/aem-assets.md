@@ -32,4 +32,4 @@ Genom att integrera AI med Adobe Commerce centraliseras resurshanteringen, vilke
 - Smidig synkronisering mellan produkter och resurser.
 - Fullständig livscykelkontroll, inklusive godkännande, borttagning och förfallodatum.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434076?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434080?learn=on&captions=swe)

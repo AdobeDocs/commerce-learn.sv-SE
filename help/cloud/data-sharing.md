@@ -33,4 +33,4 @@ Integrera smidigt med Adobe Experience Cloud-produkter för att skapa personalis
 - Ökat kundengagemang och ökad lojalitet
 - Smidig integrering och enhetlig kundvy
 
->[!VIDEO](https://video.tv.adobe.com/v/3433568?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433573?learn=on&captions=swe)

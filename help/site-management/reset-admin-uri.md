@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Lär dig hur du återställer admin-URI med kommandot Adobe Commerce Cloud Cli. Detta är användbart om admin-URL:en har ändrats från admin men ett fel har gjorts och du inte längre kan komma åt admin.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435066/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439696/?learn=on&captions=swe)
 
 ## Vissa kommandon som används i självstudien
 

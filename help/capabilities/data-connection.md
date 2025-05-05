@@ -35,4 +35,4 @@ Lär dig hur du använder Adobe Commerce Data Connection tillsammans med vissa g
 * Real-Time CDP målgrupper uppdaterar och ändrar segmentering i realtid baserat på webbläsardata, serverdata (inklusive orderhistorik) och data från andra källor (dvs. lojalitetsdata).
 * Använda Real-Time CDP målgrupper för att personalisera både kundprisregler och dynamiska block i Adobe Commerce.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425591?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453822?learn=on&captions=swe)

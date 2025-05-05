@@ -38,4 +38,4 @@ Adobe Commerce as a Cloud Service är en flexibel, skalbar och effektiv lösning
 * Förenklad introduktion och självbetjäning för snabb och effektiv installation av sandlådor och produktionsinstanser.
 * Sammansättningsbar arkitektur för oberoende driftsättning, skalning och uppdatering av tjänster med API-först som utbyggbarhet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443311?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443315?learn=on&captions=swe)

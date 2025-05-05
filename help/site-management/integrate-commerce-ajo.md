@@ -37,7 +37,7 @@ Lär dig hur du kan använda [Dataanslutning](https://experienceleague.adobe.com
 - I Adobe Journey Optimizer kan du enkelt skapa och aktivera personliga kundresor med hjälp av färdiga händelser som är tillgängliga med dataanslutningen
 - Engagera med kunder i alla kanaler i realtid med Adobe Journey Optimizer inbyggda meddelandefunktioner
 
->[!VIDEO](https://video.tv.adobe.com/v/3426855/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452470/?learn=on&captions=swe)
 
 ## Ytterligare resurser
 

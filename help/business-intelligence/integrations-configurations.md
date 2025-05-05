@@ -33,4 +33,4 @@ Dokumentet innehåller även information om hur du synkroniserar tabeller med Da
 
 ## Integreringar och konfigurationer
 
->[!VIDEO](https://video.tv.adobe.com/v/3428101?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452694?learn=on&captions=swe)

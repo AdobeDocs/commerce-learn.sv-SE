@@ -36,7 +36,7 @@ Lär dig hur du använder Adobe Commerce kundvagnsbortfall och justerar varukorg
 * Lär dig hur du inkluderar ett totalt belopp som sparats för kundvagnssammanfattningen.
 * Förstå hur du sammanfogar rader i kundvagnssammanfattningen i ett enda komprimerbart avsnitt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441189?learn=on&captions=swe)
 
 ## Ytterligare dokumentation
 

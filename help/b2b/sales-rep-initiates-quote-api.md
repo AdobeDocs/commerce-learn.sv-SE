@@ -32,6 +32,6 @@ Lär dig hur säljaren kan initiera offerten från Adobe Commerce REST API.
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3420414?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432480?learn=on&captions=swe)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

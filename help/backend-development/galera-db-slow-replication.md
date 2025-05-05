@@ -37,7 +37,7 @@ Som en lösning kan du om möjligt batchbearbeta stora åtgärder så att de sek
 - Massexekveringar utförs bara i huvudprogrammet. Replikeringar sker 1 i taget
 - Gruppera dina stora implementeringar för att hjälpa replikeringen att hålla jämna steg med den primära
 
->[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432454?learn=on&captions=swe)
 
 ## Användbara resurser
 

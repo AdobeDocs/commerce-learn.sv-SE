@@ -35,7 +35,7 @@ Den här videon hjälper utvecklare att förstå hur man skapar ett nät med en 
 * Skapa ett nät från en JSON-konfigurationsfil
 * Åtkomst till den nyskapade GraphQL-slutpunkten
 
->[!VIDEO](https://video.tv.adobe.com/v/3414124?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430826?quality=12&learn=on&captions=swe)
 
 ## Skapa JSON-konfigurationsfilen
 

@@ -31,4 +31,4 @@ Lär dig viktiga kodningsstandarder och metodtips för PHP, JavaScript och anpas
 * Lär dig de bästa metoderna för PHP, JavaScript och anpassningar för att säkerställa en smidig migrering.
 * Få insikter från Adobe experter om förberedelser, prestanda och säkerhet för Adobe Commerce-projekt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434861?learn=on&enablevpops&captions=swe)

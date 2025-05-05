@@ -35,7 +35,7 @@ Lär dig hur du integrerar Adobe Commerce med externa system och ger praktiska i
 * Köra skript för att skapa och konfigurera händelseproviders och prenumerationer.
 * Uppdaterar händelser i Commerce och App Builder för synkronisering.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431690?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452773?learn=on&captions=swe)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

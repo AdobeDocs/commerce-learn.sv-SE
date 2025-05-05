@@ -32,7 +32,7 @@ Lär dig skapa en supportanmälan i Experience League för Adobe Commerce.
 * Ange hur de rekommenderade artiklarna ska ändras beroende på vilken information som användes i formuläret
 * Förstå hur platshållartexten i formulärfälten hjälper till att förstå vilken typ av information som krävs för en bra supportförfrågan
 
->[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449557?learn=on&captions=swe)
 
 ## Hjälpcenter för Commerce Knowledge Base
 

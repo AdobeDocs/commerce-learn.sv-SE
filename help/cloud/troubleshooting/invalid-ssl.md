@@ -32,4 +32,4 @@ Lär dig hur du identifierar ett utgånget ssl-certifikat och hur du genererar o
 - Identifiera när under processen ett nytt certifikat skapas.
 - Validera att det nya certifikatet fungerar som förväntat. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3435751?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439752?learn=on&captions=swe)

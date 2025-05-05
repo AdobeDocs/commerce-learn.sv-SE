@@ -31,6 +31,6 @@ Se hur säljaren kan initiera offerten från adminpanelen, filtrera efter använ
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3420390?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430586?learn=on&captions=swe)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

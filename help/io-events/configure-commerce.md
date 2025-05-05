@@ -34,7 +34,7 @@ Lär dig hur du konfigurerar Adobe Commerce för att visa händelserna. Ytterlig
 * Spara den unika identifieraren i Commerce-administratören
 * Skapa en händelseprovider
 
->[!VIDEO](https://video.tv.adobe.com/v/3415799?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430611?quality=12&learn=on&captions=swe)
 
 ## Användbara kommandon {#useful-commands}
 

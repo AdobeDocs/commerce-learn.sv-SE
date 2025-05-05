@@ -35,7 +35,7 @@ Lär dig installera flera nya moduler i Adobe Commerce med Composer för version
 * Kommandon som ska köras för Adobe Commerce Cloud
 * Redigering krävs för Adobe Commerce Cloud-ljud
 
->[!VIDEO](https://video.tv.adobe.com/v/3415794?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430647?quality=12&learn=on&captions=swe)
 
 ## Användbara kommandon {#useful-commands}
 

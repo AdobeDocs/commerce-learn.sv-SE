@@ -35,7 +35,7 @@ Lär dig exempel på hur man anpassar Edge Delivery Servicens kundvagnsbortcheck
 * Implementering av &#x200B; för utcheckning i flera steg
 * Återanvända befintlig kod och bästa praxis
 
->[!VIDEO](https://video.tv.adobe.com/v/3442650?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442654?learn=on&captions=swe)
 
 ## Ytterligare dokumentation
 

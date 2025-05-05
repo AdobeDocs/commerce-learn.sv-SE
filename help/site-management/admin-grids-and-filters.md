@@ -31,4 +31,4 @@ Lär dig hur du söker efter och justerar filter som kan användas i Adobe Comme
 * Förstå hur du använder ett filter för att begränsa resultatet av ett administratörsrutnät
 * Läs om hur filter påverkar andra administratörer i Adobe Commerce Admin Console
 
->[!VIDEO](https://video.tv.adobe.com/v/3440382?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440386?learn=on&captions=swe)

@@ -40,7 +40,7 @@ Projektledare som behöver följa upp utvecklingen av utvecklingsuppgifter och f
 * Validering och felhantering för adressindatafälten, vilket säkerställer att användarna får omedelbar feedback om felaktiga eller ofullständiga poster, vilket förbättrar användarupplevelsen.
 * Tillägg till kontrollpanelen för användarkonto som lägger till ett nytt sidofältsmenyalternativ på kontrollpanelen för användarkonton.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442910?learn=on&captions=swe)
 
 ## Ytterligare dokumentation
 

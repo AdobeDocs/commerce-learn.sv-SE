@@ -38,7 +38,7 @@ Lär dig hur du använder Adobe Commerce kundvagnsbortfall och justerar transakt
 * Kupongrabatt som visas med kundvagnsregler och sidfotsplatser för effektiv visning av den här informationen.
 * Använd produktattribut och kortplatser för att utöka och anpassa kundvagnsfunktionen och se till att alla projektkrav uppfylls.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441120?learn=on&captions=swe)
 
 
 ## Ytterligare dokumentation

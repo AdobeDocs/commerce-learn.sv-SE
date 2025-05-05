@@ -33,6 +33,6 @@ Adobe Commerce Marketplace tar nu emot inskickade bidrag för listning av App Bu
 * Teknik- och marknadsföringsavsnitt i appinlämningen
 * Exempel på e-post som du får när appen har godkänts i granskningen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420313)
+>[!VIDEO](https://video.tv.adobe.com/v/3447348?captions=swe)
 
 {{$include /help/_includes/app-builder-related-links.md}}

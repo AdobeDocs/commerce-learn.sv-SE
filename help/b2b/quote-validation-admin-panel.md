@@ -30,6 +30,6 @@ Lär dig de valideringssteg och områden som Adobe Commerce B2B-offertfunktionen
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3420413?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432482?learn=on&captions=swe)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

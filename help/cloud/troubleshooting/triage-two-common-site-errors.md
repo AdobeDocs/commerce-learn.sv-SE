@@ -32,7 +32,7 @@ Lär dig hur du trimmar och åtgärdar två vanliga fel i Adobe Commerce Cloud-p
 - Hantera underhållsläge
 - Effektiva felsökningstips
 
->[!VIDEO](https://video.tv.adobe.com/v/3435766?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447697?learn=on&captions=swe)
 
 
 ## Kommandon som används i videon

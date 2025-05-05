@@ -61,7 +61,7 @@ När du skapar paketprodukter från Adobe Commerce Admin kan du antingen skapa d
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3426797?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454502?learn=on&captions=swe)
 
 ## Skapa produkter med REST
 

@@ -34,6 +34,6 @@ Läs mer om Global Reference Architecture, några viktiga koncept och fördelar 
 * Övergripande överväganden som måste beaktas
 * Hur man avgör om GRA är ett genomförbart alternativ
 
->[!VIDEO](https://video.tv.adobe.com/v/3424597?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454700?learn=on&captions=swe)
 
 {{$include /help/_includes/gra-related-links.md}}

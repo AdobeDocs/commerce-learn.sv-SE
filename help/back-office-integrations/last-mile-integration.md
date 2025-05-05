@@ -43,6 +43,6 @@ Lär dig mer om betydelsen av efterbehandlingsaktiviteter via postproceskroken, 
 * Lär dig vilken roll omvandlingskroken har när det gäller att omforma dataobjekt mellan ursprungs- och målsystemen.
 * Lär dig mer om betydelsen av den skicka kroken när det gäller att underlätta den faktiska datameddelandet som skickas till målsystemet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451924?learn=on&captions=swe)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

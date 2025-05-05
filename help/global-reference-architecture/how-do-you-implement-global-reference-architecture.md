@@ -38,6 +38,6 @@ Lär dig implementera Global Reference Architecture eller GRA för kort tid. Lä
 * Global Control Board - What features to work on
 * Alternativt koncept för att använda GRA som modulmarknadsplats
 
->[!VIDEO](https://video.tv.adobe.com/v/3424702?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457212?learn=on&captions=swe)
 
 {{$include /help/_includes/gra-related-links.md}}

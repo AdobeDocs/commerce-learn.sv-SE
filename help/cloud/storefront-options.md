@@ -35,4 +35,4 @@ Den integreras smidigt med Adobe verktyg för digitala upplevelser, vilket gör 
 - Möjliggör personalisering i realtid och effektiv hantering av digitala resurser
 - Kraftfulla icke-tekniska användare
 
->[!VIDEO](https://video.tv.adobe.com/v/3431725?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448390?learn=on&captions=swe)

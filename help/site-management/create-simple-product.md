@@ -30,7 +30,7 @@ Lär dig hur du skapar en enkel produkt med REST API och Adobe Commerce Admin.
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3425650?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443906?learn=on&captions=swe)
 
 ## Skapa en produkt med hjälp av profilen
 

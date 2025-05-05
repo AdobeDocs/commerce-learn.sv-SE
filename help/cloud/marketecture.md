@@ -35,4 +35,4 @@ Utbyggbarhetsverktyg som API Mesh och enhetlig händelsehantering effektiviserar
 - Adobe Commerce erbjuder sammanställningsbara tjänster som direktsökning, AI-rekommendationer och flexibla betalningslösningar.
 - Avancerad integrering, inklusive API Mesh, enhetlig händelsehantering och smidig integrering med Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433435?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433439?learn=on&captions=swe)

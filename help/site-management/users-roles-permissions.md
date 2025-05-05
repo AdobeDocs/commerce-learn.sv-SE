@@ -28,7 +28,7 @@ Om det finns andra i teamet eller tjänsteleverantörerna som behöver åtkomst 
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/343654?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443511?quality=12&learn=on&captions=swe)
 
 ## Ytterligare resurser
 

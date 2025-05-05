@@ -26,7 +26,7 @@ Lär dig hur du ansluter till ett Adobe Commerce i ett molnprojekt, skapar en da
 * Lär dig hur du snabbt ansluter till ett Adobe Commerce Cloud-fjärrprojekt med ett verktyg som MysqlWorkbench eller TablesPlus.
 * Lär dig hur du snabbt ansluter till Adobe Commerce-projektet för att köra SQL via kommandoraden
 
->[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450040?learn=on&captions=swe)
 
 Lär dig hur du ansluter till ett Adobe Commerce i ett molnprojekt, dumpar en databas för användning utanför webbplatsen och maskerar PII och tar bort den.
 

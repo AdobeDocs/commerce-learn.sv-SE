@@ -31,7 +31,7 @@ Lär dig hur du lägger till och tar bort bevakare samt stänger och öppnar en 
 * Lär dig hur du stänger en supportanmälan
 * Lär dig hur du öppnar en supportanmälan igen
 
->[!VIDEO](https://video.tv.adobe.com/v/3433082?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441355?learn=on&captions=swe)
 
 ## Hjälpcenter för Commerce Knowledge Base
 

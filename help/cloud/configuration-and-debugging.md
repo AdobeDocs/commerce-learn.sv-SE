@@ -30,7 +30,7 @@ Lär dig mer om de Yaml-filer som används i Adobe Commerce Cloud för konfigure
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432816?learn=on&captions=swe)
 
 ## Experience League dokumentation som nämns i videon
 

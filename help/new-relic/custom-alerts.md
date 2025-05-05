@@ -33,4 +33,4 @@ Lär dig hur du skapar anpassade aviseringar i New Relic för att övervaka webb
 * Förstå hur tröskelvärden för larm kan ställas in baserat på dataaggregering.
 * Konfigurera aviseringar med allvarlighetsgrader och tilldelade till befintliga profiler för att styra meddelandearbetsflöden och mål.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440771?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440775?learn=on&captions=swe)

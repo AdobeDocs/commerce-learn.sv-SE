@@ -33,4 +33,4 @@ Nya och gamla kunder som utforskar Adobe Commerce Edge leveransbutik.
 - Få förståelse för optimering med A/B-testning.
 - Lär dig några avancerade verktyg och AI-integrering för att förfina innehåll, generera variationer och förbättra den övergripande marknadsföringsstrategin.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433527?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433536?learn=on&captions=swe)

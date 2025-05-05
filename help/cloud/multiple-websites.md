@@ -32,4 +32,4 @@ Adobe Commerce ger företag möjlighet att hantera flera butiker, varumärken oc
 - Lokalisering och anpassning
 - Skalbarhet och flexibilitet
 
->[!VIDEO](https://video.tv.adobe.com/v/3434027?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434031?learn=on&captions=swe)

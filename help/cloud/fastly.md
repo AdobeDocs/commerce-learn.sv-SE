@@ -30,7 +30,7 @@ Läs mer om molnanvändningen av Fastly för Adobe Commerce.
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3427695?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432804?learn=on&captions=swe)
 
 ## Experience League dokumentation och snabbkontroll av Adobe Commerce som omnämns i videon
 

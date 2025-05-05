@@ -30,7 +30,7 @@ Läs mer om Adobe Commerce Cloud SaaS-erbjudanden, support och annan kommunikati
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3427902?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432835?learn=on&captions=swe)
 
 ## Aronymer
 

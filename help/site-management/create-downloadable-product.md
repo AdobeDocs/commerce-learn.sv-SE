@@ -30,7 +30,7 @@ Lär dig hur du skapar en nedladdningsbar produkt med REST API och Adobe Commerc
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3425753?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453947?learn=on&captions=swe)
 
 ## Tillåtna nedladdningsbara domäner
 

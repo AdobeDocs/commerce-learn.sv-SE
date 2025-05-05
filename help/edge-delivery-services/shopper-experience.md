@@ -43,4 +43,4 @@ Hur ni effektivt kan navigera och utnyttja funktionerna i Adobe Commerce Store. 
 * Lär dig hur du hanterar beställningar, inklusive lägger till artiklar i kundvagnen, checkar ut som gäst, annullerar beställningar och sorterar om artiklar.
 * Få insikter om att uppdatera kontoinformation, slå samman gäst- och kundvagnar och säkerställ en smidig utcheckning.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446766?learn=on&captions=swe)

@@ -33,7 +33,7 @@ Lär dig varför du använder pt-query-digest och några verkliga exempel för a
 - Lär dig mer om fördelarna och bristerna med den här Percona Toolkit-funktionen
 - Förstå resultaten och lär dig vilka möjliga prestandasteg som ska övervägas
 
->[!VIDEO](https://video.tv.adobe.com/v/3423480?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452296?learn=on&captions=swe)
 
 ## Kodreferenser
 

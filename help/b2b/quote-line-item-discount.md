@@ -32,6 +32,6 @@ Lär dig hur du använder rabatten för radobjekt och se värdena med hjälp av 
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3420415?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445589?learn=on&captions=swe)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

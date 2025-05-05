@@ -33,4 +33,4 @@ Lär dig hur du loggar in på Adobe Commerce Admin Portal med Adobe ID eller Fed
 - Få en god förståelse för hur man skapar och hanterar roller
 - Förstå användartilldelning och åtkomstnivåer. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433517?learn=on&captions=swe)

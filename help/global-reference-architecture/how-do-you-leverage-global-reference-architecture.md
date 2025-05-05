@@ -34,6 +34,6 @@ Lär dig utnyttja Global Reference Architecture eller GRA för kort tid. För at
 * Behovsinsamling
 * När deltar QA-teamet?
 
->[!VIDEO](https://video.tv.adobe.com/v/3424604?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456004?learn=on&captions=swe)
 
 {{$include /help/_includes/gra-related-links.md}}

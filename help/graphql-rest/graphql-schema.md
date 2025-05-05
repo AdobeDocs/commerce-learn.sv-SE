@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Detta är en del av 4 av serien för GraphQL och Adobe Commerce. De frågor och mutationer som används är beroende av att ett specifikt datagraf implementeras på servern, som används och används av GraphQL för att lösa frågan. GraphQL-specifikationen definierar ett agnostiskt språk för att uttrycka datagrafens typer och relationer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446614?learn=on&captions=swe)
 
 ## Relaterade videor och självstudiekurser om GraphQL i den här serien
 
