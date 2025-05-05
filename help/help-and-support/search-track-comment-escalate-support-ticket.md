@@ -35,4 +35,4 @@ Lär dig hur du gör en sökning, granskar, kommenterar och eskalerar en support
 
 ## Hjälpcenter för Commerce Knowledge Base
 
-[Skicka ett supportärende](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[Skicka ett supportärende](https://experienceleague.adobe.com/sv/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)

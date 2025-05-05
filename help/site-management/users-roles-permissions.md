@@ -32,6 +32,6 @@ Om det finns andra i teamet eller tjänsteleverantörerna som behöver åtkomst 
 
 ## Ytterligare resurser
 
-[Hantera administratörsanvändarkonton - [!DNL Commerce] Handbok för administratörssystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
+[Hantera administratörsanvändarkonton - [!DNL Commerce] Handbok för administratörssystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html?lang=sv-SE)
 
-[Användarroller - [!DNL Commerce] Handbok för administratörssystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)
+[Användarroller - [!DNL Commerce] Handbok för administratörssystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=sv-SE)

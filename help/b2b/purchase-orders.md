@@ -41,5 +41,5 @@ Med de behörigheter som krävs för deras roll kan B2B-kunder skapa godkännand
 
 ## Ytterligare resurser
 
-- [Inköpsorder för företag](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html){target="_blank"}
-- [Regler för godkännande av inköpsorder](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html){target="_blank"}
+- [Inköpsorder för företag](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html?lang=sv-SE){target="_blank"}
+- [Regler för godkännande av inköpsorder](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html?lang=sv-SE){target="_blank"}

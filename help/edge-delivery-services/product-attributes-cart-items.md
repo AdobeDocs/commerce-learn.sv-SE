@@ -43,4 +43,4 @@ Lär dig hur du använder Adobe Commerce kundvagnsbortfall och justerar transakt
 
 ## Ytterligare dokumentation
 
-* [Lägg till produktrader i kundvagnen](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)
+* [Lägg till produktrader i kundvagnen](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/?lang=sv-SE)

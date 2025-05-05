@@ -36,5 +36,5 @@ För B2B-handlare visas på sidan _[!UICONTROL Companies]_&#x200B;alla aktuella 
 
 ## Ytterligare resurser
 
-- [Företagskonton](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html){target="_blank"}
-- [Hantera företagskonton](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html){target="_blank"}
+- [Företagskonton](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html?lang=sv-SE){target="_blank"}
+- [Hantera företagskonton](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html?lang=sv-SE){target="_blank"}

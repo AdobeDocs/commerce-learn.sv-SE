@@ -34,17 +34,17 @@ Lär dig mer om de Yaml-filer som används i Adobe Commerce Cloud för konfigure
 
 ## Experience League dokumentation som nämns i videon
 
-- [Konfigurera Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html)
+- [Konfigurera Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html?lang=sv-SE)
 - [Konfigurera Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/) för Cloud Docker
-- [Bästa tillvägagångssätt vid felsökning](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html)
-- [Översikt över konfigurationsfiler](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)
-- [ECE-verktyg](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html)
-- [Uppdatera ECE-verktygspaketet](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html)
-- [New Relic - översikt](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
-- [Visa och hantera loggfiler](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)
-- [New Relic logghantering](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html)
-- [Verktyget Kvalitetskorrigering](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
-- [Användning av verktyget för kvalitetskorrigering](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html)
+- [Bästa tillvägagångssätt vid felsökning](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html?lang=sv-SE)
+- [Översikt över konfigurationsfiler](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html?lang=sv-SE)
+- [ECE-verktyg](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html?lang=sv-SE)
+- [Uppdatera ECE-verktygspaketet](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html?lang=sv-SE)
+- [New Relic - översikt](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html?lang=sv-SE)
+- [Visa och hantera loggfiler](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html?lang=sv-SE)
+- [New Relic logghantering](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html?lang=sv-SE)
+- [Verktyget Kvalitetskorrigering](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=sv-SE)
+- [Användning av verktyget för kvalitetskorrigering](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html?lang=sv-SE)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
 

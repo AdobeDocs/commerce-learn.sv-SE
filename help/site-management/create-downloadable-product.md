@@ -54,7 +54,7 @@ När det är klart ändras `env.php` inuti arrayen _downloadable_domains_.
 
 Nu när domänen har lagts till i `env.php` kan du skapa en nedladdningsbar produkt i Adobe Commerce Admin eller genom att använda REST API.
 
-Mer information finns i [Konfigurationsreferens](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains).
+Mer information finns i [Konfigurationsreferens](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=sv-SE#downloadable_domains).
 
 >[!IMPORTANT]
 >I vissa versioner av Adobe Commerce kan följande fel uppstå när en produkt redigeras i Adobe Commerce Admin. Produkten skapas med REST API, men den länkade nedladdningen har ett pris på `null`.
@@ -236,7 +236,7 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 ## Ytterligare resurser
 
-- [Hämtningsbar produkttyp](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
-- [Konfigurationshandbok för hämtningsbara domäner](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
+- [Hämtningsbar produkttyp](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html?lang=sv-SE){target="_blank"}
+- [Konfigurationshandbok för hämtningsbara domäner](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=sv-SE#downloadable_domains){target="_blank"}
 - [Adobe Developer REST-självstudiekurser](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

@@ -36,7 +36,7 @@ ht-degree: 0%
 
 ## Ytterligare resurser
 
-- [Introduktion till [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html)
-- [[!DNL Live Search] översikt](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
-- [Introduktion till Recommendations](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)
+- [Introduktion till [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html?lang=sv-SE)
+- [[!DNL Live Search] översikt](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=sv-SE)
+- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=sv-SE)
+- [Introduktion till Recommendations](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=sv-SE)

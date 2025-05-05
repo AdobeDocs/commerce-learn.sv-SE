@@ -34,5 +34,5 @@ Ett block är en modulär innehållsenhet som kan placeras oftast var som helst 
 
 ## Ytterligare resurser
 
-- [Block - [!DNL Commerce] Innehålls- och designguide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
-- [Dynamiska block - [!DNL Commerce] Innehålls- och designguiden](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)
+- [Block - [!DNL Commerce] Innehålls- och designguide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html?lang=sv-SE)
+- [Dynamiska block - [!DNL Commerce] Innehålls- och designguiden](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html?lang=sv-SE)

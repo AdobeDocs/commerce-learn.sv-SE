@@ -38,6 +38,6 @@ Lär dig vad MySQL-frågecachen är och lite grundläggande förståelse för hu
 
 ## Användbara resurser
 
-- [Allmänna MySQL-riktlinjer](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=en){target="_blank"}
-- [Deadlocks in MySQL](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/database/deadlocks-in-mysql.html){target="_blank"}
-- [Galerareplikering och långsamma frågor](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html){target="_blank"}
+- [Allmänna MySQL-riktlinjer](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=sv-SE){target="_blank"}
+- [Deadlocks in MySQL](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/database/deadlocks-in-mysql.html?lang=sv-SE){target="_blank"}
+- [Galerareplikering och långsamma frågor](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html?lang=sv-SE){target="_blank"}

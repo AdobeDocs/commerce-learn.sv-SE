@@ -33,7 +33,7 @@ I den här videon:
 
 >[!NOTE]
 >
->Innehållet i Page Builder 1.0.0 för Adobe Commerce 2.3.1. Mer information om uppdateringar i senare versioner finns i [Versionsinformation för Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>Innehållet i Page Builder 1.0.0 för Adobe Commerce 2.3.1. Mer information om uppdateringar i senare versioner finns i [Versionsinformation för Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=sv-SE).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35711?quality=12&learn=on)
 
@@ -41,4 +41,4 @@ I den här videon:
 
 [Dokumentation för Page Builder-utvecklare](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Guiden Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[Guiden Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html?lang=sv-SE)

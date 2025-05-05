@@ -31,11 +31,11 @@ För att förhindra obehörig åtkomst till dina data måste alla användare som
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.4.0. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Innehållet i videon återspeglar version 2.4.0. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=sv-SE).
 
 >[!VIDEO](https://video.tv.adobe.com/v/339104?quality=12&learn=on)
 
 ## Ytterligare resurser
 
-- [Tvåfaktorautentisering (2FA) - Handbok för administratörssystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/2fa/security-two-factor-authentication.html)
+- [Tvåfaktorautentisering (2FA) - Handbok för administratörssystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/2fa/security-two-factor-authentication.html?lang=sv-SE)
 - [Konfigurerar tvåfaktorsautentisering (2FA) - dokumentation för utvecklare](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)

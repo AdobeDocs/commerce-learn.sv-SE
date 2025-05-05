@@ -11,7 +11,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 8b982882-9c59-4d3f-b158-8ea5d38d7a22
-badgePaas: label="Endast PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Gäller endast Adobe Commerce i molnprojekt (Adobe-hanterad PaaS-infrastruktur) och lokala projekt."
+badgePaas: label="Endast PaaS" type="Informative" url="https://experienceleague.adobe.com/sv/docs/commerce/user-guides/product-solutions" tooltip="Gäller endast Adobe Commerce i molnprojekt (Adobe-hanterad PaaS-infrastruktur) och lokala projekt."
 source-git-commit: 29d48213b0f7d4425925ea8234d09867aa6d7577
 workflow-type: tm+mt
 source-wordcount: '115'
@@ -35,5 +35,5 @@ Med verktyget URL-omskrivning kan du ändra alla URL-adresser som är kopplade t
 
 ## Ytterligare resurser
 
-- [URL-omskrivning - [!DNL Commerce] Handbok för marknadsföring och marknadsföring](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
-- [Allmänt > Webb - [!DNL Commerce] Konfigurationsreferens](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)
+- [URL-omskrivning - [!DNL Commerce] Handbok för marknadsföring och marknadsföring](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html?lang=sv-SE)
+- [Allmänt > Webb - [!DNL Commerce] Konfigurationsreferens](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html?lang=sv-SE)

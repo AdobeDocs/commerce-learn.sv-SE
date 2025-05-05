@@ -30,7 +30,7 @@ I den här självstudiekursen får du lära dig hur du skapar en konfigurerbar p
 
 Använd REST API för att skapa en konfigurerbar produkt:
 
-1. Hämta attributen för en [attributuppsättning](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html) för att använda ID-nummer för efterföljande API-anrop.
+1. Hämta attributen för en [attributuppsättning](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=sv-SE) för att använda ID-nummer för efterföljande API-anrop.
 1. Skapa enkla produkter som kan användas i den konfigurerbara produkten.
 1. Skapa en tom konfigurerbar produkt och associera de enkla produkterna.
 1. Ange produktattributen för den konfigurerbara produkten.
@@ -348,6 +348,6 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable
 ## Ytterligare resurser
 
 - [Skapa en konfigurerbar produktsjälvstudiekurs](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
-- [Konfigurerbar produkt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html){target="_blank"}
+- [Konfigurerbar produkt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html?lang=sv-SE){target="_blank"}
 - [Adobe Developer REST-självstudiekurser](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

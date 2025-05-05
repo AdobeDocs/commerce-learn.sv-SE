@@ -33,5 +33,5 @@ Skattereglerna innehåller en kombination av produktklass, kundklass och momssat
 
 ## Ytterligare resurser
 
-- [Skatteregler - [!DNL Commerce] Butiker och inköpsupplevelseguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
-- [Valuta - [!DNL Commerce] Butiker och inköpsupplevelseguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)
+- [Skatteregler - [!DNL Commerce] Butiker och inköpsupplevelseguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html?lang=sv-SE)
+- [Valuta - [!DNL Commerce] Butiker och inköpsupplevelseguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html?lang=sv-SE)

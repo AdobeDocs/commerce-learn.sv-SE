@@ -40,7 +40,7 @@ Den bästa metoden är att göra en databasdump och svepa den för att ta bort a
 
 ## Använda Adobe Commerce Cloud CLI-verktyget
 
-Om du vill skapa en databasdump måste du ha [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html) installerat. Gå till en katalog på din lokala bärbara dator och kör följande kommando. Se till att ersätta `your-project-id` med projekt-ID:t, som liknar `asasdasd45q`. Du måste även ersätta `your-environment-name` med namnet på miljön, till exempel `master` eller `staging`.
+Om du vill skapa en databasdump måste du ha [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=sv-SE) installerat. Gå till en katalog på din lokala bärbara dator och kör följande kommando. Se till att ersätta `your-project-id` med projekt-ID:t, som liknar `asasdasd45q`. Du måste även ersätta `your-environment-name` med namnet på miljön, till exempel `master` eller `staging`.
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
 
@@ -276,7 +276,7 @@ För att få åtkomst till MariaDB-databasen direkt måste SSH användas för at
    magento-cloud ssh
    ```
 
-1. Hämta inloggningsuppgifterna för MySQL från egenskaperna `database` och `type` i variabeln [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=en#relationships).
+1. Hämta inloggningsuppgifterna för MySQL från egenskaperna `database` och `type` i variabeln [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=sv-SE#relationships).
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp
@@ -322,7 +322,7 @@ När allt har konfigurerats går det att använda ett MySQL-GUI för att köra f
 
 ## Ansluta direkt till molnprojektdatabasen för att köra SQL
 
-Följande metod använder klippet `magento-cloud` för att ansluta direkt till mysql-databasen och köra SQL, vilket möjliggör snabbare databasfrågor. Om du behöver kopiera den här databasen kan du referera till en av de alternativa metoderna för att [skapa en databasdump](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html).
+Följande metod använder klippet `magento-cloud` för att ansluta direkt till mysql-databasen och köra SQL, vilket möjliggör snabbare databasfrågor. Om du behöver kopiera den här databasen kan du referera till en av de alternativa metoderna för att [skapa en databasdump](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=sv-SE).
 
 ```bash
 magento-cloud db:sql    
@@ -382,7 +382,7 @@ MariaDB [main]>
 
 ## Ytterligare resurser
 
-[Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
-[Konfigurera MySQL-tjänsten](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
-[Konfigurera en MySQL-fjärrdatabasanslutning](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
-[Skapa databasdump på Adobe Commerce i molninfrastruktur](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)
+[Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=sv-SE)
+[Konfigurera MySQL-tjänsten](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html?lang=sv-SE)
+[Konfigurera en MySQL-fjärrdatabasanslutning](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html?lang=sv-SE)
+[Skapa databasdump på Adobe Commerce i molninfrastruktur](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=sv-SE)

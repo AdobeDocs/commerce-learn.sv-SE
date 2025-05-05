@@ -34,12 +34,12 @@ I den här videon:
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=sv-SE).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36188?quality=12&learn=on)
 
 ## Ytterligare resurser
 
-[Omfång för kundkonto - [!DNL Commerce] Handbok för kundhantering](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html)
+[Omfång för kundkonto - [!DNL Commerce] Handbok för kundhantering](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html?lang=sv-SE)
 
-[Önskar en lista över butiksupplevelser - [!DNL Commerce] Butiker och inköpsupplevelseguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)
+[Önskar en lista över butiksupplevelser - [!DNL Commerce] Butiker och inköpsupplevelseguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html?lang=sv-SE)

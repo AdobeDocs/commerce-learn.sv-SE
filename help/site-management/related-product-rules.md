@@ -34,4 +34,4 @@ Med relaterade produktregler kan ni inrikta er på de produkter som presenteras 
 
 ## Ytterligare resurser
 
-[Relaterade produktregler - [!DNL Commerce] Handbok för marknadsföring och marknadsföring](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)
+[Relaterade produktregler - [!DNL Commerce] Handbok för marknadsföring och marknadsföring](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html?lang=sv-SE)

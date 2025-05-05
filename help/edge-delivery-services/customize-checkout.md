@@ -39,4 +39,4 @@ Lär dig exempel på hur man anpassar Edge Delivery Servicens kundvagnsbortcheck
 
 ## Ytterligare dokumentation
 
-* [Flerstegs gästutcheckning](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/)
+* [Flerstegs gästutcheckning](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=sv-SE)

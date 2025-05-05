@@ -32,5 +32,5 @@ När en kund gör en beställning skapas en försäljningsorder som en tillfäll
 
 ## Ytterligare resurser
 
-- [Bearbeta en beställning - [!DNL Commerce] Lagrar och köpguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
-- [Beställningsstatus - [!DNL Commerce] Butiker och inköpsupplevelseguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)
+- [Bearbeta en beställning - [!DNL Commerce] Lagrar och köpguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html?lang=sv-SE#process-an-order)
+- [Beställningsstatus - [!DNL Commerce] Butiker och inköpsupplevelseguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html?lang=sv-SE)

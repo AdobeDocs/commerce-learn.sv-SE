@@ -33,5 +33,5 @@ Handlare med en enda butik till flera lager, butiker, upphämtningsplatser, avs�
 
 ## Ytterligare resurser
 
-- [Inventory management Guide](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
+- [Inventory management Guide](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html?lang=sv-SE)
 - [Inventory management - REST-dokumentation för utvecklare](https://developer.adobe.com/commerce/webapi/rest/inventory/)

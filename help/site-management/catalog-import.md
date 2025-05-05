@@ -30,7 +30,7 @@ Välj något av alternativen nedan om du vill veta mer.
 
 ## Skapa produkterna manuellt {#manual-import}
 
-Om du har en begränsad katalog och det inte finns så många uppdateringar kan det vara bäst att skapa dem manuellt. Det tar tid att gå in i respektive produkt och lite tid att lära sig hur man använder Commerce Admin. Manuell kataloghantering är inte rätt alternativ för de flesta butiker, men i vissa situationer kan det vara bra. Mer information om processen finns på [Skapa en produkt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. Glöm inte att du kan använda mer än en metod för att hantera katalogen, men när du väl har använt automatisering måste manuella redigeringar vara begränsade. Automatiska uppdateringar kan skriva över ändringar som har utförts manuellt och därför skapa förvirring. När integreringen med Adobe Commerce för att hantera katalogen använder automatisering och API:er bör du begränsa kataloghanteringen från administratören till [användarroller och behörigheter](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
+Om du har en begränsad katalog och det inte finns så många uppdateringar kan det vara bäst att skapa dem manuellt. Det tar tid att gå in i respektive produkt och lite tid att lära sig hur man använder Commerce Admin. Manuell kataloghantering är inte rätt alternativ för de flesta butiker, men i vissa situationer kan det vara bra. Mer information om processen finns på [Skapa en produkt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html?lang=sv-SE){target="_blank"}. Glöm inte att du kan använda mer än en metod för att hantera katalogen, men när du väl har använt automatisering måste manuella redigeringar vara begränsade. Automatiska uppdateringar kan skriva över ändringar som har utförts manuellt och därför skapa förvirring. När integreringen med Adobe Commerce för att hantera katalogen använder automatisering och API:er bör du begränsa kataloghanteringen från administratören till [användarroller och behörigheter](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=sv-SE){target="_blank"}.
 
 ### När den här metoden ska övervägas
 
@@ -45,7 +45,7 @@ Om du har en begränsad katalog och det inte finns så många uppdateringar kan 
 ## Administratörens CSV-importverktyg {#admin-csv}
 
 Med det här verktyget kan en butiksägare importera en katalog via en CSV-fil direkt från e-handelsadministratören.
-[Importera data från Commerce Admin](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
+[Importera data från Commerce Admin](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=sv-SE){target="_blank"}
 
 Yrkesverksamma:
 Att överföra en CSV-fil från administratören är ett enkelt sätt att hantera kataloger. Det ger snabbare katalogproduktuppdateringar till en katalog i måttlig storlek.
@@ -139,6 +139,6 @@ Kon:
 ## Ytterligare resurser
 
 - [Importera data med ny REST CSV](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
-- [Importera huvuddokumentation för data](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
-- [Versionsinformation för Adobe Commerce version 2.4.6](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html){target="_blank"}
+- [Importera huvuddokumentation för data](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=sv-SE){target="_blank"}
+- [Versionsinformation för Adobe Commerce version 2.4.6](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html?lang=sv-SE){target="_blank"}
 - [Användare, roller och behörigheter](../site-management/users-roles-permissions.md){target="_blank"}

@@ -31,11 +31,11 @@ Alla installationer av Adobe Commerce och Magento Open Source har stöd för en 
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.1.0. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Innehållet i videon återspeglar version 2.1.0. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=sv-SE).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35787?quality=12&learn=on)
 
 ## Ytterligare resurser
 
-- [Webbplatser, butiker och vyer - [!DNL Commerce] Guiden Komma igång](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
-- [Rotkategori och hierarki - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-root.html)
+- [Webbplatser, butiker och vyer - [!DNL Commerce] Guiden Komma igång](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html?lang=sv-SE)
+- [Rotkategori och hierarki - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-root.html?lang=sv-SE)

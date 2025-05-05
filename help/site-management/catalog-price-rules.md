@@ -34,5 +34,5 @@ Katalogprisregler kan användas för att erbjuda produkter till köpare till rab
 
 ## Ytterligare resurser
 
-- [Skapa en katalogprisregel - [!DNL Commerce] Handbok för marknadsföring och marknadsföring](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html)
-- [Katalogprisregel med flera SKU:er - [!DNL Commerce] Marknadsföring och kampanjguide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html)
+- [Skapa en katalogprisregel - [!DNL Commerce] Handbok för marknadsföring och marknadsföring](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html?lang=sv-SE)
+- [Katalogprisregel med flera SKU:er - [!DNL Commerce] Marknadsföring och kampanjguide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html?lang=sv-SE)

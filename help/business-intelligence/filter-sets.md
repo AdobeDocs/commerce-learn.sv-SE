@@ -34,7 +34,7 @@ I den här videon:
 
 >[!TIP]
 >
->Om du inte har använt Commerce Intelligence tidigare kan du få en fullständig översikt i [Adobe Commerce Intelligence användarhandbok](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} om hur du får bättre affärsinsikter och resultat genom datainsamling, analys och visualisering.
+>Om du inte har använt Commerce Intelligence tidigare kan du få en fullständig översikt i [Adobe Commerce Intelligence användarhandbok](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=sv-SE){target="_blank"} om hur du får bättre affärsinsikter och resultat genom datainsamling, analys och visualisering.
 
 ## Vem är den här videon till?
 
@@ -47,6 +47,6 @@ I den här videon:
 
 ## Användbara resurser
 
-[Skapa filteruppsättningar - Commerce Intelligence användarhandbok](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
+[Skapa filteruppsättningar - Commerce Intelligence användarhandbok](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html?lang=sv-SE)
 
-[Rekommenderade Dimensioner för segmentering och filtrering - Commerce Intelligence användarhandbok](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[Rekommenderade Dimensioner för segmentering och filtrering - Commerce Intelligence användarhandbok](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html?lang=sv-SE)

@@ -31,7 +31,7 @@ Titta på den här serien videor för att förtydliga din förståelse för de o
 
 >[!TIP]
 >
->Om du inte har använt Commerce Intelligence tidigare kan du få en fullständig översikt i [Adobe Commerce Intelligence användarhandbok](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} om hur du får bättre affärsinsikter och resultat genom datainsamling, analys och visualisering.
+>Om du inte har använt Commerce Intelligence tidigare kan du få en fullständig översikt i [Adobe Commerce Intelligence användarhandbok](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=sv-SE){target="_blank"} om hur du får bättre affärsinsikter och resultat genom datainsamling, analys och visualisering.
 
 ## Vem är den här videon till?
 

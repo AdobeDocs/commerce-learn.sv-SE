@@ -33,12 +33,12 @@ I den här videon:
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=sv-SE).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35945?quality=12&learn=on)
 
 ## Ytterligare resurser
 
-[Webbplatser, butiker och vyer - [!DNL Commerce] Guiden Komma igång](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+[Webbplatser, butiker och vyer - [!DNL Commerce] Guiden Komma igång](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html?lang=sv-SE)
 
-[Omfångsinställningar- [!DNL Commerce] Guiden Komma igång](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html#scope-settings)
+[Omfångsinställningar- [!DNL Commerce] Guiden Komma igång](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html?lang=sv-SE#scope-settings)

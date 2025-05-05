@@ -31,11 +31,11 @@ Varje webbplats i en Adobe Commerce- eller Magento Open Source-installation har 
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.1.0. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Innehållet i videon återspeglar version 2.1.0. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=sv-SE).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35488?quality=12&learn=on)
 
 ## Ytterligare resurser
 
-- [Lagra URL:er - [!DNL Commerce] Lagrar och köp Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html)
-- [Använd en anpassad administratörs-URL - [!DNL Commerce] Lagrar och inköpsupplevelseguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html#use-a-custom-admin-url)
+- [Lagra URL:er - [!DNL Commerce] Lagrar och köp Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html?lang=sv-SE)
+- [Använd en anpassad administratörs-URL - [!DNL Commerce] Lagrar och inköpsupplevelseguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html?lang=sv-SE#use-a-custom-admin-url)

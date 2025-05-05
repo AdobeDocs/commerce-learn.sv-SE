@@ -33,4 +33,4 @@ I den här videon:
 
 ## Ytterligare resurser
 
-[Kategorier - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/categories.html)
+[Kategorier - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/categories.html?lang=sv-SE)

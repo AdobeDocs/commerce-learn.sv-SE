@@ -43,5 +43,5 @@ Du kan ange följande kreditrelaterade parametrar för varje företagsprofil:
 
 ## Ytterligare resurser
 
-- [Konfigurera betalning på konto](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
-- [Hantera företagskrediter](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html)
+- [Konfigurera betalning på konto](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html?lang=sv-SE#configure-payment-on-account)
+- [Hantera företagskrediter](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html?lang=sv-SE)

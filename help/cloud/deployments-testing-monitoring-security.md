@@ -34,11 +34,11 @@ Läs mer om Adobe Commerce Cloud distributionsstrategier, testning av bästa pra
 
 ## Experience League dokumentation som nämns i videon
 
-- [Distributionsprocess](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
-- [SWAT Site-Wide Analysis Tool](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
-- [ECE-verktyg, smart guide](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
-- [Säkerhetsgenomsökning](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
-- [Snabbt Brandvägg för WAF-webbprogram](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
-- [Översikt över New Relic-tjänsten](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
+- [Distributionsprocess](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html?lang=sv-SE)
+- [SWAT Site-Wide Analysis Tool](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=sv-SE)
+- [ECE-verktyg, smart guide](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html?lang=sv-SE)
+- [Säkerhetsgenomsökning](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html?lang=sv-SE)
+- [Snabbt Brandvägg för WAF-webbprogram](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html?lang=sv-SE)
+- [Översikt över New Relic-tjänsten](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html?lang=sv-SE)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

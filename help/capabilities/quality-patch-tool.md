@@ -71,8 +71,8 @@ Innan du använder korrigeringsfiler är det viktigt att testa dem i en staging-
 
 ## Relaterade artiklar och videoklipp
 
-* [Sökning i kvalitetskorrigeringsverktyg](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
-* [Versionsinformation](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
+* [Sökning i kvalitetskorrigeringsverktyg](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=sv-SE)
+* [Versionsinformation](https://experienceleague.adobe.com/sv/docs/commerce-operations/tools/quality-patches-tool/release-notes)
 * [Github för patchar](https://github.com/magento/quality-patches/blob/master/patches/os/)
-* [Användning av kvalitetskorrigeringsverktyget](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
-* [Teknisk video på QPT](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)
+* [Användning av kvalitetskorrigeringsverktyget](https://experienceleague.adobe.com/sv/docs/commerce-operations/tools/quality-patches-tool/usage)
+* [Teknisk video på QPT](https://experienceleague.adobe.com/sv/docs/commerce-learn/tutorials/tools/quality-patch-tool)

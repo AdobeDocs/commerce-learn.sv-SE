@@ -33,5 +33,5 @@ Kunderna behöver ibland hjälp med att slutföra ett köp. Vissa kunder gillar 
 
 ## Ytterligare resurser
 
-- [Hjälp med köp - [!DNL Commerce] Handbok för butiker och inköpsupplevelser](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
-- [Hjälp med inköp - [!DNL Commerce] Butiker och inköpsupplevelseguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)
+- [Hjälp med köp - [!DNL Commerce] Handbok för butiker och inköpsupplevelser](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html?lang=sv-SE)
+- [Hjälp med inköp - [!DNL Commerce] Butiker och inköpsupplevelseguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html?lang=sv-SE#shopping-assistance)

@@ -32,5 +32,5 @@ Med Adobe Commerce eller Magento Open Source 2.4 kan handlare använda det nya f
 
 ## Ytterligare resurser
 
-- [Mediegalleriet - [!DNL Commerce] Innehålls- och designguiden](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/gallery/media-gallery)
-- [Alternativ medielagring - [!DNL Commerce] Handbok för innehåll och design](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/media-storage)
+- [Mediegalleriet - [!DNL Commerce] Innehålls- och designguiden](https://experienceleague.adobe.com/sv/docs/commerce-admin/content-design/wysiwyg/gallery/media-gallery)
+- [Alternativ medielagring - [!DNL Commerce] Handbok för innehåll och design](https://experienceleague.adobe.com/sv/docs/commerce-admin/content-design/wysiwyg/storage/media-storage)

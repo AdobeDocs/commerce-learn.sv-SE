@@ -32,5 +32,5 @@ Genom att använda mallar sparar du tid och arbete när du skapar innehåll (ell
 
 ## Ytterligare resurser
 
-- [[!DNL Page Builder] Mallar - [!DNL Page Builder] Användarhandbok](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
+- [[!DNL Page Builder] Mallar - [!DNL Page Builder] Användarhandbok](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html?lang=sv-SE)
 - [Lägg till mallar - [!DNL Page Builder] Utvecklarhandbok](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)

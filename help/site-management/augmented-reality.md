@@ -57,8 +57,8 @@ När besökaren skannar QR-koden med sin enhet läggs objektet ovanpå kameravyn
 
 ## Användbara resurser
 
-[AR Viewer för Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
-[Hantera 3D-produktmodeller med AIR Viewer för Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
+[AR Viewer för Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html?lang=sv-SE){target="_blank"}
+[Hantera 3D-produktmodeller med AIR Viewer för Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html?lang=sv-SE){target="_blank"}
 
 ## Adobe Commerce Marketplace-tillägg
 

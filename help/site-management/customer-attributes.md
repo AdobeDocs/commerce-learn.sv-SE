@@ -33,5 +33,5 @@ Kundattribut tillhandahåller den information som krävs för att stödja bestä
 
 ## Ytterligare resurser
 
-- [Egenskaper för kundattribut - [!DNL Commerce] Handbok för kundhantering](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
-- [Skapa ett enskilt kundkonto - [!DNL Commerce] Handbok för kundhantering](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
+- [Egenskaper för kundattribut - [!DNL Commerce] Handbok för kundhantering](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html?lang=sv-SE)
+- [Skapa ett enskilt kundkonto - [!DNL Commerce] Handbok för kundhantering](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=sv-SE)

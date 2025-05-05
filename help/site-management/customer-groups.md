@@ -33,5 +33,5 @@ Kundgrupper avgör vilka rabatter som är tillgängliga och vilken skatteklass s
 
 ## Ytterligare resurser
 
-- [Kundgrupper - [!DNL Commerce] Kundhanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+- [Kundgrupper - [!DNL Commerce] Kundhanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=sv-SE)
 - [Begränsningar av kundgrupper per webbplats - [!DNL Commerce] Handbok för kundhantering](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)

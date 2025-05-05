@@ -33,6 +33,6 @@ För att komma igång med att använda betaltjänster för Adobe Commerce och Ma
 
 ## Ytterligare resurser
 
-- [Onboard Payment Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html){target="_blank"}
-- [Handbok för betaltjänster](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}
+- [Onboard Payment Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html?lang=sv-SE){target="_blank"}
+- [Handbok för betaltjänster](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html?lang=sv-SE){target="+blank"}
+- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=sv-SE){target="+blank"}

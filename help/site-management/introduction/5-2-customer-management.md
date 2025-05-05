@@ -36,6 +36,6 @@ I den här videon:
 
 ## Ytterligare resurser
 
-[Skapa ett enskilt kundkonto - [!DNL Commerce] Handbok för kundhantering](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
+[Skapa ett enskilt kundkonto - [!DNL Commerce] Handbok för kundhantering](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=sv-SE)
 
-[Kundgrupper - [!DNL Commerce] Kundhanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+[Kundgrupper - [!DNL Commerce] Kundhanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=sv-SE)

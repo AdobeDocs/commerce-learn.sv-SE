@@ -33,5 +33,5 @@ I den här videon får du lära dig hur du hanterar produktattribut när du har 
 
 ## Ytterligare resurser
 
-- [Produktattribut - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+- [Produktattribut - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=sv-SE)
 - [PWA Studio - dokumentation för utvecklare](https://developer.adobe.com/commerce/pwa-studio/)

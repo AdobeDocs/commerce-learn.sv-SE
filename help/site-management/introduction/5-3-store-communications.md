@@ -32,12 +32,12 @@ I den här videon:
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=sv-SE).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36190?quality=12&learn=on)
 
 ## Ytterligare resurser
 
-[E-postmallar - [!DNL Commerce] Handbok för administratörssystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html)
+[E-postmallar - [!DNL Commerce] Handbok för administratörssystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html?lang=sv-SE)
 
-[Variabler och kundkommunikation - [!DNL Commerce] Admin Systems Guide](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html#variables-and-customer-communications)
+[Variabler och kundkommunikation - [!DNL Commerce] Admin Systems Guide](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html?lang=sv-SE#variables-and-customer-communications)

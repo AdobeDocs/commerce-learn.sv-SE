@@ -33,6 +33,6 @@ Innan du lägger till produkter i katalogen måste du skapa katalogens grundläg
 
 ## Ytterligare resurser
 
-- [Skapa kategorier - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html)
-- [Kategoribehörigheter - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html)
-- [Övre navigering - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)
+- [Skapa kategorier - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html?lang=sv-SE)
+- [Kategoribehörigheter - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html?lang=sv-SE)
+- [Övre navigering - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html?lang=sv-SE)

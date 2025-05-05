@@ -62,5 +62,5 @@ Visa en sida i terminalen och visa radnummer `cat -n vendor/magento/module-email
 
 ## Ytterligare resurser
 
-- [Kommandoradsverktyg](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
-- [Konfigurera administratörssäkerhet](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html){target="_blank"}
+- [Kommandoradsverktyg](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html?lang=sv-SE){target="_blank"}
+- [Konfigurera administratörssäkerhet](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html?lang=sv-SE){target="_blank"}

@@ -33,6 +33,6 @@ Att hantera leverans- och leveransmetoder är avgörande för att ni ska kunna g
 
 ## Ytterligare resurser
 
-- [Leveransinställningar - [!DNL Commerce] Lagrar och köpguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html)
-- [Grundläggande leveransmetoder - [!DNL Commerce] Lagrar och köpguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html#basic-delivery-methods)
-- [Installation av transportföretag - [!DNL Commerce] Lagrar och köpguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html)
+- [Leveransinställningar - [!DNL Commerce] Lagrar och köpguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html?lang=sv-SE)
+- [Grundläggande leveransmetoder - [!DNL Commerce] Lagrar och köpguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html?lang=sv-SE#basic-delivery-methods)
+- [Installation av transportföretag - [!DNL Commerce] Lagrar och köpguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html?lang=sv-SE)

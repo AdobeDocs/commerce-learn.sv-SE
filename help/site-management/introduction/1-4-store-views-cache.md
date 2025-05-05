@@ -34,6 +34,6 @@ I den här videon:
 
 ## Ytterligare resurser
 
-[Webbplatser, butiker och vyer - [!DNL Commerce] Guiden Komma igång](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+[Webbplatser, butiker och vyer - [!DNL Commerce] Guiden Komma igång](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html?lang=sv-SE)
 
-[Cachehantering - [!DNL Commerce] Handbok för administratörssystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html)
+[Cachehantering - [!DNL Commerce] Handbok för administratörssystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html?lang=sv-SE)

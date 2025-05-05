@@ -35,10 +35,10 @@ I den här videon:
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=sv-SE).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35942?quality=12&learn=on)
 
 ## Ytterligare resurser
 
-[[!DNL Commerce] Handläggardokumentation](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)
+[[!DNL Commerce] Handläggardokumentation](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=sv-SE)

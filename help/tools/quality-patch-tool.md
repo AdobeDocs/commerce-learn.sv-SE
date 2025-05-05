@@ -38,5 +38,5 @@ Adobe Commerce supportteam och Magento Open Source-communityn utvecklar kvalitet
 
 ## Ytterligare resurser
 
-- [Korrigeringsverktyg för kvalitet](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+- [Korrigeringsverktyg för kvalitet](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=sv-SE)
 - [Kvalitetskorrigeringsverktyget på GitHub](https://github.com/magento/quality-patches)

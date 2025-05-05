@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Integrera Adobe Commerce och Adobe Journey Optimizer
 
-Lär dig hur du kan använda [Dataanslutning](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="blank"} i Adobe Commerce för att låsa upp Commerce-data och leverera personliga shoppingupplevelser från början till slut i realtid med hjälp av Adobe Journey Optimizer.
+Lär dig hur du kan använda [Dataanslutning](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=sv-SE){target="blank"} i Adobe Commerce för att låsa upp Commerce-data och leverera personliga shoppingupplevelser från början till slut i realtid med hjälp av Adobe Journey Optimizer.
 
 ## Vem är den här videon till?
 
@@ -41,5 +41,5 @@ Lär dig hur du kan använda [Dataanslutning](https://experienceleague.adobe.com
 
 ## Ytterligare resurser
 
-[Dataanslutningsöversikt](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"}
-[Installera dataanslutning ](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html){target="_blank"}
+[Dataanslutningsöversikt](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=sv-SE){target="_blank"}
+[Installera dataanslutning ](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html?lang=sv-SE){target="_blank"}
