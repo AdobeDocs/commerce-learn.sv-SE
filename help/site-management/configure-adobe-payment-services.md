@@ -11,16 +11,17 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 96877db6-54a3-4a89-ad84-c4559806b7fb
-source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
+badgePaas: label="Endast PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Gäller endast Adobe Commerce i molnprojekt (Adobe-hanterad PaaS-infrastruktur) och lokala projekt."
+source-git-commit: 182563f9f53cc2de5a1a0577d6d0ee39d0874cef
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
 # Konfigurera betaltjänster för Adobe Commerce
 
-För att komma igång med att använda betaltjänster för Adobe Commerce och Magento Open Source måste du slutföra några introduktionssteg. I videon _Konfigurera betaltjänster för Adobe Commerce_ finns exempel på hur du kommer igång.
+För att komma igång med att använda betaltjänster för Adobe Commerce och Magento Open Source måste du slutföra några startsteg. I videon _Konfigurera betaltjänster för Adobe Commerce_ finns exempel på hur du kommer igång.
 
 ## Vem är den här videon till?
 
@@ -33,6 +34,6 @@ För att komma igång med att använda betaltjänster för Adobe Commerce och Ma
 
 ## Ytterligare resurser
 
-- [Onboard Payment Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html?lang=sv-SE){target="_blank"}
-- [Handbok för betaltjänster](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html?lang=sv-SE){target="+blank"}
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=sv-SE){target="+blank"}
+- [Onboard Payment Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html){target="_blank"}
+- [Handbok för betaltjänster](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
+- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}
