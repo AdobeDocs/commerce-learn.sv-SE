@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: cd7b4deea3bb30a05a6d0d1cad4a30e8e6fb34cd
+source-git-commit: 7af996c024ded08890ffc8ab88444bce2c26428d
 workflow-type: tm+mt
-source-wordcount: '857'
+source-wordcount: '859'
 ht-degree: 2%
 
 ---
@@ -111,6 +111,7 @@ ht-degree: 2%
       + [Success Accelerators tekniska beredskap](../commerce-conversations/success-accelerators-technical-readiness.md)
       + [Success Accelerators införande och aktivering](../commerce-conversations/success-accelerators-adoption-and-enablement.md)
       + [Success Accelerators organisation beredskap](../commerce-conversations/success-accelerators-organizational-readiness.md)
+      + [Delat ansvar](../commerce-conversations/shared-responsibility.md)
 + GraphQL och REST {#graphql-rest}
    + [Grundläggande om GraphQL](../graphql-rest/intro-graphql.md)
    + [Frågor](../graphql-rest/graphql-queries.md)
@@ -229,7 +230,7 @@ ht-degree: 2%
    + [Översikt över verktyget Kompatibilitet för uppgradering](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Använda verktyget Kompatibilitet för uppgradering i PHP Storm](../upgrade/uct-phpstorm.md)
 + Back-end Development {#backend-development}
-   + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=sv-SE)
+   + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Skapa en modul](../backend-development/create-module.md)
    + [Lägg till ett produktattribut](../backend-development/add-product-attribute.md)
    + [Exempel på beroendeinjektion](../backend-development/dependency-injection.md)
