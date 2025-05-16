@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 7af996c024ded08890ffc8ab88444bce2c26428d
+source-git-commit: 586a4e2a52cbe8ea3b5018b4c53d731b3d071467
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '875'
 ht-degree: 2%
 
 ---
@@ -99,6 +99,11 @@ ht-degree: 2%
       + [Anpassa en adresslayout](../edge-delivery-services/customize-address-new-account-link.md)
       + [Shoppingupplevelse](../edge-delivery-services/shopper-experience.md)
 + Webbinarier och event {#webinars-and-events}
+   + Framtiden för Commerce {#future-of-commerce}
+      + [Nya produktmeddelanden](../future-of-commerce/new-product-announcements.md)
+      + [Minska kostnaderna drastiskt](../future-of-commerce/drastically-cut-costs.md)
+      + [Överlägsna konverteringsgrader](../future-of-commerce/supercharge-conversion-rates.md)
+      + [Fast Track-expansion](../future-of-commerce/fast-track-expansion.md)
    + Aktivera serie {#enablement-series}
       + [Sänk innehållsförteckningen för Commerce-integreringar](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
       + [Planera den moderna Adobe Commerce-implementeringen](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
@@ -230,7 +235,7 @@ ht-degree: 2%
    + [Översikt över verktyget Kompatibilitet för uppgradering](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Använda verktyget Kompatibilitet för uppgradering i PHP Storm](../upgrade/uct-phpstorm.md)
 + Back-end Development {#backend-development}
-   + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=sv-SE)
+   + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Skapa en modul](../backend-development/create-module.md)
    + [Lägg till ett produktattribut](../backend-development/add-product-attribute.md)
    + [Exempel på beroendeinjektion](../backend-development/dependency-injection.md)
