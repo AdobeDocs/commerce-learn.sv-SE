@@ -34,4 +34,4 @@ Adobe Commerce Success Accelerators för implementering och aktivering innehåll
 * Flersessionskodning på skrivbordet för att åtgärda brister i kompetens och anpassa sig till strategiska prioriteringar.
 * Skapa åtkomst, behörigheter och designstyrning för att säkerställa korrekt produktanvändning och bästa praxis.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457657/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463082/?learn=on&enablevpops&captions=swe)
