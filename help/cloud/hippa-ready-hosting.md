@@ -37,7 +37,7 @@ Adobe Commerce erbjuder en HIPAA-klar lösning som hjälper vårdföretag att f�
 
 ## Ytterligare dokumentation
 
-* [HIPAA-beredskap - dataanslutning](https://experienceleague.adobe.com/en/docs/commerce/data-connection/hipaa-readiness)
-* [HIPAA-beredskap - efterlevnad](https://experienceleague.adobe.com/en/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
-* [Installera dataanslutning](https://experienceleague.adobe.com/en/docs/commerce/data-connection/fundamentals/install)
+* [HIPAA-beredskap - dataanslutning](https://experienceleague.adobe.com/sv/docs/commerce/data-connection/hipaa-readiness)
+* [HIPAA-beredskap - efterlevnad](https://experienceleague.adobe.com/sv/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
+* [Installera dataanslutning](https://experienceleague.adobe.com/sv/docs/commerce/data-connection/fundamentals/install)
 
