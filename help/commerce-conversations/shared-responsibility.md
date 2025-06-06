@@ -37,7 +37,7 @@ Läs om hur Adobe och handlare delar ansvaret för att skydda Adobe Commerce Clo
 
 ## Ytterligare dokumentation
 
-* [Versionskommentarer för säkerhetsuppdatering](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview)
+* [Versionskommentarer för säkerhetsuppdatering](https://experienceleague.adobe.com/sv/docs/commerce-operations/release/notes/security-patches/overview)
 * [Meddelandekanaler](https://business.adobe.com/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
 * [Adobe säkerhetsbulletiner](https://helpx.adobe.com/search.html?q=security%2520updates%2520commerce&amp;context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
-* [Skydda din e-handelsplats och infrastruktur](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
+* [Skydda din e-handelsplats och infrastruktur](https://experienceleague.adobe.com/sv/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
