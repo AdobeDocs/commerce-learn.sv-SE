@@ -1,5 +1,5 @@
 ---
-title: Översikt över [!DNL Page Builder]
+title: '[!DNL Page Builder] - översikt'
 description: Lär dig hur du skapar sidor i  [!DNL Commerce] lagrar sidor i administratören med  [!DNL Page Builder].
 kt: 5563
 doc-type: feature video
@@ -11,9 +11,10 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: b68e3fef-c392-48ad-af93-ae535f5cdc3c
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+badgePaas: label="Endast PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Gäller endast Adobe Commerce i molnprojekt (Adobe-hanterad PaaS-infrastruktur) och lokala projekt."
+source-git-commit: 340b9d7ad9989aab0fe980db4cb176828d93ad97
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -40,9 +41,9 @@ I den här videon får du lära dig att:
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3447895?quality=12&learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/343781?quality=12&learn=on)
 
 ## Ytterligare resurser
 
-- [Användarhandbok för Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html?lang=sv-SE)
+- [Användarhandbok för Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)
 - [Utvecklarhandbok för Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
