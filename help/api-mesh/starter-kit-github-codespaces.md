@@ -39,4 +39,4 @@ I den här sessionen presenteras Adobe Commerce API Mesh Starter Kit, som är ut
 
 * [API-startpaket för nät GitHub-repo](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [Adobe Developer docs graphql-mesh-gateway](https://developer.adobe.com/graphql-mesh-gateway/)
-* [Spellista för API-nätvideor](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [Spellista för API-nätvideor](https://experienceleague.adobe.com/sv/playlists/commerce-get-started-app-builder-and-api-mesh)
