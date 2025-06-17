@@ -10,7 +10,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
-badgePaas: label="Endast PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Gäller endast Adobe Commerce i molnprojekt (Adobe-hanterad PaaS-infrastruktur) och lokala projekt."
+badgePaas: label="Endast PaaS" type="Informative" url="https://experienceleague.adobe.com/sv/docs/commerce/user-guides/product-solutions" tooltip="Gäller endast Adobe Commerce i molnprojekt (Adobe-hanterad PaaS-infrastruktur) och lokala projekt."
 source-git-commit: 340b9d7ad9989aab0fe980db4cb176828d93ad97
 workflow-type: tm+mt
 source-wordcount: '108'
@@ -33,5 +33,5 @@ Genom att använda mallar sparar du tid och arbete när du skapar innehåll (ell
 
 ## Ytterligare resurser
 
-- [[!DNL Page Builder] Mallar - [!DNL Page Builder] Användarhandbok](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
+- [[!DNL Page Builder] Mallar - [!DNL Page Builder] Användarhandbok](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html?lang=sv-SE)
 - [Lägg till mallar - [!DNL Page Builder] Utvecklarhandbok](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)
