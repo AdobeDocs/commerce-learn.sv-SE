@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 8fada712c51193fc6f3fe9e75b9324a6826f7570
+source-git-commit: ca8cdbb42dcf89cd0ce4c2b8b13b9fd454e8c597
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '879'
 ht-degree: 2%
 
 ---
@@ -147,12 +147,13 @@ ht-degree: 2%
       + [Konfigurera Adobe Commerce](../io-events/configure-commerce.md)
       + [Adobe Commerce modulutveckling](../io-events/commerce-module-development.md)
       + [Adobe Commerce villkorsstyrda evenemang](../io-events/conditional-events.md)
-   + API-nät {#api-mesh}
-      + [Kom igång med API Mesh](../api-mesh/getting-started-api-mesh.md)
-      + [Installera Adobe IO och nätplugin](../api-mesh/installing-aio-mesh-plugin.md)
-      + [Arbeta med projekt och arbetsytor](../api-mesh/aio-projects-workspaces.md)
-      + [Skapa GraphQL API-nät med en källa](../api-mesh/graphql-single-source.md)
-      + [Skapa GraphQL API-nät med flera källor](../api-mesh/graphql-multiple-source.md)
++ API-nät {#api-mesh}
+   + [Startkit för API-nät med GitHub-koordinater](../api-mesh/starter-kit-github-codespaces.md)
+   + [Kom igång med API Mesh](../api-mesh/getting-started-api-mesh.md)
+   + [Installera Adobe IO och nätplugin](../api-mesh/installing-aio-mesh-plugin.md)
+   + [Arbeta med projekt och arbetsytor](../api-mesh/aio-projects-workspaces.md)
+   + [Skapa GraphQL API-nät med en källa](../api-mesh/graphql-single-source.md)
+   + [Skapa GraphQL API-nät med flera källor](../api-mesh/graphql-multiple-source.md)
 + Butiksadministration {#admin}
    + [Hantera användarroller och behörigheter](../site-management/users-roles-permissions.md)
    + [Autentisering med två faktorer](../site-management/two-factor-authentication.md)
@@ -235,7 +236,7 @@ ht-degree: 2%
    + [Översikt över verktyget Kompatibilitet för uppgradering](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Använda verktyget Kompatibilitet för uppgradering i PHP Storm](../upgrade/uct-phpstorm.md)
 + Back-end Development {#backend-development}
-   + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=sv-SE)
+   + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Skapa en modul](../backend-development/create-module.md)
    + [Lägg till ett produktattribut](../backend-development/add-product-attribute.md)
    + [Exempel på beroendeinjektion](../backend-development/dependency-injection.md)
@@ -265,4 +266,3 @@ ht-degree: 2%
       + [6 - Peregrin](../pwa/introduction/6-peregrine.md)
    + [PWA Docker Development](../pwa/pwa-docker-development.md)
    + [Konfigurera Venia för utveckling](../pwa/set-up-venia-for-dev.md)
-
