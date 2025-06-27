@@ -37,4 +37,4 @@ Lär dig mer om GitHub-arbetsflödena som ingår i startsatsen för API Mesh fö
 
 * [API-startpaket för nät GitHub-repo](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [Implementeringshandbok för Adobe Developer OAuth-server till server](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation)
-* [Spellista för API-nätvideor](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [Spellista för API-nätvideor](https://experienceleague.adobe.com/sv/playlists/commerce-get-started-app-builder-and-api-mesh)
