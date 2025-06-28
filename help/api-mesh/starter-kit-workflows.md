@@ -31,7 +31,7 @@ Lär dig mer om GitHub-arbetsflödena som ingår i startsatsen för API Mesh fö
 * Arbetsflödet för deployMesh som automatiskt distribuerar eller uppdaterar ett nät
 * Belastningstestning med arbetsflödet för K6-belastningstest
 
->[!VIDEO](https://video.tv.adobe.com/v/3464524?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464528?learn=on&enablevpops&captions=swe)
 
 ## Relaterad dokumentation
 
