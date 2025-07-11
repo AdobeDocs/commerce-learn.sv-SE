@@ -43,6 +43,6 @@ if ( !(client.ip ~ allowlist) && !req.http.Fastly-FF) { error 403 "Forbidden";}
 
 ## Relaterad dokumentation
 
-* [Upptäcker skadlig IP-adress](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/new-relic/malicious-ip)
-* [Anpassad VCL för att tillåta begäranden](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/custom-vcl-snippets/fastly-vcl-allowlist)
-* [Anpassad VCL för blockeringsbegäranden](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/custom-vcl-snippets/fastly-vcl-blocking)
+* [Upptäcker skadlig IP-adress](https://experienceleague.adobe.com/sv/docs/commerce-learn/tutorials/tools/new-relic/malicious-ip)
+* [Anpassad VCL för att tillåta begäranden](https://experienceleague.adobe.com/sv/docs/commerce-on-cloud/user-guide/cdn/custom-vcl-snippets/fastly-vcl-allowlist)
+* [Anpassad VCL för blockeringsbegäranden](https://experienceleague.adobe.com/sv/docs/commerce-on-cloud/user-guide/cdn/custom-vcl-snippets/fastly-vcl-blocking)
