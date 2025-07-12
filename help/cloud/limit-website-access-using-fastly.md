@@ -31,7 +31,7 @@ Begränsa åtkomsten till Adobe Commerce Site Access med Edge ACL:er och anpassa
 * Adobe Commerce Developer
 * Webbplatstillförlitlighetstekniker
 
->[!VIDEO](https://video.tv.adobe.com/v/3464779/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464783/?learn=on&enablevpops&captions=swe)
 
 ## Kodexempel
 
