@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 97
 last-substantial-update: 2025-07-25T00:00:00Z
 jira: KT-18610
-source-git-commit: 454e5c118acf4617eed2e341b719a8f731eec985
+source-git-commit: 25082c5dea237d7ce1b325fbe7d0eb709d112008
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Skapa din första instans av Adobe Commerce Optimizer
 
-Lär dig hur du skapar din första Adobe Commerce Optimizer-instans från början till slut. Vi behandlar några ämnen som handlar om att verifiera din organisation och dina rättigheter, kontrollera tillgängliga krediter och välja rätt instanstyp och miljö. Denna nybörjarvänliga genomgång är utformad för att hjälpa dig att komma igång snabbt, med tydliga steg och praktiska tips för att säkerställa en smidig upplevelse.
+Lär dig hur du skapar din första Adobe Commerce Optimizer-instans från början till slut. Några ämnen som behandlas är bland annat att verifiera din organisation och dina rättigheter, kontrollera tillgängliga krediter och välja rätt instanstyp och miljö. Denna nybörjarvänliga genomgång är utformad för att hjälpa dig att komma igång snabbt, med tydliga steg och praktiska tips för att säkerställa en smidig upplevelse.
 
 ## Vem är den här videon till?
 
@@ -37,5 +37,5 @@ Lär dig hur du skapar din första Adobe Commerce Optimizer-instans från börja
 
 ## Relaterat innehåll
 
-* [Vad är Adobe Commerce Optimizer](https://experienceleague.adobe.com/sv/docs/commerce/optimizer/overview){target="_blank"}
-* [Översikt över Adobe Commerce Optimizer](https://experienceleague.adobe.com/sv/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)
+* [Vad är Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Översikt över Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)
