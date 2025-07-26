@@ -33,7 +33,7 @@ Lär dig hur du skapar din första Adobe Commerce Optimizer-instans från börja
 * Välj rätt miljö och region för instansen.
 * Distribuera och förbered dig snabbt för kataloginställningar i framtida självstudiekurser.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469877?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469882?learn=on&enablevpops&captions=swe)
 
 ## Relaterat innehåll
 
