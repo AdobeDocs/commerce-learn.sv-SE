@@ -10,9 +10,9 @@ duration: 180
 last-substantial-update: 2025-03-6
 jira: KT-17420
 exl-id: e6a59ee0-3e13-41c0-a189-402bf8554f8e
-source-git-commit: 313dd669c38dc6b6bcca4e67dff98409e4061d8f
+source-git-commit: b055a568d53755ec9e30b58dd8f638fcc37213ab
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -33,4 +33,8 @@ Adobe Commerce Optimizer förbättrar sina befintliga handelsplattformar genom a
 * Smidig integrering med befintliga ERP-, CRM-, OMS-system och andra system utan behov av ombyggnad.
 * Skalar digitala åtgärder
 
->[!VIDEO](https://video.tv.adobe.com/v/3450467?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3450226?learn=on)
+
+## Ytterligare resurser
+
+[[!DNL Adobe Commerce Optimizer] Guide](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview)
