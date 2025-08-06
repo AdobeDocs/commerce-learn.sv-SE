@@ -9,13 +9,13 @@ doc-type: Tutorial
 duration: 139
 last-substantial-update: 2025-07-29T00:00:00Z
 jira: KT-18638
-source-git-commit: 76313a9901493f5271157e8bd8819a1a5ddcf6ab
+exl-id: 94efabb2-a6b2-4ec2-a82d-4d5e4cd28803
+source-git-commit: f2141e51bd029611e8ee086dbc20d56447e98faa
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
-
 
 # Hantera instanser av Adobe Commerce Optimizer
 
@@ -33,10 +33,10 @@ Lär dig hur du hanterar en Adobe Commerce Optimizer-instans för att uppdatera 
 * Uppdatera namn och beskrivningar
 * Hitta viktiga slutpunkter och identifierare för integreringar
 
->[!VIDEO](https://video.tv.adobe.com/v/3470236?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3470232?learn=on&enablevpops)
 
 ## Relaterat innehåll
 
-* [Vad är Adobe Commerce Optimizer](https://experienceleague.adobe.com/sv/docs/commerce/optimizer/overview){target="_blank"}
-* [Översikt över Adobe Commerce Optimizer](https://experienceleague.adobe.com/sv/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
-* [Kom igång med Adobe Commerce Optimizer](https://experienceleague.adobe.com/sv/docs/commerce/optimizer/get-started){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] Guide](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Översikt över Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
+* [Kom igång med Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/get-started){target="_blank"}
