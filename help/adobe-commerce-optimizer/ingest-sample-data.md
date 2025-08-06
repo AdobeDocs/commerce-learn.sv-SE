@@ -33,7 +33,7 @@ Lär dig hur du importerar exempeldata för din Adobe Commerce Optimizer-instans
 * Skapa profiler.
 * Skapa katalogvyer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470472?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470478?learn=on&enablevpops&captions=swe)
 
 ## Relaterat innehåll
 
