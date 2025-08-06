@@ -33,7 +33,7 @@ Lär dig hur du hanterar en Adobe Commerce Optimizer-instans för att uppdatera 
 * Uppdatera namn och beskrivningar
 * Hitta viktiga slutpunkter och identifierare för integreringar
 
->[!VIDEO](https://video.tv.adobe.com/v/3470232?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470236?learn=on&enablevpops&captions=swe)
 
 ## Relaterat innehåll
 
