@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: edb8212ae0052f079192fb0f7bd60f7a1e46ad62
+source-git-commit: 2f6bbab8db0a4223424673fed346d089d11ef351
 workflow-type: tm+mt
-source-wordcount: '913'
+source-wordcount: '910'
 ht-degree: 2%
 
 ---
@@ -206,7 +206,6 @@ ht-degree: 2%
    + [Live Search för rekommendationer](../site-management/live-search-recommendations.md)
    + [Integrera Commerce med AJO](../site-management/integrate-commerce-ajo.md)
 + Beställningar och orderhantering {#orders}
-   + [Butiksuppfyllelse - översikt](../orders-and-fulfillment/store-fulfillment.md)
    + [Hantera orderstatus](../orders-and-fulfillment/order-status.md)
    + [Kontrollerar lagerstatus](../orders-and-fulfillment/checking-inventory-status.md)
 + B2B för Adobe Commerce {#b2b}
@@ -243,7 +242,7 @@ ht-degree: 2%
    + [Översikt över verktyget Kompatibilitet för uppgradering](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Använda verktyget Kompatibilitet för uppgradering i PHP Storm](../upgrade/uct-phpstorm.md)
 + Back-end Development {#backend-development}
-   + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=sv-SE)
+   + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Skapa en modul](../backend-development/create-module.md)
    + [Lägg till ett produktattribut](../backend-development/add-product-attribute.md)
    + [Exempel på beroendeinjektion](../backend-development/dependency-injection.md)
