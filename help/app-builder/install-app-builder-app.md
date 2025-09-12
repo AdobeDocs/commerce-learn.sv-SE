@@ -9,15 +9,15 @@ doc-type: Tutorial
 duration: 250
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18829
-source-git-commit: fe1d73105116463b87c50ec0dee31c5d3ddbc9f3
+exl-id: 639c35cb-beb0-4aa4-8b7c-667198740b3d
+source-git-commit: c85cd679a3f1486aa04222921ee0d165ef76fc93
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
-# Lär dig hur du installerar App Builder-appar från Adobe Exchange
+# Installera App Builder-program från Adobe Exchange
 
 Lär dig hur du söker, installerar och validerar Adobe Commerce App Builder-program med Adobe Exchange. Du vägleds genom filtrering för relevanta appar, inhämtning och godkännande av dem, konfigurering av distributionsmiljöer och verifiering av lyckad installation - allt i ett verkligt exempel med programmet Feed Generator. Vare sig du är nybörjare på App Builder eller vill effektivisera arbetsflödet ger den här självstudiekursen en praktisk, stegvis översikt som hjälper dig att komma igång.
 
@@ -30,4 +30,4 @@ Lär dig hur du söker, installerar och validerar Adobe Commerce App Builder-pro
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3471528/?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3471513/?learn=on&enablevpops)
