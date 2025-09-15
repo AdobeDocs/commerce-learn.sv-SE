@@ -43,4 +43,4 @@ Adobe Commerce as a Cloud Service är en flexibel, skalbar och effektiv lösning
 
 ## Relaterad dokumentation
 
-* [Adobe Commerce as a Cloud Service Guide](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview)
+* [Adobe Commerce as a Cloud Service Guide](https://experienceleague.adobe.com/sv/docs/commerce/cloud-service/overview)
