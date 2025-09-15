@@ -1,5 +1,5 @@
 ---
-title: Commerce as a Cloud Service - översikt
+title: Adobe Commerce as a Cloud Service - översikt
 description: Läs om Adobe Commerce as a Cloud Service. En flexibel, skalbar och effektiv lösning för dynamisk digital drift med en sammanslagen arkitektur.
 kt: 17219
 doc-type: Technical Video
@@ -10,14 +10,14 @@ topic: Architecture, Commerce, Headless, Performance
 role: Admin, Leader, User
 level: Beginner
 exl-id: ba6cd559-812f-4985-881f-45a9324095f3
-source-git-commit: b29dd601b59e289f89ede03d33df8dadc3e7b19f
+source-git-commit: ae0d2892e7b3499be1270fd183fca0e4bdf2aef4
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
 
-# Adobe Commerce som tjänst - översikt
+# Adobe Commerce as a Cloud Service - översikt
 
 Adobe Commerce as a Cloud Service är en flexibel, skalbar och effektiv lösning för företag med molnbaserade funktioner som elastisk autoskalning och automatiska uppdateringar. Det förenklar introduktionen med självbetjäning och erbjuder en sammanställbar arkitektur för oberoende driftsättning av tjänster och utbyggbarhet av API:er först. Förkonfigurerade tjänster och kontinuerlig leverans av nya funktioner säkerställer optimala prestanda och användarvänlighet, vilket gör dem idealiska för dynamiska och växande företag
 
@@ -39,8 +39,8 @@ Adobe Commerce as a Cloud Service är en flexibel, skalbar och effektiv lösning
 * Förenklad introduktion och självbetjäning för snabb och effektiv installation av sandlådor och produktionsinstanser.
 * Sammansättningsbar arkitektur för oberoende driftsättning, skalning och uppdatering av tjänster med API-först som utbyggbarhet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443315?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3443311?learn=on)
 
 ## Relaterad dokumentation
 
-* [Adobe Commerce as a Cloud Service Guide](https://experienceleague.adobe.com/sv/docs/commerce/cloud-service/overview)
+* [Adobe Commerce as a Cloud Service Guide](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview)
