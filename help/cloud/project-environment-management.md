@@ -38,6 +38,6 @@ Lär dig hur du använder Adobe Commerce Cloud för att hantera projekt och milj
 
 ## Relaterat innehåll och dokumentation
 
-* [Hantera användaråtkomst](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/user-access)
-* [Säker anslutning till fjärrmiljöer](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/secure-connections)
-* [Molninfrastrukturprojekt](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/overview)
+* [Hantera användaråtkomst](https://experienceleague.adobe.com/sv/docs/commerce-on-cloud/user-guide/project/user-access)
+* [Säker anslutning till fjärrmiljöer](https://experienceleague.adobe.com/sv/docs/commerce-on-cloud/user-guide/develop/secure-connections)
+* [Molninfrastrukturprojekt](https://experienceleague.adobe.com/sv/docs/commerce-on-cloud/user-guide/project/overview)
