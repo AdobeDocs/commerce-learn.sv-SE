@@ -34,7 +34,7 @@ Lär dig hur du använder Adobe Commerce Cloud för att hantera projekt och milj
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3474960/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3474965/?learn=on&enablevpops&captions=swe)
 
 ## Relaterat innehåll och dokumentation
 
