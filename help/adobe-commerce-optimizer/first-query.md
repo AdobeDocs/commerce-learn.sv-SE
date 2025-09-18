@@ -9,7 +9,8 @@ doc-type: Tutorial
 duration: 182
 last-substantial-update: 2025-08-13T00:00:00Z
 jira: KT-18548
-source-git-commit: c598e46f7119ebdb1575e41c65d6285109fd9af9
+exl-id: bad3d926-2952-4bac-b685-adb16f009f8d
+source-git-commit: 5d34c2e3b93c937139e88fa2f75dc6046f7093fc
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -29,18 +30,18 @@ Lär dig hur du hämtar data med GraphQL i en Adobe Commerce Optimizer-instans.
 * Fråga data med GraphQL
 * Använda jq för att göra JSON enklare att läsa
 
->[!VIDEO](https://video.tv.adobe.com/v/3470804?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3470800?learn=on&enablevpops)
 
 ## Kodexempel
 
-Se till att utbyta värden som `{{insert-your-graphql-endpoint-url}}`, `{{insert-your-ac-source-locale}}` och `{{your-search-query-string}}` med de värden som behövs i din fråga.
+Se till att utbyta värden som `{{insert-your-graphql-endpoint-url}}`, `{{insert-your-ac-view-id}}` och `{{your-search-query-string}}` med de värden som behövs i din fråga.
 
 Enkel exempelfråga
 
 ```bash
 curl '{{insert-your-graphql-endpoint-url}}' \
 -H 'Content-Type: application/json' \
--H 'AC-Source-Locale: {{insert-your-ac-source-locale}}' \
+-H 'AC-View-ID: {{insert-your-ac-view-id}}' \
 -d '{"query": "query ProductSearch($search: String!) { productSearch( phrase: $search, page_size: 10, current_page: 2) { items { productView { sku name description shortDescription images { url } ... on SimpleProductView { attributes { label name value } price { regular { amount { value currency } } roles } } } } } }", "variables": { "search": "{{your-search-query-string}}"}}'
 ```
 
@@ -49,11 +50,11 @@ Grundläggande provfråga med `jq` för att göra en vacker utskrift
 ```bash
 curl '{{insert-your-graphql-endpoint-url}}' \
 -H 'Content-Type: application/json' \
--H 'AC-Source-Locale: {{insert-your-ac-source-locale}}' \
+-H 'AC-View-ID: {{insert-your-ac-view-id}}' \
 -d '{"query": "query ProductSearch($search: String!) { productSearch( phrase: $search, page_size: 10, current_page: 2) { items { productView { sku name description shortDescription images { url } ... on SimpleProductView { attributes { label name value } price { regular { amount { value currency } } roles } } } } } }", "variables": { "search": "{{your-search-query-string}}"}}' | jq .
 ```
 
 ## Relaterat innehåll
 
 * [Komma igång med Merchandising API](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
-* [[!DNL Adobe Commerce Optimizer] Guide](https://experienceleague.adobe.com/sv/docs/commerce/optimizer/overview){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] Guide](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
