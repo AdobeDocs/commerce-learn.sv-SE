@@ -10,9 +10,9 @@ topic: Commerce, Development
 role: Architect, Developer
 level: Intermediate
 exl-id: 77e91f1b-b3ae-4c6d-bb6d-4fd7ebbb0baf
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: a2d644de420f9188be108fad36ae97dfbf1a75eb
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Lär dig varför du använder pt-query-digest och några verkliga exempel för a
 - Lär dig mer om fördelarna och bristerna med den här Percona Toolkit-funktionen
 - Förstå resultaten och lär dig vilka möjliga prestandasteg som ska övervägas
 
->[!VIDEO](https://video.tv.adobe.com/v/3452296?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3423480?learn=on)
 
 ## Kodreferenser
 
@@ -46,4 +46,3 @@ $ pt-query-digest mysql-slow.log.7 > mysql-slow.log.7.DIGEST
 ## Användbara resurser
 
 - [Percona Toolkit](https://docs.percona.com/percona-toolkit/pt-query-digest.html){target="_blank"}
-- [Deadlocks in MySQL](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/database/deadlocks-in-mysql.html?lang=sv-SE){target="_blank"}
