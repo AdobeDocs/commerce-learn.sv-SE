@@ -7,10 +7,10 @@ role: Admin, Architect, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 0
-last-substantial-update: 2024-06-27T00:00:00Z
+last-substantial-update: 2024-07-6
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
-source-git-commit: d578c066f3e51827694c8bf85aa2324035a8b07b
+source-git-commit: 57082a851e508653ed9fcafd013a2201c8082873
 workflow-type: tm+mt
 source-wordcount: '1257'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Composable commerce är en arkitekturbaserad strategi för e-handel som innebär att man frigör det främre presentationsskiktet från back-end-funktionen. &#x200B; Med den kan företag välja och kombinera de bästa komponenterna eller modulerna för att skapa en anpassad lösning. Detta innebär att man måste bryta ned den traditionella monolitiska e-handelsplattformen till mindre, oberoende tjänster eller mikrotjänster som kan sättas samman. Den samverkande handeln ger fördelar som flexibilitet, skalbarhet, anpassning, flexibilitet och möjligheten till enklare integrering med andra system och tekniker.
 
-Adobe Commerce har många funktioner och verktyg för att stödja handlare när det gäller att implementera och implementera sammanställbar handel. Adobe Commerce erbjuder en sammansättningsbar affärsmetod och hybrida headless och icke-headless front end-upplevelser. Med tanke på att processen är oavslutad erbjuder Adobe API Mesh för integrering av flera tjänster, och Adobe App Builder för att skapa anpassade mikrotjänster.
+Adobe Commerce har många funktioner och verktyg för att stödja handlare när det gäller att implementera och implementera sammanställbar handel. Adobe Commerce erbjuder en sammansättningsbar affärsmetod och hybrida headless och icke-headless front end-upplevelser. Med tanke på att processen inte längre kan användas erbjuder Adobe API Mesh för att integrera flera tjänster och Adobe App Builder för att skapa anpassade mikrotjänster.
 
 ## Varför är sammanställbar handel viktigt?
 
@@ -59,7 +59,7 @@ Adobe Commerce har flera funktioner för att stödja handlare när det gäller a
 
 **API-nät:** Adobe Commerce API Mesh förenklar integrationen av flera mikrotjänster, tredjepartsverktyg och program i en enhetlig API-slutpunkt för gränssnittsutvecklare. Med den kan utvecklare kombinera flera datakällor till en enda GraphQL-slutpunkt, vilket minskar komplexiteten och effektiviserar utveckling och underhåll av nya funktioner och upplevelser.
 
-**Adobe App Builder:** Adobe App Builder är en serverlös utökningsplattform som gör att handlare kan skapa anpassade mikrotjänster, skapa anpassade upplevelser och utöka Adobe-lösningar. Med App Builder kan handlare skapa säkra och skalbara appar som utökar Adobe Commerce inbyggda funktioner och integreras med tredjepartslösningar. Detta eliminerar behovet av att handlare bygger och underhåller sin egen infrastruktur för anpassningar och mikrotjänster, vilket minskar komplexiteten och sänker den totala ägandekostnaden.
+**Adobe App Builder:** Adobe App Builder är en serverlös utökningsplattform som gör att handlare kan skapa anpassade mikrotjänster, skapa anpassade upplevelser och utöka Adobe lösningar. Med App Builder kan handlare skapa säkra och skalbara appar som utökar Adobe Commerce inbyggda funktioner och integreras med tredjepartslösningar. Detta eliminerar behovet av att handlare bygger och underhåller sin egen infrastruktur för anpassningar och mikrotjänster, vilket minskar komplexiteten och sänker den totala ägandekostnaden.
 
 Dessa funktioner från Adobe Commerce förenklar användningen och implementeringen av sammanställbar handel, vilket gör det möjligt för handlare att utnyttja fördelarna med flexibilitet, skalbarhet, anpassning och integreringsmöjligheter samtidigt som komplexiteten och utvecklingsarbetet minskar.
 
@@ -73,7 +73,7 @@ Composable commerce är en arkitekturbaserad strategi för e-handel som innebär
 
 **Att tänka på:** När man överväger sammanställbar handel bör faktorer som komplexitet, intern teknisk mognad, projektstorlek och struktur, anpassning jämfört med standardisering, total ägandekostnad samt säkerhet och datasekretess utvärderas noggrant.
 
-**Adobe Commerce:** Adobe Commerce har funktioner och verktyg som hjälper handlare att implementera och implementera sammanställbar handel. Dessa omfattar en sammansättningsbar e-handelsmetod, funktionsrika funktioner, hybridgränssnitt, API Mesh för integrering och Adobe App Builder för anpassade mikrotjänster.
+**Adobe Commerce:** Adobe Commerce har funktioner och verktyg som hjälper handlare att implementera och implementera sammanställbar handel. Dessa innehåller en sammansättningsbar e-handelsmetod, funktionsrik funktionalitet, hybridgränssnitt, API Mesh för integrering och Adobe App Builder för anpassade mikrotjänster.
 
 **Affärspåverkan:** Med sammanställbar e-handel kan företag skapa en mycket flexibel, skalbar och anpassningsbar e-handelsplattform. De kan leverera unika kundupplevelser, skalas efter efterfrågan, integreras med andra system, framtidssäkra sin verksamhet och utnyttja utvecklarexpertis.
 

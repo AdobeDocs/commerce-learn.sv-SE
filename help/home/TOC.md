@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: ac71d30083c1bb44fcb706411cb90d4ca1b70f59
+source-git-commit: 8c3efd5365d8420038f3c0d5e34b34a2b211ead1
 workflow-type: tm+mt
-source-wordcount: '914'
+source-wordcount: '922'
 ht-degree: 2%
 
 ---
@@ -106,6 +106,10 @@ ht-degree: 2%
       + [Anpassa en adresslayout](../edge-delivery-services/customize-address-new-account-link.md)
       + [Shoppingupplevelse](../edge-delivery-services/shopper-experience.md)
 + Webbinarier och event {#webinars-and-events}
+   + Affärstillväxt {#business-growth}
+      + [AI Innovation](../business-growth/ai-innovation.md)
+      + [Vision framåt](../business-growth/vision-forward.md)
+      + [Produktanvändning](../business-growth/product-adoption.md)
    + Framtiden för Commerce {#future-of-commerce}
       + [Nya produktmeddelanden](../future-of-commerce/new-product-announcements.md)
       + [Minska kostnaderna drastiskt](../future-of-commerce/drastically-cut-costs.md)
@@ -243,7 +247,7 @@ ht-degree: 2%
    + [Översikt över verktyget Kompatibilitet för uppgradering](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Använda verktyget Kompatibilitet för uppgradering i PHP Storm](../upgrade/uct-phpstorm.md)
 + Back-end Development {#backend-development}
-   + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=sv-SE)
+   + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Skapa en modul](../backend-development/create-module.md)
    + [Lägg till ett produktattribut](../backend-development/add-product-attribute.md)
    + [Exempel på beroendeinjektion](../backend-development/dependency-injection.md)
