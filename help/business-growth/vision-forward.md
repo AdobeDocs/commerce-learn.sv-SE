@@ -35,4 +35,4 @@ I Adobe Commerce färdplan för 2026 beskrivs en omfattande strategi för att ö
 * Merchant Center &amp; Admin Experience
 * Förbättringar av erfarenheter och observationer för utvecklare
 
->[!VIDEO](https://video.tv.adobe.com/v/3475695/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475710/?learn=on&enablevpops&captions=swe)
