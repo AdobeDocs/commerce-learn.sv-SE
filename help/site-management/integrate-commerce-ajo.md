@@ -42,4 +42,4 @@ Lär dig hur du kan använda [Dataanslutning](https://experienceleague.adobe.com
 ## Ytterligare resurser
 
 [Dataanslutningsöversikt](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=sv-SE){target="_blank"}
-[Installera dataanslutning ](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html?lang=sv-SE){target="_blank"}
+[Installera dataanslutning &#x200B;](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html?lang=sv-SE){target="_blank"}

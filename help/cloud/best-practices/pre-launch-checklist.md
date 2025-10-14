@@ -105,7 +105,7 @@ Adobe Commerce Cloud använder ett MariaDB Galera-kluster som databas för både
 3. [!BADGE Blockerare]{type=caution tooltip="Potentiell blockerare"}
 
    >[!NOTE]
-   > Ett [belastnings- och stresstest har till syfte ](https://experienceleague.adobe.com/sv/docs/commerce-cloud-service/user-guide/develop/test/guidance#:~:text=A%20load%20test%20can%20help,Scan%20Tool%20for%20your%20sites.){target="_blank"} att identifiera flaskhalsar och upptäcka prestandaproblem i programmet. Det spelar en viktig roll när det gäller att hantera förväntningar på klusterstorlek och fastställa nödvändiga skalningsjusteringar för att effektivt kunna uppfylla verksamhetskraven.
+   > Ett [belastnings- och stresstest har till syfte &#x200B;](https://experienceleague.adobe.com/sv/docs/commerce-cloud-service/user-guide/develop/test/guidance#:~:text=A%20load%20test%20can%20help,Scan%20Tool%20for%20your%20sites.){target="_blank"} att identifiera flaskhalsar och upptäcka prestandaproblem i programmet. Det spelar en viktig roll när det gäller att hantera förväntningar på klusterstorlek och fastställa nödvändiga skalningsjusteringar för att effektivt kunna uppfylla verksamhetskraven.
 
    >[!IMPORTANT]
    > **_VARNING!_** Vid förberedelse av ett inläsningstest ska du **_inte_** skicka ut e-postmeddelanden med live-transaktioner (även till dummy-adresser). Om du skickar e-postmeddelanden under testningen kan projektet nå den standardgräns för sändning (12 kB) som konfigurerats för SendGrid innan det startas.
@@ -171,7 +171,7 @@ Utför följande steg när det är dags att klippa över (mer information finns 
 
 ### Om du har problem med att blockera live-erbjudandet:
 
-Om du råkar ut för problem som hindrar dig från att starta under klippet är det snabbaste sättet att få rätt support i rätt tid att använda helpdesk och öppna en biljett med anledningen&quot;Det går inte att starta min butik&quot; och ringa ett supportnummer (se [listan över hotline-nummer för Adobe Commerce P1 (prioritet 1) ](https://support.magento.com/hc/en-us/articles/360042536151){target="_blank"}):
+Om du råkar ut för problem som hindrar dig från att starta under klippet är det snabbaste sättet att få rätt support i rätt tid att använda helpdesk och öppna en biljett med anledningen&quot;Det går inte att starta min butik&quot; och ringa ett supportnummer (se [listan över hotline-nummer för Adobe Commerce P1 (prioritet 1) &#x200B;](https://support.magento.com/hc/en-us/articles/360042536151){target="_blank"}):
 
 - Amerikanskt avgiftsfritt: (+1) 877 282 7436 (direkt till Adobe Commerce P1 hotline)
 - Amerikanskt avgiftsfritt: (+1) 800 685 3620 (På första menyn trycker du på 7 för Adobe Commerce P1 hotline)

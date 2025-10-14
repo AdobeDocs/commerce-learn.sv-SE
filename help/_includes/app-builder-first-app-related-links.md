@@ -13,8 +13,8 @@ ht-degree: 0%
 ## App Builder - Bygg dina sidor relaterade till första appen
 
 * [Ökning](../app-builder/first-app/overview.md)
-* [The ](../app-builder/first-app/env-file.md)
-* [The ](../app-builder/first-app/app-config-yaml-file.md)
+* [The &#x200B;](../app-builder/first-app/env-file.md)
+* [The &#x200B;](../app-builder/first-app/app-config-yaml-file.md)
 * [&quot;actions&quot;](../app-builder/first-app/actions-folder.md)
 * [&quot;test&quot;](../app-builder/first-app/test-folder.md)
 * [&quot;web-src&quot;](../app-builder/first-app/web-src-folder.md)

@@ -41,5 +41,5 @@ Upptäck hur Adobe Commerce ger företag möjlighet att snabbt spåra sin digita
 ## Fler videoklipp i den här serien
 
 [Nya produktmeddelanden](./new-product-announcements.md)
-[Minska kostnaderna dramatiskt ](./drastically-cut-costs.md)
+[Minska kostnaderna dramatiskt &#x200B;](./drastically-cut-costs.md)
 [Omräkningskurser för superavgift](./supercharge-conversion-rates.md)

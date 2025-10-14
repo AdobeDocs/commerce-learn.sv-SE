@@ -24,7 +24,7 @@ I den här guiden beskrivs hur du konfigurerar Adobe Commerce med GRA-mönstret 
 
 Monorepo GRA-mönstret innehåller en enda Git-databas som innehåller alla vanliga anpassningar. Denna enda Git-databas visas via Composer som ett separat dispositionspaket.
 
-![Ett diagram som visar var kod lagras i ett GRA-mönster för monorepo ](/help/assets/global-reference-architecture/monorepo-gra-pattern-diagram.png){align="center"}
+![Ett diagram som visar var kod lagras i ett GRA-mönster för monorepo &#x200B;](/help/assets/global-reference-architecture/monorepo-gra-pattern-diagram.png){align="center"}
 
 ## Fördelar och nackdelar med mönstret
 
