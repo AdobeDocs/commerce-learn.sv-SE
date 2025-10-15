@@ -113,7 +113,7 @@ Adobe Commerce Cloud använder ett MariaDB Galera-kluster som databas för både
    > - Så här inaktiverar du e-postkommunikation:
    >   Gå till _Store > Konfiguration > Avancerat > System > Inställningar för e-postsändning_.
 
-4. Utför säkerhetspenetrationstestning på produktionsinstansen som en del av säkerhetsmodellen [för delat ansvar](https://business.adobe.com/products/magento/secure-ecommerce.html){target="_blank"}. För PCI-kompatibilitet (betalkortsbranschen) kräver den anpassade platsen penetrationstestning.
+4. Utför säkerhetspenetrationstestning på produktionsinstansen som en del av säkerhetsmodellen [för delat ansvar](https://business.adobe.com/se/products/magento/secure-ecommerce.html){target="_blank"}. För PCI-kompatibilitet (betalkortsbranschen) kräver den anpassade platsen penetrationstestning.
 
 ## 8. Andra konfigurationer
 
