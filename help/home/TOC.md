@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 65ffab8f8359d493b5519100384f4570b94b7730
+source-git-commit: 54a1a8e62e86f8ae3456bb41a1b0450134f26b71
 workflow-type: tm+mt
-source-wordcount: '928'
+source-wordcount: '930'
 ht-degree: 2%
 
 ---
@@ -88,6 +88,7 @@ ht-degree: 2%
    + [Första frågan med GraphQL](../adobe-commerce-optimizer/first-query.md)
    + Salesforce Commerce cloud starter kit {#sfcc-starter-kit}
       + [Ökning](../adobe-commerce-optimizer/sfcc-starter-kit/overview.md)
+      + [Arkitektur - översikt](../adobe-commerce-optimizer/sfcc-starter-kit/architecture-overview.md)
 + Global referensarkitektur {#global-reference-architecture-implementation-techniques}
    + [Ökning](../global-reference-architecture/overview.md)
    + [Delad Git](../global-reference-architecture/split-git.md)
@@ -249,7 +250,7 @@ ht-degree: 2%
    + [Översikt över verktyget Kompatibilitet för uppgradering](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Använda verktyget Kompatibilitet för uppgradering i PHP Storm](../upgrade/uct-phpstorm.md)
 + Back-end Development {#backend-development}
-   + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=sv-SE)
+   + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Skapa en modul](../backend-development/create-module.md)
    + [Lägg till ett produktattribut](../backend-development/add-product-attribute.md)
    + [Exempel på beroendeinjektion](../backend-development/dependency-injection.md)
