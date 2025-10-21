@@ -32,4 +32,4 @@ Läs mer om Commerce Optimizer Salesforce Commerce Cloud Connector, ett verktyg 
 * Läs mer om syftet med startpaketet för integrering med Salesforce Commerce Cloud.
 * Förstå var startpaketet ska installeras
 
->[!VIDEO](https://video.tv.adobe.com/v/3476013?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476017?captions=swe&learn=on)
