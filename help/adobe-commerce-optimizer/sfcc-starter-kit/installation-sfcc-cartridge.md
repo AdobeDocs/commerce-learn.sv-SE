@@ -36,4 +36,4 @@ Lär dig hur du installerar och konfigurerar Adobe Commerce Optimizer-patron fö
 * Importera anpassade objekt- och jobbdefinitioner som stöd för spårning och synkronisering.
 * Testa en anpassad API-slutpunkt för att bekräfta att installationen lyckades och förbered dig för katalogsynkronisering.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476074?captions=swe&learn=on)

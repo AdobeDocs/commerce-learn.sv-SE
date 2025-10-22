@@ -34,4 +34,4 @@ En heltäckande demonstration som visar hur en fullständig synkronisering och d
 * Ändringar av produktinformation och priser i SFC-katalogen identifieras och uppdateras automatiskt i Commerce Optimizer via Delta Sync-processen.
 * Uppdateringar i realtid och visar smidigt dataflöde och synkronisering mellan system.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476097?captions=swe&learn=on)

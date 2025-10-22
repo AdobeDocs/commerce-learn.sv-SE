@@ -33,4 +33,4 @@ Läs om hur du konfigurerar och distribuerar App Builder Starter Kit för Salesf
 * Klona App Builder Starter Kit och konfigurera miljöfiler med Adobe IO CLI.
 * Distribuera appen och bekräfta att du har registrerat åtgärder och händelser på arbetsytan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476070?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476086?captions=swe&learn=on)
