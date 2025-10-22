@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 54a1a8e62e86f8ae3456bb41a1b0450134f26b71
+source-git-commit: c00df1105c757705faabf51bb31192c2eff64329
 workflow-type: tm+mt
-source-wordcount: '930'
+source-wordcount: '943'
 ht-degree: 2%
 
 ---
@@ -89,6 +89,9 @@ ht-degree: 2%
    + Salesforce Commerce cloud starter kit {#sfcc-starter-kit}
       + [Ökning](../adobe-commerce-optimizer/sfcc-starter-kit/overview.md)
       + [Arkitektur - översikt](../adobe-commerce-optimizer/sfcc-starter-kit/architecture-overview.md)
+      + [Installation av SFCC-patron](../adobe-commerce-optimizer/sfcc-starter-kit/installation-sfcc-cartridge.md)
+      + [Startpaket för App Builder](../adobe-commerce-optimizer/sfcc-starter-kit/app-builder-starter-kit.md)
+      + [Avsluta demo](../adobe-commerce-optimizer/sfcc-starter-kit/end-to-end-demo.md)
 + Global referensarkitektur {#global-reference-architecture-implementation-techniques}
    + [Ökning](../global-reference-architecture/overview.md)
    + [Delad Git](../global-reference-architecture/split-git.md)
@@ -250,7 +253,7 @@ ht-degree: 2%
    + [Översikt över verktyget Kompatibilitet för uppgradering](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Använda verktyget Kompatibilitet för uppgradering i PHP Storm](../upgrade/uct-phpstorm.md)
 + Back-end Development {#backend-development}
-   + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=sv-SE)
+   + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Skapa en modul](../backend-development/create-module.md)
    + [Lägg till ett produktattribut](../backend-development/add-product-attribute.md)
    + [Exempel på beroendeinjektion](../backend-development/dependency-injection.md)
