@@ -29,7 +29,7 @@ Adobe Creative Cloud Automation Patching Service (CAPS), en funktion i Adobe Com
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3476247/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476251/?captions=swe&learn=on&enablevpops)
 
 ## Relaterad dokumentation
 
