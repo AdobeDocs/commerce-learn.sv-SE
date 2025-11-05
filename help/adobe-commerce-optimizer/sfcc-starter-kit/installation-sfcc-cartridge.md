@@ -1,5 +1,5 @@
 ---
-title: Installation av Salesforce Commerce Cloud-patron
+title: Installera Salesforce Commerce Cloud-patron
 description: Läs mer om patronen som används i Salesforce med Adobe Commerce Optimizer.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
@@ -9,15 +9,15 @@ doc-type: Technical Video
 duration: 665
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19015
-source-git-commit: b050e70785b24b6f8804c3cdcfb11d533179154c
+source-git-commit: 4ef74d7555b0802f28ba421b91e0bff97c3b5b89
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
 
 
-# Installation av SFCC-patron
+# Installera SFCC-kassetten
 
 Lär dig hur du installerar och konfigurerar Adobe Commerce Optimizer-patron för en Salesforce Commerce Cloud-instans. I videon visas hur du klonar koddatabasen, ställer in kassetten med VS-koden och tillägget Prophet samt aktiverar en ny kodversion. Den förklarar hur du aktiverar patronen för en plats, konfigurerar Delta-exporter och importerar anpassade objekt- och jobbdefinitioner. Lär dig hur du verifierar jobbinställningar och testar en anpassad API-slutpunkt för att bekräfta installationen och synkronisera katalogen.
 
@@ -36,4 +36,4 @@ Lär dig hur du installerar och konfigurerar Adobe Commerce Optimizer-patron fö
 * Importera anpassade objekt- och jobbdefinitioner som stöd för spårning och synkronisering.
 * Testa en anpassad API-slutpunkt för att bekräfta att installationen lyckades och förbered dig för katalogsynkronisering.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476074?captions=swe&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)
