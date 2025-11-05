@@ -9,7 +9,7 @@ doc-type: Technical Video
 duration: 694
 last-substantial-update: 2025-10-13T00:00:00Z
 jira: KT-19378
-source-git-commit: 522ed06396f2512ff87f1a7b59ff081944b2c9af
+source-git-commit: a296152e8c8f94bbf4e3b882be6b8de7e4473d95
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -35,4 +35,4 @@ Adobe Commerce gör det enklare för företag att växa genom att de kan gå öv
 * Med App Builder utbyggbarhet kan anpassad logik frikopplas till serverlösa funktioner för enklare underhåll.
 * Förbättringar i Adobe Storefront förbättrar prestanda och innehållsskapande med instickskomponenter och kantleverans.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475752/?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3475737/?learn=on&enablevpops)
