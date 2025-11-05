@@ -1,6 +1,6 @@
 ---
-title: Komplett demo för Salesforce Commerce-appen för molnanslutning
-description: Titta på en demo från början till slut för Salesforce Commerce Cloud med Adobe Commerce Optimizer.
+title: Heltäckande demo för Salesforce Commerce Cloud Connector
+description: Se en komplett demo av Salesforce Commerce Cloud med Adobe Commerce Optimizer.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
 role: Architect, Developer
@@ -9,17 +9,17 @@ doc-type: Technical Video
 duration: 381
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19017
-source-git-commit: 2c2484ad679dc1bd46b2093549cb4e0e41545a21
+source-git-commit: b6748e79109b203772a4846a8197adbb65e6a0d0
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
 
-# Titta på filmen om Salesforce Commerce molnstartsverktyg
+# Komplett demo av startpaketet för Salesforce Commerce Cloud
 
-En heltäckande demonstration som visar hur en fullständig synkronisering och deltasynkronisering mellan Salesforce Commerce och Commerce Optimizer har slutförts med hjälp av startpaketet. Lär dig hur du bekräftar synkroniseringens framgång med körningsloggar och händelsespårning och validera sedan resultatet i en live-butik. Lär dig hur deltasynkroniseringsfunktionen fungerar. Här beskrivs också olika steg, t.ex. ändring av produktinformation och priser i Salesforce Commerce Cloud-katalogen. Systemet identifierar och uppdaterar automatiskt dessa ändringar i Commerce Optimizer och visar dem direkt i butiken.
+Titta på en komplett demonstration av hur en fullständig synkronisering och deltasynkronisering mellan Salesforce Commerce och Commerce Optimizer har slutförts med hjälp av startpaketet. Lär dig hur du bekräftar synkroniseringens framgång med körningsloggar och händelsespårning och validera sedan resultatet i en live-butik. Lär dig hur deltasynkroniseringsfunktionen fungerar. Här beskrivs också olika steg, t.ex. ändring av produktinformation och priser i Salesforce Commerce Cloud-katalogen. Systemet identifierar och uppdaterar automatiskt dessa ändringar i Commerce Optimizer och visar dem direkt i butiken.
 
 ## Vem är den här videon till?
 
@@ -34,4 +34,4 @@ En heltäckande demonstration som visar hur en fullständig synkronisering och d
 * Ändringar av produktinformation och priser i SFC-katalogen identifieras och uppdateras automatiskt i Commerce Optimizer via Delta Sync-processen.
 * Uppdateringar i realtid och visar smidigt dataflöde och synkronisering mellan system.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476097?captions=swe&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)
