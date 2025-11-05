@@ -34,4 +34,4 @@ Titta på en komplett demonstration av hur en fullständig synkronisering och de
 * Ändringar i produktinformation och priser i Salesforce Commerce Cloud-katalogen identifieras och uppdateras automatiskt i Commerce Optimizer via Delta Sync-processen.
 * Uppdateringar i realtid och visar smidigt dataflöde och synkronisering mellan system.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476097?captions=swe&learn=on)
