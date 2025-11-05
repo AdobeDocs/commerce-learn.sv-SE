@@ -35,4 +35,4 @@ Adobe Commerce gör det enklare för företag att växa genom att de kan gå öv
 * Med App Builder utbyggbarhet kan anpassad logik frikopplas till serverlösa funktioner för enklare underhåll.
 * Förbättringar i Adobe Storefront förbättrar prestanda och innehållsskapande med instickskomponenter och kantleverans.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475737/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475752/?captions=swe&learn=on&enablevpops)
