@@ -38,10 +38,10 @@ I den här workshopen samarbetade Adobe Commerce med Merkle för att dela:
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3432514?quality=12&learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/340038?quality=12&learn=on)
 
 ## Ytterligare resurser
 
-- [Uppgraderingshandbok](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=sv-SE)
-- [Släppta versioner](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=sv-SE)
-- [Frigör schema](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=sv-SE)
+- [Uppgraderingshandbok](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+- [Släppta versioner](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [Frigör schema](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)
