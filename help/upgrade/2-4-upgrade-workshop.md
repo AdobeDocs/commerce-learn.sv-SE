@@ -38,7 +38,7 @@ I den här workshopen samarbetade Adobe Commerce med Merkle för att dela:
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/340038?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432514?captions=swe&quality=12&learn=on)
 
 ## Ytterligare resurser
 
