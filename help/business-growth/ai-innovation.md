@@ -34,4 +34,4 @@ Upptäck hur Adobe Commerce revolutionerar e-handeln med avancerade AI-lösninga
 * Accelerating Global Expansion with Catalog Innovation
 * Förbättra upplevelsen på Storefront med hjälp av konversationsbaserade Commerce
 
->[!VIDEO](https://video.tv.adobe.com/v/3475691/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475699/?captions=swe&learn=on&enablevpops)

@@ -33,7 +33,7 @@ Lär dig hur du trimmar och löser två vanliga fel som kan uppstå i Adobe Comm
 - Hantera underhållsläge
 - Effektiva felsökningstips
 
->[!VIDEO](https://video.tv.adobe.com/v/3435766?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447697?captions=swe&learn=on)
 
 
 ## Kommandon som används i videon

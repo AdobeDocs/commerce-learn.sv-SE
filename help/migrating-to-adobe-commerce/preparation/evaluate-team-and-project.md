@@ -36,7 +36,7 @@ Och när det gäller headlessimplementationer kan upplevelsen förenkla processe
 * Lär dig lite om frontend och backend.
 * Planera för en smidig migrering genom att utvärdera befintliga moduler, uppgradera kärnapplikationer och integrera med andra Adobe-lösningar.
  
->[!VIDEO](https://video.tv.adobe.com/v/3435682/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447448/?captions=swe&learn=on)
 
 ## Relaterad dokumentation
 

@@ -35,7 +35,7 @@ Lär dig vad MySQL-frågecachen är och lite grundläggande förståelse för hu
 - Se hur SQL sparas och används för att hitta en matchande frågecache
 - Några tips om konfigurationsinställningar
 
->[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432373?captions=swe&learn=on)
 
 ## Användbara resurser
 

@@ -34,7 +34,7 @@ Lär dig hur du skapar ett Adobe Developer App Builder-projekt för att förbruk
 * Använda Adobe Developer Console
 * Använda Adobe I/O
 
->[!VIDEO](https://video.tv.adobe.com/v/3415797?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430628?captions=swe&quality=12&learn=on)
 
 ## Användbara kommandon {#useful-commands}
 

@@ -39,7 +39,7 @@ Lär dig hur återförsöksfunktionen fungerar i kontexten för&quot;konsumentå
 * Visuella indikatorer i utvecklarkonsolen, till exempel varningsikoner för misslyckade händelser och cirkelformade pilikoner för nyligen utförda händelser.
 * Kundens körningsåtgärder spelar en viktig roll när det gäller att fastställa lämpliga HTTP-svarskoder för händelsehantering.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449077?captions=swe&learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

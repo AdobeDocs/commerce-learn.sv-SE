@@ -35,7 +35,7 @@ Installationsanvisningar och krav finns på sidan [Komma igång](https://develop
 * Installera Adobe I/O Runtime CLI (kommandoradsgränssnitt)
 * Installera API Mesh-plugin
 
->[!VIDEO](https://video.tv.adobe.com/v/3414122?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430770?captions=swe&quality=12&learn=on)
 
 ## Installerar plugin-programmet `aio` för CLI och API Mesh
 

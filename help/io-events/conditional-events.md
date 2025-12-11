@@ -36,7 +36,7 @@ Läs om villkorliga händelser i Adobe Commerce som kan användas i Adobe Develo
 * Definiera regler för användning i villkorshändelser
 * Lär dig hur du registrerar händelser i Commerce-instanser `app/etc/config.php`
 
->[!VIDEO](https://video.tv.adobe.com/v/3415806?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430655?captions=swe&quality=12&learn=on)
 
 ## Användbara kommandon {#useful-commands}
 

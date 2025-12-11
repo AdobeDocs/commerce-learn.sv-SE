@@ -31,7 +31,7 @@ Läs mer om erbjudanden, support och annan kommunikation för Adobe Commerce Clo
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3427902?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432835?captions=swe&learn=on&enablevpops)
 
 ## Aronymer
 

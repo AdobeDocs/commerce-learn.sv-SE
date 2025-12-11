@@ -25,7 +25,7 @@ Detta är en del av serien för GraphQL och Adobe Commerce. GraphQL har snabbt b
 
 Om du inte har använt GraphQL tidigare orienterar det här avsnittet dig efter grundläggande begrepp och användningsområden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424117?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443944?captions=swe&learn=on)
 
 ## Relaterade videor och självstudiekurser om GraphQL i den här serien
 

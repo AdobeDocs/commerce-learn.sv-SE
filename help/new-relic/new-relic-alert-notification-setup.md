@@ -35,4 +35,4 @@ Lär dig hur du hittar varningar, policyer, arbetsflöden och mål i New Relic. 
 * Läs om aviseringsmeddelanden, policyer och arbetsflöden
 * Spara målet och validera det nya e-postmeddelandet lades till i en profil
 
->[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441203?captions=swe&learn=on)

@@ -27,6 +27,6 @@ I följande videofilm visas ett exempel på ett integreringsmönster som anslute
 
 ## App Builder för Adobe Commerce {#app-builder-technical-overview}
 
->[!VIDEO](https://video.tv.adobe.com/v/3413512?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430836?captions=swe&quality=12&learn=on)
 
 {{$include /help/_includes/app-builder-related-links.md}}

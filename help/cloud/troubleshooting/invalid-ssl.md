@@ -33,4 +33,4 @@ Lär dig hur du identifierar ett sl-certifikat som har gått ut och hur du gener
 - Identifiera när under processen ett nytt certifikat skapas.
 - Validera att det nya certifikatet fungerar som förväntat. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3435751?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439752?captions=swe&learn=on)

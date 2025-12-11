@@ -37,7 +37,7 @@ I den här självstudien beskrivs hur du skapar ett projekt och en arbetsyta som
 * Ändra vald organisation, projekt eller arbetsyta i CLI
 * Testa enkla API Mesh-kommandon
 
->[!VIDEO](https://video.tv.adobe.com/v/3414123?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430776?captions=swe&quality=12&learn=on)
 
 ## Läs om Adobe Developer Console
 

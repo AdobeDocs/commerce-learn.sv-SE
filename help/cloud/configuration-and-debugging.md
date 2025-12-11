@@ -31,7 +31,7 @@ Lär dig mer om de viktigaste Yaml-filerna som används i Adobe Commerce Cloud f
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432816?captions=swe&learn=on)
 
 ## Experience League-dokumentation som omnämns i videon
 

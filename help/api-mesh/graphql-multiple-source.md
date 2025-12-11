@@ -35,7 +35,7 @@ Den här videon hjälper utvecklare att förstå hur man skapar ett nät med fle
 * Felsöka fel som namnkonflikter, schematillgänglighet och andra schemasyntaxproblem
 * Uppdatera ditt nät med en ändrad konfiguration
 
->[!VIDEO](https://video.tv.adobe.com/v/3414125?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430768?captions=swe&quality=12&learn=on)
 
 ## Skapa JSON-konfigurationsfilen
 
