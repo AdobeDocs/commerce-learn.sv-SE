@@ -91,4 +91,4 @@ När du har sparat till rätt projekt och miljö ändrar du till katalogen `var/
 
 ## Relaterad dokumentation
 
-- [Hälsoaviseringar](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+- [Hälsoaviseringar](https://experienceleague.adobe.com/sv/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

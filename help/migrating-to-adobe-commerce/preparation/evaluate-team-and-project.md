@@ -40,4 +40,4 @@ Och när det gäller headlessimplementationer kan upplevelsen förenkla processe
 
 ## Relaterad dokumentation
 
-[Vad är Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)
+[Vad är Adobe Commerce](https://experienceleague.adobe.com/sv/docs/commerce-admin/start/about)

@@ -37,10 +37,10 @@ Den här guiden ger en omfattande översikt över hur du söker efter, validerar
 
 ## Relaterad Experience League-dokumentation
 
-- [Exportera konfiguration](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
-- [Åsidosätt konfigurationsinställningar](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/paths/override-config-settings)
-- [Ange konfigurationsvärden](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
-- [Konfigurationsreferens config.php](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
-- [Teknisk information för konfigurationsguiden](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details)
-- [Låsta konfigurationsvärden](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
-- [Sparade värden i env.php](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)
+- [Exportera konfiguration](https://experienceleague.adobe.com/sv/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
+- [Åsidosätt konfigurationsinställningar](https://experienceleague.adobe.com/sv/docs/commerce-operations/configuration-guide/paths/override-config-settings)
+- [Ange konfigurationsvärden](https://experienceleague.adobe.com/sv/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
+- [Konfigurationsreferens config.php](https://experienceleague.adobe.com/sv/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
+- [Teknisk information för konfigurationsguiden](https://experienceleague.adobe.com/sv/docs/commerce-operations/configuration-guide/deployment/technical-details)
+- [Låsta konfigurationsvärden](https://experienceleague.adobe.com/sv/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
+- [Sparade värden i env.php](https://experienceleague.adobe.com/sv/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)
