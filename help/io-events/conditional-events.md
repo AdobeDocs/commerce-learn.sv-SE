@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 03787aa3-051b-4a35-b2e8-ecf6762b5eb4
-source-git-commit: e02da0901c01871360bcc556666e310acd7c7224
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -21,11 +22,11 @@ ht-degree: 0%
 
 # Adobe Commerce villkorsstyrda evenemang
 
-Läs om villkorliga händelser i Adobe Commerce som kan användas i Adobe Developer App Builder. Ytterligare dokumentation finns på [Installera Adobe I/O-händelser för Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/conditional-events/){target="_blank"}.
+Läs om villkorliga händelser i Adobe Commerce som kan användas i Adobe Developer App Builder. Ytterligare dokumentation finns på [Installera Adobe I/O Events för Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/conditional-events/){target="_blank"}.
 
 ## Vem är den här videon till?
 
-* Utvecklare som är nybörjare på Adobe Commerce och Adobe Developer App Builder med I/O-event och behöver skapa ett Adobe App Builder-projekt.
+* Utvecklare som är nybörjare på Adobe Commerce och Adobe Developer App Builder med I/O-event och som behöver skapa ett Adobe App Builder-projekt.
 
 ## Videoinnehåll {#video-content}
 
@@ -35,7 +36,7 @@ Läs om villkorliga händelser i Adobe Commerce som kan användas i Adobe Develo
 * Definiera regler för användning i villkorshändelser
 * Lär dig hur du registrerar händelser i Commerce-instanser `app/etc/config.php`
 
->[!VIDEO](https://video.tv.adobe.com/v/3430655?quality=12&learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3415806?quality=12&learn=on)
 
 ## Användbara kommandon {#useful-commands}
 

@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
-source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 0%
@@ -23,7 +24,7 @@ ht-degree: 0%
 
 Detta är en del av 4 av serien för GraphQL och Adobe Commerce. De frågor och mutationer som används är beroende av att ett specifikt datagraf implementeras på servern, som används och används av GraphQL för att lösa frågan. GraphQL-specifikationen definierar ett agnostiskt språk för att uttrycka datagrafens typer och relationer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446614?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
 
 ## Relaterade videor och självstudiekurser om GraphQL i den här serien
 
@@ -105,7 +106,7 @@ type Mutation {
 }
 ```
 
-Du kan ta bort [GraphQL-dokumentationen](https://graphql.org/learn/schema/){target="_blank"} om du vill veta mer om typsystemet, inklusive syntax för vissa koncept som inte finns representerade här. Ovanstående exempel är dock självförklarande. (Observera också hur likartad syntaxen är för att fråga efter syntax.) Att definiera ett GraphQL-schema är helt enkelt en fråga om att uttrycka tillgängliga argument och fält av en viss typ, tillsammans med fälttyperna. Varje komplex fälttyp måste ha en definition, och så vidare, genom trädet tills du kommer till enkla skalära typer som `String`.
+Du kan ta bort [GraphQL-dokumentationen](https://graphql.org/learn/schema/){target="_blank"} och lära dig mer om typsystemets information, inklusive syntax för vissa koncept som inte finns representerade här. Ovanstående exempel är dock självförklarande. (Observera också hur likartad syntaxen är för att fråga efter syntax.) Att definiera ett GraphQL-schema är helt enkelt en fråga om att uttrycka tillgängliga argument och fält av en viss typ, tillsammans med fälttyperna. Varje komplex fälttyp måste ha en definition, och så vidare, genom trädet tills du kommer till enkla skalära typer som `String`.
 
 Deklarationen `input` fungerar i alla avseenden som en `type` men definierar en typ som kan användas som indata för ett argument. Observera även deklarationen `interface`. Detta fungerar ungefär på samma sätt som gränssnitt i PHP. Andra typer ärver från det här gränssnittet.
 

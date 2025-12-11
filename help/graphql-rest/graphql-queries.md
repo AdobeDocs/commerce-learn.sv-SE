@@ -1,18 +1,19 @@
 ---
 title: Utför en fråga med GraphQL
-description: Lär dig hur du utför en fråga med GraphQL på Adobe Commerce och  [!DNL Magento Open Source]. Det här är en introduktion till GraphQL som använder GET- och POST-samtal.
-landing-page-description: Lär dig hur du utför en fråga med GraphQL på Adobe Commerce och  [!DNL Magento Open Source]. Det här är en introduktion till GraphQL som använder GET- och POST-samtal.
-short-description: Lär dig hur du utför en fråga med GraphQL på Adobe Commerce och  [!DNL Magento Open Source]. Det här är en introduktion till GraphQL som använder GET- och POST-samtal.
+description: Lär dig hur du utför en fråga med GraphQL på Adobe Commerce och  [!DNL Magento Open Source]. Detta är en introduktion till GraphQL som använder GET- och POST-samtal.
+landing-page-description: Lär dig hur du utför en fråga med GraphQL på Adobe Commerce och  [!DNL Magento Open Source]. Detta är en introduktion till GraphQL som använder GET- och POST-samtal.
+short-description: Lär dig hur du utför en fråga med GraphQL på Adobe Commerce och  [!DNL Magento Open Source]. Detta är en introduktion till GraphQL som använder GET- och POST-samtal.
 kt: 13937
 doc-type: video
 audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
-source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '984'
 ht-degree: 0%

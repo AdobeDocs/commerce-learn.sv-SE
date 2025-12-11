@@ -3,14 +3,15 @@ title: Starta Adobe Commerce, efter start och löpande övervakning och felsökn
 description: Lär dig de bästa sätten och tipsen för att förbereda och lansera en webbplats. Lär dig hur du väljer rätt staging-miljö, ger relevant information i supportärenden och använder samma övervakningsverktyg som supportteamet för bättre kommunikation.
 feature: Best Practices, Cloud
 topic: Architecture, Commerce, Performance
-role: Architect, Data Architect, Leader
+old-role: Architect, Data Architect, Leader
+role: Developer, Leader
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 3483
 last-substantial-update: 2024-05-07T00:00:00Z
 jira: KT-15467
 exl-id: e3748ec2-b449-4cc2-927d-e7ba4f4dbaf8
-source-git-commit: 0822d94079879592bd88fd0fb318ce5fd143f487
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 0%

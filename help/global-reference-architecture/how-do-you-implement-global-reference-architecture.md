@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-10-6
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 0eb1f994-24a7-491f-b267-00202f6086e6
-source-git-commit: 03e20a42f798bd7eac1971656e2ad9b99a8b784e
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -38,6 +39,6 @@ Lär dig implementera Global Reference Architecture eller GRA för kort tid. Lä
 * Global Control Board - What features to work on
 * Alternativt koncept för att använda GRA som modulmarknadsplats
 
->[!VIDEO](https://video.tv.adobe.com/v/3457212?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3424702?learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}

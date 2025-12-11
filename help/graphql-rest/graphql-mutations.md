@@ -1,18 +1,19 @@
 ---
 title: Utför en mutation med GraphQL
-description: Få en introduktion om att utföra en mutation med GraphQL på Adobe Commerce och  [!DNL Magento Open Source]. Utför din första mutation med POSTER.
-landing-page-description: Få en introduktion om att utföra en mutation med GraphQL på Adobe Commerce och  [!DNL Magento Open Source]. Utför din första mutation med POSTER.
-short-description: Få en introduktion om att utföra en mutation med GraphQL på Adobe Commerce och  [!DNL Magento Open Source]. Utför din första mutation med POSTER.
+description: Få en introduktion om att utföra en mutation med GraphQL på Adobe Commerce och  [!DNL Magento Open Source]. Utför din första mutation med POST-anrop.
+landing-page-description: Få en introduktion om att utföra en mutation med GraphQL på Adobe Commerce och  [!DNL Magento Open Source]. Utför din första mutation med POST-anrop.
+short-description: Få en introduktion om att utföra en mutation med GraphQL på Adobe Commerce och  [!DNL Magento Open Source]. Utför din första mutation med POST-anrop.
 kt: 13938
 doc-type: video
 audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
-source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -24,7 +25,7 @@ ht-degree: 0%
 Detta är en del 3 av serien för GraphQL och Adobe Commerce. Mutationer är möjligheten att spara, uppdatera och returnera värden med GraphQL.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441927?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3424121?learn=on)
 
 ## Relaterade videor och självstudiekurser om GraphQL i den här serien
 
@@ -36,7 +37,7 @@ Detta är en del 3 av serien för GraphQL och Adobe Commerce. Mutationer är mö
 
 Alla fullständiga API-specifikationer måste kunna erbjuda både möjlighet att fråga efter data och att skapa och uppdatera dem.
 
-REST skiljer mellan begäranden som ändrar data och sådana som inte har begärandetypen eller verb (GET kontra POST eller PUT).
+REST skiljer mellan förfrågningar som ändrar data och sådana som inte har förfrågningstypen eller verb (GET vs POST eller PUT).
 När du använder GraphQL särskiljs datamodifierande frågor med nyckelordet `mutation` som motsvarar ett annat
 rottyp i schemat som definierats på servern.
 

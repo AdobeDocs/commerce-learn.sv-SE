@@ -8,15 +8,16 @@ last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
 badge: label="Medverkad av Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Medverkad av Tony Evers"
 topic: Architecture, Commerce, Development
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Experienced
-source-git-commit: cc6a79b20ae1864f7a7e9b99f90df7b0aa61ef6e
+exl-id: ebdc13cf-c452-4728-af00-c3ea1149c2fa
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '1371'
 ht-degree: 0%
 
 ---
-
 
 # Monorepo Global Reference Architecture pattern
 
@@ -24,7 +25,7 @@ I den här guiden beskrivs hur du konfigurerar Adobe Commerce med GRA-mönstret 
 
 Monorepo GRA-mönstret innehåller en enda Git-databas som innehåller alla vanliga anpassningar. Denna enda Git-databas visas via Composer som ett separat dispositionspaket.
 
-![Ett diagram som visar var kod lagras i ett GRA-mönster för monorepo &#x200B;](/help/assets/global-reference-architecture/monorepo-gra-pattern-diagram.png){align="center"}
+![Ett diagram som visar var kod lagras i ett GRA-mönster för monorepo ](/help/assets/global-reference-architecture/monorepo-gra-pattern-diagram.png){align="center"}
 
 ## Fördelar och nackdelar med mönstret
 

@@ -3,19 +3,20 @@ title: En översikt för migrering till Adobe Commerce
 description: En översikt över förberedelser, anpassad kod, QA, prestanda och säkerhet vid migrering till Adobe Commerce.
 feature: Best Practices
 topic: Commerce, Migration
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 167
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-11767
-source-git-commit: 4e788b83e64e3ba8c45a7a60e14e551d67b21a88
+exl-id: 9b9504c1-0888-46da-b25e-0a5e16833d84
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
 
 ---
-
 
 # Migrera till Adobe Commerce - översikt
 
@@ -33,4 +34,4 @@ Välkommen till den här omfattande självstudiekursen om migrering av Adobe Com
 * Lär dig viktiga steg och bästa praxis för en framgångsrik migrering till Adobe Commerce.
 * Utvärdera och optimera anpassad kod, tredjepartsmoduler och förstå viktiga QA-koncept.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444324/?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3432846/?learn=on)

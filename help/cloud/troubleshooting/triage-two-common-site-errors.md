@@ -1,25 +1,26 @@
 ---
 title: Diagnostisera och åtgärda några vanliga Commerce Cloud-fel
-description: Åtgärda två vanliga Adobe Cloud-projektfel som förhindrar att webbplatsen läses in.
+description: Lös två vanliga Adobe Cloud-projektfel som förhindrar att webbplatsen läses in.
 feature: Cloud, Site Management
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 260
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16419
-source-git-commit: 27c1715dd42853013181d9c729549a5a32bc2af0
+exl-id: 4c21b6a6-783a-422f-9071-3534ed68e8be
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-
 # Tjänsten Diagnostic and fix är inte tillgänglig och ett fel uppstod
 
-Lär dig hur du trimmar och åtgärdar två vanliga fel i Adobe Commerce Cloud-projekt.  Lär dig hur och varför dessa fel inträffar och vilka åtgärder som rekommenderas för att åtgärda dem.
+Lär dig hur du trimmar och löser två vanliga fel som kan uppstå i Adobe Commerce Cloud-projekt.  Lär dig hur och varför dessa fel inträffar och vilka åtgärder som rekommenderas för att åtgärda dem.
 
 ## Vem är den här videon för
 
@@ -32,7 +33,7 @@ Lär dig hur du trimmar och åtgärdar två vanliga fel i Adobe Commerce Cloud-p
 - Hantera underhållsläge
 - Effektiva felsökningstips
 
->[!VIDEO](https://video.tv.adobe.com/v/3447697?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3435766?learn=on)
 
 
 ## Kommandon som används i videon

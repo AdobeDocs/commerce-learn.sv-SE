@@ -3,13 +3,15 @@ title: Trunkera loggar
 description: Lär dig trimma en misslyckad distribution på grund av en full hårddisk genom att trunkera stora loggfiler.
 feature: Cloud, Site Management
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 206
 last-substantial-update: 2025-3-25
 jira: KT-17595
-source-git-commit: b90aa9eb8759391a16dfb29ca25b0d2d271956ed
+exl-id: 4a36de40-fb55-41ad-afef-35fc18a271ec
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -33,7 +35,7 @@ Om du tror att du behöver de här loggfilerna kan du `rsync` dem eller använda
 - Där några vanliga stora loggfiler hittas
 - Snabbmetod för att korta av en loggfil
 
->[!VIDEO](https://video.tv.adobe.com/v/3454587?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
 
 
 ## Kommandon som används i videon
@@ -89,4 +91,4 @@ När du har sparat till rätt projekt och miljö ändrar du till katalogen `var/
 
 ## Relaterad dokumentation
 
-- [Hälsoaviseringar](https://experienceleague.adobe.com/sv/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+- [Hälsoaviseringar](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-10-3
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: d83d7bef-3253-43bc-a442-d13b0afbae4e
-source-git-commit: 8ad911f1dad202e6354a7850ef69f8646e1a31f2
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 # Arkitektur för GRA
 
-Lär dig hur du skapar en global referensarkitektur eller GRA för kort tid. För att bättre förbereda ett GRA för ett framgångsrikt genomförande diskuterar experterna i Adobe vad som är och inte är GRA. En djupgående diskussion om kodhantering med separata paket, delad Git och monorepo. Andra ämnen som rör dokumentation, verktyg och personalens förväntningar diskuteras för att fördjupa sig i deras delar för en framgångsrik GRA-implementering.
+Lär dig hur du skapar en global referensarkitektur eller GRA för kort tid. För att bättre förbereda ett GRA för ett framgångsrikt genomförande diskuterar Adobe experter vad som är och inte är GRA. En djupgående diskussion om kodhantering med separata paket, delad Git och monorepo. Andra ämnen som rör dokumentation, verktyg och personalens förväntningar diskuteras för att fördjupa sig i deras delar för en framgångsrik GRA-implementering.
 
 ## Målgrupp
 

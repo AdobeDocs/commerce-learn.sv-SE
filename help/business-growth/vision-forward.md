@@ -3,13 +3,14 @@ title: Affärstillväxt med Adobe Vision Forward Roadmap
 description: Upptäck Adobe Commerce färdplan för B2B-butiker, personalisering i realtid, betalningar samt AI-baserade upplevelser för handlare och utvecklare.
 feature: App Builder,  B2B, Catalog Management,  Cloud,  Extensibility, Observability, Payments, Personalization, Storefront, Saas
 topic: Administration, Artificial Intelligence,  Commerce,  Development, Headless,  Performance, Personalization, Security
-role: Data Engineer, Developer
+old-role: Data Engineer, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 976
 last-substantial-update: 2025-10-10T00:00:00Z
 jira: KT-19377
-source-git-commit: 58a2c94860a278b1f618c3944b2da1be54623814
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -35,4 +36,4 @@ I Adobe Commerce färdplan för 2026 beskrivs en omfattande strategi för att ö
 * Merchant Center &amp; Admin Experience
 * Förbättringar av erfarenheter och observationer för utvecklare
 
->[!VIDEO](https://video.tv.adobe.com/v/3475710/?captions=swe&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475695/?learn=on&enablevpops)

@@ -3,13 +3,14 @@ title: Introduktion till Salesforce Commerce cloud
 description: Läs mer om Salesforce Commerce Cloud med Adobe Commerce Optimizer Using the SFC Connector.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 194
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-18990
-source-git-commit: 54a1a8e62e86f8ae3456bb41a1b0450134f26b71
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -32,4 +33,4 @@ Läs mer om Commerce Optimizer Salesforce Commerce Cloud Connector, ett verktyg 
 * Läs mer om syftet med startpaketet för integrering med Salesforce Commerce Cloud.
 * Förstå var startpaketet ska installeras
 
->[!VIDEO](https://video.tv.adobe.com/v/3476017?captions=swe&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476013?learn=on)

@@ -3,13 +3,14 @@ title: Installera Salesforce Commerce Cloud-patron
 description: Läs mer om patronen som används i Salesforce med Adobe Commerce Optimizer.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 665
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19015
-source-git-commit: 4ef74d7555b0802f28ba421b91e0bff97c3b5b89
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -36,4 +37,4 @@ Lär dig hur du installerar och konfigurerar Adobe Commerce Optimizer-patron fö
 * Importera anpassade objekt- och jobbdefinitioner som stöd för spårning och synkronisering.
 * Testa en anpassad API-slutpunkt för att bekräfta att installationen lyckades och förbered dig för katalogsynkronisering.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476074?captions=swe&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)

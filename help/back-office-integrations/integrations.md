@@ -8,16 +8,18 @@ audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
-source-git-commit: 98b739c1871ae764dfc521ca4f190e5abe00bb86
+exl-id: 59b9016e-4327-4669-b0ae-e4299433724f
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
 
 ---
 
-# Back office-integrationer med Adobe Starter Kit
+# Back office-integrering med Adobe Starter Kit
 
 Lär dig hur du integrerar Adobe Commerce med externa system och ger praktiska insikter i de installations-, konfigurerings- och distributionsprocesser som används i Adobe Commerce startpaket för integrering.
 
@@ -35,7 +37,7 @@ Lär dig hur du integrerar Adobe Commerce med externa system och ger praktiska i
 * Köra skript för att skapa och konfigurera händelseproviders och prenumerationer.
 * Uppdaterar händelser i Commerce och App Builder för synkronisering.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452773?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3431690?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

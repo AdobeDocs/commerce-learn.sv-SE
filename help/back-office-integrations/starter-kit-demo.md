@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2024-4-19
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 exl-id: 8895c904-3cf6-4bd1-917d-f9c91caa4ea9
-source-git-commit: 13d30cb06aa5d704aadf77a1f781ba0443c11af5
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -37,4 +38,4 @@ Läs mer om Adobe Commerce startsverktyg för integration av backoffice-system. 
 * Konfigurera I/O-händelser
 * Ansluta till en tredje part för att synkronisera data
 
->[!VIDEO](https://video.tv.adobe.com/v/3452018?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3428629?learn=on)

@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: d788a068-9d20-4db0-a0eb-fd897873253d
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -30,11 +31,11 @@ Den här videon hjälper utvecklare att förstå hur man skapar ett nät med fle
 
 ## Videoinnehåll
 
-* Så här använder du [omformningar](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} för att ändra standardkällschemat
+* Använda [transformeringar](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} för att ändra standardkällschemat
 * Felsöka fel som namnkonflikter, schematillgänglighet och andra schemasyntaxproblem
 * Uppdatera ditt nät med en ändrad konfiguration
 
->[!VIDEO](https://video.tv.adobe.com/v/3430768?quality=12&learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3414125?quality=12&learn=on)
 
 ## Skapa JSON-konfigurationsfilen
 

@@ -10,10 +10,11 @@ activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System, Upgrade
 topic: Commerce, Administration
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: fba4a08b-5633-433b-bf87-fa85457e4578
-source-git-commit: 535c9dbe9f1247cebd848f184dcf7ea07eab405e
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 33%
@@ -38,10 +39,10 @@ I den här workshopen samarbetade Adobe Commerce med Merkle för att dela:
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3432514?captions=swe&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340038?quality=12&learn=on)
 
 ## Ytterligare resurser
 
-- [Uppgraderingshandbok](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=sv-SE)
-- [Släppta versioner](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=sv-SE)
-- [Frigör schema](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=sv-SE)
+- [Uppgraderingshandbok](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+- [Släppta versioner](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [Frigör schema](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

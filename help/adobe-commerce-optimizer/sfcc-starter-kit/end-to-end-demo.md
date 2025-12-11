@@ -3,13 +3,14 @@ title: Heltäckande demo för Salesforce Commerce Cloud Connector
 description: Se en komplett demo av Salesforce Commerce Cloud med Adobe Commerce Optimizer.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 381
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19017
-source-git-commit: 68afc11f06a5ac601d23230d23429536f42b13b7
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -34,4 +35,4 @@ Titta på en komplett demonstration av hur en fullständig synkronisering och de
 * Ändringar i produktinformation och priser i Salesforce Commerce Cloud-katalogen identifieras och uppdateras automatiskt i Commerce Optimizer via Delta Sync-processen.
 * Uppdateringar i realtid och visar smidigt dataflöde och synkronisering mellan system.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476097?captions=swe&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)

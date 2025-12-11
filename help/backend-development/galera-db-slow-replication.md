@@ -7,10 +7,11 @@ activity: use
 last-substantial-update: 2023-7-18
 feature: Backend Development, Logs, Services
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 exl-id: 4a8a2df1-8cac-4bd9-851f-0eaae011b76c
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -37,7 +38,7 @@ Som en lösning kan du om möjligt batchbearbeta stora åtgärder så att de sek
 - Massexekveringar utförs bara i huvudprogrammet. Replikeringar sker 1 i taget
 - Gruppera dina stora implementeringar för att hjälpa replikeringen att hålla jämna steg med den primära
 
->[!VIDEO](https://video.tv.adobe.com/v/3432454?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
 
 ## Användbara resurser
 

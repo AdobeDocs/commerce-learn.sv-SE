@@ -3,14 +3,14 @@ title: Lappa kvalitet
 description: Lär dig hur du använder verktyget för kvalitetskorrigering när du diagnostiserar ett problem, söker efter en lösning och använder en korrigering som finns i den befintliga listan med tillgängliga korrigeringsfiler.
 feature: Cloud, Configuration, Logs, System, Tools and External Services
 topic: Architecture, Commerce, Development
-role: Admin, Architect, User
+role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
 exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '542'
 ht-degree: 0%
@@ -37,13 +37,13 @@ Quality Patches Tool är ett kommandoradsverktyg för Adobe Commerce och Magento
 * Använd högklassiga patchar i installationen.
 * Återställ tillämpade korrigeringsfiler vid behov
 
-Dessa korrigeringsfiler har utvecklats från Adobe-utvecklare i Magento Open Source-communityn för att förbättra stabilitet och prestanda. Tänk på att du inte bör använda ett stort antal patchar eftersom det kan komplicera framtida uppgraderingar.
+Dessa korrigeringsfiler har utvecklats av Adobe-utvecklare i Magento Open Source community för att förbättra stabilitet och prestanda. Tänk på att du inte bör använda ett stort antal patchar eftersom det kan komplicera framtida uppgraderingar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454072?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
 
 ## Varför ska jag använda verktyget för kvalitetskorrigering?
 
-Du kan använda verktyget Kvalitetspatchar för Adobe Commerce eller Magento Open Source om du vill:
+Du kan använda verktyget Kvalitetskorrigeringar för Adobe Commerce eller Magento Open Source om du vill:
 
 Förbättra stabilitet och prestanda: Korrigeringsfiler av hög kvalitet åtgärdar problem, förbättrar säkerheten och optimerar installationen.
 Håll dig uppdaterad: Genom att använda korrigeringsfiler ser du till att systemet är aktuellt och skyddat.
@@ -59,7 +59,7 @@ Det finns några fördelar med verktyget för kvalitetskorrigeringar, men det fi
 * Anpassningar: Om du har gjort anpassade kodändringar kan det uppstå konflikter för korrigeringsfiler. Granska ändringarna noggrant.
 * Säkerhetskopiera: Säkerhetskopiera installationen innan du använder korrigeringsfiler för att undvika dataförlust.
 
-Verktyget Kvalitetspatchar är användbart för ett begränsat antal patchar, men rekommenderas inte för hantering av stora mängder patchar. Om du använder för många patchar kan det komplicera framtida uppgraderingar och underhåll. Om du har många patchar att använda bör du överväga alternativa tillvägagångssätt eller rådfråga en Magento-specialist. 
+Verktyget Kvalitetspatchar är användbart för ett begränsat antal patchar, men rekommenderas inte för hantering av stora mängder patchar. Om du använder för många patchar kan det komplicera framtida uppgraderingar och underhåll. Om du har många patchar att använda bör du överväga alternativa lösningar eller rådfråga en Magento-specialist. 
 
 ## Sammanfattning
 
@@ -71,8 +71,8 @@ Innan du använder korrigeringsfiler är det viktigt att testa dem i en staging-
 
 ## Relaterade artiklar och videoklipp
 
-* [Sökning i kvalitetskorrigeringsverktyg](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=sv-SE)
-* [Versionsinformation](https://experienceleague.adobe.com/sv/docs/commerce-operations/tools/quality-patches-tool/release-notes)
+* [Sökning i kvalitetskorrigeringsverktyg](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+* [Versionsinformation](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
 * [Github för patchar](https://github.com/magento/quality-patches/blob/master/patches/os/)
-* [Användning av kvalitetskorrigeringsverktyget](https://experienceleague.adobe.com/sv/docs/commerce-operations/tools/quality-patches-tool/usage)
-* [Teknisk video på QPT](https://experienceleague.adobe.com/sv/docs/commerce-learn/tutorials/tools/quality-patch-tool)
+* [Användning av kvalitetskorrigeringsverktyget](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
+* [Teknisk video på QPT](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)

@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: bb7cb692-16bd-48fe-9e88-eb1b337bc3a3
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -24,7 +25,7 @@ Nu när du har byggt din första Adobe Developer App Builder-app kan du lära di
 
 ## Vem är den här videon till?
 
-* Utvecklare som är nybörjare på Adobe Commerce med begränsad erfarenhet av Adobe App Builder som har slutfört sin första Adobe Developer App Builder-app och vill lära sig mer.
+* Utvecklare som är nybörjare på Adobe Commerce och har begränsad erfarenhet av att använda Adobe App Builder som har slutfört sin första Adobe Developer App Builder-app och vill lära sig mer.
 
 ## Videoinnehåll
 
@@ -40,6 +41,6 @@ Nu när du har byggt din första Adobe Developer App Builder-app kan du lära di
 * [Utvärderingsversion av Adobe Developer App Builder](https://developer.adobe.com/app-builder/trial/){target="_blank"}
 * [Adobe Developer App Builder-dokument](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
 * [Adobe Developer App Builder-forum](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly){target="_blank"}
-* [Riktlinjer för Adobe Developer App Builder-bidrag](https://developer.adobe.com/app-builder/docs/guides/contribution_guides/){target="_blank"}
+* [Adobe Developer App Builder riktlinjer för bidrag](https://developer.adobe.com/app-builder/docs/guides/contribution_guides/){target="_blank"}
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

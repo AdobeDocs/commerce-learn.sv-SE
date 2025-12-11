@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: c916c94b-eb14-48c5-ad1d-695730135939
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
@@ -24,7 +25,7 @@ Lär dig hur du testar ditt nya Adobe Developer App Builder-program lokalt.
 
 ## Vem är den här videon till?
 
-* Utvecklare som är nybörjare på Adobe Commerce med begränsad erfarenhet av att använda Adobe App Builder och som vill testa sin första Adobe Developer App Builder-app.
+* Utvecklare som är nybörjare på Adobe Commerce och har begränsad erfarenhet av att använda Adobe App Builder som är redo att testa sin första Adobe Developer App Builder-app.
 
 ## Videoinnehåll
 

@@ -9,9 +9,11 @@ audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
-source-git-commit: aed143b96f13a413f85fc461e11f358b4c657015
+exl-id: e86e8c7b-d5d2-484d-90a2-9c5309c7ea1d
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -43,6 +45,6 @@ Lär dig mer om betydelsen av efterbehandlingsaktiviteter via postproceskroken, 
 * Lär dig vilken roll omvandlingskroken har när det gäller att omforma dataobjekt mellan ursprungs- och målsystemen.
 * Lär dig mer om betydelsen av den skicka kroken när det gäller att underlätta den faktiska datameddelandet som skickas till målsystemet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451924?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

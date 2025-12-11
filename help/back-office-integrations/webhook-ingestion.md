@@ -9,9 +9,11 @@ audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
-source-git-commit: 45c018813ed8d5487e1491e09afc34e2de39c5b2
+exl-id: f2654873-256e-4c1b-abed-8bfbc4db3fbb
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -20,7 +22,7 @@ ht-degree: 0%
 
 # Konfigurera, distribuera och anpassa en webkrok för inmatning
 
-Lär dig mer om hur du konfigurerar och anpassar en webkrok för att integrera Commerce med ett back office-system från tredje part. &#x200B; I den här videon förklaras hur webbhoven kan hantera begränsningar i händelsekommunikation mellan system genom att tillhandahålla en offentligt tillgänglig slutpunkt för att anpassa meddelanden från tredjepartssystemet till Adobe IO Eventing API. Processen innebär att konfigurera webkroken i filen `actions.config.yaml`, aktivera den i filen `app.config.yaml` och distribuera den för att säkerställa korrekt funktionalitet.
+Lär dig mer om hur du konfigurerar och anpassar en webkrok för att integrera Commerce med ett back office-system från tredje part. &#x200B; I den här videon förklaras hur webbokroken kan hantera begränsningar i händelsekommunikation mellan system genom att tillhandahålla en offentligt tillgänglig slutpunkt för att anpassa meddelanden från tredjepartssystemet till Adobe IO Eventing API. Processen innebär att konfigurera webkroken i filen `actions.config.yaml`, aktivera den i filen `app.config.yaml` och distribuera den för att säkerställa korrekt funktionalitet.
 
 I videon beskrivs stegen för hur du ändrar webbkrokkoden för att översätta tredjepartshändelser till format som är kompatibla med integreringens prenumererade händelsetyper. Det handlar om att lägga till en `event-mapping.json`-fil för att underlätta den här översättningen och betonar vikten av att omdistribuera körningsåtgärden efter att ändringarna har gjorts. &#x200B; I videon betonas också vikten av att validera och omvandla inkommande händelsenyttolaster så att de överensstämmer med det förväntade schemat, vilket säkerställer att bearbetningen och integreringen med Commerce-API:t fungerar för att skapa kunder.
 

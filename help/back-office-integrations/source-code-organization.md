@@ -9,17 +9,18 @@ audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 exl-id: 678f4d2b-c57e-4afb-a535-1048a88bc3b1
-source-git-commit: 6c5017b0c4bbafdd143b78b05cd92853efa7f831
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
 
 ---
 
-# Source-kodorganisation för Adobe Starter Kit
+# Source-kodsorganisation för Adobe Starter Kit
 
 Läs om källkodsorganisationen i startpaketet för Adobe Commerce Integration. &#x200B; Utforska projektets struktur och markera nyckelmappar som `actions` och `scripts` samt deras respektive innehåll. &#x200B; Mappen Actions innehåller undermappar som `ingestion` och `webhook` som innehåller viktig kod för händelsehantering och spårning. Du kommer också att lära dig mer om mapparna `starter-kit-info` och `scripts`. Mappen `scripts` fokuserar på automatiseringsskript som `commerce-event-subscribe` och `onboarding` som effektiviserar händelsekonfigurationen och providerinställningarna i projektet.
 &#x200B;

@@ -8,10 +8,11 @@ last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
 badge: label="Medverkad av Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Medverkad av Tony Evers"
 topic: Architecture, Commerce, Development
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
-source-git-commit: dacd43ef84dcb2c2633221a90642a469b2ff5a30
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '1119'
 ht-degree: 0%
@@ -31,7 +32,7 @@ I alla dessa scenarier är det tillrådligt att använda flera instanser av Adob
 1. **Olika butiksägare**: Om du underhåller kod för flera butiksägare, där var och en har en egen separat butik, kan det behövas separata instanser för att effektivt underhålla de enskilda kraven.
 2. **Efterlevnad av nationella bestämmelser**: Vissa bestämmelser föreskriver att kunddata måste lagras inom specifika regioner. I sådana fall är det nödvändigt med olika instanser för att säkerställa att dessa bestämmelser följs.
 3. **Operativa avvikelser mellan geografiska regioner**: Om du arbetar i flera regioner kan det innebära olika underhållsplaner och krav. Om du använder separata instanser kan du hantera dessa variationer på ett flexibelt sätt.
-4. **Försäljning av Flash med hög intensitet**: Butiker som säljer blixt i stor skala kräver ofta optimerade serverprestanda. Dedikerad infrastruktur som tillhandahålls av olika instanser säkerställer optimala prestanda under sådana efterfrågade perioder.
+4. **Flash-försäljning med hög intensitet**: Butiker som säljer storskalig blixt kräver ofta optimerade serverprestanda. Dedikerad infrastruktur som tillhandahålls av olika instanser säkerställer optimala prestanda under sådana efterfrågade perioder.
 5. **Betydande skillnader mellan varumärken eller länder**: När skillnaden mellan varumärken eller länder är stor, resulterar en enda instans i kod som bara används för vissa varumärken eller länder. Separata instanser kan förbättra prestanda och stabilitet genom att eliminera onödig kod för varumärken och länder som inte behöver den.
 
 ## Global Reference Architecture Patterns
@@ -50,7 +51,7 @@ När ett GRA-mönster inte används är varje Adobe Commerce-instans ett unikt p
 
 ### Det delade Git GRA-mönstret
 
-![En ikon som visar GRA-mönstret &quot;split&quot; &#x200B;](/help/assets/global-reference-architecture/split-git.png){align="center"}
+![En ikon som visar GRA-mönstret &quot;split&quot; ](/help/assets/global-reference-architecture/split-git.png){align="center"}
 
 Det här mönstret består av Git-databaser för utveckling och en Git-databas per instans. Varje fil i instansen lagras i en av utvecklingsdatabaserna. De förenas som en flest som utgör hela GRA. Varje kodrad finns bara i en enda utvecklingsdatabas och installeras till instanserna med hjälp av strecktekniken, vilket leder till att koden återanvänds.
 
@@ -66,7 +67,7 @@ Adobe Commerce kärnmoduler och tredjepartsmoduler installeras direkt via Compos
 
 ### GRA-mönstret för de separata paketen
 
-![En ikon som representerar GRA-mönstret&quot;Separata paket&quot; &#x200B;](/help/assets/global-reference-architecture/separate-packages.png){align="center"}
+![En ikon som representerar GRA-mönstret&quot;Separata paket&quot; ](/help/assets/global-reference-architecture/separate-packages.png){align="center"}
 
 Varje Adobe Commerce-modul, språkpaket eller tema installeras som ett separat dispositionspaket. Varje anpassning har en egen Git-databas. Det innebär total flexibilitet i instansens komposition och har tillförlitlig Composer-beroendehantering. För prestandaoptimering speglas alla paket i en enda privat dispositionsdatabas.
 
@@ -78,7 +79,7 @@ Varje Adobe Commerce-modul, språkpaket eller tema installeras som ett separat d
 
 All utveckling sker i en enda koddatabas. Automatisering genererar paket för nya versioner och publicerar dem i en databas för disposition. I mönstret kombineras de låga utvecklingskostnaderna för satsmetoden med flexibiliteten i metoden med separata paket. Monorepomönstret är också idealiskt för att köra automatiska funktionstester.
 
-![Ett diagram som visar var kod lagras i ett GRA-mönster för monorepo &#x200B;](/help/assets/global-reference-architecture/monorepo-gra-pattern-diagram.png){align="center"}
+![Ett diagram som visar var kod lagras i ett GRA-mönster för monorepo ](/help/assets/global-reference-architecture/monorepo-gra-pattern-diagram.png){align="center"}
 
 ## Välja ett GRA-mönster
 

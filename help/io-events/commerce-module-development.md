@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: e8103fe0-116a-499c-ae0a-3ad0511f44d0
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 # Utveckling av modulen Adobe Commerce
 
-Lär dig hur du registrerar händelser, hittar händelser som stöds och hur du använder en ny XML-fil `io_events.xml` i utvecklingen av anpassade moduler. I videon visas även hur utvecklare kan hitta registrerade händelser som kan användas och hur de kan avbryta prenumerationen på händelser som redan har definierats. Ytterligare dokumentation finns på [Installera Adobe I/O-händelser för Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Lär dig hur du registrerar händelser, hittar händelser som stöds och hur du använder en ny XML-fil `io_events.xml` i utvecklingen av anpassade moduler. I videon visas även hur utvecklare kan hitta registrerade händelser som kan användas och hur de kan avbryta prenumerationen på händelser som redan har definierats. Ytterligare dokumentation finns på [Installera Adobe I/O Events för Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Vem är den här videon till?
 
@@ -35,7 +36,7 @@ Lär dig hur du registrerar händelser, hittar händelser som stöds och hur du 
 * Lär dig hur du registrerar händelser i Commerce-instanser `app/etc/config.php`
 * Lär dig hur du avbryter prenumerationen på ett evenemang
 
->[!VIDEO](https://video.tv.adobe.com/v/3430654?quality=12&learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3415802?quality=12&learn=on)
 
 ## Användbara kommandon {#useful-commands}
 

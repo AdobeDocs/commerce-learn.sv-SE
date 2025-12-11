@@ -7,10 +7,11 @@ activity: use
 last-substantial-update: 2023-8-28
 feature: Backend Development, Tools and External Services, Logs
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 exl-id: 77e91f1b-b3ae-4c6d-bb6d-4fd7ebbb0baf
-source-git-commit: a2d644de420f9188be108fad36ae97dfbf1a75eb
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -33,7 +34,7 @@ Lär dig varför du använder pt-query-digest och några verkliga exempel för a
 - Lär dig mer om fördelarna och bristerna med den här Percona Toolkit-funktionen
 - Förstå resultaten och lär dig vilka möjliga prestandasteg som ska övervägas
 
->[!VIDEO](https://video.tv.adobe.com/v/3452296?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3423480?learn=on)
 
 ## Kodreferenser
 
