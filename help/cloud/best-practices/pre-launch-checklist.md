@@ -38,7 +38,7 @@ Om du har tilldelats ett CTA/CSE-konto kontaktar du dem och kontohanteraren mins
 1. Granska dokumentationen om testning och publicering [Dokumentation för att starta webbplatsen](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/overview){target="_blank"}
 
    >[!NOTE]
-   >Se till att en omfattande _&quot;go live readiness plan&quot;_ har förberetts fullständigt med din partner eller systemintegratör, med alla nödvändiga åtgärdsobjekt. Kom ihåg att i checklistan före start betonas Adobe bästa praxis, men _**ersätter inte**_ behovet av en egen beredskapsplan.
+   >Se till att en omfattande _&quot;go live readiness plan&quot;_ har förberetts fullständigt med din partner eller systemintegratör, med alla nödvändiga åtgärdsobjekt. Kom ihåg att i checklistan före start betonas Adobe bästa praxis, men _&#x200B;**ersätter inte**&#x200B;_ behovet av en egen beredskapsplan.
 
 2. [!BADGE Blockera]{type=caution tooltip="Potentiell blockerare"} Granska SWAT-rekommendationer (Support Insights) och information ([Användarhandbok](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro){target="_blank"})
 3. Slutanvändare/handlare utförde UAT (User Acceptance Testing), inklusive backend-operationer.
@@ -95,7 +95,7 @@ I Adobe Commerce Cloud används ett MariaDB Galera-kluster som databas för båd
 
 ## &#x200B;6. Distributioner
 
-1. Granska det idealiska läget för statisk innehållsdistribution (SCD) för att minska underhållstiden under distributioner i produktionsmiljön. Granska guiden [Statisk innehållsdistribution (SCD) ](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/deploy/static-content){target="_blank"} och [Lagra konfigurationshantering](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure-store/store-settings){target="_blank"}.
+1. Granska det idealiska läget för statisk innehållsdistribution (SCD) för att minska underhållstiden under distributioner i produktionsmiljön. Granska guiden [Statisk innehållsdistribution (SCD) &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/deploy/static-content){target="_blank"} och [Lagra konfigurationshantering](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure-store/store-settings){target="_blank"}.
 2. Granska minifilinställningarna för HTML, JavaScript och CSS. (Detta gäller inte PWA/Headless-webbplatser).
 3. Bekräfta att användningen av följande molnvariabler överensstämmer med deras avsedda ändamål. ([SCD_MATRIX](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build#scd_matrix){target="_blank"}, [SCD_ON_DEMAND](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-global#scd_on_demand){target="_blank"} och [SKIP_SCD](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-deploy#skip_scd){target="_blank"})
 

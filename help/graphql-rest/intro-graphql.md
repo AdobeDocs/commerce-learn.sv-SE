@@ -42,7 +42,7 @@ Traditionella webb-API:er som REST har fungerat bra för olika system som skicka
 GraphQL tillåter en klient att uttryckligen beskriva _exakt_ de data som krävs. I stället för att kräva flera nätverksbegäranden för hämtning av flera datatyper kan en enda begäran fråga efter många typer. Och svaren förblir smala genom att endast de typer och fält som efterfrågas tas med (i ett format som intuitivt återspeglar frågan).
 
 Körningsmiljön som implementerar GraphQL-specifikationen kan byggas på vilket språk som helst. Adobe Commerce och [!DNL Magento Open Source] använder
-[ graphql-php ](https://webonyx.github.io/graphql-php/){target="_blank"} PHP-implementering och skapar egna lager ovanpå den.
+[&#x200B; graphql-php &#x200B;](https://webonyx.github.io/graphql-php/){target="_blank"} PHP-implementering och skapar egna lager ovanpå den.
 
 [Visa den fullständiga GraphQL-dokumentationen](https://graphql.org/learn){target="_blank"}
 
