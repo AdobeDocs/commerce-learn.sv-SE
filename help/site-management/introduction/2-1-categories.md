@@ -1,16 +1,15 @@
 ---
-title: "[!DNL Commerce] för företagsanvändare - produktkategorier"
+title: '[!DNL Commerce] för företagsanvändare - produktkategorier'
 description: Lär dig hur du hanterar din produktkatalog genom att ställa in kategorier.
 kt: 5765
 doc-type: videos
 activity: use
 last-substantial-update: 2022-12-28T00:00:00Z
-feature: Configuration, System, Catalogs, Site Navigation
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 3d35891b-d85a-4e91-877a-a375f047892d
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: f8944c35f90deb00a80e0b20ad5557f4b0a3b472
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
@@ -18,6 +17,11 @@ ht-degree: 0%
 ---
 
 # [!DNL Commerce] för företagsanvändare - produktkategorier
+
+<!--
+validation failure
+feature: Configuration, System, Catalogs, Site Navigation
+-->
 
 I den här videon:
 
@@ -33,4 +37,4 @@ I den här videon:
 
 ## Ytterligare resurser
 
-[Kategorier - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/categories.html?lang=sv-SE)
+[Kategorier - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/categories.html)

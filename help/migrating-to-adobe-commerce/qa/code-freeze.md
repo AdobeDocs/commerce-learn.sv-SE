@@ -3,19 +3,19 @@ title: Frys kod
 description: Lär dig hur viktigt det är att implementera en kodfrysning under din Adobe Commerce-migrering. Säkerställ stabilitet, självförtroende och lyckad start genom att följa bästa praxis för kvalitetskontroll, testning och validering.
 feature: Best Practices
 topic: Commerce, Development
-role: Architect
+role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 199
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15993
-source-git-commit: 00b97157e20778d1eeaa30236b9d340cccaf3a38
+exl-id: dc1d609f-af81-44ea-b0f0-f48ed6fc8d47
+source-git-commit: f8944c35f90deb00a80e0b20ad5557f4b0a3b472
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
 
 ---
-
 
 # Migrera till Adobe Commerce - Code Freeze
 
@@ -35,4 +35,4 @@ Implementering av kodfrysning under Adobe Commerce-migreringen är avgörande f�
 * Samordna manuella och automatiserade tester, lastprovning och penetrationstestning för att säkerställa att alla aspekter av platsen fungerar som förväntat.
 * Engagera intressenter, utvecklare och IT-team i valideringsprocessen för att säkerställa en smidig och framgångsrik start.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445489/?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3432965/?learn=on)
