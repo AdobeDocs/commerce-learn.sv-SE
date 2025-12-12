@@ -35,12 +35,12 @@ I den här videon:
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=sv-SE).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35956?quality=12&learn=on)
 
 ## Ytterligare resurser
 
-[Enkel produkt - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-simple.html)
+[Enkel produkt - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-simple.html?lang=sv-SE)
 
-[Attributuppsättningar - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)
+[Attributuppsättningar - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=sv-SE)

@@ -37,12 +37,12 @@ I den här videon:
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=sv-SE).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35959?quality=12&learn=on)
 
 ## Ytterligare resurser
 
-[Presentkortsprodukt - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html)
-[Köp och inlösen av presentkort - [!DNL Commerce] Handbok för butiker och inköpsupplevelser](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/gift-cards/product-gift-card-workflow.html)
+[Presentkortsprodukt - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html?lang=sv-SE)
+[Köp och inlösen av presentkort - [!DNL Commerce] Handbok för butiker och inköpsupplevelser](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/gift-cards/product-gift-card-workflow.html?lang=sv-SE)
 
