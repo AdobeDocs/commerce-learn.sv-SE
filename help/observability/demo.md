@@ -33,7 +33,7 @@ Titta på en live-demo av observerbarhet i Adobe Commerce. Denna demo visar hur 
 * Förklarar korrelationen mellan webbhocker och händelser för spårbarhet
 * Visar integrering med Grafana och New Relic för loggar och spår
 
->[!VIDEO](https://video.tv.adobe.com/v/3477867?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477871?captions=swe&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 
