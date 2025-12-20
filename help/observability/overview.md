@@ -33,7 +33,7 @@ Se varför centraliserad observerbarhet är avgörande för moderna Adobe Commer
 * Centraliserad observerbarhet är avgörande: Korrelera loggar och mätvärden för alla komponenter.
 * Förbättra utcheckningsprestanda: Identifiera flaskhalsar snabbt för att hålla köpet smidigt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478286?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478292?captions=swe&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

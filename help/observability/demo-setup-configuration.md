@@ -33,7 +33,7 @@ Lär dig hur du får en total observerbarhet i alla Adobe Commerce-program och a
 * Använd Commerce observationsmodul för automatiska signaler
 * Utöka övervakningen med IO Live Telemetry Library för appar
 
->[!VIDEO](https://video.tv.adobe.com/v/3478288?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478338?captions=swe&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 
