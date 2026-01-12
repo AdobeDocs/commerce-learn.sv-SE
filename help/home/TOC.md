@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 1aaf018e8bed6122cc2dd3a03ebdffdbf0e539fa
+source-git-commit: f54e9b57d07043f2ca8eca67b895f6b738a4fa21
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '998'
 ht-degree: 2%
 
 ---
@@ -47,6 +47,20 @@ ht-degree: 2%
    + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
       + [Ökning](../commerce-as-a-cloud-service/overview.md)
       + [Arkitektur](../commerce-as-a-cloud-service/architecture.md)
+      + Produktöversikt{#product-overview}
+         + [Introduktion](../commerce-as-a-cloud-service/product-overview/introduction.md)
+         + [Installationsversion](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
+         + [Skapa innehåll](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
+         + [Lokalisera och schemalägg innehåll](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
+         + [Skapa material med GenAI](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
+         + [Kataloghanterings- och marknadsföringstjänster](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
+         + [Commerce storefront-experiment](../commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation.md)
+         + [Commerce store speed](../commerce-as-a-cloud-service/product-overview/commerce-storefront-speed.md)
+         + [Marknadsföringsaffär - hela kundresan](../commerce-as-a-cloud-service/product-overview/commerce-storefront-full-shopper-journey.md)
+         + [Kompositbar butiksarkitektur och modulär arkitektur](../commerce-as-a-cloud-service/product-overview/composable-storefront-and-modular-architecture.md)
+         + [Utbyggbarhet](../commerce-as-a-cloud-service/product-overview/extensibility.md)
+         + [Modernisering och migration](../commerce-as-a-cloud-service/product-overview/modernization-and-migration.md)
+         + [stänger](../commerce-as-a-cloud-service/product-overview/closing.md)
    + Migrera till Adobe Commerce{#migrating-to-adobe-commerce}
       + [Ökning](../migrating-to-adobe-commerce/overview.md)
       + Förberedelse{#preparation}
@@ -259,7 +273,7 @@ ht-degree: 2%
    + [Översikt över verktyget Kompatibilitet för uppgradering](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Använda verktyget Kompatibilitet för uppgradering i PHP Storm](../upgrade/uct-phpstorm.md)
 + Back-end Development {#backend-development}
-   + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=sv-SE)
+   + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Skapa en modul](../backend-development/create-module.md)
    + [Lägg till ett produktattribut](../backend-development/add-product-attribute.md)
    + [Exempel på beroendeinjektion](../backend-development/dependency-injection.md)
