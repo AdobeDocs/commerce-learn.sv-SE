@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: b515a9044cb6610fb7096ef50c0a398bcf71bc44
+source-git-commit: ba2331d38d7595ade9a1d1314c105ae4101147b7
 workflow-type: tm+mt
-source-wordcount: '993'
+source-wordcount: '988'
 ht-degree: 2%
 
 ---
@@ -162,7 +162,6 @@ ht-degree: 2%
    + [Installera program från Adobe Exchange](../app-builder/install-app-builder-app.md)
    + [Introduktion till App Builder](../app-builder/introduction-to-app-builder.md)
    + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
-   + [Teknisk översikt för App Builder](../app-builder/app-builder-technical-overview.md)
    + Bygg din första App Builder-app {#first-app}
       + [Ökning](../app-builder/first-app/overview.md)
       + [Generera och konfigurera .env-filen](../app-builder/first-app/env-file.md)
@@ -272,7 +271,7 @@ ht-degree: 2%
    + [Översikt över verktyget Kompatibilitet för uppgradering](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Använda verktyget Kompatibilitet för uppgradering i PHP Storm](../upgrade/uct-phpstorm.md)
 + Back-end Development {#backend-development}
-   + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=sv-SE)
+   + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Skapa en modul](../backend-development/create-module.md)
    + [Lägg till ett produktattribut](../backend-development/add-product-attribute.md)
    + [Exempel på beroendeinjektion](../backend-development/dependency-injection.md)
