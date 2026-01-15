@@ -9,14 +9,15 @@ feature: Catalog Management, Catalog Service, Services
 topic: Architecture, Commerce, Headless, Performance
 role: Admin, Leader, User
 level: Beginner
-source-git-commit: a747277312b158feea30e241e6f9d9af8058af65
+exl-id: 63450575-b15c-4f26-82ec-36fae5d62127
+source-git-commit: 3336d73e601f55c8be76616c52f087b0a067913e
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
 
-# Adobe Commerce som tjänstearkitektur
+# Adobe Commerce as a Cloud Service-arkitektur
 
 Adobe Commerce som molntjänst erbjuder en säker, automatiserad värdplattform med självbetjäningsfunktioner för hantering av e-handelsapplikationer. Viktiga funktioner är mediehantering via Adobe Experience Manager, omfattande API-täckning med GraphQL och REST API:er samt intelligenta marknadsföringstjänster. Plattformen har stöd för en helt headlessarkitektur, vilket gör att utvecklare kan använda olika frontramverk som React och Angular. Det är också en modern, headlessbutik med dokumentbaserad redigering och inbyggd A/B-testning. Dessutom kan Adobe Commerce integreras med Adobe Experience Cloud för skräddarsydda e-handelsupplevelser och erbjuder omfattande verktyg för utvecklare, inklusive Adobe Developer App Builder och API-nät.
 
@@ -38,4 +39,4 @@ Läs om arkitekturen och de viktigaste funktionerna i Adobe Commerce som molntj�
 * Omfattande API-täckning: Plattformen har stöd för omfattande API-täckning med GraphQL- och REST-API:er, vilket möjliggör smidig integrering med tredjepartssystem.
 * Headless Architecture: Med en helt fristående arkitektur kan utvecklare använda olika frontramverk, vilket ger flexibilitet och prestanda.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443271?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3443232?learn=on)
