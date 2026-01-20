@@ -1,5 +1,5 @@
 ---
-title: Den ultimata upplevelsestyrda plattformen för exceptionella affärsresultat
+title: Ultimate Experience Led Platform för exceptionella affärsresultat
 description: Upptäck Adobe Commerce avancerade sök- och kataloghantering, som bygger på AI, för att optimera e-handelsupplevelserna för både B2B- och B2C-kunder.
 feature: B2B, Catalog Management, Promotions/Events, Search
 topic: Administration, Architecture, Commerce
@@ -9,17 +9,17 @@ doc-type: Technical Video
 duration: 1227
 last-substantial-update: 2024-09-09T00:00:00Z
 jira: KT-16201
-source-git-commit: 0f8faa05e44b49ade6d09291106ea331afccff18
+exl-id: cd8485ca-86d9-4306-8767-7b0b4e319117
+source-git-commit: f7019a524a6978908fdd50d93eb0fbe0b5f032a4
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '476'
 ht-degree: 0%
 
 ---
 
-
 # Upplev ledande data och kampanjer  
 
-Läs om Adobe Commerce avancerade sökfunktioner, som bygger på Adobe Sensei, och dess robusta kataloghanteringsfunktioner. Lär dig mer om några av de höjdpunkter som AI-driven sökoptimering, faceting och varuexponering ger för att förbättra användarupplevelsen. &#x200B; Dessutom får du lära dig mer om produktpaketering, kampanjhantering och smidig integrering med tredjepartssystem, vilket ger en heltäckande lösning för både B2B- och B2C-e-handelsbehov.
+Läs om Adobe Commerce avancerade sökfunktioner, som bygger på Adobe AI, och dess robusta kataloghanteringsfunktioner. Lär dig mer om några av de höjdpunkter som AI-driven sökoptimering, faceting och varuexponering ger för att förbättra användarupplevelsen. &#x200B; Dessutom får du lära dig mer om produktpaketering, kampanjhantering och smidig integrering med tredjepartssystem, vilket ger en heltäckande lösning för både B2B- och B2C-e-handelsbehov.
 
 ## Vem är de här videorna till?
 
@@ -38,11 +38,11 @@ Upptäck Adobe Commerce kraftfulla kataloghanteringsverktyg för e-handelsadmini
 - Avancerad integrering och anpassning.
 - Förbättrad shoppingupplevelse.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434068?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3434039?learn=on)
 
 ## Live Search
 
-Upptäck de avancerade sökfunktionerna i Adobe Commerce, som bygger på Adobe Sensei AI-baserade Live Search. &#x200B; Denna robusta SaaS-lösning förbättrar e-handelsupplevelsen genom att leverera ytterst relevanta sökresultat snabbt och effektivt. &#x200B; Marknadsförare och marknadsförare kan optimera sökresultaten med verktyg som avancerade sökregler, synonymer och facets. Live Search ger realtidsförslag, intelligent rankning och anpassningsbara sökupplevelser, vilket säkerställer att kunderna hittar det de behöver. &#x200B; Det har också stöd för B2B-modeller med delade kataloger och specifika priser, vilket gör det till en mångsidig lösning för alla affärsbehov.
+Upptäck de avancerade sökfunktionerna i Adobe Commerce Live Search, som drivs av Adobe AI. &#x200B; Denna robusta SaaS-lösning förbättrar e-handelsupplevelsen genom att leverera ytterst relevanta sökresultat snabbt och effektivt. &#x200B; Marknadsförare och marknadsförare kan optimera sökresultaten med verktyg som avancerade sökregler, synonymer och facets. Live Search ger realtidsförslag, intelligent rankning och anpassningsbara sökupplevelser, vilket säkerställer att kunderna hittar det de behöver. &#x200B; Det har också stöd för B2B-modeller med delade kataloger och specifika priser, vilket gör det till en mångsidig lösning för alla affärsbehov.
 
 ## Videoinnehåll för live-sökning
 
@@ -50,7 +50,7 @@ Upptäck de avancerade sökfunktionerna i Adobe Commerce, som bygger på Adobe S
 - Skräddarsydd sökupplevelse: Funktioner som avancerade sökregler, synonymer och ansikten ger en skräddarsydd och optimerad sökupplevelse för kunderna.
 - B2B-integrering: Live Search har stöd för B2B-modeller med delade kataloger och specifika priser, vilket förbättrar dess mångsidighet för olika affärsbehov.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434046?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3434040?learn=on)
 
 ## Erbjudanden  
 
@@ -62,5 +62,5 @@ Adobe Commerce ger butikscheferna möjlighet att enkelt skapa och hantera produk
 - Avancerade kampanjstrategier.
 - Smidig integrering med tredjepartssystem, vilket ger ökad flexibilitet och automatisering.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434057?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3434041?learn=on)
 >
