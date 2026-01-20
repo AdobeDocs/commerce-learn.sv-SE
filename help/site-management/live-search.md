@@ -35,7 +35,7 @@ Det här är en kort introduktion till [!DNL Live Search] från Adobe Commerce. 
 
 ## Ytterligare resurser
 
-- [Fullständig demonstration av Live-sökning](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/capabilities/live-search-full-demonstration.html){target="_blank"}
-- [[!DNL Live Search] för rekommendationer](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html){target="_blank"}
-- [[!DNL Live Search] översikt](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html){target="_blank"}
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
+- [Fullständig demonstration av Live-sökning](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/capabilities/live-search-full-demonstration.html?lang=sv-SE){target="_blank"}
+- [[!DNL Live Search] för rekommendationer](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html?lang=sv-SE){target="_blank"}
+- [[!DNL Live Search] översikt](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=sv-SE){target="_blank"}
+- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=sv-SE){target="_blank"}
