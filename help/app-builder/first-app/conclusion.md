@@ -40,7 +40,7 @@ Nu när du har byggt din första Adobe Developer App Builder-app kan du lära di
 * [Adobe Developer App Builder](https://developer.adobe.com/app-builder/){target="_blank"}
 * [Utvärderingsversion av Adobe Developer App Builder](https://developer.adobe.com/app-builder/trial/){target="_blank"}
 * [Adobe Developer App Builder-dokument](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
-* [Adobe Developer App Builder-forum](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly){target="_blank"}
+* [Adobe Developer App Builder-forum](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly?profile.language=sv){target="_blank"}
 * [Adobe Developer App Builder riktlinjer för bidrag](https://developer.adobe.com/app-builder/docs/guides/contribution_guides/){target="_blank"}
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

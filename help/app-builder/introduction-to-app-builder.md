@@ -90,6 +90,6 @@ Vill du börja utveckla? Följande länk innehåller exempelprogram som hjälper
 
 ## Support {#support}
 
-Använd [Experience League-forumet](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} för att få hjälp med supportförfrågningar från utvecklare.
+Använd [Experience League-forumet](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly?profile.language=sv){target="_blank"} för att få hjälp med supportförfrågningar från utvecklare.
 
 {{$include /help/_includes/app-builder-related-links.md}}
