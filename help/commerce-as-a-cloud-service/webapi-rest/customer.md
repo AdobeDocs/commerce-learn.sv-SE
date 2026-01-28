@@ -32,7 +32,7 @@ Lär dig använda nya REST API:er för kunder i Adobe Commerce as a Cloud Servic
 * Använd rätt REST API-slutpunktsformat för Commerce as a Cloud Service
 * Skapa och uppdatera kundkonton programmatiskt med POST- och PUT-begäranden med rätt JSON-nyttolaster
 
->[!VIDEO](https://video.tv.adobe.com/v/3479361/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479366/?captions=swe&learn=on&enablevpops)
 
 ## Kodexempel
 
