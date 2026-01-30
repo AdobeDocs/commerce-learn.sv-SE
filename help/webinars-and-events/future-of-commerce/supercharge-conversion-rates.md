@@ -41,5 +41,5 @@ Upptäck hur Adobe Commerce håller på att förvandla digitala butiker med de s
 ## Fler videoklipp i den här serien
 
 [Nya produktmeddelanden](./new-product-announcements.md)
-[Minska kostnaderna dramatiskt ](./drastically-cut-costs.md)
+[Minska kostnaderna dramatiskt &#x200B;](./drastically-cut-costs.md)
 [Snabbspårsexpansion](fast-track-expansion.md)
