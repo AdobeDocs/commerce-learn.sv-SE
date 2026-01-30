@@ -1,5 +1,5 @@
 ---
-title: Omvandla din butik med Adobe Commerce Optimizer
+title: Översikt för Adobe Commerce Optimizer
 description: Läs om hur Adobe Commerce Optimizer kan förbättra din butik med höga prestanda, ökad trafik och smidig integrering.
 feature: Saas, Storefront
 topic: Commerce, Performance
@@ -10,9 +10,9 @@ duration: 180
 last-substantial-update: 2025-03-6
 jira: KT-17420
 exl-id: e6a59ee0-3e13-41c0-a189-402bf8554f8e
-source-git-commit: aa80d0af5e08fc9ebf09b09b2dd156d91a87ebc7
+source-git-commit: f10c46f29a138e2d2b6b6c80b24111543db821f7
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -33,8 +33,8 @@ Adobe Commerce Optimizer förbättrar sina befintliga handelsplattformar genom a
 * Smidig integrering med befintliga ERP-, CRM-, OMS-system och andra system utan behov av ombyggnad.
 * Skalar digitala åtgärder
 
->[!VIDEO](https://video.tv.adobe.com/v/3450467?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3450226?learn=on)
 
 ## Ytterligare resurser
 
-[[!DNL Adobe Commerce Optimizer] Guide](https://experienceleague.adobe.com/sv/docs/commerce/optimizer/overview){target="_blank"}
+[[!DNL Adobe Commerce Optimizer] Guide](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
