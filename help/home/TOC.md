@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 3bc038fb3af74822c3ab4cbc6d4fdc2c81442b14
+source-git-commit: 6c512ca371bb3721b3e6ef4fdd66b1620bc176f0
 workflow-type: tm+mt
-source-wordcount: '990'
+source-wordcount: '945'
 ht-degree: 2%
 
 ---
@@ -96,18 +96,6 @@ ht-degree: 2%
       + [Integrering med sista milstolpen](../back-office-integrations/last-mile-integration.md)
       + [Webkrok-förtäring](../back-office-integrations/webhook-ingestion.md)
       + [Återförsöksmekanism](../back-office-integrations/retry-mechanism.md)
-+ Adobe Commerce Optimizer {#adobe-commerce-optimizer}
-   + [Ökning](../adobe-commerce-optimizer/overview.md)
-   + [Skapa din första instans av Adobe Commerce Optimizer](../adobe-commerce-optimizer/create-first-instance.md)
-   + [Hantera Adobe Commerce Optimizer-instanser](../adobe-commerce-optimizer/managing-instances.md)
-   + [Samplingsdata](../adobe-commerce-optimizer/ingest-sample-data.md)
-   + [Första frågan med GraphQL](../adobe-commerce-optimizer/first-query.md)
-   + Salesforce Commerce cloud starter kit {#sfcc-starter-kit}
-      + [Ökning](../adobe-commerce-optimizer/sfcc-starter-kit/overview.md)
-      + [Arkitektur - översikt](../adobe-commerce-optimizer/sfcc-starter-kit/architecture-overview.md)
-      + [Installation av SFCC-patron](../adobe-commerce-optimizer/sfcc-starter-kit/installation-sfcc-cartridge.md)
-      + [Startpaket för App Builder](../adobe-commerce-optimizer/sfcc-starter-kit/app-builder-starter-kit.md)
-      + [Avsluta demo](../adobe-commerce-optimizer/sfcc-starter-kit/end-to-end-demo.md)
 + Observationer {#observability}
    + [Översikt över observationer](../observability/overview.md)
    + [Öppna telemetri](../observability/open-telemetry.md)
@@ -273,7 +261,7 @@ ht-degree: 2%
    + [Översikt över verktyget Kompatibilitet för uppgradering](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Använda verktyget Kompatibilitet för uppgradering i PHP Storm](../upgrade/uct-phpstorm.md)
 + Back-end Development {#backend-development}
-   + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=sv-SE)
+   + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Skapa en modul](../backend-development/create-module.md)
    + [Lägg till ett produktattribut](../backend-development/add-product-attribute.md)
    + [Exempel på beroendeinjektion](../backend-development/dependency-injection.md)
