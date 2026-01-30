@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 6c512ca371bb3721b3e6ef4fdd66b1620bc176f0
+source-git-commit: 2a85225a77ab92def17b30cd96aa0c2c6f79d083
 workflow-type: tm+mt
-source-wordcount: '945'
+source-wordcount: '864'
 ht-degree: 2%
 
 ---
@@ -120,29 +120,7 @@ ht-degree: 2%
       + [Anpassa utcheckning](../edge-delivery-services/customize-checkout.md)
       + [Anpassa en adresslayout](../edge-delivery-services/customize-address-new-account-link.md)
       + [Shoppingupplevelse](../edge-delivery-services/shopper-experience.md)
-+ Webbinarier och event {#webinars-and-events}
-   + Affärstillväxt {#business-growth}
-      + [AI Innovation](../business-growth/ai-innovation.md)
-      + [Vision framåt](../business-growth/vision-forward.md)
-      + [Produktanvändning](../business-growth/product-adoption.md)
-   + Framtiden för Commerce {#future-of-commerce}
-      + [Nya produktmeddelanden](../future-of-commerce/new-product-announcements.md)
-      + [Minska kostnaderna drastiskt](../future-of-commerce/drastically-cut-costs.md)
-      + [Överlägsna konverteringsgrader](../future-of-commerce/supercharge-conversion-rates.md)
-      + [Fast Track-expansion](../future-of-commerce/fast-track-expansion.md)
-   + Aktivera serie {#enablement-series}
-      + [Sänk innehållsförteckningen för Commerce-integreringar](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
-      + [Planera den moderna Adobe Commerce-implementeringen](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
-      + [Starta, efter start, övervaka och felsöka](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
-      + [Edge Delivery Services med Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
-   + Commerce Conversations {#commerce-conversations}
-      + [Vad är expertframgångar?](../commerce-conversations/what-is-expert-success.md)
-      + [Commerce supporttillägg](../commerce-conversations/commerce-support-add-ons.md)
-      + [Vilken framgång är bäst?](../commerce-conversations/what-is-ultimate-success.md)
-      + [Success Accelerators tekniska beredskap](../commerce-conversations/success-accelerators-technical-readiness.md)
-      + [Success Accelerators införande och aktivering](../commerce-conversations/success-accelerators-adoption-and-enablement.md)
-      + [Success Accelerators organisation beredskap](../commerce-conversations/success-accelerators-organizational-readiness.md)
-      + [Delat ansvar](../commerce-conversations/shared-responsibility.md)
+
 + GraphQL och REST {#graphql-rest}
    + [Grundläggande om GraphQL](../graphql-rest/intro-graphql.md)
    + [Frågor](../graphql-rest/graphql-queries.md)
@@ -261,7 +239,7 @@ ht-degree: 2%
    + [Översikt över verktyget Kompatibilitet för uppgradering](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Använda verktyget Kompatibilitet för uppgradering i PHP Storm](../upgrade/uct-phpstorm.md)
 + Back-end Development {#backend-development}
-   + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=sv-SE)
+   + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Skapa en modul](../backend-development/create-module.md)
    + [Lägg till ett produktattribut](../backend-development/add-product-attribute.md)
    + [Exempel på beroendeinjektion](../backend-development/dependency-injection.md)
