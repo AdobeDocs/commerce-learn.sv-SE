@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 6d60f35abdffb4fc828832dfc3eb25ab0dc9caa7
+source-git-commit: 3592fb0e022fcbecc100e64547c4ceea4b26e7ee
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '850'
 ht-degree: 2%
 
 ---
@@ -71,11 +71,7 @@ ht-degree: 2%
          + [Kodstandarder under bearbetning](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
       + QA{#qa}
          + [Frys kod](../migrating-to-adobe-commerce/qa/code-freeze.md)
-   + Global referensarkitektur{#global-reference-architecture}
-      + [Global referensarkitektur](../global-reference-architecture/what-is-global-reference-architecture.md)
-      + [Utnyttja den globala referensarkitekturen](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
-      + [Arkitekt GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
-      + [Implementera global referensarkitektur](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
+
    + Commerce Capabilities {#capabilities}
       + [Dataanslutning](../capabilities/data-connection.md)
       + [Fullständig demonstration av Live Search](../capabilities/live-search-full-demonstration.md)
@@ -99,7 +95,7 @@ ht-degree: 2%
 
 + Utbyggbarhet {#extensibility}
    + Back-end Development {#backend-development}
-      + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=sv-SE)
+      + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Skapa en modul](../backend-development/create-module.md)
       + [Lägg till ett produktattribut](../backend-development/add-product-attribute.md)
       + [Exempel på beroendeinjektion](../backend-development/dependency-injection.md)
