@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 2a85225a77ab92def17b30cd96aa0c2c6f79d083
+source-git-commit: 6d60f35abdffb4fc828832dfc3eb25ab0dc9caa7
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '866'
 ht-degree: 2%
 
 ---
@@ -96,6 +96,89 @@ ht-degree: 2%
       + [Integrering med sista milstolpen](../back-office-integrations/last-mile-integration.md)
       + [Webkrok-förtäring](../back-office-integrations/webhook-ingestion.md)
       + [Återförsöksmekanism](../back-office-integrations/retry-mechanism.md)
+
++ Utbyggbarhet {#extensibility}
+   + Back-end Development {#backend-development}
+      + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
+      + [Skapa en modul](../backend-development/create-module.md)
+      + [Lägg till ett produktattribut](../backend-development/add-product-attribute.md)
+      + [Exempel på beroendeinjektion](../backend-development/dependency-injection.md)
+      + [Långsam replikering för Galera Cluster](../backend-development/galera-db-slow-replication.md)
+      + [MySQL-frågecache](../backend-development/mysql-query-cache.md)
+      + [PT-frågesammandrag](../backend-development/pt-query-digest.md)
+      + [Ansluta till och hämta Adobe Commerce-databasen](../backend-development/remote-db-connection-execute-queries.md)
+      + Commerce Upgrades {#upgrade}
+         + [Adobe Commerce 2.4 Upgrade Workshop](../upgrade/2-4-upgrade-workshop.md)
+         + [Översikt över verktyget Kompatibilitet för uppgradering](../upgrade/upgrade-compatibility-tool-overview.md)
+         + [Använda verktyget Kompatibilitet för uppgradering i PHP Storm](../upgrade/uct-phpstorm.md)
+   + Front-end Luma Development {#frontend-development}
+      + PaaS/SaaS Page Builder för utvecklare {#page-builder}
+         + [1 - Introduktion](../frontend-development/page-builder/1-intro-case-studies.md)
+         + [2 - Konfiguration och innehåll](../frontend-development/page-builder/2-config-create-content.md)
+         + [3 - Teman](../frontend-development/page-builder/3-themes.md)
+         + [4 - Mallar och format](../frontend-development/page-builder/4-admin-templates-apply-styles.md)
+         + [5 - Egna teman](../frontend-development/page-builder/5-customize-theme.md)
+         + [6 - Anpassade innehållstyper](../frontend-development/page-builder/6-custom-content-types.md)
+      + [Lägga till en JavaScript-modul](../frontend-development/add-javascript-module.md)
+      + [Skapa en sida](../frontend-development/create-page.md)
+      + Edge Delivery Services {#edge-delivery-services}
+         + Komma igång {#getting-started}
+            + [Ändra transaktionsflöde](../edge-delivery-services/transactional-flow.md)
+            + [Använd produktattribut för varukorgsartiklar](../edge-delivery-services/product-attributes-cart-items.md)
+            + [Uppdatera ordersammanfattningen i kassan](../edge-delivery-services/update-order-summary.md)
+            + [Lägga till BOPIS i kassan](../edge-delivery-services/add-bopis-to-checkout.md)
+            + [Anpassa utcheckning](../edge-delivery-services/customize-checkout.md)
+            + [Anpassa en adresslayout](../edge-delivery-services/customize-address-new-account-link.md)
+            + [Shoppingupplevelse](../edge-delivery-services/shopper-experience.md)
+      + Headless Architecture {#headless-architecture}
+         + Introduktion till headless {#introduction-to-headless}
+            + [Arkitektur utan rubrik - session 1](../headless/session-1.md)
+         + Introduktion till PWA Studio {#introduction}
+            + [1 - Översikt](../pwa/introduction/1-overview.md)
+            + [2 - PWA STUDIO](../pwa/introduction/2-pwa-studio-tools.md)
+            + [3 - Starta](../pwa/introduction/3-launch.md)
+            + [4 - UPPÅT](../pwa/introduction/4-upward.md)
+            + [5 - Komma igång](../pwa/introduction/5-getting-started.md)
+            + [6 - Peregrin](../pwa/introduction/6-peregrine.md)
+         + [PWA Docker Development](../pwa/pwa-docker-development.md)
+         + [Konfigurera Venia för utveckling](../pwa/set-up-venia-for-dev.md)
+   + GraphQL och REST {#graphql-rest}
+      + [Grundläggande om GraphQL](../graphql-rest/intro-graphql.md)
+      + [Frågor](../graphql-rest/graphql-queries.md)
+      + [Mutationer](../graphql-rest/graphql-mutations.md)
+      + [Schema](../graphql-rest/graphql-schema.md)
+   + Adobe Developer App Builder {#adobe-developer-app-builder}
+      + [Installera program från Adobe Exchange](../app-builder/install-app-builder-app.md)
+      + [Introduktion till App Builder](../app-builder/introduction-to-app-builder.md)
+      + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
+      + Bygg din första App Builder-app {#first-app}
+         + [Ökning](../app-builder/first-app/overview.md)
+         + [Generera och konfigurera .env-filen](../app-builder/first-app/env-file.md)
+         + [Beskrivning och användning av filen app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
+         + [Läs mer om åtgärdsmappen](../app-builder/first-app/actions-folder.md)
+         + [Läs mer om testmappen](../app-builder/first-app/test-folder.md)
+         + [Upptäck syftet med webbmappen](../app-builder/first-app/web-src-folder.md)
+         + [Testa lokalt](../app-builder/first-app/testing-locally.md)
+         + [Testa med App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
+         + [Slutsats](../app-builder/first-app/conclusion.md)
+         + [Källkod för exempelmodul](https://github.com/magento/app-builder-samples){target="_blank"}
+      + IO-händelser för Adobe Commerce {#io-events}
+         + [Komma igång med IO-händelser](../io-events/getting-started-io-events.md)
+         + [Installation av Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
+         + [Installation av Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
+         + [Skapa ett App Builder-projekt](../io-events/create-app-builder-project.md)
+         + [Konfigurera Adobe Commerce](../io-events/configure-commerce.md)
+         + [Adobe Commerce modulutveckling](../io-events/commerce-module-development.md)
+         + [Adobe Commerce villkorsstyrda evenemang](../io-events/conditional-events.md)
+   + API-nät {#api-mesh}
+      + [Startkit för API-nät med GitHub-koordinater](../api-mesh/starter-kit-github-codespaces.md)
+      + [Startkit-arbetsflöden för API-nät](../api-mesh/starter-kit-workflows.md)
+      + [Kom igång med API Mesh](../api-mesh/getting-started-api-mesh.md)
+      + [Installera Adobe IO och nätplugin](../api-mesh/installing-aio-mesh-plugin.md)
+      + [Arbeta med projekt och arbetsytor](../api-mesh/aio-projects-workspaces.md)
+      + [Skapa GraphQL API-nät med en källa](../api-mesh/graphql-single-source.md)
+      + [Skapa GraphQL API-nät med flera källor](../api-mesh/graphql-multiple-source.md)
+
 + Observationer {#observability}
    + [Översikt över observationer](../observability/overview.md)
    + [Öppna telemetri](../observability/open-telemetry.md)
@@ -111,52 +194,7 @@ ht-degree: 2%
    + [Skapa en supportanmälan](../help-and-support/create-a-support-ticket.md)
    + [Sök, spåra, kommentera och eskalera supportanmälan](../help-and-support/search-track-comment-escalate-support-ticket.md)
    + [Lägga till och ta bort bevakare, stänga och öppna en biljett igen](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
-+ Edge Delivery Services {#edge-delivery-services}
-   + Komma igång {#getting-started}
-      + [Ändra transaktionsflöde](../edge-delivery-services/transactional-flow.md)
-      + [Använd produktattribut för varukorgsartiklar](../edge-delivery-services/product-attributes-cart-items.md)
-      + [Uppdatera ordersammanfattningen i kassan](../edge-delivery-services/update-order-summary.md)
-      + [Lägga till BOPIS i kassan](../edge-delivery-services/add-bopis-to-checkout.md)
-      + [Anpassa utcheckning](../edge-delivery-services/customize-checkout.md)
-      + [Anpassa en adresslayout](../edge-delivery-services/customize-address-new-account-link.md)
-      + [Shoppingupplevelse](../edge-delivery-services/shopper-experience.md)
 
-+ GraphQL och REST {#graphql-rest}
-   + [Grundläggande om GraphQL](../graphql-rest/intro-graphql.md)
-   + [Frågor](../graphql-rest/graphql-queries.md)
-   + [Mutationer](../graphql-rest/graphql-mutations.md)
-   + [Schema](../graphql-rest/graphql-schema.md)
-+ Adobe Developer App Builder {#adobe-developer-app-builder}
-   + [Installera program från Adobe Exchange](../app-builder/install-app-builder-app.md)
-   + [Introduktion till App Builder](../app-builder/introduction-to-app-builder.md)
-   + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
-   + Bygg din första App Builder-app {#first-app}
-      + [Ökning](../app-builder/first-app/overview.md)
-      + [Generera och konfigurera .env-filen](../app-builder/first-app/env-file.md)
-      + [Beskrivning och användning av filen app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
-      + [Läs mer om åtgärdsmappen](../app-builder/first-app/actions-folder.md)
-      + [Läs mer om testmappen](../app-builder/first-app/test-folder.md)
-      + [Upptäck syftet med webbmappen](../app-builder/first-app/web-src-folder.md)
-      + [Testa lokalt](../app-builder/first-app/testing-locally.md)
-      + [Testa med App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
-      + [Slutsats](../app-builder/first-app/conclusion.md)
-      + [Källkod för exempelmodul](https://github.com/magento/app-builder-samples){target="_blank"}
-   + IO-händelser för Adobe Commerce {#io-events}
-      + [Komma igång med IO-händelser](../io-events/getting-started-io-events.md)
-      + [Installation av Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
-      + [Installation av Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
-      + [Skapa ett App Builder-projekt](../io-events/create-app-builder-project.md)
-      + [Konfigurera Adobe Commerce](../io-events/configure-commerce.md)
-      + [Adobe Commerce modulutveckling](../io-events/commerce-module-development.md)
-      + [Adobe Commerce villkorsstyrda evenemang](../io-events/conditional-events.md)
-+ API-nät {#api-mesh}
-   + [Startkit för API-nät med GitHub-koordinater](../api-mesh/starter-kit-github-codespaces.md)
-   + [Startkit-arbetsflöden för API-nät](../api-mesh/starter-kit-workflows.md)
-   + [Kom igång med API Mesh](../api-mesh/getting-started-api-mesh.md)
-   + [Installera Adobe IO och nätplugin](../api-mesh/installing-aio-mesh-plugin.md)
-   + [Arbeta med projekt och arbetsytor](../api-mesh/aio-projects-workspaces.md)
-   + [Skapa GraphQL API-nät med en källa](../api-mesh/graphql-single-source.md)
-   + [Skapa GraphQL API-nät med flera källor](../api-mesh/graphql-multiple-source.md)
 + Butiksadministration {#admin}
    + [Hantera användarroller och behörigheter](../site-management/users-roles-permissions.md)
    + [Autentisering med två faktorer](../site-management/two-factor-authentication.md)
@@ -234,38 +272,6 @@ ht-degree: 2%
    + [Cohort Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [Förbereder för framtiden](../business-intelligence/prepare-for-future.md)
-+ Commerce Upgrades {#upgrade}
-   + [Adobe Commerce 2.4 Upgrade Workshop](../upgrade/2-4-upgrade-workshop.md)
-   + [Översikt över verktyget Kompatibilitet för uppgradering](../upgrade/upgrade-compatibility-tool-overview.md)
-   + [Använda verktyget Kompatibilitet för uppgradering i PHP Storm](../upgrade/uct-phpstorm.md)
-+ Back-end Development {#backend-development}
-   + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=sv-SE)
-   + [Skapa en modul](../backend-development/create-module.md)
-   + [Lägg till ett produktattribut](../backend-development/add-product-attribute.md)
-   + [Exempel på beroendeinjektion](../backend-development/dependency-injection.md)
-   + [Långsam replikering för Galera Cluster](../backend-development/galera-db-slow-replication.md)
-   + [MySQL-frågecache](../backend-development/mysql-query-cache.md)
-   + [PT-frågesammandrag](../backend-development/pt-query-digest.md)
-   + [Ansluta till och hämta Adobe Commerce-databasen](../backend-development/remote-db-connection-execute-queries.md)
-+ Inbyggd Luma-utveckling för klientdelen {#frontend-development}
-   + Page Builder för utvecklare {#page-builder}
-      + [1 - Introduktion](../frontend-development/page-builder/1-intro-case-studies.md)
-      + [2 - Konfiguration och innehåll](../frontend-development/page-builder/2-config-create-content.md)
-      + [3 - Teman](../frontend-development/page-builder/3-themes.md)
-      + [4 - Mallar och format](../frontend-development/page-builder/4-admin-templates-apply-styles.md)
-      + [5 - Egna teman](../frontend-development/page-builder/5-customize-theme.md)
-      + [6 - Anpassade innehållstyper](../frontend-development/page-builder/6-custom-content-types.md)
-   + [Lägga till en JavaScript-modul](../frontend-development/add-javascript-module.md)
-   + [Skapa en sida](../frontend-development/create-page.md)
-+ Headless Architecture {#headless-architecture}
-   + Introduktion till headless {#introduction-to-headless}
-      + [Arkitektur utan rubrik - session 1](../headless/session-1.md)
-   + Introduktion till PWA Studio {#introduction}
-      + [1 - Översikt](../pwa/introduction/1-overview.md)
-      + [2 - PWA STUDIO](../pwa/introduction/2-pwa-studio-tools.md)
-      + [3 - Starta](../pwa/introduction/3-launch.md)
-      + [4 - UPPÅT](../pwa/introduction/4-upward.md)
-      + [5 - Komma igång](../pwa/introduction/5-getting-started.md)
-      + [6 - Peregrin](../pwa/introduction/6-peregrine.md)
-   + [PWA Docker Development](../pwa/pwa-docker-development.md)
-   + [Konfigurera Venia för utveckling](../pwa/set-up-venia-for-dev.md)
+
+
+
