@@ -39,7 +39,7 @@ I den här videon:
 >
 >Innehållet i Page Builder 1.0.0 för Adobe Commerce 2.3.1. Mer information om uppdateringar i senare versioner finns i [Versionsinformation för Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=sv-SE).
 
->[!VIDEO](https://video.tv.adobe.com/v/35709?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430886?captions=swe&quality=12&learn=on)
 
 ## Användbara resurser
 

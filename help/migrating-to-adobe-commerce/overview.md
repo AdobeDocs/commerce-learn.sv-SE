@@ -36,4 +36,4 @@ Välkommen till den här omfattande självstudiekursen om migrering av Adobe Com
 * Lär dig viktiga steg och bästa praxis för en framgångsrik migrering till Adobe Commerce.
 * Utvärdera och optimera anpassad kod, tredjepartsmoduler och förstå viktiga QA-koncept.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432846/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444324/?captions=swe&learn=on)
