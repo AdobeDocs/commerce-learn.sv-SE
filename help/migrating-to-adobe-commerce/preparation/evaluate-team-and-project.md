@@ -11,7 +11,7 @@ duration: 270
 last-substantial-update: 2024-10-24T00:00:00Z
 jira: KT-16275
 exl-id: 7b521465-db0b-4755-91bd-013368a9fe5e
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -19,6 +19,8 @@ ht-degree: 0%
 ---
 
 # Migrera till Adobe Commerce - utvärdera teamet och projektet
+
+{{only-for-on-prem-commerce-cloud}}
 
 När du går över till Adobe Commerce är det viktigt att du utvärderar ditt team och dina projekt noggrant. Teamet bör innehålla nyckelroller som projektledare, QA-testare, utvecklare, intressenter och tekniska leads. Utvärdera teamets tekniska styrka för att säkerställa att de är i linje med era projektmål. En stark bakgrund i JavaScript och serverdelsintegreringar är till exempel idealisk för att utnyttja Adobe Commerce och App Builder. Om ditt team har större erfarenhet av Java eller PHP bör du överväga att samarbeta med Adobe Consulting Services för App Builder.
 
@@ -36,8 +38,8 @@ Och när det gäller headlessimplementationer kan upplevelsen förenkla processe
 * Lär dig lite om frontend och backend.
 * Planera för en smidig migrering genom att utvärdera befintliga moduler, uppgradera kärnapplikationer och integrera med andra Adobe-lösningar.
  
->[!VIDEO](https://video.tv.adobe.com/v/3447448/?captions=swe&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435682/?learn=on)
 
 ## Relaterad dokumentation
 
-[Vad är Adobe Commerce](https://experienceleague.adobe.com/sv/docs/commerce-admin/start/about)
+[Vad är Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)

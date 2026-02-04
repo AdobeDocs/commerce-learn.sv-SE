@@ -14,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: fba4a08b-5633-433b-bf87-fa85457e4578
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 33%
@@ -22,6 +22,8 @@ ht-degree: 33%
 ---
 
 # Adobe Commerce 2.4 Upgrade Workshop
+
+{{only-for-on-prem-commerce-cloud}}
 
 Titta på det här inspelade webbinariet för att lära dig de steg och bästa metoder som ska följas när du förbereder dig för nästa uppgradering till 2.4.4 eller senare.
 
@@ -39,10 +41,10 @@ I den här workshopen samarbetade Adobe Commerce med Merkle för att dela:
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3432514?captions=swe&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340038?quality=12&learn=on)
 
 ## Ytterligare resurser
 
-- [Uppgraderingshandbok](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=sv-SE)
-- [Släppta versioner](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=sv-SE)
-- [Frigör schema](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=sv-SE)
+- [Uppgraderingshandbok](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+- [Släppta versioner](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [Frigör schema](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

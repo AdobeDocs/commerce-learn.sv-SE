@@ -11,7 +11,7 @@ duration: 323
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15994
 exl-id: 2f210adb-6f56-41cb-844e-131cbf85b131
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -19,6 +19,8 @@ ht-degree: 0%
 ---
 
 # Migrera till Adobe Commerce - Kodningsstandarder under bearbetning
+
+{{only-for-on-prem-commerce-cloud}}
 
 Lär dig viktiga kodningsstandarder och metodtips för PHP, JavaScript och anpassningar. Oavsett om du är utvecklare eller ett företag kan du med den här självstudiekursen navigera bland de knep som finns med att migrera till Adobe Commerce, vilket ger en smidig och framgångsrik övergång.
 
@@ -32,4 +34,4 @@ Lär dig viktiga kodningsstandarder och metodtips för PHP, JavaScript och anpas
 * Lär dig de bästa metoderna för PHP, JavaScript och anpassningar för att säkerställa en smidig migrering.
 * Få insikter från Adobe experter om förberedelser, prestanda och säkerhet i Adobe Commerce-projekt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434861?captions=swe&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on&enablevpops)

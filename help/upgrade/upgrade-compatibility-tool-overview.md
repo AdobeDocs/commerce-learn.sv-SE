@@ -14,7 +14,7 @@ old-role: Architect, Developer
 role: Developer, Admin
 level: Beginner, Intermediate
 exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 29%
@@ -22,6 +22,8 @@ ht-degree: 29%
 ---
 
 # Översikt över verktyget Kompatibilitet för uppgradering
+
+{{only-for-on-prem-commerce-cloud}}
 
 Upgrade Compatibility Tool (UCT) är ett kostnadsfritt verktyg som analyserar inkompatibiliteten mellan den aktuella versionen och målversionen på bara några minuter. Med det här verktyget går uppgraderingsprocessen snabbare och enklare att genomföra.
 
@@ -31,7 +33,7 @@ I den här videon:
 - Hur du snabbt kan identifiera fel och korrigeringar som krävs för att uppgradera till en nyare version av Adobe Commerce
 - Hur man får tillgång till HTML-resultaten för att visualisera moduler utifrån allvarlighetsgrad och antal inkompatibiliteter
 
-Mer information om verktyget finns i [dokumentationen för verktyget Kompatibilitet för uppgradering](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=sv-SE). Om du vill veta mer om hur du utför och förenklar uppgraderingarna läser du [uppgraderingshandboken](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=sv-SE).
+Mer information om verktyget finns i [dokumentationen för verktyget Kompatibilitet för uppgradering](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en). Om du vill veta mer om hur du utför och förenklar uppgraderingarna läser du [uppgraderingshandboken](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
 
 ## Vem är den här videon till?
 
@@ -44,7 +46,7 @@ Mer information om verktyget finns i [dokumentationen för verktyget Kompatibili
 
 ## Ytterligare resurser
 
-- [Dokumentation för verktyget Kompatibilitet för uppgradering](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=sv-SE)
-- [Uppgraderingshandbok](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=sv-SE)
-- [Släppta versioner](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=sv-SE)
-- [Frigör schema](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=sv-SE)
+- [Dokumentation för verktyget Kompatibilitet för uppgradering](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
+- [Uppgraderingshandbok](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+- [Släppta versioner](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [Frigör schema](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)
