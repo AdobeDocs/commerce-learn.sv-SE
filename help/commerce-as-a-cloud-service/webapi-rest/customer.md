@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 225
 last-substantial-update: 2026-01-27T00:00:00Z
 jira: KT-20160
-source-git-commit: cb3fecf5f8b23425311dc31ed526b3b9bfe07b45
+source-git-commit: ad2cfb4b38d739b03e0c2fff8bcd88d77d6e4b12
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Lär dig använda nya REST API:er för kunder i Adobe Commerce as a Cloud Servic
 * Använd rätt REST API-slutpunktsformat för Commerce as a Cloud Service
 * Skapa och uppdatera kundkonton programmatiskt med POST- och PUT-begäranden med rätt JSON-nyttolaster
 
->[!VIDEO](https://video.tv.adobe.com/v/3479366/?captions=swe&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479361/?learn=on&enablevpops)
 
 ## Kodexempel
 
@@ -244,6 +244,6 @@ curl -s -X PUT \
 
 ## Referenser
 
-* [Versionsinformation för Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/sv/docs/commerce/cloud-service/release-notes)
+* [Versionsinformation för Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
 * [SaaS REST API-referens](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
 * [Handbok för användarautentisering](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)
