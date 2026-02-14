@@ -69,7 +69,7 @@ Mer information om App Builder-arkitekturen finns i [Översikt över arkitekture
 
 En översikt över strategin för sammanställbar e-handel, som innehåller den första konfigurationen, finns i följande blogginlägg:
 
-[Hur App Builder kan göra verksamheten smidigare för e-handelsplattformen](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
+[Hur App Builder kan göra verksamheten smidigare för e-handelsplattformen](https://business.adobe.com/se/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
 
 För att du ska komma igång med App Builder har Adobe skapat följande dokumentation:
 
