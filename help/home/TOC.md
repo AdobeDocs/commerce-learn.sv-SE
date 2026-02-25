@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 3592fb0e022fcbecc100e64547c4ceea4b26e7ee
+source-git-commit: e8a3473a986c67f81f47497aff026c1ec3e60eab
 workflow-type: tm+mt
-source-wordcount: '850'
+source-wordcount: '853'
 ht-degree: 2%
 
 ---
@@ -44,6 +44,7 @@ ht-degree: 2%
       + [Supportförfrågan](../cloud/best-practices/support-request.md)
       + [Checklista före start](../cloud/best-practices/pre-launch-checklist.md)
 + Komma igång {#getting-started}
+   + [Tillgängliga e-handelsalternativ](../capabilities/adobes-available-commerce-options.md)
    + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
       + [Ökning](../commerce-as-a-cloud-service/overview.md)
       + [Arkitektur](../commerce-as-a-cloud-service/architecture.md)
@@ -95,7 +96,7 @@ ht-degree: 2%
 
 + Utbyggbarhet {#extensibility}
    + Back-end Development {#backend-development}
-      + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=sv-SE)
+      + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Skapa en modul](../backend-development/create-module.md)
       + [Lägg till ett produktattribut](../backend-development/add-product-attribute.md)
       + [Exempel på beroendeinjektion](../backend-development/dependency-injection.md)
