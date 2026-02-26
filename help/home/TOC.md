@@ -3,7 +3,7 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: e8a3473a986c67f81f47497aff026c1ec3e60eab
+source-git-commit: a0394aea5f4fc3cb5cbe3cb66eec3fae8a4683a1
 workflow-type: tm+mt
 source-wordcount: '853'
 ht-degree: 2%
@@ -44,7 +44,6 @@ ht-degree: 2%
       + [Supportförfrågan](../cloud/best-practices/support-request.md)
       + [Checklista före start](../cloud/best-practices/pre-launch-checklist.md)
 + Komma igång {#getting-started}
-   + [Tillgängliga e-handelsalternativ](../capabilities/adobes-available-commerce-options.md)
    + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
       + [Ökning](../commerce-as-a-cloud-service/overview.md)
       + [Arkitektur](../commerce-as-a-cloud-service/architecture.md)
@@ -74,6 +73,7 @@ ht-degree: 2%
          + [Frys kod](../migrating-to-adobe-commerce/qa/code-freeze.md)
 
    + Commerce Capabilities {#capabilities}
+      + [Tillgängliga e-handelsalternativ](../capabilities/adobes-available-commerce-options.md)
       + [Dataanslutning](../capabilities/data-connection.md)
       + [Fullständig demonstration av Live Search](../capabilities/live-search-full-demonstration.md)
       + [Commerce](../capabilities/what-is-composable-commerce.md)
@@ -96,7 +96,7 @@ ht-degree: 2%
 
 + Utbyggbarhet {#extensibility}
    + Back-end Development {#backend-development}
-      + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=sv-SE)
+      + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Skapa en modul](../backend-development/create-module.md)
       + [Lägg till ett produktattribut](../backend-development/add-product-attribute.md)
       + [Exempel på beroendeinjektion](../backend-development/dependency-injection.md)

@@ -8,13 +8,13 @@ feature: Paas, Saas
 topic: Commerce, Architecture
 role: Admin, Leader, Developer
 level: Beginner
-source-git-commit: e8a3473a986c67f81f47497aff026c1ec3e60eab
+exl-id: fc9741bb-d320-46a9-a566-6669ea0b2880
+source-git-commit: 65314b2e8d25ef85bf6541976232232e4a07831b
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
-
 
 # Fullständig demonstration av Adobe Commerce Data Connection
 
@@ -22,7 +22,7 @@ Läs mer om Adobe e-handelsalternativ. Förstå vad några av de viktigaste funk
 
 ## Vem är den här videon till?
 
-* Vice VD/handelschef
+* VP/Director of Commerce
 * Tekniskt ledarskap
 * DevOps/Platform Enginers
 * Marknadsföringsteknologi
@@ -38,6 +38,6 @@ Läs mer om Adobe e-handelsalternativ. Förstå vad några av de viktigaste funk
 
 ## Relaterad dokumentation
 
-* [Adobe Commerce Cloud](https://experienceleague.adobe.com/sv/docs/commerce-on-cloud/user-guide/overview){target=_blank}
-* [Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/sv/docs/commerce/cloud-service/overview){target="_blank"}
-* [Adobe Commerce Optimizer](https://experienceleague.adobe.com/sv/docs/commerce/optimizer/overview){target="_blank"}
+* [Adobe Commerce Cloud](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/overview){target=&quot;_blank}
+* [Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview){target="_blank"}
+* [Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
