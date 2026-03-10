@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: a0394aea5f4fc3cb5cbe3cb66eec3fae8a4683a1
+source-git-commit: ec9d6444696968c72cabb1b532e205f92a2d9e5a
 workflow-type: tm+mt
-source-wordcount: '853'
+source-wordcount: '864'
 ht-degree: 2%
 
 ---
@@ -96,7 +96,7 @@ ht-degree: 2%
 
 + Utbyggbarhet {#extensibility}
    + Back-end Development {#backend-development}
-      + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=sv-SE)
+      + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Skapa en modul](../backend-development/create-module.md)
       + [Lägg till ett produktattribut](../backend-development/add-product-attribute.md)
       + [Exempel på beroendeinjektion](../backend-development/dependency-injection.md)
@@ -148,6 +148,8 @@ ht-degree: 2%
       + [Installera program från Adobe Exchange](../app-builder/install-app-builder-app.md)
       + [Introduktion till App Builder](../app-builder/introduction-to-app-builder.md)
       + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
+      + Skapa anpassade fraktpriser med AI-verktyg {#custom-shipping-rates-ai-tools}
+         + [Ge feedback till Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
       + Bygg din första App Builder-app {#first-app}
          + [Ökning](../app-builder/first-app/overview.md)
          + [Generera och konfigurera .env-filen](../app-builder/first-app/env-file.md)
