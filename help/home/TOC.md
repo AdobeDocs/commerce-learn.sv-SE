@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 1a3f532ec03fb38ae43d5593e0e2499060699147
+source-git-commit: da87b2bf340c4229f15f0ea22664aec3c10a55c4
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '876'
 ht-degree: 2%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 2%
    + [AEM Assets](../cloud/aem-assets.md)
    + [Migrera från en självvärdbaserad lösning](../cloud/overview.md)
    + [Begränsa åtkomsten med Snabb](../cloud/limit-website-access-using-fastly.md)
-   + Teknisk introduktion och maskinvaruhantering {#technical-onboarding-hardware-handoff}
+   + Teknisk introduktion och maskinvaruleverans {#technical-onboarding-hardware-handoff}
       + [Bästa praxis för infrastruktur och utveckling](../cloud/infrastructure-development-best-practices.md)
       + [Snabbt](../cloud/fastly.md)
       + [Konfiguration och felsökning](../cloud/configuration-and-debugging.md)
@@ -96,11 +96,11 @@ ht-degree: 2%
 
 + Utbyggbarhet {#extensibility}
    + Back-end Development {#backend-development}
-      + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=sv-SE)
+      + [Bästa praxis för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Skapa en modul](../backend-development/create-module.md)
       + [Lägg till ett produktattribut](../backend-development/add-product-attribute.md)
       + [Exempel på beroendeinjektion](../backend-development/dependency-injection.md)
-      + [Långsam replikering för Galera Cluster](../backend-development/galera-db-slow-replication.md)
+      + [Långsam replikering av Galera-kluster](../backend-development/galera-db-slow-replication.md)
       + [MySQL-frågecache](../backend-development/mysql-query-cache.md)
       + [PT-frågesammandrag](../backend-development/pt-query-digest.md)
       + [Ansluta till och hämta Adobe Commerce-databasen](../backend-development/remote-db-connection-execute-queries.md)
@@ -113,8 +113,8 @@ ht-degree: 2%
          + [1 - Introduktion](../frontend-development/page-builder/1-intro-case-studies.md)
          + [2 - Konfiguration och innehåll](../frontend-development/page-builder/2-config-create-content.md)
          + [3 - Teman](../frontend-development/page-builder/3-themes.md)
-         + [4 - Mallar och format](../frontend-development/page-builder/4-admin-templates-apply-styles.md)
-         + [5 - Egna teman](../frontend-development/page-builder/5-customize-theme.md)
+         + [4 - Mallar och stilar](../frontend-development/page-builder/4-admin-templates-apply-styles.md)
+         + [5 - Anpassade teman](../frontend-development/page-builder/5-customize-theme.md)
          + [6 - Anpassade innehållstyper](../frontend-development/page-builder/6-custom-content-types.md)
       + [Lägga till en JavaScript-modul](../frontend-development/add-javascript-module.md)
       + [Skapa en sida](../frontend-development/create-page.md)
@@ -150,6 +150,8 @@ ht-degree: 2%
       + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
       + Skapa anpassade fraktpriser med AI-verktyg {#custom-shipping-rates-ai-tools}
          + [Introduktion och installation](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
+         + [AI-verktyg och Adobe startsats](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
+         + [Implementering och testning](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
          + [Ge feedback till Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
       + Bygg din första App Builder-app {#first-app}
          + [Ökning](../app-builder/first-app/overview.md)
@@ -171,10 +173,10 @@ ht-degree: 2%
          + [Adobe Commerce modulutveckling](../io-events/commerce-module-development.md)
          + [Adobe Commerce villkorsstyrda evenemang](../io-events/conditional-events.md)
    + API-nät {#api-mesh}
-      + [Startkit för API-nät med GitHub-koordinater](../api-mesh/starter-kit-github-codespaces.md)
-      + [Startkit-arbetsflöden för API-nät](../api-mesh/starter-kit-workflows.md)
-      + [Kom igång med API Mesh](../api-mesh/getting-started-api-mesh.md)
-      + [Installera Adobe IO och nätplugin](../api-mesh/installing-aio-mesh-plugin.md)
+      + [API Mesh-startkit med GitHub Codespaces](../api-mesh/starter-kit-github-codespaces.md)
+      + [Arbetsflöden för API-nätstartsats](../api-mesh/starter-kit-workflows.md)
+      + [Kom igång med API-nät](../api-mesh/getting-started-api-mesh.md)
+      + [Installerar Adobe IO- och mesh-plugin](../api-mesh/installing-aio-mesh-plugin.md)
       + [Arbeta med projekt och arbetsytor](../api-mesh/aio-projects-workspaces.md)
       + [Skapa GraphQL API-nät med en källa](../api-mesh/graphql-single-source.md)
       + [Skapa GraphQL API-nät med flera källor](../api-mesh/graphql-multiple-source.md)
@@ -235,9 +237,9 @@ ht-degree: 2%
    + [Skapa prisregler för kataloger](../site-management/catalog-price-rules.md)
    + [Skapa kundprisregler](../site-management/cart-price-rules.md)
    + [Hantera relaterade produktregler](../site-management/related-product-rules.md)
-   + [Ställ in produktrekommendationer](../site-management/product-recommendations.md)
-   + [Introduktion till Live Search](../site-management/live-search.md)
-   + [Live Search för rekommendationer](../site-management/live-search-recommendations.md)
+   + [Konfigurera Recommendations-produkt](../site-management/product-recommendations.md)
+   + [Introduktion till Livesökning](../site-management/live-search.md)
+   + [Livesökning efter rekommendationer](../site-management/live-search-recommendations.md)
    + [Integrera Commerce med AJO](../site-management/integrate-commerce-ajo.md)
 + Beställningar och orderhantering {#orders}
    + [Hantera orderstatus](../orders-and-fulfillment/order-status.md)
