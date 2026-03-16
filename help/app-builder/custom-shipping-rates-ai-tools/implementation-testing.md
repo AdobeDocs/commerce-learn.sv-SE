@@ -33,6 +33,6 @@ Agenten slutför implementeringen, rensar oanvänd kod och förbereder projektet
 Autentiseringsuppgifter och miljö är konfigurerade för att distribuera och registrera det nya leveranstillägget.
 Storefront-testningen bekräftar att de externa fraktkostnaderna ser ut och fungerar som förväntat.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481357/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481361/?captions=swe&learn=on&enablevpops)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
