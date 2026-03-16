@@ -34,7 +34,7 @@ Läs mer om Adobe e-handelsalternativ. Förstå vad några av de viktigaste funk
 * Förstå när butikerna ska moderniseras utan att backend-funktionen behöver ersättas
 * Identifiera den bästa lösningen baserat på DevOps-resurser, skalbarhet och affärsmål
 
->[!VIDEO](https://video.tv.adobe.com/v/3480242?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480247?captions=swe&learn=on)
 
 ## Relaterad dokumentation
 
