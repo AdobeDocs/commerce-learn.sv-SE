@@ -32,6 +32,6 @@ Upptäck hur du kan skapa anpassade fraktpriser med AI-verktyg. Den här självs
 * Lär dig hur MCP-feedback fungerar
 * Förstå hur det går att ge Adobe feedback från utvecklingsmiljön
 
->[!VIDEO](https://video.tv.adobe.com/v/3481306?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481310?captions=swe&learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
