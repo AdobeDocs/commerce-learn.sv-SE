@@ -1,26 +1,25 @@
 ---
-title: Anpassade fraktpriser med AI-verktyg
-description: Learn to implement and test AI-driven custom shipping rates, configure environments, and verify integrations for enhanced checkout experiences.
+title: Anpassade leveransfrekvenser med AI-verktyg | Implementering och testning
+description: Lär dig att implementera och testa AI-drivna anpassade leveransfrekvenser, konfigurera miljöer och verifiera integreringar för förbättrade utcheckningsupplevelser.
 feature: Deploy
 topic: Development
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 585
+duration: 493
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20517
-thumbnail: KT-20517.jpeg
-source-git-commit: da87b2bf340c4229f15f0ea22664aec3c10a55c4
+exl-id: aff6de33-46ae-48f1-a6c3-e9dd342e2642
+source-git-commit: 576f558efc9a4264d539ce55cadb8c8a01f201cf
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
+# Skräddarsydda fraktkostnader med AI-verktyg - implementering och testning
 
-# Custom shipping rates with AI tools
-
-Learn how to implement and test AI-driven custom shipping rates. This tutorial guides you through environment setup, code cleanup, and extension deployment. You will also explore testing processes, including carrier registration, configuration updates, and storefront verification to ensure accurate shipping rate integration.
+Lär dig hur du implementerar och testar AI-drivna anpassade fraktpriser. Den här självstudiekursen vägleder dig genom miljöinställningar, kodrensning och driftsättning av tillägg. Du kommer också att undersöka testningsprocesser, inklusive registrering av transportföretag, konfigurationsuppdateringar och butiksverifiering för att säkerställa korrekt integration med fraktkostnaden.
 
 ## Vem är den här videon till?
 
@@ -30,10 +29,10 @@ Learn how to implement and test AI-driven custom shipping rates. This tutorial g
 
 ## Videoinnehåll
 
-Agent finalizes implementation, cleans unused code, and prepares the project for deployment.
-Credentials and environment are configured to deploy and register the new shipping extension.
-Storefront testing confirms the external shipping rates appear and function as expected.
+Agenten slutför implementeringen, rensar oanvänd kod och förbereder projektet för distribution.
+Autentiseringsuppgifter och miljö är konfigurerade för att distribuera och registrera det nya leveranstillägget.
+Storefront-testningen bekräftar att de externa fraktkostnaderna ser ut och fungerar som förväntat.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481332/?captions=swe&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481357/?learn=on&enablevpops)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
