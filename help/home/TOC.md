@@ -96,7 +96,7 @@ ht-degree: 2%
 
 + Utbyggbarhet {#extensibility}
    + Back-end Development {#backend-development}
-      + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
+      + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=sv-SE)
       + [Skapa en modul](../backend-development/create-module.md)
       + [Lägg till ett produktattribut](../backend-development/add-product-attribute.md)
       + [Exempel på beroendeinjektion](../backend-development/dependency-injection.md)
