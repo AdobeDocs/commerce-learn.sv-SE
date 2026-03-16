@@ -1,5 +1,5 @@
 ---
-title: Skapa anpassade leveransfrekvenser med AI-verktyg
+title: Skapa anpassade fraktpriser med AI-verktyg | Bygg funktionen
 description: Lär dig att använda Adobe AI-verktyg för att skapa anpassade fraktkostnader och utöka utcheckningsmöjligheterna med en modell-API och säkra konfigurationer.
 feature: Extensibility
 topic: Artificial Intelligence
@@ -9,15 +9,15 @@ doc-type: Tutorial
 duration: 490
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20516
-source-git-commit: 2cf5392b7cf21cad9f912f16891cfa550d118d77
+exl-id: 874c8512-a57e-4e0b-882d-be700dcb501b
+source-git-commit: 650cd54d155520f4d2ff89bceefbd529efccc8c3
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
 
-
-# Skapa anpassade fraktpriser med AI-verktyg
+# Skapa anpassade fraktpriser med AI-verktyg - Bygg funktionen
 
 Upptäck hur du kan använda Adobe AI-baserade verktyg för att effektivisera utvecklingsarbetsflödet och utöka utcheckningsfunktionerna. I den här självstudiekursen beskrivs hur du integrerar anpassade fraktsatser från externa system med hjälp av en modell-API som skyddas med en API-nyckel. Lär dig hur du konfigurerar tjänst-URL:er, hanterar säkerhet och aktiverar avancerade utcheckningsfunktioner. Denna omfattande guide visar hur AI snabbar upp programvaruutvecklingen, från krav till implementeringsplanering. Titta på den inbäddade videon för en detaljerad genomgång.
 

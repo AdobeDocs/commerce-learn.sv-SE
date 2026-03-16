@@ -1,5 +1,5 @@
 ---
-title: Anpassade fraktpriser med AI-verktyg
+title: Skapa anpassade fraktpriser med AI-verktyg | Introduktion och konfiguration
 description: Lär dig hur du konfigurerar AI-verktyg för att skapa anpassade fraktsatser, inklusive kloning av startpaketet, granskning av strukturer och förberedelse av din miljö.
 feature: Install
 topic: Development
@@ -10,14 +10,14 @@ duration: 178
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20428
 exl-id: 1766f908-e0cb-4618-bee7-165e7dc54c2f
-source-git-commit: da87b2bf340c4229f15f0ea22664aec3c10a55c4
+source-git-commit: 62cf2906dd6eaba7130b738d0d3f02f0e62858d7
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-# Skapa anpassade fraktpriser med AI-verktyg
+# Skapa anpassade fraktpriser med AI-verktyg - Introduktion och konfiguration
 
 Upptäck hur du konfigurerar AI-verktyg för att skapa anpassade fraktpriser. I den här självstudiekursen beskrivs hur du klonar startpaketet för utcheckning, granskar strukturen och förbereder den lokala miljön. Denna grund säkerställer en smidig integrering av externa fraktpriser i arbetsflödet. Titta på videon nedan för att komma igång.
 
@@ -33,6 +33,6 @@ Upptäck hur du konfigurerar AI-verktyg för att skapa anpassade fraktpriser. I 
 * Går igenom konfigurationen av utvecklingsmiljön, inklusive utcheckning av databasen, granskning av starter-kit-strukturen och installation av nödvändiga verktyg.
 * Förbereder systemet för AI-assisterad utveckling genom att logga in, konfigurera åtkomst och se till att alla beroenden och förutsättningar finns på plats.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481357/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481328/?learn=on&enablevpops)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
