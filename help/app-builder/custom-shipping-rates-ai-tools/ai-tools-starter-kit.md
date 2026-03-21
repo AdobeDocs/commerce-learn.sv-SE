@@ -34,6 +34,6 @@ Upptäck hur du kan använda Adobe AI-baserade verktyg för att effektivisera ut
 * MCP-verktygen visar kommandon och data som agenten använder för att planera och generera kod.
 * AI automatiserar krav, arkitektur och implementeringsbeslut.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481344/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481348/?captions=swe&learn=on&enablevpops)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
