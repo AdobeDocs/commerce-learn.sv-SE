@@ -1,16 +1,16 @@
 ---
-title: Anpassade leveransfrekvenser med AI-verktyg | Implementering och testning
+title: Anpassade fraktpriser med AI-verktyg | Implementering och testning
 description: Lär dig att implementera och testa AI-drivna anpassade leveransfrekvenser, konfigurera miljöer och verifiera integreringar för förbättrade utcheckningsupplevelser.
 feature: Deploy
 topic: Development
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 493
+duration: 380
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20517
 exl-id: aff6de33-46ae-48f1-a6c3-e9dd342e2642
-source-git-commit: 576f558efc9a4264d539ce55cadb8c8a01f201cf
+source-git-commit: cb70f3e9bd02146b9c2f50106730583683d7cfca
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -33,6 +33,6 @@ Agenten slutför implementeringen, rensar oanvänd kod och förbereder projektet
 Autentiseringsuppgifter och miljö är konfigurerade för att distribuera och registrera det nya leveranstillägget.
 Storefront-testningen bekräftar att de externa fraktkostnaderna ser ut och fungerar som förväntat.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481361/?captions=swe&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481357/?learn=on&enablevpops)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
