@@ -41,4 +41,4 @@ Lär dig hur du använder Adobe Commerce kundvagn från Edge Delivery Services f
 
 ## Ytterligare dokumentation
 
-* [Köp onlinehämtning i butik](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/)
+* [Köp onlinehämtning i butik](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/?lang=sv-SE)

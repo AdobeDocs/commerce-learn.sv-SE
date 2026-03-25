@@ -36,4 +36,4 @@ Lär dig skapa en supportanmälan i Experience League för Adobe Commerce.
 
 ## Hjälpcenter för Commerce Knowledge Base
 
-[Skicka ett supportärende](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[Skicka ett supportärende](https://experienceleague.adobe.com/sv/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)

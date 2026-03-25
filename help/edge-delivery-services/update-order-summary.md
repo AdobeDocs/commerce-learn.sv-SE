@@ -40,4 +40,4 @@ Lär dig hur du använder Adobe Commerce kundvagnsbortfall och justerar varukorg
 
 ## Ytterligare dokumentation
 
-* [Ordersammanfattning](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)
+* [Ordersammanfattning](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/?lang=sv-SE)

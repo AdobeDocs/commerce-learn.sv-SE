@@ -37,4 +37,4 @@ Adobe Commerce Optimizer förbättrar sina befintliga handelsplattformar genom a
 
 ## Ytterligare resurser
 
-[[!DNL Adobe Commerce Optimizer] Guide](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+[[!DNL Adobe Commerce Optimizer] Guide](https://experienceleague.adobe.com/sv/docs/commerce/optimizer/overview){target="_blank"}

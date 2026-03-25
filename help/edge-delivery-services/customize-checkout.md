@@ -39,4 +39,4 @@ Lär dig exempel på hur du anpassar kundvagnens bortcheckning genom att ta bort
 
 ## Ytterligare dokumentation
 
-* [Flerstegs gästutcheckning](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/)
+* [Flerstegs gästutcheckning](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=sv-SE)

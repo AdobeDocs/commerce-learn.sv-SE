@@ -44,4 +44,4 @@ Projektledare som behöver följa upp utvecklingen av utvecklingsuppgifter och f
 
 ## Ytterligare dokumentation
 
-* [Användarkonto](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/)
+* [Användarkonto](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/?lang=sv-SE)

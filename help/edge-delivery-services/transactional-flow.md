@@ -41,4 +41,4 @@ Få en förståelse för hur man använder kundvagnsbortfall i Adobe Commerce oc
 
 ## Ytterligare dokumentation
 
-* [Konfigurera kundvagnssammanfattning](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)
+* [Konfigurera kundvagnssammanfattning](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=sv-SE)
