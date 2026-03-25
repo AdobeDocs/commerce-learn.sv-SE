@@ -3,19 +3,19 @@ title: Demo om observerbarhet
 description: Läs om hur Adobe Commerce använder synlighet, webhooks och händelsekorrelation för smidig orderspårning och felsökning
 feature: Observability, Extensibility, App Builder
 topic: Architecture, Performance
-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 463
+duration: 508
 last-substantial-update: 2025-12-12T00:00:00Z
 jira: KT-20000
-source-git-commit: c0a2aa9b657b3ad0edc2cafb28f53970db4e1b42
+exl-id: 3ebb1778-5e15-4bcf-8efc-037d3f51c0a4
+source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # Demo om observerbarhet
 
@@ -33,7 +33,7 @@ Titta på en live-demo av observerbarhet i Adobe Commerce. Denna demo visar hur 
 * Förklarar korrelationen mellan webbhocker och händelser för spårbarhet
 * Visar integrering med Grafana och New Relic för loggar och spår
 
->[!VIDEO](https://video.tv.adobe.com/v/3477871?captions=swe&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477867?learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

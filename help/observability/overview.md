@@ -3,19 +3,19 @@ title: Förstå observerbarhet
 description: Därför är centraliserad observerbarhet avgörande för skalbar Adobe Commerce-utbyggbarhet
 feature: Observability, Extensibility, App Builder
 topic: Architecture, Performance
-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 165
+duration: 205
 last-substantial-update: 2025-12-18T00:00:00Z
 jira: KT-19965
-source-git-commit: 25ff63e552412a90796efb29f56d8b1675143cf2
+exl-id: 619e7ac0-4415-4bea-829b-2211a3bf7d21
+source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
-
 
 # Översikt över observationer
 
@@ -33,7 +33,7 @@ Se varför centraliserad observerbarhet är avgörande för moderna Adobe Commer
 * Centraliserad observerbarhet är avgörande: Korrelera loggar och mätvärden för alla komponenter.
 * Förbättra utcheckningsprestanda: Identifiera flaskhalsar snabbt för att hålla köpet smidigt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478292?captions=swe&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478286?learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 
