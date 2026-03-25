@@ -33,7 +33,7 @@ Läs om hur Open Telemetry standardiserar observerbarheten för loggar, spår oc
 * Korrelera loggar, spår och mätvärden för snabbare analys av rotorsaker
 * Underhåll befintliga övervakningsverktyg samtidigt som dataströmmar förenas
 
->[!VIDEO](https://video.tv.adobe.com/v/3478287?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478327?captions=swe&learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

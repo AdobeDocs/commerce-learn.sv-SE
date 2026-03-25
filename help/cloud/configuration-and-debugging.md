@@ -33,7 +33,7 @@ Den här videon ingår i Adobe Commerce Clouds tekniska introduktionsserie. Det 
 * Arbetsflöden för validering, optimering och felsökning.
 * ECE-verktyg, Quality Patches Tool, New Relic, Xdebug och log management.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432816?captions=swe&learn=on)
 
 ## Experience League-dokumentation som omnämns i videon
 
