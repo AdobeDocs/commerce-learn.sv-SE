@@ -1,10 +1,10 @@
 ---
 title: Läs om Commerce Integration Starter Kit med nyckelmappar och automatiseringsskript
-description: Läs om hur du ordnar källkoden i startpaketet för Commerce Integration. ​
+description: Läs om hur du organiserar källkoden i startpaketet för Commerce Integration. ​
 landing-page-description: Utforska Source Code Organization i en Commerce Integration Starter Kit
 kt: 15868
 doc-type: video
-duration: 420
+duration: 534
 audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
@@ -13,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 678f4d2b-c57e-4afb-a535-1048a88bc3b1
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Utforska logiken bakom källkodsstrukturen och beskriv hur mapparna `commerce` o
 
 * Förstå att de fyra huvudmapparna: `actions`, `scripts`, `test` och `utils`, med fokus på mapparna `actions` och `scripts` under sessionen. &#x200B;
 * Lär dig mer om mappen `actions` och hur den innehåller viktiga undermappar som `ingestion` och `webhook`.
-* Utforska mappen `actions` och varför det finns specifika mappar för entiteter som `customer`, `order`, `product` och `stock`, som var och en innehåller körningsåtgärder som är strukturerade i mapparna `commerce` och `external` för att hantera händelser från Commerce och tredjepartssystem effektivt. &#x200B;
+* Utforska mappen `actions` och varför det finns specifika mappar för entiteter som `customer`, `order`, `product` och `stock`, som var och en innehåller körningsåtgärder som är strukturerade i `commerce`- och `external`-mappar för att hantera händelser från Commerce och tredjepartssystem på ett effektivt sätt. &#x200B;
 * Lär dig hur viktigt det är att inte ändra koden i mappen `starter-kit-info`, som innehåller en körningsåtgärd som används av Adobe för att spåra projektdistributioner baserat på startpaketet. &#x200B;
 * Förstå mappen `scripts` som innehåller automatiseringsskript som `commerce-event-subscribe` och `onboarding` som automatiserar händelsekonfigurationen, providerkonfigurationen och konfigurationen av Adobe I/O Events-modulen i Commerce. &#x200B;
 

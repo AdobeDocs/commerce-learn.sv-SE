@@ -6,11 +6,11 @@ topic: Architecture, Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 771
+duration: 903
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
 exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '542'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Quality Patches Tool är ett kommandoradsverktyg för Adobe Commerce och Magento
 
 Dessa korrigeringsfiler har utvecklats av Adobe-utvecklare i Magento Open Source community för att förbättra stabilitet och prestanda. Tänk på att du inte bör använda ett stort antal patchar eftersom det kan komplicera framtida uppgraderingar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454072?captions=swe&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
 
 ## Varför ska jag använda verktyget för kvalitetskorrigering?
 
@@ -71,8 +71,8 @@ Innan du använder korrigeringsfiler är det viktigt att testa dem i en staging-
 
 ## Relaterade artiklar och videoklipp
 
-* [Sökning i kvalitetskorrigeringsverktyg](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=sv-SE)
-* [Versionsinformation](https://experienceleague.adobe.com/sv/docs/commerce-operations/tools/quality-patches-tool/release-notes)
+* [Sökning i kvalitetskorrigeringsverktyg](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+* [Versionsinformation](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
 * [Github för patchar](https://github.com/magento/quality-patches/blob/master/patches/os/)
-* [Användning av kvalitetskorrigeringsverktyget](https://experienceleague.adobe.com/sv/docs/commerce-operations/tools/quality-patches-tool/usage)
-* [Teknisk video på QPT](https://experienceleague.adobe.com/sv/docs/commerce-learn/tutorials/tools/quality-patch-tool)
+* [Användning av kvalitetskorrigeringsverktyget](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
+* [Teknisk video på QPT](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)

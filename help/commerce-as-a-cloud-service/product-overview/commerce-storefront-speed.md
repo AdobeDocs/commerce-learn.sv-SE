@@ -6,20 +6,20 @@ topic: Performance, Architecture
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 323
+duration: 227
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20090
-source-git-commit: 86fb1a84f431726e282bd8af664dc668bdb5bc61
+exl-id: 4e8e3760-d42c-46cd-adda-b298e6f487b9
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-
 # Förbättra prestanda i Adobe Storefront med Edge Delivery
 
-Upptäck hur Adobe Commerce butiker med Edge Delivery Services kan uppnå exceptionell hastighet och flexibilitet. Lär dig hur intelligent sidåtergivning, beständig cachning och CDN-arkitektur förbättrar poängen i Lighthuse, Core Web Vitals och SEO direkt i paketet.
+Upptäck hur Adobe Commerce butiker med Edge Delivery Services kan uppnå exceptionell hastighet och flexibilitet. Lär dig hur intelligent sidåtergivning, beständig cachning och CDN-arkitektur förbättrar poängen i Lighthuse, Core Web Vitals och SEO.
 
 ## Vem är den här videon till?
 

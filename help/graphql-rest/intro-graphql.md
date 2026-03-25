@@ -4,6 +4,7 @@ description: Lär dig hur du använder GraphQL på Adobe Commerce och [!DNL Mage
 short-description: Lär dig hur du använder GraphQL GET- och POST-anrop för Adobe Commerce och [!DNL Magento Open Source].
 kt: 11524
 doc-type: video
+duration: 286
 audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 0%
@@ -25,7 +26,7 @@ Detta är en del av serien för GraphQL och Adobe Commerce. GraphQL har snabbt b
 
 Om du inte har använt GraphQL tidigare orienterar det här avsnittet dig efter grundläggande begrepp och användningsområden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443944?captions=swe&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424117?learn=on)
 
 ## Relaterade videor och självstudiekurser om GraphQL i den här serien
 
@@ -42,7 +43,7 @@ Traditionella webb-API:er som REST har fungerat bra för olika system som skicka
 GraphQL tillåter en klient att uttryckligen beskriva _exakt_ de data som krävs. I stället för att kräva flera nätverksbegäranden för hämtning av flera datatyper kan en enda begäran fråga efter många typer. Och svaren förblir smala genom att endast de typer och fält som efterfrågas tas med (i ett format som intuitivt återspeglar frågan).
 
 Körningsmiljön som implementerar GraphQL-specifikationen kan byggas på vilket språk som helst. Adobe Commerce och [!DNL Magento Open Source] använder
-[&#x200B; graphql-php &#x200B;](https://webonyx.github.io/graphql-php/){target="_blank"} PHP-implementering och skapar egna lager ovanpå den.
+[ graphql-php ](https://webonyx.github.io/graphql-php/){target="_blank"} PHP-implementering och skapar egna lager ovanpå den.
 
 [Visa den fullständiga GraphQL-dokumentationen](https://graphql.org/learn){target="_blank"}
 

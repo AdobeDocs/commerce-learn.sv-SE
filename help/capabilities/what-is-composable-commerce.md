@@ -6,11 +6,11 @@ topic: Architecture, Commerce, Development, Headless, Integrations, Performance,
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Tutorial
-duration: 0
+duration: 323
 last-substantial-update: 2024-07-6
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '1257'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Enkel handel
 
-Composable commerce är en arkitekturbaserad strategi för e-handel som innebär att man frigör det främre presentationsskiktet från back-end-funktionen. &#x200B; Med den kan företag välja och kombinera de bästa komponenterna eller modulerna för att skapa en anpassad lösning. Detta innebär att man måste bryta ned den traditionella monolitiska e-handelsplattformen till mindre, oberoende tjänster eller mikrotjänster som kan sättas samman. Den samverkande handeln ger fördelar som flexibilitet, skalbarhet, anpassning, flexibilitet och möjligheten till enklare integrering med andra system och tekniker.
+Composable commerce är en arkitektur för e-handel som innebär att man frikopplar det främre presentationsskiktet från bakomliggande e-handelsfunktioner. &#x200B; Med den kan företag välja och kombinera de bästa komponenterna eller modulerna för att skapa en anpassad lösning. Detta innebär att man måste bryta ned den traditionella monolitiska e-handelsplattformen till mindre, oberoende tjänster eller mikrotjänster som kan sättas samman. Den samverkande handeln ger fördelar som flexibilitet, skalbarhet, anpassning, flexibilitet och möjligheten till enklare integrering med andra system och tekniker.
 
 Adobe Commerce har många funktioner och verktyg för att stödja handlare när det gäller att implementera och implementera sammanställbar handel. Adobe Commerce erbjuder en sammansättningsbar affärsmetod och hybrida headless och icke-headless front end-upplevelser. Med tanke på att processen inte längre kan användas erbjuder Adobe API Mesh för att integrera flera tjänster och Adobe App Builder för att skapa anpassade mikrotjänster.
 

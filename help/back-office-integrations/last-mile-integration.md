@@ -4,7 +4,7 @@ description: Senaste mils integrering i Commerce, som framhäver utökningsmöjl
 landing-page-description: Lär dig strukturen och funktionerna i utbyggbara kopplingar på sista mils integrering för Commerce-system.
 kt: 15869
 doc-type: video
-duration: 465
+duration: 557
 audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
@@ -13,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: e86e8c7b-d5d2-484d-90a2-9c5309c7ea1d
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -36,15 +36,15 @@ Lär dig mer om betydelsen av efterbehandlingsaktiviteter via postproceskroken, 
 ## Målgrupp
 
 * Utvecklare som vill lära sig strukturen och funktionaliteten hos utökningsbara kopplingar och hur dessa kan förbättra anslutningen till tredjepartssystem.
-* Utvecklare som vill lära sig typiska användningsfall och bästa praxis för varje utökningsbar krok, till exempel validering, omvandling, förbehandling, sändning och efterbearbetning, för att underlätta smidigt dataflöde, systemsynkronisering och effektivt underhåll av integreringskonfiguration. &#x200B;
+* Utvecklare som vill lära sig typiska användningsfall och bästa praxis för varje utökningsbar krok, t.ex. validering, omvandling, förbehandling, sändning och efterbearbetning, för att underlätta smidigt dataflöde, systemsynkronisering och effektivt underhåll av integreringskonfiguration. &#x200B;
 
 ## Videoinnehåll
 
 * Lär dig mer om strukturen för de anropade åtgärderna i integreringen på sista milen.
-* Förstå typiska användningsfall inom valideringkroken, inklusive validering av inkommande data mot scheman och att hoppa över specifika händelser baserat på vissa kriterier. &#x200B;
+* Förstå typiska användningsfall inom valideringkroken, inklusive validering av inkommande data mot scheman och hoppning av specifika händelser baserat på vissa kriterier. &#x200B;
 * Lär dig vilken roll omvandlingskroken har när det gäller att omforma dataobjekt mellan ursprungs- och målsystemen.
 * Lär dig mer om betydelsen av den skicka kroken när det gäller att underlätta den faktiska datameddelandet som skickas till målsystemet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451924?captions=swe&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

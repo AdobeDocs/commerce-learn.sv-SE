@@ -4,6 +4,7 @@ description: Mastering Commerce Integrations by learning best practices and onbo
 landing-page-description: Lär dig att ge praktiska insikter i de installations-, konfigurerings- och distributionsprocesser som ingår i startpaketet.
 kt: 15867
 doc-type: video
+duration: 602
 audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 59b9016e-4327-4669-b0ae-e4299433724f
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -37,7 +38,7 @@ Lär dig hur du integrerar Adobe Commerce med externa system och ger praktiska i
 * Köra skript för att skapa och konfigurera händelseproviders och prenumerationer.
 * Uppdaterar händelser i Commerce och App Builder för synkronisering.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452773?captions=swe&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431690?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

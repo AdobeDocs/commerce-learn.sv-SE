@@ -6,11 +6,11 @@ topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 613
+duration: 856
 last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
-source-git-commit: 9bb310a586c707ff02c3d8a1d13e86075baec603
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -40,8 +40,8 @@ Projektledare som behöver följa upp utvecklingen av utvecklingsuppgifter och f
 * Validering och felhantering för adressindatafälten, vilket säkerställer att användarna får omedelbar feedback om felaktiga eller ofullständiga poster, vilket förbättrar användarupplevelsen.
 * Tillägg till kontrollpanelen för användarkonto som lägger till ett nytt sidofältsmenyalternativ på kontrollpanelen för användarkonton.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442910?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
 ## Ytterligare dokumentation
 
-* [Användarkonto](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/?lang=sv-SE)
+* [Användarkonto](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/)

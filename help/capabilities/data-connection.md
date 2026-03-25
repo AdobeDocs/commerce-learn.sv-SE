@@ -3,6 +3,7 @@ title: Fullständig demonstration av dataanslutning
 description: Se en fullständig demonstration av funktionerna i Adobe Commerce Data Connection
 kt: 14364
 doc-type: tutorial
+duration: 783
 audience: all
 last-substantial-update: 2023-11-08T00:00:00Z
 feature: Configuration, System, Personalization
@@ -10,7 +11,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: f17c3be6-8ef2-4972-a8cc-089ff4a2be3b
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -27,7 +28,7 @@ Lär dig hur du använder Adobe Commerce Data Connection tillsammans med vissa g
 
 ## Vem är den här videon till?
 
-* Utvecklare och butiksägare som är nya för Adobe Commerce eller vill lära sig mer om personalisering i stor skala med Adobe Data Connection.
+* Utvecklare och butiksägare som är nya på Adobe Commerce eller vill lära sig mer om personalisering i stor skala med Adobe Data Connection.
 
 ## Videoinnehåll
 
@@ -35,4 +36,4 @@ Lär dig hur du använder Adobe Commerce Data Connection tillsammans med vissa g
 * Real-Time CDP målgrupper uppdaterar och ändrar segmentering i realtid baserat på webbläsardata, serverdata (inklusive orderhistorik) och data från andra källor (dvs. lojalitetsdata).
 * Använda Real-Time CDP målgrupper för att personalisera både kundprisregler och dynamiska block i Adobe Commerce.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453822?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3425591?learn=on)

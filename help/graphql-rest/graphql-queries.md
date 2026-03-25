@@ -5,6 +5,7 @@ landing-page-description: Lär dig hur du utför en fråga med GraphQL på Adobe
 short-description: Lär dig hur du utför en fråga med GraphQL på Adobe Commerce och  [!DNL Magento Open Source]. Detta är en introduktion till GraphQL som använder GET- och POST-samtal.
 kt: 13937
 doc-type: video
+duration: 651
 audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '984'
 ht-degree: 0%
@@ -159,7 +160,7 @@ Det här konceptet med kapslade fält är också anledningen till att du kan ski
 
 ![GraphQL Field Tree](../assets/graphql-field-tree.png)
 
-## Variabel
+## Variabler
 
 Låt oss testa en annan fråga:
 

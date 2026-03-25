@@ -1,16 +1,16 @@
 ---
-title: Edge Delivery Services
-description: Läs mer om Adobe Edge Delivery Services och hur du använder produktattribut för att visa ny information för varukorgar.
+title: Edge Delivery Services kundvagnsartiklar
+description: Lär dig mer om Adobe Edge Delivery Services och hur du använder produktattribut för att visa ny information för kundvagnsobjekt.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 363
+duration: 429
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
 exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -38,9 +38,9 @@ Lär dig hur du använder Adobe Commerce kundvagnsbortfall och justerar transakt
 * Kupongrabatt som visas med kundvagnsregler och sidfotsplatser för effektiv visning av den här informationen.
 * Använd produktattribut och kortplatser för att utöka och anpassa kundvagnsfunktionen och se till att alla projektkrav uppfylls.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441120?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
 
 
 ## Ytterligare dokumentation
 
-* [Lägg till produktrader i kundvagnen](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/?lang=sv-SE)
+* [Lägg till produktrader i kundvagnen](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)

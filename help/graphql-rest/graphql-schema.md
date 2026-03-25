@@ -5,6 +5,7 @@ landing-page-description: Detta är en introduktion till GraphQL. Om schemat och
 short-description: Detta är en introduktion till GraphQL. Om schemat och hur vissa element ska tolkas
 kt: 13939
 doc-type: video
+duration: 363
 audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 0%
@@ -24,7 +25,7 @@ ht-degree: 0%
 
 Detta är en del av 4 av serien för GraphQL och Adobe Commerce. De frågor och mutationer som används är beroende av att ett specifikt datagraf implementeras på servern, som används och används av GraphQL för att lösa frågan. GraphQL-specifikationen definierar ett agnostiskt språk för att uttrycka datagrafens typer och relationer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446614?captions=swe&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
 
 ## Relaterade videor och självstudiekurser om GraphQL i den här serien
 
