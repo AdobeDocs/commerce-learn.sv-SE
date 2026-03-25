@@ -184,7 +184,7 @@ curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new
 
 ## Ta bort en enkel produkt från en grupperad produkt
 
-Använd [ om du vill ](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/)ta bort en enkel produkt`DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}` från en grupperad produkt.
+Använd [&#x200B; om du vill &#x200B;](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/)ta bort en enkel produkt`DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}` från en grupperad produkt.
 
 Om du vill ta reda på vad som ska användas som `{type}` använder du xdebug för att hämta begäran och utvärdera $linkTypes: `related`, `crosssell`, `uupsell` och `associated`.
 ![Länktyper för grupperad produkt - alt text](/help/assets/site-management/catalog/grouped-types.png "Grupperade produktlänkstyper som hämtats under xdebug-sessionen")
