@@ -26,7 +26,7 @@ Lär dig hur du ansluter till ett Adobe Commerce i ett molnprojekt, skapar en da
 * Anslut till ett Adobe Commerce Cloud-fjärrprojekt med ett GUI-verktyg som MySQL Workbench eller TablePlus.
 * Anslut till projektet och kör SQL från kommandoraden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450040?captions=swe&learn=on)
 
 Du kan komma åt Adobe Commerce-data från ditt molnprojekt på något av följande sätt:
 

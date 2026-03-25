@@ -31,4 +31,4 @@ Lär dig mer om de olika alternativen för Report Builder och hur du läser och 
 
 ## Adobe Commerce Intelligence rapporter och kontrollpaneler
 
->[!VIDEO](https://video.tv.adobe.com/v/3428252?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453147?captions=swe&learn=on)

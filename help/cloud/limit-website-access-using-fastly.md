@@ -31,7 +31,7 @@ Begränsa åtkomsten till Adobe Commerce-sajten med Edge ACL:er och anpassade VC
 * Adobe Commerce Developer
 * Webbplatstillförlitlighetstekniker
 
->[!VIDEO](https://video.tv.adobe.com/v/3464779?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464783?captions=swe&learn=on)
 
 ## Kodexempel
 

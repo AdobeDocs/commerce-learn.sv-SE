@@ -44,7 +44,7 @@ Skapa de enkla produkterna först när du skapar grupperade produkter från Adob
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3425920?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454042?captions=swe&learn=on)
 
 ## Inställningar för den grupperade produkten
 

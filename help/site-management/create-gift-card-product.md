@@ -31,7 +31,7 @@ Lär dig hur du skapar en presentkortsprodukt med REST API och Adobe Commerce Ad
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3427128?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453081?captions=swe&learn=on)
 
 ## Skapa ett presentkort med en enkel nyttolast
 

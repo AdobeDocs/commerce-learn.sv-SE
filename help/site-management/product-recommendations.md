@@ -34,7 +34,7 @@ I den här videon får du lära dig hur du ställer in produktrekommendationer.
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/343991?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449962?captions=swe&learn=on)
 
 ## Ytterligare resurser
 

@@ -42,7 +42,7 @@ I den här workshopen samarbetade Adobe Commerce med Merkle för att dela:
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/340038?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432514?captions=swe&learn=on)
 
 ## Ytterligare resurser
 

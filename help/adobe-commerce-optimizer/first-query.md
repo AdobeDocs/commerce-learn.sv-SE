@@ -30,7 +30,7 @@ Lär dig hur du hämtar data med GraphQL i en Adobe Commerce Optimizer-instans.
 * Fråga data med GraphQL
 * Använda jq för att göra JSON enklare att läsa
 
->[!VIDEO](https://video.tv.adobe.com/v/3470800?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470804?captions=swe&learn=on)
 
 ## Kodexempel
 

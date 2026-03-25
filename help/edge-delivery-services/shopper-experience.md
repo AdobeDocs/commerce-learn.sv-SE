@@ -44,4 +44,4 @@ Du lär dig navigera i Adobe Commerce butiksupplevelse på Edge Delivery Service
 * Arbeta med kundvagnen och beställningarna: lägg till artiklar, checka ut som gäst, avbryt beställningar, sortera om och bearbeta returer.
 * Uppdatera kontoinformation, slå ihop gäst- och kundvagn och håll utcheckningen konsekvent.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446766?captions=swe&learn=on)

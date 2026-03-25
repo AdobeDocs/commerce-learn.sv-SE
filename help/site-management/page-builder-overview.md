@@ -42,7 +42,7 @@ I den här videon får du lära dig att:
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/343781?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447895?captions=swe&learn=on)
 
 ## Ytterligare resurser
 

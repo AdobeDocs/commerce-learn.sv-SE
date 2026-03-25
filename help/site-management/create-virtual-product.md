@@ -31,7 +31,7 @@ Lär dig hur du skapar en virtuell produkt med REST API och Adobe Commerce Admin
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3425723?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444868?captions=swe&learn=on)
 
 ## Skapa en virtuell produkt med en URL
 

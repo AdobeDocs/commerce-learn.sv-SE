@@ -33,6 +33,6 @@ Upptäck hur du konfigurerar AI-verktyg för att skapa anpassade fraktpriser. I 
 * Går igenom konfigurationen av utvecklingsmiljön, inklusive utcheckning av databasen, granskning av starter-kit-strukturen och installation av nödvändiga verktyg.
 * Förbereder systemet för AI-assisterad utveckling genom att logga in, konfigurera åtkomst och se till att alla beroenden och förutsättningar finns på plats.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481328?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481332?captions=swe&learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

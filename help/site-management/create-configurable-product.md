@@ -50,7 +50,7 @@ När du skapar konfigurerbara produkter från Adobe Commerce Admin kan du anting
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3426381?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455039?captions=swe&learn=on)
 
 ## Hämta färgattributen med cURL
 

@@ -33,7 +33,7 @@ Den här filen avgör programmets konfiguration.
 * Filen `app.config.yaml` diskuterades
 * Hur länkar definitioner till andra `.js`-filer?
 
->[!VIDEO](https://video.tv.adobe.com/v/3416592?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430845?captions=swe&learn=on)
 
 ## Kodexempel
 

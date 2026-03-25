@@ -31,7 +31,7 @@ Läs mer om molninfrastrukturen och några metodtips för Adobe Commerce.
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3427679?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432796?captions=swe&learn=on)
 
 ## Experience League-dokumentation som omnämns i videon
 

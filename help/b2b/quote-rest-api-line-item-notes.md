@@ -31,6 +31,6 @@ Lär dig hur du använder radobjektsanteckningar för en Adobe Commerce B2B-offe
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3420418?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443489?captions=swe&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

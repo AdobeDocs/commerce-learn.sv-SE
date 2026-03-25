@@ -30,4 +30,4 @@ Lär dig hur du söker, installerar och validerar Adobe Commerce App Builder-pro
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3471513?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471528?captions=swe&learn=on)

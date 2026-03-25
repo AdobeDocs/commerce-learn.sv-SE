@@ -37,4 +37,4 @@ Implementering av kodfrysning under Adobe Commerce-migreringen är avgörande f�
 * Samordna manuella och automatiserade tester, lastprovning och penetrationstestning för att säkerställa att alla aspekter av platsen fungerar som förväntat.
 * Engagera intressenter, utvecklare och IT-team i valideringsprocessen för att säkerställa en smidig och framgångsrik start.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432965?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445489?captions=swe&learn=on)

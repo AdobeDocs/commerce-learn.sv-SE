@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/35785?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430965?captions=swe&learn=on)
 
 ## Användbara resurser
 

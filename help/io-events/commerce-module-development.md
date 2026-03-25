@@ -37,7 +37,7 @@ Lär dig hur du registrerar händelser, hittar händelser som stöds och hur du 
 * Lär dig hur du registrerar händelser i Commerce-instanser `app/etc/config.php`
 * Lär dig hur du avbryter prenumerationen på ett evenemang
 
->[!VIDEO](https://video.tv.adobe.com/v/3415802?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430654?captions=swe&learn=on)
 
 ## Användbara kommandon {#useful-commands}
 
