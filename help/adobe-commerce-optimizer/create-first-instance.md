@@ -37,5 +37,5 @@ Lär dig hur du skapar din första Adobe Commerce Optimizer-instans från börja
 
 ## Relaterat innehåll
 
-* [[!DNL Adobe Commerce Optimizer] Guide](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
-* [Översikt över Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)
+* [[!DNL Adobe Commerce Optimizer] Guide](https://experienceleague.adobe.com/sv/docs/commerce/optimizer/overview){target="_blank"}
+* [Översikt över Adobe Commerce Optimizer](https://experienceleague.adobe.com/sv/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)

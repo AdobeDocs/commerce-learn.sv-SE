@@ -37,5 +37,5 @@ Med kundsegment kan ni dynamiskt visa innehåll och kampanjer för specifika kun
 
 ## Ytterligare resurser
 
-* [Kundsegment - [!DNL Commerce] Kundhanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html){target="_blank"}
-* [Kundsegment i prisregler - [!DNL Commerce] Kundhanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html){target="_blank"}
+* [Kundsegment - [!DNL Commerce] Kundhanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html?lang=sv-SE){target="_blank"}
+* [Kundsegment i prisregler - [!DNL Commerce] Kundhanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html?lang=sv-SE){target="_blank"}

@@ -128,5 +128,5 @@ Men om vi släpper den tredje decimaltecknet skulle det visa att 3,98 USD gavs o
 
 ## Ytterligare resurser
 
-* [Skapa en kundprisregel - [!DNL Commerce] Handbok för marknadsföring och marknadsföring](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
-* [Kupongkoder - [!DNL Commerce] Handbok för marknadsföring och kampanjer](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html){target="_blank"}
+* [Skapa en kundprisregel - [!DNL Commerce] Handbok för marknadsföring och marknadsföring](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html?lang=sv-SE){target="_blank"}
+* [Kupongkoder - [!DNL Commerce] Handbok för marknadsföring och kampanjer](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html?lang=sv-SE){target="_blank"}

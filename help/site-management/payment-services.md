@@ -39,5 +39,5 @@ Betalningstjänster för Adobe Commerce och Magento Open Source minskar omkostna
 
 ## Ytterligare resurser
 
-* [Handbok för betaltjänster](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html)
-* [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+* [Handbok för betaltjänster](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html?lang=sv-SE)
+* [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=sv-SE)

@@ -33,4 +33,4 @@ Adobe Creative Cloud Automation Patching Service (CAPS), en funktion i Adobe Com
 
 ## Relaterad dokumentation
 
-* [Tjänstdokumentation för korrigeringstjänst för molnautomatisering](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/caps-tool/intro)
+* [Tjänstdokumentation för korrigeringstjänst för molnautomatisering](https://experienceleague.adobe.com/sv/docs/commerce-operations/tools/caps-tool/intro)

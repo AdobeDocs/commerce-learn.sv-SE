@@ -38,5 +38,5 @@ I den här videon får du lära dig hur du ställer in produktrekommendationer.
 
 ## Ytterligare resurser
 
-* [Produktrekommendationer](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html){target="_blank"}
-* [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
+* [Produktrekommendationer](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=sv-SE){target="_blank"}
+* [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=sv-SE){target="_blank"}

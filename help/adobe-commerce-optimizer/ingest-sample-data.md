@@ -38,6 +38,6 @@ Lär dig hur du importerar exempeldata för din Adobe Commerce Optimizer-instans
 ## Relaterat innehåll
 
 * [Exempeldata för GitHub-databas](https://github.com/adobe-commerce/aco-sample-catalog-data-ingestion){target="_blank"}
-* [Användningsexempel för administratör](https://experienceleague.adobe.com/en/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
-* [Kom igång med Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/get-started){target="_blank"}
-* [[!DNL Adobe Commerce Optimizer] Guide](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Användningsexempel för administratör](https://experienceleague.adobe.com/sv/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
+* [Kom igång med Adobe Commerce Optimizer](https://experienceleague.adobe.com/sv/docs/commerce/optimizer/get-started){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] Guide](https://experienceleague.adobe.com/sv/docs/commerce/optimizer/overview){target="_blank"}

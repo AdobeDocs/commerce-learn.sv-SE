@@ -37,5 +37,5 @@ Om funktionen Delad katalog är aktiverad i konfigurationen, visas den ursprungl
 
 ## Ytterligare resurser
 
-* [Arbeta med delade kataloger](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html){target="_blank"}
-* [Skapa en delad katalog](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html){target="_blank"}
+* [Arbeta med delade kataloger](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html?lang=sv-SE){target="_blank"}
+* [Skapa en delad katalog](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html?lang=sv-SE){target="_blank"}

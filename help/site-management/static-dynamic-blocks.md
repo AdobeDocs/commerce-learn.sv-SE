@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 jira: KT-17150
 duration: 302
 exl-id: 756d06cf-f7a2-4b9b-b369-12a9d99586b1
-badgePaas: label="Endast PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Gäller endast Adobe Commerce i molnprojekt (Adobe-hanterad PaaS-infrastruktur) och lokala projekt."
+badgePaas: label="Endast PaaS" type="Informative" url="https://experienceleague.adobe.com/sv/docs/commerce/user-guides/product-solutions" tooltip="Gäller endast Adobe Commerce i molnprojekt (Adobe-hanterad PaaS-infrastruktur) och lokala projekt."
 source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '151'
@@ -35,5 +35,5 @@ Ett block är en modulär innehållsenhet som kan placeras oftast var som helst 
 
 ## Ytterligare resurser
 
-* [Block - [!DNL Commerce] Innehålls- och designguide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
-* [Dynamiska block - [!DNL Commerce] Innehålls- och designguiden](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)
+* [Block - [!DNL Commerce] Innehålls- och designguide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html?lang=sv-SE)
+* [Dynamiska block - [!DNL Commerce] Innehålls- och designguiden](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html?lang=sv-SE)

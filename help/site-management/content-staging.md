@@ -11,7 +11,7 @@ feature: Configuration, System, Staging
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-badgePaas: label="Endast PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Gäller endast Adobe Commerce i molnprojekt (Adobe-hanterad PaaS-infrastruktur) och lokala projekt."
+badgePaas: label="Endast PaaS" type="Informative" url="https://experienceleague.adobe.com/sv/docs/commerce/user-guides/product-solutions" tooltip="Gäller endast Adobe Commerce i molnprojekt (Adobe-hanterad PaaS-infrastruktur) och lokala projekt."
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
 source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
@@ -37,5 +37,5 @@ Med Content Staging kan ert affärsteam enkelt skapa, förhandsgranska och schem
 
 ## Ytterligare resurser
 
-* [Mellanlagring av innehåll - [!DNL Commerce] Handbok för innehåll och design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
-* [Förhandsgranska en kampanj - [!DNL Commerce] Innehåll- och designguide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html){target="_blank"}
+* [Mellanlagring av innehåll - [!DNL Commerce] Handbok för innehåll och design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html?lang=sv-SE){target="_blank"}
+* [Förhandsgranska en kampanj - [!DNL Commerce] Innehåll- och designguide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html?lang=sv-SE){target="_blank"}

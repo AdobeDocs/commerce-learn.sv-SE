@@ -27,7 +27,7 @@ Med Adobe Commerce Intelligence SQL Report Builder kan du fråga ditt datalager,
 
 >[!TIP]
 >
-> Om du inte har använt Commerce Intelligence tidigare förklarar [Adobe Commerce Intelligence användarhandbok](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} hur du samlar in, analyserar och visualiserar data för att få bättre affärsinsikter.
+> Om du inte har använt Commerce Intelligence tidigare förklarar [Adobe Commerce Intelligence användarhandbok](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=sv-SE){target="_blank"} hur du samlar in, analyserar och visualiserar data för att få bättre affärsinsikter.
 
 ## Vem är den här videon till?
 
@@ -44,5 +44,5 @@ Med Adobe Commerce Intelligence SQL Report Builder kan du fråga ditt datalager,
 
 ## Användbara resurser
 
-* [Använda SQL Report Builder](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html){target="_blank"} (Commerce Intelligence användarhandbok)
-* [Skapar visualiseringar från SQL-frågor](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html){target="_blank"} (Commerce Intelligence användarhandbok)
+* [Använda SQL Report Builder](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html?lang=sv-SE){target="_blank"} (Commerce Intelligence användarhandbok)
+* [Skapar visualiseringar från SQL-frågor](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html?lang=sv-SE){target="_blank"} (Commerce Intelligence användarhandbok)

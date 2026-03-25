@@ -38,7 +38,7 @@ Föredra en databassump som du rensar för att ta bort kundinformation. Ta bort 
 
 ## Använda CLI-verktyget i Adobe Commerce Cloud
 
-Du måste ha [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html) installerat för att skapa en databassdump. Öppna en katalog på den lokala datorn och kör följande kommando. Ersätt `your-project-id` med ditt projekt-ID (liknar `asasdasd45q`). Ersätt `your-environment-name` med ditt miljönamn, till exempel `master` eller `staging`.
+Du måste ha [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=sv-SE) installerat för att skapa en databassdump. Öppna en katalog på den lokala datorn och kör följande kommando. Ersätt `your-project-id` med ditt projekt-ID (liknar `asasdasd45q`). Ersätt `your-environment-name` med ditt miljönamn, till exempel `master` eller `staging`.
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
 
@@ -274,7 +274,7 @@ Om du vill komma åt MariaDB-databasen direkt använder du SSH för att logga in
    magento-cloud ssh
    ```
 
-2. Hämta inloggningsuppgifterna för MySQL från egenskaperna `database` och `type` i variabeln [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=en#relationships).
+2. Hämta inloggningsuppgifterna för MySQL från egenskaperna `database` och `type` i variabeln [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=sv-SE#relationships).
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp
@@ -320,7 +320,7 @@ När du har konfigurerat anslutningen kan du använda ett MySQL-GUI för att kö
 
 ## Ansluta direkt till molnprojektdatabasen för att köra SQL
 
-Följande metod använder CLI:n `magento-cloud` för att ansluta direkt till MySQL-databasen och köra SQL för snabbare frågor. Om du behöver en kopia av den här databasen använder du en av de alternativa metoderna för att [skapa en databassdump](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html).
+Följande metod använder CLI:n `magento-cloud` för att ansluta direkt till MySQL-databasen och köra SQL för snabbare frågor. Om du behöver en kopia av den här databasen använder du en av de alternativa metoderna för att [skapa en databassdump](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=sv-SE).
 
 ```bash
 magento-cloud db:sql    
@@ -380,7 +380,7 @@ MariaDB [main]>
 
 ## Ytterligare resurser
 
-* [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
-* [Konfigurera MySQL-tjänsten](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
-* [Konfigurera en MySQL-fjärrdatabasanslutning](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
-* [Skapa databasdump på Adobe Commerce i molninfrastruktur](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)
+* [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=sv-SE)
+* [Konfigurera MySQL-tjänsten](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html?lang=sv-SE)
+* [Konfigurera en MySQL-fjärrdatabasanslutning](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html?lang=sv-SE)
+* [Skapa databasdump på Adobe Commerce i molninfrastruktur](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=sv-SE)

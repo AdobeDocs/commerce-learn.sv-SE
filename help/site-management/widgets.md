@@ -35,5 +35,5 @@ Widgetar är återanvändbara komponenter som du kan skapa och ändra för att a
 
 ## Ytterligare resurser
 
-* [Widgetar - [!DNL Commerce] Innehåll och designguide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html){target="_blank"}
-* [Skapa och hantera widgetar - [!DNL Commerce] Handbok för innehåll och design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html){target="_blank"}
+* [Widgetar - [!DNL Commerce] Innehåll och designguide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html?lang=sv-SE){target="_blank"}
+* [Skapa och hantera widgetar - [!DNL Commerce] Handbok för innehåll och design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html?lang=sv-SE){target="_blank"}

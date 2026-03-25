@@ -35,4 +35,4 @@ Din butik innehåller platser där du kan ange metadata med sökord för att fö
 
 ## Ytterligare resurser
 
-[Meta data - [!DNL Commerce] Handbok för marknadsföring och marknadsföring](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)
+[Meta data - [!DNL Commerce] Handbok för marknadsföring och marknadsföring](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html?lang=sv-SE)
