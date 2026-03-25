@@ -5,6 +5,7 @@ landing-page-description: Lär dig hur du skapar ett Adobe App Builder-projekt f
 short-description: Lär dig hur du skapar ett Adobe App Builder-projekt för Adobe Commerce-event
 kt: 11888
 doc-type: tutorial
+duration: 372
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
 feature: App Builder, Configuration, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: ec746cde-856b-4076-8ea4-e1c3f2f4b97b
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -34,7 +35,7 @@ Lär dig hur du skapar ett Adobe Developer App Builder-projekt för att förbruk
 * Använda Adobe Developer Console
 * Använda Adobe I/O
 
->[!VIDEO](https://video.tv.adobe.com/v/3430628?captions=swe&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415797?learn=on)
 
 ## Användbara kommandon {#useful-commands}
 

@@ -1,46 +1,47 @@
 ---
-title: Commerce store powered by Edge Delivery Services shoppingupplevelse
-description: Läs om Adobe Commerce Store som drivs av Edge Delivery Services för vad kunden kan förvänta sig av den här extremt snabba och kraftfulla shoppingupplevelsen.
+title: Upplevelsen med Edge Delivery Services
+description: 'Se vad kunderna ser och gör i Adobe Commerce Store som drivs av Edge Delivery Services: kundvagn, kassor, rabatter, kontouppgifter, order och returer.'
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
-role: Developer
+role: User
 level: Beginner
 doc-type: Technical Video
-duration: 543
-last-substantial-update: 2024-2-21
+duration: 596
+last-substantial-update: 2024-02-21T00:00:00Z
 jira: KT-17259
-source-git-commit: 202256387b88a22a0c46d6ae313c9d262d26e55b
+exl-id: 27a2aaa6-7748-4ec2-919f-9e5dc07e94e7
+source-git-commit: 0eff93523a3c798c77c4750a325f5eb0b37f82f8
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
-# Shopper Experience
+# Shoppingupplevelse
 
-Lär dig olika funktioner i Commerce Store som bygger på edge delivery services. I den här videon får du information om kunderna, t.ex. hur du lägger till artiklar i kundvagnen, tillämpar kundprisregler och kupongkoder, checkar ut som gäst, uppdaterar kontoinformation, annullerar beställningar, sorterar om artiklar och returnerar produkter. Du får också lära dig hur man hanterar beställningar, hur kunderna kan tillämpa rabatter och ibland även stapla kupongkoder för bättre rabatter.
+Läs om hur Commerce storefront från Edge Delivery Services stöder vanliga kunduppgifter: lägga till artiklar i kundvagnen, tillämpa kundprisregler och kupongkoder, checka ut som gäst, uppdatera kontoinformation, annullera order, ändra ordning och starta returer. Videon handlar också om orderhantering, hur kunderna tillämpar rabatter och när flera kupongkoder kan staplas.
 
-## Vad du kommer att lära dig
+## Vad du lär dig
 
-Hur ni effektivt kan navigera och utnyttja funktionerna i Adobe Commerce Store. Detta innefattar att hantera kundvagnen, tillämpa rabatter och kupongkoder, checka ut som gäst, uppdatera kontoinformation, avbryta och ordna om artiklar samt returnera produkter, allt för att förbättra den övergripande shoppingupplevelsen.
+Du lär dig navigera i Adobe Commerce butiksupplevelse på Edge Delivery Services, inklusive kundvagn, rabatter och kupongkoder, gästutcheckning, kontouppdateringar, annullering och ombeställning, returer och en smidigare väg genom utcheckning.
 
 ## Vem är den här videon till?
 
-* Ägare av e-handelsföretag
-* Webbplatsadministratör
-* Digital Marknadsförare
-* Kundtjänstrepresentant
+* e-handelsägare
+* Webbadministratören
+* Digitala marknadsförare
+* Kundtjänstrepresentanter
 * IT-personal
-* Online Store Manager
-* UX/UI Designer
-* Försäljningschef
-* Marknadsföringsspecialist
-* Product Manager
+* Butikschefer online
+* UX/UI-designers
+* Försäljningsansvariga
+* Marknadsföringsexperter
+* Produktchefer
 
 ## Videoinnehåll
 
-* Lär dig hur du använder kundvagnsprisregler och kupongkoder för att maximera besparingar under kassaprocessen.
-* Lär dig hur du hanterar beställningar, inklusive lägger till artiklar i kundvagnen, checkar ut som gäst, annullerar beställningar och sorterar om artiklar.
-* Få insikter om att uppdatera kontoinformation, slå samman gäst- och kundvagnar och säkerställ en smidig utcheckning.
+* Använd kundvagnsprisregler och kupongkoder vid utcheckning, även när det finns en stackning.
+* Arbeta med kundvagnen och beställningarna: lägg till artiklar, checka ut som gäst, avbryt beställningar, sortera om och bearbeta returer.
+* Uppdatera kontoinformation, slå ihop gäst- och kundvagn och håll utcheckningen konsekvent.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446766?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)

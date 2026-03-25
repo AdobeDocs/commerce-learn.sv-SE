@@ -3,6 +3,7 @@ title: Optimera Adobe Commerce med Global referensarkitektur för grupppaket
 description: Lär dig hur du konfigurerar Adobe Commerce med Bulk Packages Global Reference Architecture för effektiv kodhantering och versionskontroll.
 jira: KT-16726
 doc-type: tutorial
+duration: 391
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '1172'
 ht-degree: 0%
@@ -33,18 +34,18 @@ GRA-mönstret för grupppaket innehåller en enda Git-databas som innehåller al
 
 Fördelar:
 
-- Kodåteranvändning via ett delat kodarkiv
-- Flexibilitet att installera olika historiska versioner av GRA på olika instanser, vilket möjliggör fasbaserade versioner
-- Flexibilitet att stödja och underhålla flera större versioner av GRA
-- Stöd för semantisk versionshantering av GRA
-- Enkelt uttryckt behöver utvecklare inte mer kompetens än i vanliga utvecklingsmönster för en enda butik
-- Inga särskilda verktyg, komplex infrastruktur eller särskilda förgrenade strategier krävs
-- Kombinationen av paket i en release utvecklas och testas alltid tillsammans
+* Kodåteranvändning via ett delat kodarkiv
+* Flexibilitet att installera olika historiska versioner av GRA på olika instanser, vilket möjliggör fasbaserade versioner
+* Flexibilitet att stödja och underhålla flera större versioner av GRA
+* Stöd för semantisk versionshantering av GRA
+* Enkelt uttryckt behöver utvecklare inte mer kompetens än i vanliga utvecklingsmönster för en enda butik
+* Inga särskilda verktyg, komplex infrastruktur eller särskilda förgrenade strategier krävs
+* Kombinationen av paket i en release utvecklas och testas alltid tillsammans
 
 Nackdelar:
 
-- Det är bara möjligt att uppgradera hela GRA, inklusive alla paket som ingår i det.
-- Inget stöd i GRA-paketet (bulk package) för andra dispositionspaket än Adobe Commerce-moduler, språkpaket och teman, så inga metapaket, magento2-komponentpaket, Composer-plugin-program och patchar
+* Det är bara möjligt att uppgradera hela GRA, inklusive alla paket som ingår i det.
+* Inget stöd i GRA-paketet (bulk package) för andra dispositionspaket än Adobe Commerce-moduler, språkpaket och teman, så inga metapaket, magento2-komponentpaket, Composer-plugin-program och patchar
 
 ## Konfigurera Adobe Commerce med GRA-mönstret för delat Git
 
@@ -233,11 +234,11 @@ git push origin main
 
 Endast om den tredje parten inte erbjuder installation via en Composer-databas kan du lagra tredjepartsmoduler i katalogen `src/` i din grunddatabas eller ett dedikerat tredjepartspaket.
 
-- **Adobe Commerce Core**: tillgängligt via repo.magento.com.
-- **Tredjepartsmoduler**: tillgängliga via Marketplace eller en leverantörs egen Composer-databas.
-- **Alternativet för reservmoduler från tredje part**: lagras i `src/` för ett grupppaket.
-- **GRA-stiftskod**: lagras i `src/` för grundbulkpaketet.
-- **Lokal kod**: lagras i katalogen `packages/local` i distributionsdatabasen.
+* **Adobe Commerce Core**: tillgängligt via repo.magento.com.
+* **Tredjepartsmoduler**: tillgängliga via Marketplace eller en leverantörs egen Composer-databas.
+* **Alternativet för reservmoduler från tredje part**: lagras i `src/` för ett grupppaket.
+* **GRA-stiftskod**: lagras i `src/` för grundbulkpaketet.
+* **Lokal kod**: lagras i katalogen `packages/local` i distributionsdatabasen.
 
 ## Utveckla en GRA-modul
 
@@ -272,6 +273,6 @@ I biljettgrenar behöver du nästan aldrig uppdatera filen disposition.lock. Ta 
 
 Kodexemplen i den här artikeln är tillgängliga som en uppsättning Git-databaser, som du kan använda för att testa konceptbeviset.
 
-- Ett exempel på ett produktionsarkiv: <https://github.com/AntonEvers/gra-bulk-brand-x>
-- GRA-koddatabasen: <https://github.com/AntonEvers/gra-bulk-foundation>
-- Ett exempel på lokal modul: <https://github.com/AntonEvers/module-example-local>
+* Ett exempel på ett produktionsarkiv: <https://github.com/AntonEvers/gra-bulk-brand-x>
+* GRA-koddatabasen: <https://github.com/AntonEvers/gra-bulk-foundation>
+* Ett exempel på lokal modul: <https://github.com/AntonEvers/module-example-local>

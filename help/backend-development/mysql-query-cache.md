@@ -3,6 +3,7 @@ title: Lär dig hur cachning för mysql-frågor
 description: Ibland backas mysql-frågor upp i väntan på ett lås. I den här självstudiekursen förklaras vad som är frågecachelagring och några rekommendationer för inställningar om du har problem.
 kt: 13690
 doc-type: video
+duration: 444
 activity: use
 last-substantial-update: 2023-7-27
 feature: Backend Development, Cache, Logs
@@ -11,7 +12,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 8d3b0ec2-e80c-4457-b924-69e8b8cedf03
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -24,20 +25,20 @@ Lär dig vad MySQL-frågecachen är och lite grundläggande förståelse för hu
 
 ## Vem är den här videon till?
 
-- Arkitekter
-- Utvecklare
-- DevOps
+* Arkitekter
+* Utvecklare
+* DevOps
 
 ## Videoinnehåll
 
-- Läs mer om frågecachelagring
-- Så här identifierar du om inställningarna för frågecachen kan vara problem genom att söka efter&quot;Väntar på cache-lås för fråga&quot;
-- Se hur SQL sparas och används för att hitta en matchande frågecache
-- Några tips om konfigurationsinställningar
+* Läs mer om frågecachelagring
+* Så här identifierar du om inställningarna för frågecachen kan vara problem genom att söka efter&quot;Väntar på cache-lås för fråga&quot;
+* Se hur SQL sparas och används för att hitta en matchande frågecache
+* Några tips om konfigurationsinställningar
 
->[!VIDEO](https://video.tv.adobe.com/v/3432373?captions=swe&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
 
 ## Användbara resurser
 
-- [Allmänna MySQL-riktlinjer](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=sv-SE){target="_blank"}
-- [Galerareplikering och långsamma frågor](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html?lang=sv-SE){target="_blank"}
+* [Allmänna MySQL-riktlinjer](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=en){target="_blank"}
+* [Galerareplikering och långsamma frågor](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html){target="_blank"}

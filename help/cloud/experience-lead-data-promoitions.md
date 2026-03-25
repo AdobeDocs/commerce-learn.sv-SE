@@ -6,11 +6,11 @@ topic: Administration, Architecture, Commerce
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 1227
+duration: 1345
 last-substantial-update: 2024-09-09T00:00:00Z
 jira: KT-16201
 exl-id: cd8485ca-86d9-4306-8767-7b0b4e319117
-source-git-commit: f7019a524a6978908fdd50d93eb0fbe0b5f032a4
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 0%
@@ -23,10 +23,10 @@ Läs om Adobe Commerce avancerade sökfunktioner, som bygger på Adobe AI, och d
 
 ## Vem är de här videorna till?
 
-- E-handelschefer
-- Commerce handlare
-- Marknadsförare av webbplatser
-- Programutvecklare
+* E-handelschefer
+* Commerce handlare
+* Marknadsförare av webbplatser
+* Programutvecklare
 
 ## Kataloghantering
 
@@ -34,23 +34,23 @@ Upptäck Adobe Commerce kraftfulla kataloghanteringsverktyg för e-handelsadmini
 
 ## Videoinnehåll för kataloghantering
 
-- Effektiv kataloghantering.
-- Avancerad integrering och anpassning.
-- Förbättrad shoppingupplevelse.
+* Effektiv kataloghantering.
+* Avancerad integrering och anpassning.
+* Förbättrad shoppingupplevelse.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434068?captions=swe&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434039?learn=on)
 
 ## Live Search
 
-Upptäck de avancerade sökfunktionerna i Adobe Commerce Live Search, som drivs av Adobe AI. &#x200B; Denna robusta SaaS-lösning förbättrar e-handelsupplevelsen genom att leverera ytterst relevanta sökresultat snabbt och effektivt. &#x200B; Marknadsförare och marknadsförare kan optimera sökresultaten med verktyg som avancerade sökregler, synonymer och facets. Live Search ger realtidsförslag, intelligent rankning och anpassningsbara sökupplevelser, vilket säkerställer att kunderna hittar det de behöver. &#x200B; Det har också stöd för B2B-modeller med delade kataloger och specifika priser, vilket gör det till en mångsidig lösning för alla affärsbehov.
+Upptäck de avancerade sökfunktionerna i Adobe Commerce Live Search från Adobe AI. &#x200B; Denna robusta SaaS-lösning förbättrar e-handelsupplevelsen genom att leverera mycket relevanta sökresultat snabbt och effektivt. &#x200B; Marknadsförare och marknadsförare kan optimera sökresultaten med verktyg som avancerade sökregler, synonymer och facets. Live Search erbjuder realtidsförslag, intelligent rankning och anpassningsbara sökupplevelser, vilket säkerställer att kunderna hittar det de behöver. &#x200B; Det har också stöd för B2B-modeller med delade kataloger och specifika priser, vilket gör det till en mångsidig lösning för alla affärsbehov.
 
 ## Videoinnehåll för live-sökning
 
-- AI-styrd sökoptimering: Adobe Commerce Live Search använder AI och maskininlärning för att ge mycket relevanta och effektiva sökresultat.
-- Skräddarsydd sökupplevelse: Funktioner som avancerade sökregler, synonymer och ansikten ger en skräddarsydd och optimerad sökupplevelse för kunderna.
-- B2B-integrering: Live Search har stöd för B2B-modeller med delade kataloger och specifika priser, vilket förbättrar dess mångsidighet för olika affärsbehov.
+* AI-styrd sökoptimering: Adobe Commerce Live Search använder AI och maskininlärning för att ge mycket relevanta och effektiva sökresultat.
+* Skräddarsydd sökupplevelse: Funktioner som avancerade sökregler, synonymer och ansikten ger en skräddarsydd och optimerad sökupplevelse för kunderna.
+* B2B-integrering: Live Search har stöd för B2B-modeller med delade kataloger och specifika priser, vilket förbättrar dess mångsidighet för olika affärsbehov.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434046?captions=swe&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434040?learn=on)
 
 ## Erbjudanden  
 
@@ -58,9 +58,9 @@ Adobe Commerce ger butikscheferna möjlighet att enkelt skapa och hantera produk
 
 ## Kampanjinnehåll
 
-- Kampanjhantering utan kod.
-- Avancerade kampanjstrategier.
-- Smidig integrering med tredjepartssystem, vilket ger ökad flexibilitet och automatisering.
+* Kampanjhantering utan kod.
+* Avancerade kampanjstrategier.
+* Smidig integrering med tredjepartssystem, vilket ger ökad flexibilitet och automatisering.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434057?captions=swe&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434041?learn=on)
 >

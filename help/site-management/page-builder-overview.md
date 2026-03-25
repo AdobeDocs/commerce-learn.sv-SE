@@ -1,8 +1,9 @@
 ---
-title: '[!DNL Page Builder] - översikt'
+title: '[!DNL Page Builder] översikt'
 description: Lär dig hur du skapar sidor i  [!DNL Commerce] lagrar sidor i administratören med  [!DNL Page Builder].
 kt: 5563
 doc-type: feature video
+duration: 317
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,15 +12,15 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: b68e3fef-c392-48ad-af93-ae535f5cdc3c
-badgePaas: label="Endast PaaS" type="Informative" url="https://experienceleague.adobe.com/sv/docs/commerce/user-guides/product-solutions" tooltip="Gäller endast Adobe Commerce i molnprojekt (Adobe-hanterad PaaS-infrastruktur) och lokala projekt."
-source-git-commit: 340b9d7ad9989aab0fe980db4cb176828d93ad97
+badgePaas: label="Endast PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Gäller endast Adobe Commerce i molnprojekt (Adobe-hanterad PaaS-infrastruktur) och lokala projekt."
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '153'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# [!DNL Page Builder] - översikt
+# [!DNL Page Builder] översikt
 
 Med [!DNL Page Builder] är det enkelt att skapa innehållsrika sidor med anpassade layouter som förbättrar ditt visuella berättande, och som ökar kundernas engagemang och lojalitet.
 
@@ -27,23 +28,23 @@ Från och med version 2.4.3 är [!DNL Page Builder] tillgängligt som standard i
 
 I den här videon får du lära dig att:
 
-- Redigera en befintlig sida
-- Redigera en ny sida
-- Lägga till produkter på en befintlig sida
-- Lägga till och formatera rader och kolumner
-- Lägga till media och element i kolumner och rader
-- Lägga till och formatera ett reglage
+* Redigera en befintlig sida
+* Redigera en ny sida
+* Lägga till produkter på en befintlig sida
+* Lägga till och formatera rader och kolumner
+* Lägga till media och element i kolumner och rader
+* Lägga till och formatera ett reglage
 
 ## Vem är den här videon till?
 
-- Webbdesigners
-- Butikshandlare
+* Webbdesigners
+* Butikshandlare
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3447895?quality=12&learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/343781?learn=on)
 
 ## Ytterligare resurser
 
-- [Användarhandbok för Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html?lang=sv-SE)
-- [Utvecklarhandbok för Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
+* [Användarhandbok för Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)
+* [Utvecklarhandbok för Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)

@@ -2,6 +2,7 @@
 title: Ställ in produktrekommendationer
 description: Lär dig hur du använder produktrekommendationer i din Adobe Commerce Store.
 doc-type: feature video
+duration: 395
 audience: all
 activity: use
 kt: 13790
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: a62f9984-782c-40cf-a140-498b58b24bcd
-source-git-commit: f992a1c30652b41568d5cc8a45994047e9807fa7
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -22,20 +23,20 @@ ht-degree: 0%
 
 {{ee-feature}}
 
-Produktrekommendationer är ett kraftfullt marknadsföringsverktyg som ni kan använda för att öka konverteringarna, öka intäkterna och stimulera kundernas engagemang. Adobe Commerce produktrekommendationer drivs av Adobe AI, som använder artificiell intelligens och algoritmer för maskininlärning för att göra en djupgående analys av samlade besöksdata. Dessa data kombineras med din Adobe Commerce-katalog och ger en engagerande, relevant och personaliserad upplevelse.
+Produktrekommendationer är ett kraftfullt marknadsföringsverktyg som ni kan använda för att öka konverteringarna, öka intäkterna och stimulera kundernas engagemang. Adobe Commerce produktrekommendationer drivs av Adobe AI, som använder artificiell intelligens och maskininlärningsalgoritmer för att göra en djupgående analys av samlade besökardata. Dessa data kombineras med din Adobe Commerce-katalog och ger en engagerande, relevant och personaliserad upplevelse.
 
 I den här videon får du lära dig hur du ställer in produktrekommendationer.
 
 ## Vem är den här videon till?
 
-- eCommerce-marknadsförare
-- Webbplatschefer
+* eCommerce-marknadsförare
+* Webbplatschefer
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3449962?captions=swe&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343991?learn=on)
 
 ## Ytterligare resurser
 
-- [Produktrekommendationer](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=sv-SE){target="_blank"}
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=sv-SE){target="_blank"}
+* [Produktrekommendationer](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html){target="_blank"}
+* [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}

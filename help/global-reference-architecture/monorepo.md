@@ -3,6 +3,7 @@ title: Global Reference Architecture Monorepo
 description: Lär dig använda monorepo-metoden för global referensarkitektur för att skapa en skalbar och flexibel e-handelsupplevelse
 jira: KT-16728
 doc-type: tutorial
+duration: 441
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Experienced
 exl-id: ebdc13cf-c452-4728-af00-c3ea1149c2fa
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '1371'
 ht-degree: 0%
@@ -27,24 +28,24 @@ I den här guiden beskrivs hur du konfigurerar Adobe Commerce med GRA-mönstret 
 
 Monorepo GRA-mönstret innehåller en enda Git-databas som innehåller alla vanliga anpassningar. Denna enda Git-databas visas via Composer som ett separat dispositionspaket.
 
-![Ett diagram som visar var kod lagras i ett GRA-mönster för monorepo &#x200B;](/help/assets/global-reference-architecture/monorepo-gra-pattern-diagram.png){align="center"}
+![Ett diagram som visar var kod lagras i ett GRA-mönster för monorepo ](/help/assets/global-reference-architecture/monorepo-gra-pattern-diagram.png){align="center"}
 
 ## Fördelar och nackdelar med mönstret
 
 Fördelar:
 
-- Idealiskt för funktionstestning
-- Kod återanvänds via delade koddatabaser
-- Fullständig flexibilitet vid paketinstallation - varje GRA-paket kan uppgraderas, nedgraderas eller backporteras individuellt
-- Fullt stöd för semantisk versionshantering
-- Inga särskilda verktyg, komplex infrastruktur eller särskilda förgrenade strategier krävs
-- Stöd för alla pakettyper som Composer stöder
-- Perfekt för tillfälliga miljöer som är valfria, men för team med stora volymer är de mycket användbara
+* Idealiskt för funktionstestning
+* Kod återanvänds via delade koddatabaser
+* Fullständig flexibilitet vid paketinstallation - varje GRA-paket kan uppgraderas, nedgraderas eller backporteras individuellt
+* Fullt stöd för semantisk versionshantering
+* Inga särskilda verktyg, komplex infrastruktur eller särskilda förgrenade strategier krävs
+* Stöd för alla pakettyper som Composer stöder
+* Perfekt för tillfälliga miljöer som är valfria, men för team med stora volymer är de mycket användbara
 
 Nackdelar:
 
-- Möjlighet att distribuera kombinationer av paket som inte har utvecklats i samma konfiguration, kräver strikta testprocedurer
-- GRA-mönstret för monorepo kan vara komplext från början. Tilldela ett lead som hjälper teamet att arbeta med systemet
+* Möjlighet att distribuera kombinationer av paket som inte har utvecklats i samma konfiguration, kräver strikta testprocedurer
+* GRA-mönstret för monorepo kan vara komplext från början. Tilldela ett lead som hjälper teamet att arbeta med systemet
 
 ## Konfigurera Adobe Commerce med GRA-mönstret för separata paket
 
@@ -348,5 +349,5 @@ Om du använder tillfälliga miljöer eller tänker använda dem är monorepo et
 
 Kodexemplen i den här artikeln har kombinerats i en uppsättning Git-databaser som du kan använda för att spela upp tillsammans med konceptbeviset.
 
-- Ett exempel på monorepo-databas: <https://github.com/AntonEvers/gra-monorepo>
-- Ett exempel på ett produktionsarkiv: <https://github.com/AntonEvers/gra-monorepo-brand-x>
+* Ett exempel på monorepo-databas: <https://github.com/AntonEvers/gra-monorepo>
+* Ett exempel på ett produktionsarkiv: <https://github.com/AntonEvers/gra-monorepo-brand-x>

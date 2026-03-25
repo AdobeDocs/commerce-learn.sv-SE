@@ -2,6 +2,7 @@
 title: Använda GraphQL för att visa rabatt på radobjekt
 description: Lär dig offerten för en B2B-order som erbjuder radobjektsrabatt med GraphQL
 doc-type: feature video
+duration: 117
 audience: all
 activity: use
 kt: 13800
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: c30457dc-0eca-4f94-bb7c-b493d173ebab
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
@@ -26,7 +27,7 @@ Lär dig hur du använder rabatten för radobjekt och se värdena med GraphQL
 
 ## Vem är den här videon till?
 
-- Utvecklare
+* Utvecklare
 
 ## Videoinnehåll
 

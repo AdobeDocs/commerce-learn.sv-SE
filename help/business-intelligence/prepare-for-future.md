@@ -5,6 +5,7 @@ landing-page-description: Titta på den här serien videor för att förtydliga 
 short-description: Titta på den här serien videor för att förtydliga din förståelse för de oöverträffade förändringar som formar den digitala handelns framtid.
 kt: 10411
 doc-type: feature video
+duration: 1516
 solution: Commerce,Commerce Intelligence
 audience: all
 activity: use
@@ -14,7 +15,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 2ff2e1c8-384a-453f-bb8b-f6c834ca334b
-source-git-commit: 15528d0e2543961e6e6d6d4e12c9b272eab88dc7
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '226'
 ht-degree: 0%
@@ -31,21 +32,21 @@ Titta på den här serien videor för att förtydliga din förståelse för de o
 
 >[!TIP]
 >
->Om du inte har använt Commerce Intelligence tidigare kan du få en fullständig översikt i [Adobe Commerce Intelligence användarhandbok](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=sv-SE){target="_blank"} om hur du får bättre affärsinsikter och resultat genom datainsamling, analys och visualisering.
+>Om du inte har använt Commerce Intelligence tidigare kan du få en fullständig översikt i [Adobe Commerce Intelligence användarhandbok](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} om hur du får bättre affärsinsikter och resultat genom datainsamling, analys och visualisering.
 
 ## Vem är den här videon till?
 
-- Affärsanvändare
-- Dataanalytiker
+* Affärsanvändare
+* Dataanalytiker
 
 ## Del 1: Ökning i den digitala Commerce-trafiken
 
->[!VIDEO](https://video.tv.adobe.com/v/342498?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342498?learn=on)
 
 ## Del 2: Segmentering av trafiktoppar per bransch
 
->[!VIDEO](https://video.tv.adobe.com/v/342499?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342499?learn=on)
 
 ## Del 3: Påverkan på kundens köpbeteende
 
->[!VIDEO](https://video.tv.adobe.com/v/342500?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342500?learn=on)

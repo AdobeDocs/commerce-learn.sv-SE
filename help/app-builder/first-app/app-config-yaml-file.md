@@ -4,6 +4,7 @@ description: Lär dig mer om filtyperna i filen app.config.yaml för det här ex
 landing-page-description: Lär dig mer om Adobe Developer App Builder som används med Adobe Commerce och vilka typer av filer som finns i app.config.yaml.
 kt: 12929
 doc-type: tutorial
+duration: 136
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: ff5f1811-ca93-494e-8e5c-a5e0c7bb673d
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -32,7 +33,7 @@ Den här filen avgör programmets konfiguration.
 * Filen `app.config.yaml` diskuterades
 * Hur länkar definitioner till andra `.js`-filer?
 
->[!VIDEO](https://video.tv.adobe.com/v/3430845?captions=swe&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416592?learn=on)
 
 ## Kodexempel
 

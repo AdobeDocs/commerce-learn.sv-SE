@@ -6,11 +6,11 @@ topic: Artificial Intelligence
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 337
+duration: 341
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20516
 exl-id: 874c8512-a57e-4e0b-882d-be700dcb501b
-source-git-commit: cb70f3e9bd02146b9c2f50106730583683d7cfca
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
@@ -34,6 +34,6 @@ Upptäck hur du kan använda Adobe AI-baserade verktyg för att effektivisera ut
 * MCP-verktygen visar kommandon och data som agenten använder för att planera och generera kod.
 * AI automatiserar krav, arkitektur och implementeringsbeslut.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481348/?captions=swe&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481344?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

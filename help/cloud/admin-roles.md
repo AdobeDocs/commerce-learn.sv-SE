@@ -6,16 +6,16 @@ topic: Administration, Commerce, Security
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 256
+duration: 299
 last-substantial-update: 2024-10-09T00:00:00Z
 jira: KT-16186
-source-git-commit: f029ed2ca8e09c2937a39299477c4516b6b76c4f
+exl-id: 490cf618-9ebe-478d-9e12-49dde50ceae8
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce administratörsroller
 
@@ -23,14 +23,14 @@ Lär dig hur du loggar in på Adobe Commerce Admin Portal med Adobe ID eller Fed
 
 ## Vem är den här videon för
 
-- Lagra administratörer och affärsanvändare som ansvarar för att hantera åtkomst och behörigheter.
-- Nya butiksägare som behöver instruktioner för att skapa roller med specifik behörighet och tilldela användare till dessa roller
-- Adobe Commerce-projekt vill säkerställa en säker och effektiv hantering av de administrativa uppgifter som utförs i Adobe Commerce-administratören.
+* Lagra administratörer och affärsanvändare som ansvarar för att hantera åtkomst och behörigheter.
+* Nya butiksägare som behöver instruktioner för att skapa roller med specifik behörighet och tilldela användare till dessa roller
+* Adobe Commerce-projekt vill säkerställa en säker och effektiv hantering av de administrativa uppgifter som utförs i Adobe Commerce-administratören.
 
 ## Videoinnehåll
 
-- Lär dig de senaste inloggningsmetoderna.
-- Få en god förståelse för hur man skapar och hanterar roller
-- Förstå användartilldelning och åtkomstnivåer. &#x200B;
+* Lär dig de senaste inloggningsmetoderna.
+* Få en god förståelse för hur man skapar och hanterar roller
+* Förstå användartilldelning och åtkomstnivåer. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3433517?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)

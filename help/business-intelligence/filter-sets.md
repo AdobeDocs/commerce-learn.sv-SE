@@ -5,6 +5,7 @@ landing-page-description: I den här videon lär du dig hur du använder Commerc
 short-description: I den här videon får du lära dig hur du använder filteruppsättningsfunktionen MBCommerce IntelligenceI för att förenkla rapportering av affärsdata.
 kt: 10289
 doc-type: feature video
+duration: 515
 solution: Commerce,Commerce Intelligence
 audience: all
 activity: use
@@ -14,7 +15,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: f7d93e45-7382-4fe5-9088-dfba78d148c6
-source-git-commit: 15528d0e2543961e6e6d6d4e12c9b272eab88dc7
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -27,26 +28,26 @@ Vill du bara analysera vissa delar av dina affärsdata? Är du trött på att re
 
 I den här videon:
 
-- Skapa en filteruppsättning
-- Använd filteroperatorer
-- Använda en filteruppsättning på ett mätvärde
-- Använda en filteruppsättning för en beräknad datamängd
+* Skapa en filteruppsättning
+* Använd filteroperatorer
+* Använda en filteruppsättning på ett mätvärde
+* Använda en filteruppsättning för en beräknad datamängd
 
 >[!TIP]
 >
->Om du inte har använt Commerce Intelligence tidigare kan du få en fullständig översikt i [Adobe Commerce Intelligence användarhandbok](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=sv-SE){target="_blank"} om hur du får bättre affärsinsikter och resultat genom datainsamling, analys och visualisering.
+>Om du inte har använt Commerce Intelligence tidigare kan du få en fullständig översikt i [Adobe Commerce Intelligence användarhandbok](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} om hur du får bättre affärsinsikter och resultat genom datainsamling, analys och visualisering.
 
 ## Vem är den här videon till?
 
-- Affärsanvändare
-- Dataanalytiker
+* Affärsanvändare
+* Dataanalytiker
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/342408?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342408?learn=on)
 
 ## Användbara resurser
 
-[Skapa filteruppsättningar - Commerce Intelligence användarhandbok](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html?lang=sv-SE)
+[Skapa filteruppsättningar - Commerce Intelligence användarhandbok](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
 
-[Rekommenderade Dimensioner för segmentering och filtrering - Commerce Intelligence användarhandbok](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html?lang=sv-SE)
+[Rekommenderade datadimensioner för segmentering och filtrering - Commerce Intelligence användarhandbok](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)

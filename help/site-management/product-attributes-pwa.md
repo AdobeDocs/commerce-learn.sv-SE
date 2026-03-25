@@ -1,7 +1,8 @@
 ---
 title: Använd produktattribut med PWA Studio
-description: Lär dig hur du hanterar produktattribut med PWA Studio.
+description: Lär dig hantera produktattribut med PWA Studio.
 doc-type: feature video
+duration: 463
 audience: all
 activity: use
 kt: 13789
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 71210a1b-620b-4bb7-aa96-4afd01cff7d9
-source-git-commit: 3eff251283f1a6c5dc2bff8d72bd494d7446db79
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
@@ -24,14 +25,14 @@ I den här videon får du lära dig hur du hanterar produktattribut när du har 
 
 ## Vem är den här videon till?
 
-- Utvecklare
-- Projektledare
+* Utvecklare
+* Projektledare
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/343788?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343788?learn=on)
 
 ## Ytterligare resurser
 
-- [Produktattribut - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=sv-SE)
-- [PWA Studio - dokumentation för utvecklare](https://developer.adobe.com/commerce/pwa-studio/)
+* [Produktattribut - [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+* [PWA Studio - dokumentation för utvecklare](https://developer.adobe.com/commerce/pwa-studio/)

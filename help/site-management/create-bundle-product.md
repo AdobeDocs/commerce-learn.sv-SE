@@ -3,6 +3,7 @@ title: Skapa en paketprodukt
 description: Lär dig hur du skapar en paketprodukt med REST API och Commerce Admin.
 kt: 14589
 doc-type: video
+duration: 1335
 audience: all
 activity: use
 last-substantial-update: 2024-1-8
@@ -11,7 +12,7 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 5d688e6a-ae8c-4a55-b16c-5d3ae2d1bfd5
-source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 0%
@@ -24,18 +25,18 @@ En paketprodukt är ett sätt att gruppera flera produkter under en överordnad 
 
 Du kan till exempel erbjuda ett produktpaket som heter `Learning to surf` i din webbutik. Paketet är den överordnade produkten som fungerar som behållare för de tilldelade underordnade produkterna och anger tillgängliga alternativ:
 
-- Ett standardsurfbord
-- Ett vanligt surfbords-utslag
-- Rödsurfbrädor
+* Ett standardsurfbord
+* Ett vanligt surfbords-utslag
+* Rödsurfbrädor
 
 Om du vill ha ytterligare flexibilitet rekommenderas du att tillåta flera alternativ för underordnade produkter. Detta kräver en mer komplex användning av alternativ och underordnade produkter. Om du vill utöka det föregående exemplet är de sista alternativen:
 
-- Ett standardsurfbord
-- Ett vanligt surfbords-utslag
-- Val av finfärg:
-   - Röd
-   - Blå
-   - Gul
+* Ett standardsurfbord
+* Ett vanligt surfbords-utslag
+* Val av finfärg:
+   * Röd
+   * Blå
+   * Gul
 
 Oavsett om paketet är en statisk grupp av enkla produkter eller flera produkter med variationer gör de flexibla konfigurationsalternativen att paketera produkttyper är ett unikt och kraftfullt marknadsföringsverktyg för Adobe Commerce Store.
 
@@ -55,13 +56,13 @@ När du skapar paketprodukter från Adobe Commerce Admin kan du antingen skapa d
 
 ## Vem är den här videon till?
 
-- Webbplatschefer
-- e-handlare
-- Nya Adobe Commerce-utvecklare som vill lära sig skapa paketprodukter i Adobe Commerce med REST API
+* Webbplatschefer
+* e-handlare
+* Nya Adobe Commerce-utvecklare som vill lära sig skapa paketprodukter i Adobe Commerce med REST API
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3454502?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3426797?learn=on)
 
 ## Skapa produkter med REST
 
@@ -69,7 +70,7 @@ Följande kommandon skapar alla produkter som behövs för att definiera paketpr
 
 Innan du skickar begäran ska du uppdatera exemplet med värden för miljön.
 
-- Ändra `"attribute-set": 4` så att `4` ersätts med attributuppsättnings-ID:t från din miljö.
+* Ändra `"attribute-set": 4` så att `4` ersätts med attributuppsättnings-ID:t från din miljö.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -188,11 +189,11 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Skapa en paketprodukt och tilldela de enkla produkterna som alternativ
 
-Skapa en paketprodukt genom att skicka följande POST.
+Skapa en paketprodukt genom att skicka följande POST-begäran.
 
 Innan du skickar begäran ska du uppdatera exemplet med värden för miljön.
 
-- Ändra `"attribute_set_id": 4,` och ersätt `4` med attributuppsättnings-ID:t från din miljö.
+* Ändra `"attribute_set_id": 4,` och ersätt `4` med attributuppsättnings-ID:t från din miljö.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -319,7 +320,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-produ
 
 ## Återställ produktalternativ
 
-När du uppdaterar alternativ för paketprodukter måste du ta med alla alternativ som du vill associera med den här produkten. Om den ursprungliga uppsättningen med alternativ innehöll tre produkter och en togs bort, tar du med alla tre alternativen i produktpaketet för att vara säker på att produktpaketet anger alla alternativ. Om du bara tog med det alternativ du tog bort innehåller det uppdaterade produktpaketet bara det alternativet.
+När du uppdaterar alternativ för paketprodukter måste du ta med alla alternativ som du vill associera med den här produkten. Om den ursprungliga uppsättningen med alternativ innehöll tre produkter och en togs bort, inkluderar du alla tre alternativen i POST-begäran för att säkerställa att produktpaketet anger alla alternativ. Om du bara tog med det alternativ du tog bort innehåller det uppdaterade produktpaketet bara det alternativet.
 
 Leta reda på alternativ-ID genom att granska svaret från det att paketet skapades för paketprodukten. I det svaret är `option_id` `35`.
 
@@ -372,7 +373,7 @@ Leta reda på alternativ-ID genom att granska svaret från det att paketet skapa
 ...
 ```
 
-Uppdatera produktpaketet för att lägga till det alternativ du tog bort genom att skicka följande begäran om POST.
+Uppdatera produktpaketet för att lägga till det alternativ du tog bort genom att skicka följande POST-begäran.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' \
@@ -429,7 +430,7 @@ curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' 
 
 ## Ytterligare resurser
 
-- [Skapa en produktsjälvstudiekurs](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
-- [Paketprodukt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html?lang=sv-SE){target="_blank"}
-- [Adobe Developer REST-självstudiekurser](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Skapa en produktsjälvstudiekurs](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
+* [Paketprodukt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
+* [Adobe Developer REST-självstudiekurser](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

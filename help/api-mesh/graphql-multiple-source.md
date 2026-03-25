@@ -5,6 +5,7 @@ landing-page-description: Upptäck hur du använder API Mesh på Adobe Commerce 
 short-description: Upptäck hur du använder API Mesh på Adobe Commerce och [!DNL Adobe App Builder]. Lär dig hur du skapar ett nät som har flera källor och hur du löser några vanliga fel.
 kt: 11804
 doc-type: tutorial
+duration: 409
 audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: d788a068-9d20-4db0-a0eb-fd897873253d
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -35,7 +36,7 @@ Den här videon hjälper utvecklare att förstå hur man skapar ett nät med fle
 * Felsöka fel som namnkonflikter, schematillgänglighet och andra schemasyntaxproblem
 * Uppdatera ditt nät med en ändrad konfiguration
 
->[!VIDEO](https://video.tv.adobe.com/v/3430768?captions=swe&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414125?learn=on)
 
 ## Skapa JSON-konfigurationsfilen
 

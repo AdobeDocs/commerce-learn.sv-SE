@@ -3,6 +3,7 @@ title: Hantera användarroller och behörigheter
 description: Lär dig mer om användarkonton och behörigheter som används för att styra åtkomst till  [!DNL Commerce] webbplatsen och lagra data i Admin.
 kt: 5610
 doc-type: feature video
+duration: 189
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: d06815c2-4b2a-4219-8c4e-7aa41a2be25d
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -24,14 +25,14 @@ Om det finns andra i teamet eller tjänsteleverantörerna som behöver åtkomst 
 
 ## Vem är den här videon till?
 
-- Butiksadministratörer
+* Butiksadministratörer
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3443511?quality=12&learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/343654?learn=on)
 
 ## Ytterligare resurser
 
-[Hantera administratörsanvändarkonton - [!DNL Commerce] Handbok för administratörssystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html?lang=sv-SE)
+[Hantera administratörsanvändarkonton - [!DNL Commerce] Handbok för administratörssystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
-[Användarroller - [!DNL Commerce] Handbok för administratörssystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=sv-SE)
+[Användarroller - [!DNL Commerce] Handbok för administratörssystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)

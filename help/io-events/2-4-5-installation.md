@@ -5,6 +5,7 @@ landing-page-description: Lär dig hur du installerar flera moduler som behövs 
 short-description: Lär dig hur du installerar flera moduler som behövs för Adobe Commerce 2.4.5 med Composer.
 kt: 11886
 doc-type: tutorial
+duration: 214
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
 badge: Adobe Commerce 2.4.5
@@ -14,7 +15,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: e0adfd85-5a3d-44ba-aab5-ecd7c61715cf
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -36,7 +37,7 @@ Lär dig installera flera nya moduler i Adobe Commerce med Composer för version
 * Kommandon som ska köras för Adobe Commerce Cloud
 * Redigering krävs för Adobe Commerce Cloud
 
->[!VIDEO](https://video.tv.adobe.com/v/3430647?captions=swe&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415794?learn=on)
 
 ## Användbara kommandon {#useful-commands}
 

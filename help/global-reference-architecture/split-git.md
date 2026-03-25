@@ -1,8 +1,9 @@
 ---
 title: Konfigurera Adobe Commerce med den delade Git Global Reference Architecture
-description: Lär dig hur du konfigurerar Adobe Commerce med Split Git Global Reference Architecture för effektiv kodhantering och effektiv driftsättning. ​
+description: Lär dig hur du konfigurerar Adobe Commerce med den delade Git Global Reference Architecture (den globala referensarkitekturen för Git) för effektiv kodhantering och effektiv driftsättning. ​
 kt: 16725
 doc-type: tutorial
+duration: 515
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac544f77-8f5f-4ad1-92b2-bdf323100c13
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '1468'
 ht-degree: 0%
@@ -33,18 +34,18 @@ Det delade Git GRA-mönstret innefattar två Git-databaser för utveckling och e
 
 Fördelar:
 
-- Kodåteranvändning via ett delat kodarkiv
-- Enkelt GRA-mönster, lämpligt även för team med begränsade dispositionskunskaper
-- Förutom Adobe Commerce-moduler, teman och språkpaket går det att installera alla typer av Composer-paket via den här modellen, inklusive Composer-plugin, Composer-metapackage, magento2-komponent och patchar
-- Möjligt att släppa i faser, planera releaser för regioner i sina egna underhållsperioder
-- Stöd för Git-taggar i administrationssyfte, inte för distributionskontroll
-- Garantera att kombinationen av paket i en produktionsdistribution utvecklas och testas i just den här konfigurationen
+* Kodåteranvändning via ett delat kodarkiv
+* Enkelt GRA-mönster, lämpligt även för team med begränsade dispositionskunskaper
+* Förutom Adobe Commerce-moduler, teman och språkpaket går det att installera alla typer av Composer-paket via den här modellen, inklusive Composer-plugin, Composer-metapackage, magento2-komponent och patchar
+* Möjligt att släppa i faser, planera releaser för regioner i sina egna underhållsperioder
+* Stöd för Git-taggar i administrationssyfte, inte för distributionskontroll
+* Garantera att kombinationen av paket i en produktionsdistribution utvecklas och testas i just den här konfigurationen
 
 Nackdelar:
 
-- Ingen flexibilitet jämfört med andra GRA-mönster
-- Det går inte att uppgradera eller nedgradera enskilda moduler per instans. Uppgradera eller nedgradera alltid GRA som helhet
-- I de flesta fall passar bulkpaketmönstret bättre eftersom det är lika enkelt, men mer konventionellt
+* Ingen flexibilitet jämfört med andra GRA-mönster
+* Det går inte att uppgradera eller nedgradera enskilda moduler per instans. Uppgradera eller nedgradera alltid GRA som helhet
+* I de flesta fall passar bulkpaketmönstret bättre eftersom det är lika enkelt, men mer konventionellt
 
 ## Konfigurera Adobe Commerce med GRA-mönstret för delat Git
 
@@ -153,11 +154,11 @@ Adobe Commerce är ett Composer-program. Det bästa sättet att installera är a
 
 Sammanfattning:
 
-- **Adobe Commerce**: lagras i en Composer-databas.
-- **Tredjepartsmoduler**: lagras i en Composer-databas.
-- **Alternativet för reservmoduler från tredje part**: lagras i Git-databasen gra-split-3rdparty.
-- **GRA-stiftskod**: lagras i Git-databasen gra-split-gra.
-- **Lokal kod**: lagras i Git-databasen gra-split-brand-x.
+* **Adobe Commerce**: lagras i en Composer-databas.
+* **Tredjepartsmoduler**: lagras i en Composer-databas.
+* **Alternativet för reservmoduler från tredje part**: lagras i Git-databasen gra-split-3rdparty.
+* **GRA-stiftskod**: lagras i Git-databasen gra-split-gra.
+* **Lokal kod**: lagras i Git-databasen gra-split-brand-x.
 
 ### Anslut paketlagring till Composer
 
@@ -377,9 +378,9 @@ Sammanfoga aldrig utfästelser från tredje part och GRA-utfästelser i varumär
 
 Kodexemplen i den här artikeln är tillgängliga som en uppsättning Git-databaser, som du kan använda för att testa konceptbeviset.
 
-- Ett exempel på ett produktionsarkiv: <https://github.com/AntonEvers/gra-split-brand-x>
-- Tredjepartskoddatabasen: <https://github.com/AntonEvers/gra-split-3rdparty>
-- GRA-koddatabasen: <https://github.com/AntonEvers/gra-split-gra>
-- Ett exempel på lokal modul: <https://github.com/AntonEvers/module-example-local>
-- Ett exempel på GRA-modul: <https://github.com/AntonEvers/module-example-gra>
-- Ett exempel på en tredjepartsmodul: <https://github.com/AntonEvers/module-example-3rdparty>
+* Ett exempel på ett produktionsarkiv: <https://github.com/AntonEvers/gra-split-brand-x>
+* Tredjepartskoddatabasen: <https://github.com/AntonEvers/gra-split-3rdparty>
+* GRA-koddatabasen: <https://github.com/AntonEvers/gra-split-gra>
+* Ett exempel på lokal modul: <https://github.com/AntonEvers/module-example-local>
+* Ett exempel på GRA-modul: <https://github.com/AntonEvers/module-example-gra>
+* Ett exempel på en tredjepartsmodul: <https://github.com/AntonEvers/module-example-3rdparty>

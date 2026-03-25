@@ -3,6 +3,7 @@ title: Global referensarkitektur för separata paket
 description: Optimera Adobe Commerce med separat paket (GRA). Lär dig konfigurera, fördelar och bästa praxis för flexibel versionshantering av paket.
 jira: KT-16727
 doc-type: tutorial
+duration: 594
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '2101'
 ht-degree: 0%
@@ -35,16 +36,16 @@ Det här globala referensarkitekturmönstret är helt Composer-baserat och har u
 
 Fördelar:
 
-- Kod återanvänds via delade koddatabaser
-- Fullständig flexibilitet vid paketinstallation - varje GRA-paket kan uppgraderas, nedgraderas eller backporteras individuellt
-- Fullt stöd för semantisk versionshantering
-- Inga särskilda verktyg, komplex infrastruktur eller särskilda förgrenade strategier krävs
-- Stöd för alla pakettyper som Composer stöder
+* Kod återanvänds via delade koddatabaser
+* Fullständig flexibilitet vid paketinstallation - varje GRA-paket kan uppgraderas, nedgraderas eller backporteras individuellt
+* Fullt stöd för semantisk versionshantering
+* Inga särskilda verktyg, komplex infrastruktur eller särskilda förgrenade strategier krävs
+* Stöd för alla pakettyper som Composer stöder
 
 Nackdelar:
 
-- Utvecklingen inom detta GRA-mönster är lite svårare i början, men det finns en liten inlärningskurva
-- Möjlighet att distribuera kombinationer av paket som inte har utvecklats i samma konfiguration, kräver strikta testprocedurer
+* Utvecklingen inom detta GRA-mönster är lite svårare i början, men det finns en liten inlärningskurva
+* Möjlighet att distribuera kombinationer av paket som inte har utvecklats i samma konfiguration, kräver strikta testprocedurer
 
 ## Konfigurera Adobe Commerce med GRA-mönstret för separata paket
 
@@ -84,9 +85,9 @@ Installera Adobe Commerce med `bin/magento setup:install`. Genomför resultatet 
 
 Varje paket i det här globala referensarkitekturmönstret har sin egen Git-databas. Nedan visas exempel på paket som innehåller Adobe Commerce-moduler som representerar en GRA-modul, en tredjepartsmodul och en lokal modul.
 
-- <https://github.com/AntonEvers/module-example-gra>
-- <https://github.com/AntonEvers/module-example-3rdparty>
-- <https://github.com/AntonEvers/module-example-local>
+* <https://github.com/AntonEvers/module-example-gra>
+* <https://github.com/AntonEvers/module-example-3rdparty>
+* <https://github.com/AntonEvers/module-example-local>
 
 Använd exemplen för att skapa egna paket.
 
@@ -290,10 +291,10 @@ Se till att relaterade paket visas tillsammans i översikter. Skapa namn från g
 
 Kodexemplen i det här blogginlägget har kombinerats i en uppsättning Git-databaser som du kan använda för att spela upp tillsammans med konceptbeviset.
 
-- Ett exempel på ett produktionsarkiv: <https://github.com/AntonEvers/gra-separate-brand-x>
-- Ett exempel på en grundläggande modul: <https://github.com/AntonEvers/module-example-gra>
-- Ett exempel på en tredjepartsmodul: <https://github.com/AntonEvers/module-example-3rdparty>
-- Ett exempel på lokal modul: <https://github.com/AntonEvers/module-example-local>
-- Ett exempel på grundläggande metapaket: <https://github.com/AntonEvers/gra-meta-foundation>
-- Ett exempel på ett lokalt metapaket (valfritt): <https://github.com/AntonEvers/gra-meta-brand-x>
-- Ett exempel på databas för disposition: <https://github.com/AntonEvers/gra-composer-repository>
+* Ett exempel på ett produktionsarkiv: <https://github.com/AntonEvers/gra-separate-brand-x>
+* Ett exempel på en grundläggande modul: <https://github.com/AntonEvers/module-example-gra>
+* Ett exempel på en tredjepartsmodul: <https://github.com/AntonEvers/module-example-3rdparty>
+* Ett exempel på lokal modul: <https://github.com/AntonEvers/module-example-local>
+* Ett exempel på grundläggande metapaket: <https://github.com/AntonEvers/gra-meta-foundation>
+* Ett exempel på ett lokalt metapaket (valfritt): <https://github.com/AntonEvers/gra-meta-brand-x>
+* Ett exempel på databas för disposition: <https://github.com/AntonEvers/gra-composer-repository>

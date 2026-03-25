@@ -3,6 +3,7 @@ title: Skapa en virtuell produkt
 description: Lär dig hur du skapar en virtuell produkt med REST API och Commerce Admin.
 kt: 14464
 doc-type: video
+duration: 213
 audience: all
 activity: use
 last-substantial-update: 2023-11-15T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 5149b6b4-5fbf-467a-a412-6dce7188bcb9
-source-git-commit: a9712c4354967e8e53c421878be8b83bb6056e6d
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -24,13 +25,13 @@ Lär dig hur du skapar en virtuell produkt med REST API och Adobe Commerce Admin
 
 ## Vem är den här videon till?
 
-- Webbplatschefer
-- e-handlare
-- Nya Adobe Commerce-utvecklare som vill lära sig hur man skapar produkter i Adobe Commerce med REST API.
+* Webbplatschefer
+* e-handlare
+* Nya Adobe Commerce-utvecklare som vill lära sig hur man skapar produkter i Adobe Commerce med REST API.
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3444868?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3425723?learn=on)
 
 ## Skapa en virtuell produkt med en URL
 
@@ -61,5 +62,5 @@ curl --location '{{your.url.here}}/rest/default/V1/products/Admin-created-virtua
 
 ## Ytterligare resurser
 
-- [Adobe Developer REST-självstudiekurser](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Adobe Developer REST-självstudiekurser](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

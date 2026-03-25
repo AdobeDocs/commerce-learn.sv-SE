@@ -7,11 +7,11 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 118
+duration: 141
 last-substantial-update: 2024-10-29T00:00:00Z
 jira: KT-16406
 exl-id: 48d22302-b2ab-415a-a83c-a28eea45d87e
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -24,13 +24,13 @@ Lär dig hur du identifierar ett sl-certifikat som har gått ut och hur du gener
 
 ## Vem är den här videon för
 
-- Utvecklare som använder Adobe Commerce Cloud-integrering och andra utvecklargrenar för att testa.
-- Nya Adobe Commerce Cloud-team som använder Luma storefront för att testa funktioner.
+* Utvecklare som använder Adobe Commerce Cloud-integrering och andra utvecklargrenar för att testa.
+* Nya Adobe Commerce Cloud-team som använder Luma storefront för att testa funktioner.
 
 ## Videoinnehåll
 
-- Lär dig hur du identifierar ett ogiltigt SSL-certifikat.
-- Identifiera när under processen ett nytt certifikat skapas.
-- Validera att det nya certifikatet fungerar som förväntat. &#x200B;
+* Lär dig hur du identifierar ett ogiltigt SSL-certifikat.
+* Identifiera när under processen ett nytt certifikat skapas.
+* Verifiera att det nya certifikatet fungerar som förväntat. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3439752?captions=swe&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435751?learn=on)

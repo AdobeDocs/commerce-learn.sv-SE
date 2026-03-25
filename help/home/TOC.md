@@ -3,9 +3,9 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: ad0e7639accf3b127bb11c062c9c22a3b03c362f
+source-git-commit: 3015914bce0b6fc1eba125f6a9c0b52a0b5c057f
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '871'
 ht-degree: 2%
 
 ---
@@ -96,18 +96,18 @@ ht-degree: 2%
 
 + Utbyggbarhet {#extensibility}
    + Back-end Development {#backend-development}
-      + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=sv-SE)
+      + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Skapa en modul](../backend-development/create-module.md)
       + [Lägg till ett produktattribut](../backend-development/add-product-attribute.md)
       + [Exempel på beroendeinjektion](../backend-development/dependency-injection.md)
       + [Långsam replikering för Galera Cluster](../backend-development/galera-db-slow-replication.md)
       + [MySQL-frågecache](../backend-development/mysql-query-cache.md)
       + [PT-frågesammandrag](../backend-development/pt-query-digest.md)
-      + [Ansluta till och hämta Adobe Commerce-databasen](../backend-development/remote-db-connection-execute-queries.md)
+      + [Ansluta och köra frågor mot Adobe Commerce-databasen](../backend-development/remote-db-connection-execute-queries.md)
       + Commerce Upgrades {#upgrade}
          + [Adobe Commerce 2.4 Upgrade Workshop](../upgrade/2-4-upgrade-workshop.md)
          + [Översikt över verktyget Kompatibilitet för uppgradering](../upgrade/upgrade-compatibility-tool-overview.md)
-         + [Använda verktyget Kompatibilitet för uppgradering i PHP Storm](../upgrade/uct-phpstorm.md)
+         + [Använda verktyget Kompatibilitet för uppgradering i PhpStorm](../upgrade/uct-phpstorm.md)
    + Front-end Luma Development {#frontend-development}
       + PaaS/SaaS Page Builder för utvecklare {#page-builder}
          + [1 - Introduktion](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -131,12 +131,12 @@ ht-degree: 2%
          + Introduktion till headless {#introduction-to-headless}
             + [Arkitektur utan rubrik - session 1](../headless/session-1.md)
          + Introduktion till PWA Studio {#introduction}
-            + [1 - Översikt](../pwa/introduction/1-overview.md)
-            + [2 - PWA STUDIO](../pwa/introduction/2-pwa-studio-tools.md)
-            + [3 - Starta](../pwa/introduction/3-launch.md)
-            + [4 - UPPÅT](../pwa/introduction/4-upward.md)
-            + [5 - Komma igång](../pwa/introduction/5-getting-started.md)
-            + [6 - Peregrin](../pwa/introduction/6-peregrine.md)
+            + [Ökning](../pwa/introduction/1-overview.md)
+            + [PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
+            + [Starta](../pwa/introduction/3-launch.md)
+            + [UPPGRADERING](../pwa/introduction/4-upward.md)
+            + [Komma igång](../pwa/introduction/5-getting-started.md)
+            + [Peregrin](../pwa/introduction/6-peregrine.md)
          + [PWA Docker Development](../pwa/pwa-docker-development.md)
          + [Konfigurera Venia för utveckling](../pwa/set-up-venia-for-dev.md)
    + GraphQL och REST {#graphql-rest}

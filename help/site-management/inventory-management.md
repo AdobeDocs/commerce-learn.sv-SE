@@ -3,6 +3,7 @@ title: Inventory management
 description: Läs mer om Inventory management funktioner och hur du kan använda dem för att arbeta från ett enda lagerställe eller ett komplext leveransnätverk.
 kt: 10551
 doc-type: feature video
+duration: 383
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: c2f154e0-c5b3-4fcc-aa7b-20dcaabfadbe
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -24,14 +25,14 @@ Handlare med en enda butik till flera lager, butiker, upphämtningsplatser, avs�
 
 ## Vem är den här videon till?
 
-- Webbplatschefer
-- e-handlare
+* Webbplatschefer
+* e-handlare
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/343748?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343748?learn=on)
 
 ## Ytterligare resurser
 
-- [Inventory management Guide](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html?lang=sv-SE)
-- [Inventory management - REST-dokumentation för utvecklare](https://developer.adobe.com/commerce/webapi/rest/inventory/)
+* [Inventory management Guide](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
+* [Inventory management - REST-dokumentation för utvecklare](https://developer.adobe.com/commerce/webapi/rest/inventory/)

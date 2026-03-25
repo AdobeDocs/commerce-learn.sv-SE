@@ -2,6 +2,7 @@
 title: Hantera delade kataloger
 description: Lär dig hur du använder delade B2B-kataloger för att underhålla grupperade kataloger med anpassade priser för olika företag.
 doc-type: feature video
+duration: 456
 audience: all
 activity: use
 last-substantial-update: 2023-5-10
@@ -10,7 +11,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 74fb5548-a077-4c09-a351-0be830060841
-source-git-commit: abde2b1e7d1fd1fd5387f2564e79b086fb808b2f
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -27,14 +28,14 @@ Om funktionen Delad katalog är aktiverad i konfigurationen, visas den ursprungl
 
 ## Vem är den här videon till?
 
-- Webbplatschefer
-- e-handlare
+* Webbplatschefer
+* e-handlare
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/344446?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344446?learn=on)
 
 ## Ytterligare resurser
 
-- [Arbeta med delade kataloger](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html?lang=sv-SE){target="_blank"}
-- [Skapa en delad katalog](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html?lang=sv-SE){target="_blank"}
+* [Arbeta med delade kataloger](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html){target="_blank"}
+* [Skapa en delad katalog](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html){target="_blank"}

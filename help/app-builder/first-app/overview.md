@@ -4,6 +4,7 @@ description: Lär dig mer om Adobe Developer App Builder med Adobe Commerce och 
 landing-page-description: Lär dig mer om Adobe Developer App Builder som används med Adobe Commerce och skapa din första app.
 kt: 12421
 doc-type: tutorial
+duration: 197
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 0b6a91dd-e5c4-4ead-84d4-362de070815e
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -30,7 +31,7 @@ Den här självstudiekursen innehåller följande krav:
 * [Adobe Developer App Builder arbetsytor har skapats - steg 2.6](https://developer.adobe.com/app-builder/docs/getting_started/first_app/#2-creating-a-new-project-on-developer-console){target="_blank"}
 * [AIO CLI-kommandona för att initiera projektet och köra har körts](https://developer.adobe.com/runtime){target="_blank"}
 
-Mer information om hur du skapar ditt första App Builder-program finns i följande blogginlägg som kan hjälpa dig med den här första konfigurationen och konfigurationen [Hur App Builder hjälper till att öka affärsflexibiliteten för din e-handelsplattform](https://business.adobe.com/se/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
+Mer information om hur du skapar ditt första App Builder-program finns i följande blogginlägg som kan hjälpa dig med den här första konfigurationen och konfigurationen [Hur App Builder hjälper till att öka affärsflexibiliteten för din e-handelsplattform](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
 
 ## Vad du kan förvänta dig av den här självstudiekursen
 
@@ -51,7 +52,7 @@ Den här självstudiekursen har utformats för att du ska kunna följa ordningen
 * Förväntningar om användning av exempelmodulen
 * Återanvändbara delar av exempelmodulen
 
->[!VIDEO](https://video.tv.adobe.com/v/3416740?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416740?learn=on)
 
 {{avoid-400-error}}
 

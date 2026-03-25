@@ -10,9 +10,9 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-duration: 579
+duration: 815
 exl-id: c18fd80e-1a25-4346-a8c5-3b5449d49965
-source-git-commit: 48a98261a827741459e45f14f7463f4a989c49d2
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -25,13 +25,13 @@ Lär dig hur du skapar en presentkortsprodukt med REST API och Adobe Commerce Ad
 
 ## Vem är den här videon till?
 
-- Webbplatschefer
-- e-handlare
-- Nya Adobe Commerce-utvecklare som vill lära sig hur man skapar produkter i Adobe Commerce med REST API.
+* Webbplatschefer
+* e-handlare
+* Nya Adobe Commerce-utvecklare som vill lära sig hur man skapar produkter i Adobe Commerce med REST API.
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3453081?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3427128?learn=on)
 
 ## Skapa ett presentkort med en enkel nyttolast
 
@@ -145,7 +145,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Skapa ett presentkort med en fullständig nyttolast
 
-I följande exempel visas POSTENS begäran om att skapa ett presentkort med en full nyttolast. Nyttolasten innehåller alla attribut som kan konfigureras när du skapar ett presentkort. Om du använder det här kodexemplet anpassar du konfigurationen genom att uppdatera standardvärdena för varje attribut efter behov innan du skickar begäran.
+I följande exempel visas POST-begäran om att skapa ett presentkort med full nyttolast. Nyttolasten innehåller alla attribut som kan konfigureras när du skapar ett presentkort. Om du använder det här kodexemplet anpassar du konfigurationen genom att uppdatera standardvärdena för varje attribut efter behov innan du skickar begäran.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -325,6 +325,6 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Ytterligare resurser
 
-- [Skapa en presentkortsprodukt från Commerce Admin](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html?lang=sv-SE){target="_blank"}
-- [Adobe Developer REST-självstudiekurser](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Skapa en presentkortsprodukt från Commerce Admin](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html){target="_blank"}
+* [Adobe Developer REST-självstudiekurser](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

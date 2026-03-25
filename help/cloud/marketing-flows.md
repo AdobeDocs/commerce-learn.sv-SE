@@ -6,16 +6,16 @@ topic: Architecture, Commerce
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 423
+duration: 637
 last-substantial-update: 2024-10-09T00:00:00Z
 jira: KT-16188
-source-git-commit: fad5703d870d90175418916766a83942dc3e7b7f
+exl-id: b5a9a043-0420-4096-b915-565eaf37a288
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce Marketing Flows
 
@@ -23,14 +23,14 @@ Utforska Adobe Commerce leveransbutik för Edge med fokus på innehållshanterin
 
 ## Vem är den här videon för
 
-- Marknadsförare, innehållschefer och e-handelsfolk.
+* Marknadsförare, innehållschefer och e-handelsfolk.
 Nya och gamla kunder som utforskar Adobe Commerce Edge leveransbutik.
-- Adobe Commerce-projekt som söker effektiv innehållshantering och optimering, särskilt för att marknadsföra nya produkter.
+* Adobe Commerce-projekt som söker effektiv innehållshantering och optimering, särskilt för att marknadsföra nya produkter.
 
 ## Videoinnehåll
 
-- Läs om de senaste alternativen för att skapa och hantera innehåll för Edge Delivery Services.
-- Få förståelse för optimering med A/B-testning.
-- Lär dig några avancerade verktyg och AI-integrering för att förfina innehåll, generera variationer och förbättra den övergripande marknadsföringsstrategin.
+* Läs om de senaste alternativen för att skapa och hantera innehåll för Edge Delivery Services.
+* Få förståelse för optimering med A/B-testning.
+* Lär dig några avancerade verktyg och AI-integrering för att förfina innehåll, generera variationer och förbättra den övergripande marknadsföringsstrategin.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433536?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3433527?learn=on)

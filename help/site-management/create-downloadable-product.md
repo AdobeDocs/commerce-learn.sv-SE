@@ -3,6 +3,7 @@ title: Skapa en nedladdningsbar produkt
 description: Lär dig hur du skapar en nedladdningsbar produkt med REST API och Adobe Commerce Admin.
 kt: 14464
 doc-type: video
+duration: 946
 audience: all
 activity: use
 last-substantial-update: 2023-11-16T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 90753b8d-eca0-4868-b40e-9563d2b0e1e8
-source-git-commit: eba043cd4169cd762653557bf9283b8d6a208ef0
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '584'
 ht-degree: 0%
@@ -24,13 +25,13 @@ Lär dig hur du skapar en nedladdningsbar produkt med REST API och Adobe Commerc
 
 ## Vem är den här videon till?
 
-- Webbplatschefer
-- e-handlare
-- Nya Adobe Commerce-utvecklare som vill lära sig hur man skapar produkter i Adobe Commerce med REST API
+* Webbplatschefer
+* e-handlare
+* Nya Adobe Commerce-utvecklare som vill lära sig hur man skapar produkter i Adobe Commerce med REST API
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3453947?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3425753?learn=on)
 
 ## Tillåtna nedladdningsbara domäner
 
@@ -54,7 +55,7 @@ När det är klart ändras `env.php` inuti arrayen _downloadable_domains_.
 
 Nu när domänen har lagts till i `env.php` kan du skapa en nedladdningsbar produkt i Adobe Commerce Admin eller genom att använda REST API.
 
-Mer information finns i [Konfigurationsreferens](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=sv-SE#downloadable_domains).
+Mer information finns i [Konfigurationsreferens](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains).
 
 >[!IMPORTANT]
 >I vissa versioner av Adobe Commerce kan följande fel uppstå när en produkt redigeras i Adobe Commerce Admin. Produkten skapas med REST API, men den länkade nedladdningen har ett pris på `null`.
@@ -116,20 +117,20 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 I det här exemplet visas hur du använder cURL för att skapa en nedladdningsbar produkt från Adobe Commerce Admin när filen lagras på samma server som Adobe Commerce-programmet.
 
-I det här fallet överförs filen till katalogen `pub/media/downloadable/files/links/` när administratören som hanterar katalogen väljer `upload file`.  Automatisering skapar och flyttar filerna till respektive plats baserat på följande mönster:
+I det här fallet överförs filen till katalogen `upload file` när administratören som hanterar katalogen väljer `pub/media/downloadable/files/links/`.  Automatisering skapar och flyttar filerna till respektive plats baserat på följande mönster:
 
-- Varje överförd fil lagras i en mapp baserat på de två första tecknen i filnamnet.
-- När överföringen initieras skapar eller använder Commerce-programmet befintliga mappar för att överföra filen.
-- När du hämtar filen används den del av sökvägen som är kopplad till katalogen `pub/media/downloadable/files/links/` i `link_file`-avsnittet av sökvägen.
+* Varje överförd fil lagras i en mapp baserat på de två första tecknen i filnamnet.
+* När överföringen initieras skapar eller använder Commerce-programmet befintliga mappar för att överföra filen.
+* När du hämtar filen används den del av sökvägen som är kopplad till katalogen `link_file` i `pub/media/downloadable/files/links/`-avsnittet av sökvägen.
 
 Om den överförda filen till exempel har namnet `download-example.zip`:
 
-- Filen överförs till sökvägen `pub/media/downloadable/files/links/d/o/`.
+* Filen överförs till sökvägen `pub/media/downloadable/files/links/d/o/`.
 Underkatalogerna `/d` och `/d/o` skapas om de inte finns.
 
-- Den sista sökvägen till filen är `/pub/media/downloadable/files/links/d/o/download-example.zip`.
+* Den sista sökvägen till filen är `/pub/media/downloadable/files/links/d/o/download-example.zip`.
 
-- Värdet `link_url` för det här exemplet är `d/o/download-example.zip`
+* Värdet `link_url` för det här exemplet är `d/o/download-example.zip`
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -236,7 +237,7 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 ## Ytterligare resurser
 
-- [Hämtningsbar produkttyp](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html?lang=sv-SE){target="_blank"}
-- [Konfigurationshandbok för hämtningsbara domäner](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=sv-SE#downloadable_domains){target="_blank"}
-- [Adobe Developer REST-självstudiekurser](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Hämtningsbar produkttyp](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
+* [Konfigurationshandbok för hämtningsbara domäner](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
+* [Adobe Developer REST-självstudiekurser](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

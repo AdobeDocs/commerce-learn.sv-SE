@@ -3,6 +3,7 @@ title: Skapa en konfigurerbar produkt
 description: Lär dig hur du skapar en konfigurerbar produkt med REST API och Commerce Admin.
 kt: 14586
 doc-type: video
+duration: 1760
 audience: all
 activity: use
 last-substantial-update: 2023-12-15T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 112bec9a-0f8e-4252-8c52-f486a5e663b5
-source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '952'
 ht-degree: 0%
@@ -30,7 +31,7 @@ I den här självstudiekursen får du lära dig hur du skapar en konfigurerbar p
 
 Använd REST API för att skapa en konfigurerbar produkt:
 
-1. Hämta attributen för en [attributuppsättning](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=sv-SE) för att använda ID-nummer för efterföljande API-anrop.
+1. Hämta attributen för en [attributuppsättning](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html) för att använda ID-nummer för efterföljande API-anrop.
 1. Skapa enkla produkter som kan användas i den konfigurerbara produkten.
 1. Skapa en tom konfigurerbar produkt och associera de enkla produkterna.
 1. Ange produktattributen för den konfigurerbara produkten.
@@ -43,13 +44,13 @@ När du skapar konfigurerbara produkter från Adobe Commerce Admin kan du anting
 
 ## Vem är den här videon till?
 
-- Webbplatschefer
-- e-handlare
-- Nya Adobe Commerce-utvecklare som vill lära sig hur man skapar konfigurerbara produkter i Adobe Commerce med REST API
+* Webbplatschefer
+* e-handlare
+* Nya Adobe Commerce-utvecklare som vill lära sig hur man skapar konfigurerbara produkter i Adobe Commerce med REST API
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3455039?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3426381?learn=on)
 
 ## Hämta färgattributen med cURL
 
@@ -85,7 +86,7 @@ I det här exemplet returneras hela attributuppsättningen med alla enskilda att
 ```
 
 
-Om du vill hämta attribut-ID:n för att konfigurera din konfigurerbara produkt uppdaterar du `attribute-sets/10/attributes`-delen av följande cURL-begäran så att `10` ersätts med attributuppsättnings-ID:t i din miljö. Den här begäran använder metoden GET.
+Om du vill hämta attribut-ID:n för att konfigurera din konfigurerbara produkt uppdaterar du `attribute-sets/10/attributes`-delen av följande cURL-begäran så att `10` ersätts med attributuppsättnings-ID:t i din miljö. Denna begäran använder GET-metoden.
 
 ```bash
 curl --location '{{your.url.here}}rest/V1/products/attribute-sets/10/attributes' \
@@ -96,12 +97,12 @@ curl --location '{{your.url.here}}rest/V1/products/attribute-sets/10/attributes'
 
 ### Justera miljö-ID:n och produktinformation
 
-Skapa den första enkla produkten med API:t för att skicka följande POST-förfrågan med cURL.
+Skapa den första enkla produkten genom att använda API:t för att skicka följande POST-begäran med cURL.
 
 Innan du skickar begäran ska du uppdatera exemplet med värden för miljön.
 
-- Ändra `"attribute-set": 10` så att `10` ersätts med attributuppsättnings-ID:t från din miljö.
-- Ändra `"value": "13"` så att `13` ersätts med värdet från din miljö.
+* Ändra `"attribute-set": 10` så att `10` ersätts med attributuppsättnings-ID:t från din miljö.
+* Ändra `"value": "13"` så att `13` ersätts med värdet från din miljö.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -137,12 +138,12 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Skapa den andra enkla produkten med cURL
 
-Skapa den andra enkla produkten med API:t för att skicka följande POST-förfrågan med cURL.
+Skapa den andra enkla produkten genom att använda API:t för att skicka följande POST-begäran med cURL.
 
 Innan du skickar begäran ska du uppdatera exemplet med värden för miljön.
 
-- Ändra `"attribute_set_id": 10,` och ersätt `10` med attributuppsättnings-ID:t från i din miljö.
-- Ändra `"value": "14"` och ersätt `14` med värdet från din miljö.
+* Ändra `"attribute_set_id": 10,` och ersätt `10` med attributuppsättnings-ID:t från i din miljö.
+* Ändra `"value": "14"` och ersätt `14` med värdet från din miljö.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -178,12 +179,12 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Skapa den tredje enkla produkten med cURL
 
-Skapa den tredje enkla produkten genom att skicka följande POST med cURL.
+Skapa den tredje enkla produkten genom att skicka följande POST-begäran med cURL.
 
 Innan du skickar begäran ska du uppdatera exemplet med värden för miljön.
 
-- Ändra `"attribute_set_id": 10,` så att `10` ersätts med attributuppsättnings-ID:t från din miljö.
-- Ändra `"value": "15"` och ersätt `15` med värdet från din miljö.
+* Ändra `"attribute_set_id": 10,` så att `10` ersätts med attributuppsättnings-ID:t från din miljö.
+* Ändra `"value": "15"` och ersätt `15` med värdet från din miljö.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -219,12 +220,12 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Skapa en tom konfigurerbar produkt med cURL
 
-Skapa en tom konfigurerbar POST genom att skicka följande begäran med cURL.
+Skapa en tom konfigurerbar produkt genom att skicka följande POST-begäran med cURL.
 
 Innan du skickar begäran ska du uppdatera exemplet med värden för miljön.
 
-- Ändra `"attribute_set_id": 10,` och ersätt `10` med attributuppsättnings-ID:t från din miljö.
-- Ändra `"value": "93"` och ersätt `93` med värdet från din miljö.
+* Ändra `"attribute_set_id": 10,` och ersätt `10` med attributuppsättnings-ID:t från din miljö.
+* Ändra `"value": "93"` och ersätt `93` med värdet från din miljö.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -252,7 +253,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Ange tillgängliga alternativ för den konfigurerbara produkten
 
-Ange tillgängliga alternativ för den konfigurerbara produkten genom att skicka följande POST med cURL.
+Ange tillgängliga alternativ för den konfigurerbara produkten genom att skicka följande POST-begäran med cURL.
 
 Innan du skickar begäran ändrar du `"attribute_id": 93,` så att `93` ersätts med attribut-ID:t från din miljö.
 
@@ -284,11 +285,11 @@ Om du glömmer att ange alternativ för den konfigurerbara produkten (överordna
 
 Nu har du skapat tre enkla produkter:
 
-- `"Kids Hawaiian Ukulele Red"`,
-- `"Kids-Hawaiian-Ukulele-Blue"`
-- `"Kids-Hawaiian-Ukulele-Green"`
+* `"Kids Hawaiian Ukulele Red"`,
+* `"Kids-Hawaiian-Ukulele-Blue"`
+* `"Kids-Hawaiian-Ukulele-Green"`
 
-Lägg till dessa enkla produkter som underordnade till den konfigurerbara produkten genom att skicka följande begäran om POST. Skicka en separat begäran för varje produkt.
+Lägg till dessa enkla produkter som underordnade till den konfigurerbara produkten genom att skicka följande POST-begäran. Skicka en separat begäran för varje produkt.
 
 Uppdatera värdet `childSKU` för varje begäran med värdet för den underordnade produkten som du lägger till. I följande exempel tilldelas den enkla produkten `kids-Hawaiian-Ukulele-red` till den konfigurerbara produkten med SKU:n `Kids-Hawaiian-Ukulele-red`.
 
@@ -318,7 +319,7 @@ Nu när du har skapat en konfigurerbar produkt med tre tilldelade underordnade S
 ...
 ```
 
-I följande används metoden GET
+Följande använder GET-metoden
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products/Kids-Hawaiian-Ukulele' \
@@ -327,9 +328,9 @@ curl --location '{{your.url.here}}/rest/default/V1/products/Kids-Hawaiian-Ukulel
 
 ## Hämta den underordnade produkten som är kopplad till en konfigurerbar produkt
 
-Returnera endast de underordnade som är associerade med den konfigurerbara produkten genom att skicka följande begäran om GET. Svaret innehåller alla attribut för den underordnade produkten, inklusive SKU och pris.
+Returnera endast de underordnade som är associerade med den konfigurerbara produkten genom att skicka följande GET-begäran. Svaret innehåller alla attribut för den underordnade produkten, inklusive SKU och pris.
 
-I följande används metoden GET
+Följande använder GET-metoden
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/configurable-products/kids-hawaiian-ukulele/children' \
@@ -347,7 +348,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable
 
 ## Ytterligare resurser
 
-- [Skapa en konfigurerbar produktsjälvstudiekurs](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
-- [Konfigurerbar produkt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html?lang=sv-SE){target="_blank"}
-- [Adobe Developer REST-självstudiekurser](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Skapa en konfigurerbar produktsjälvstudiekurs](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
+* [Konfigurerbar produkt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html){target="_blank"}
+* [Adobe Developer REST-självstudiekurser](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

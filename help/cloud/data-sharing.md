@@ -6,16 +6,16 @@ topic: Architecture, Commerce, Performance
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 540
+duration: 575
 last-substantial-update: 2024-11-09T00:00:00Z
 jira: KT-16194
-source-git-commit: c9c4a64ece0eaf536c2b2e299acea6adf9bab10c
+exl-id: ad6df83c-2b71-457f-9e0b-616f3b875ccd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce datautbyte
 
@@ -24,13 +24,13 @@ Integrera smidigt med Adobe Experience Cloud-produkter för att skapa personalis
 
 ## Vem är den här videon för
 
-- Företag och e-handelsföretag som vill förbättra kundlojaliteten
-- Återförsäljare, telekomföretag och varumärken som vill integrera sina data sömlöst i Adobe Experience Cloud
+* Företag och e-handelsföretag som vill förbättra kundlojaliteten
+* Återförsäljare, telekomföretag och varumärken som vill integrera sina data sömlöst i Adobe Experience Cloud
 
 ## Videoinnehåll
 
-- Förbättrad personalisering tack vare Adobe Commerce inbyggda funktioner för datadelning
-- Ökat kundengagemang och ökad lojalitet
-- Smidig integrering och enhetlig kundvy
+* Förbättrad personalisering tack vare Adobe Commerce inbyggda funktioner för datadelning
+* Ökat kundengagemang och ökad lojalitet
+* Smidig integrering och enhetlig kundvy
 
->[!VIDEO](https://video.tv.adobe.com/v/3433573?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3433568?learn=on)

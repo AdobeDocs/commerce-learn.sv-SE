@@ -3,6 +3,7 @@ title: Konfigurera Adobe Commerce Services Connector
 description: Lär dig hur du konfigurerar Adobe Commerce Services Connector för användning med Commerce SaaS-produkter och hur du löser vanliga problem.
 kt: 14777
 doc-type: video
+duration: 521
 audience: all
 activity: use
 last-substantial-update: 2024-01-09T00:00:00Z
@@ -11,8 +12,8 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 3ddfab5e-18a4-47ce-8b80-d66db10eebee
-badgePaas: label="Endast PaaS" type="Informative" url="https://experienceleague.adobe.com/sv/docs/commerce/user-guides/product-solutions" tooltip="Gäller endast Adobe Commerce i molnprojekt (Adobe-hanterad PaaS-infrastruktur) och lokala projekt."
-source-git-commit: 03fab8e76116374c69240173572a276652197d9b
+badgePaas: label="Endast PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Gäller endast Adobe Commerce i molnprojekt (Adobe-hanterad PaaS-infrastruktur) och lokala projekt."
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -27,8 +28,8 @@ Titta på videon _Konfigurera Adobe Commerce Services Connector_ som hjälp att 
 
 ## Vem är den här videon till?
 
-- Tekniker
-- e-handelschefer och kontaktpunkter
+* Tekniker
+* e-handelschefer och kontaktpunkter
 
 ## Videoinnehåll
 
@@ -38,16 +39,16 @@ Titta på videon _Konfigurera Adobe Commerce Services Connector_ som hjälp att 
 
 Commerce Services Connector är en konfiguration som utvecklats av Adobe och som låser upp olika SaaS-funktioner. Detta är några av de vanligaste frågorna om konfiguration:
 
-- Åtgärda ogiltiga eller offentliga nycklar.
-- Rotera butikens API-nyckel.
-- Navigera till steget SaaS-identifierare för att konfigurera Commerce Service Connector.
-- Felsök sandlådeknappen när du registrerar betaltjänster.
-- Commerce Service Connector läses inte in i användargränssnittet.
+* Åtgärda ogiltiga eller offentliga nycklar.
+* Rotera butikens API-nyckel.
+* Navigera till steget SaaS-identifierare för att konfigurera Commerce Service Connector.
+* Felsök sandlådeknappen när du registrerar betaltjänster.
+* Commerce Service Connector läses inte in i användargränssnittet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425959?learn=on)
 
 ## Ytterligare resurser
 
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=sv-SE){target="_blank"}
-- [Handbok för betaltjänster](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html?lang=sv-SE){target="+blank"}
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=sv-SE){target="+blank"}
+* [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
+* [Handbok för betaltjänster](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
+* [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}

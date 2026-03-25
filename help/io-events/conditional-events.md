@@ -5,6 +5,7 @@ landing-page-description: Lär dig hur du använder villkorliga Adobe Commerce-h
 short-description: Lär dig hur du använder villkorliga Adobe Commerce-händelser.
 kt: 11890
 doc-type: tutorial
+duration: 421
 audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
 feature: App Builder, Eventing, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 03787aa3-051b-4a35-b2e8-ecf6762b5eb4
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -36,7 +37,7 @@ Läs om villkorliga händelser i Adobe Commerce som kan användas i Adobe Develo
 * Definiera regler för användning i villkorshändelser
 * Lär dig hur du registrerar händelser i Commerce-instanser `app/etc/config.php`
 
->[!VIDEO](https://video.tv.adobe.com/v/3430655?captions=swe&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415806?learn=on)
 
 ## Användbara kommandon {#useful-commands}
 

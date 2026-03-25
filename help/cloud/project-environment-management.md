@@ -5,16 +5,16 @@ topic: Administration,Commerce
 role: User
 level: Beginner
 doc-type: Technical Video
-duration: 422
+duration: 461
 last-substantial-update: 2025-09-16T00:00:00Z
 jira: KT-19185
-source-git-commit: ac71d30083c1bb44fcb706411cb90d4ca1b70f59
+exl-id: 5e92894a-dc12-4ca6-ac04-d1d584551f8f
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
-
 
 # Projekt- och miljöhantering i Adobe Commerce Cloud
 
@@ -34,10 +34,10 @@ Lär dig hur du använder Adobe Commerce Cloud för att hantera projekt och milj
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3474965/?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3474960?learn=on)
 
 ## Relaterat innehåll och dokumentation
 
-* [Hantera användaråtkomst](https://experienceleague.adobe.com/sv/docs/commerce-on-cloud/user-guide/project/user-access)
-* [Säker anslutning till fjärrmiljöer](https://experienceleague.adobe.com/sv/docs/commerce-on-cloud/user-guide/develop/secure-connections)
-* [Molninfrastrukturprojekt](https://experienceleague.adobe.com/sv/docs/commerce-on-cloud/user-guide/project/overview)
+* [Hantera användaråtkomst](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/user-access)
+* [Säker anslutning till fjärrmiljöer](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/secure-connections)
+* [Molninfrastrukturprojekt](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/overview)

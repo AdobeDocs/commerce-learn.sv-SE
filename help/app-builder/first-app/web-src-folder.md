@@ -4,6 +4,7 @@ description: Lär dig mer om filtyperna i webbmappen och de kapslade filerna och
 landing-page-description: Lär dig mer om Adobe Developer App Builder som används med Adobe Commerce och vilka typer av filer som finns i mappen web-src.
 kt: 12425
 doc-type: tutorial
+duration: 285
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 67bbb464-1c2e-493e-9d7f-1051dfeec4ee
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -33,7 +34,7 @@ Webbmappen för det här exempelprogrammet innehåller många JavaScript-filer o
 * Filer och mappar som vanligtvis ingår
 * Hur mappen `web-src` och innehållet i den används i exempelprogrammet
 
->[!VIDEO](https://video.tv.adobe.com/v/3416665?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416665?learn=on)
 
 ## Kodexempel
 

@@ -6,11 +6,11 @@ topic: Commerce, Security
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 152
+duration: 195
 last-substantial-update: 2025-05-12T00:00:00Z
 jira: KT-18082
 exl-id: 8a109d90-a11c-4323-9486-abe48a2e1bff
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -33,11 +33,11 @@ Läs om hur Adobe och handlare delar ansvaret för att skydda Adobe Commerce Clo
 * Incidentsvar: Handlare måste snabbt svara på säkerhetsvarningar, som kan komma via olika kanaler som e-post och administratörsmeddelanden.
 * Bästa praxis: Adobe rekommenderar god praxis för handlare, bland annat att aktivera tvåfaktorsautentisering, skapa säker administratörsåtkomst och följa principen om lägsta behörighet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3458392/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3458392?learn=on)
 
 ## Ytterligare dokumentation
 
-* [Versionskommentarer för säkerhetsuppdatering](https://experienceleague.adobe.com/sv/docs/commerce-operations/release/notes/security-patches/overview)
-* [Meddelandekanaler](https://business.adobe.com/se/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
-* [Adobe säkerhetsbulletiner](https://helpx.adobe.com/se/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
-* [Skydda din e-handelsplats och infrastruktur](https://experienceleague.adobe.com/sv/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
+* [Versionskommentarer för säkerhetsuppdatering](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview)
+* [Meddelandekanaler](https://business.adobe.com/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
+* [Adobe säkerhetsbulletiner](https://helpx.adobe.com/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
+* [Skydda din e-handelsplats och infrastruktur](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)

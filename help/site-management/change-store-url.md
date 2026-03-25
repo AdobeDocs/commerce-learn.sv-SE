@@ -3,6 +3,7 @@ title: Ändra en butiks-URL
 description: Lär dig hur du ändrar din  [!DNL Commerce] store base URL i Admin.
 kt: 5605
 doc-type: feature video
+duration: 136
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 6d9562e7-359d-4e82-9c1d-9536ba44df14
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -24,18 +25,18 @@ Varje webbplats i en Adobe Commerce- eller Magento Open Source-installation har 
 
 ## Vem är den här videon till?
 
-- Butiksadministratörer
-- Webbplatschefer
+* Butiksadministratörer
+* Webbplatschefer
 
 ## Videoinnehåll
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.1.0. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=sv-SE).
+>Innehållet i videon återspeglar version 2.1.0. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/35488?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35488?learn=on)
 
 ## Ytterligare resurser
 
-- [Lagra URL:er - [!DNL Commerce] Lagrar och köp Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html?lang=sv-SE)
-- [Använd en anpassad administratörs-URL - [!DNL Commerce] Lagrar och inköpsupplevelseguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html?lang=sv-SE#use-a-custom-admin-url)
+* [Lagra URL:er - [!DNL Commerce] Lagrar och köp Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html)
+* [Använd en anpassad administratörs-URL - [!DNL Commerce] Lagrar och inköpsupplevelseguide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html#use-a-custom-admin-url)

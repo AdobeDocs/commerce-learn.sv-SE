@@ -11,9 +11,9 @@ old-role: Architect, Developer
 role: Developer, Admin
 level: Beginner, Intermediate
 KT: 15599
-duration: 101
+duration: 125
 exl-id: e96759a8-31c3-4d3b-b395-db9dda2dc2d9
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -26,8 +26,8 @@ Site-Wide Analysis Tool är ett proaktivt självbetjäningsverktyg och en centra
 
 ## Vem är den här videon till?
 
-- Webbplatschefer
-- Utvecklare
+* Webbplatschefer
+* Utvecklare
 
 ## Videoinnehåll
 
@@ -35,5 +35,5 @@ Site-Wide Analysis Tool är ett proaktivt självbetjäningsverktyg och en centra
 
 ## Ytterligare resurser
 
-- [Webbplatsövergripande analysverktyg](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=sv-SE)
-- [Visa och hantera loggar](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html?lang=sv-SE)
+* [Webbplatsövergripande analysverktyg](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
+* [Visa och hantera loggar](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)

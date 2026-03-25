@@ -5,6 +5,7 @@ landing-page-description: Titta på det här inspelade webbinariet och lär dig 
 short-description: Titta på det här inspelade webbinariet och lär dig mer om uppgraderingsstegen och bästa praxis för Adobe Commerce 2.4.
 kt: 9620
 doc-type: technical video
+duration: 4306
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -14,7 +15,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: fba4a08b-5633-433b-bf87-fa85457e4578
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 33%
@@ -29,22 +30,22 @@ Titta på det här inspelade webbinariet för att lära dig de steg och bästa m
 
 I den här workshopen samarbetade Adobe Commerce med Merkle för att dela:
 
-- Tekniska åtgärder vid uppgradering till Adobe Commerce 2.4
-- Bästa tillvägagångssätt och verktyg som kan användas vid uppgradering
-- Rekommenderade uppgraderingsalternativ till version 2.4.4 eller senare
-- De viktigaste uppgraderingsresurserna att referera till
+* Tekniska åtgärder vid uppgradering till Adobe Commerce 2.4
+* Bästa tillvägagångssätt och verktyg som kan användas vid uppgradering
+* Rekommenderade uppgraderingsalternativ till version 2.4.4 eller senare
+* De viktigaste uppgraderingsresurserna att referera till
 
 ## Vem är den här videon till?
 
-- Webbplatschefer
-- Utvecklare
+* Webbplatschefer
+* Utvecklare
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3432514?captions=swe&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340038?learn=on)
 
 ## Ytterligare resurser
 
-- [Uppgraderingshandbok](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=sv-SE)
-- [Släppta versioner](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=sv-SE)
-- [Frigör schema](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=sv-SE)
+* [Uppgraderingshandbok](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+* [Släppta versioner](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+* [Frigör schema](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

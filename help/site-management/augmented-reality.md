@@ -1,8 +1,9 @@
 ---
 title: AR Viewer för Adobe Commerce
-description: Läs mer om modulen Augmented Reality Viewing på Commerce Marketplace.
+description: Läs mer om modulen Augmented Reality Viewing som finns på Commerce Marketplace.
 kt: 13738
 doc-type: video
+duration: 180
 activity: use
 feature: Page Content, Native Luma Frontend Development, Themes, Configuration
 topic: Commerce, Development
@@ -10,7 +11,7 @@ role: Admin, Developer, User
 level: Beginner, Intermediate
 badge: AR Viewer finns i Commerce Marketplace
 exl-id: c57d44b3-2a9c-4623-b45a-678203d9a894
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 0%
@@ -28,13 +29,13 @@ AR Viewer fyller i [!DNL bridge] luckan mellan fysisk och digital detaljhandel, 
 
 ## Funktioner
 
-- Lättanvänt gränssnitt för överföring av 3D-modeller av dina produkter.
-- Automatisk generering av QR-kod vid överföring av 3D-modell.
-- Smidig integrering av QR-koder i produktsidor för AR-visning.
-- En engagerande, interaktiv produktvisningsupplevelse på mobila enheter.
-- Effektivare handelsupplevelser som är direkt inbäddade i Adobe Commerce-administratören.
-- Kompatibilitet med Adobe Commerce Cloud- och On-prem-kunder (2.4.x+)
-- Genom att införliva AIR Viewer i din butik erbjuder du mer än bara produkter. Du skapar en engagerande, engagerande shoppingupplevelse som uppmuntrar kunderna att fatta säkra inköpsbeslut.
+* Lättanvänt gränssnitt för överföring av 3D-modeller av dina produkter.
+* Automatisk generering av QR-kod vid överföring av 3D-modell.
+* Smidig integrering av QR-koder i produktsidor för AR-visning.
+* En engagerande, interaktiv produktvisningsupplevelse på mobila enheter.
+* Effektivare handelsupplevelser som är direkt inbäddade i Adobe Commerce-administratören.
+* Kompatibilitet med Adobe Commerce Cloud- och On-Prem-kunder (2.4.x+)
+* Genom att införliva AIR Viewer i din butik erbjuder du mer än bara produkter. Du skapar en engagerande, engagerande shoppingupplevelse som uppmuntrar kunderna att fatta säkra inköpsbeslut.
 
 ## Lägga till 3D-modellen i en produkt
 
@@ -57,8 +58,8 @@ När besökaren skannar QR-koden med sin enhet läggs objektet ovanpå kameravyn
 
 ## Användbara resurser
 
-[AR Viewer för Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html?lang=sv-SE){target="_blank"}
-[Hantera 3D-produktmodeller med AIR Viewer för Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html?lang=sv-SE){target="_blank"}
+[AR Viewer för Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
+[Hantera 3D-produktmodeller med AIR Viewer för Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
 
 ## Adobe Commerce Marketplace-tillägg
 

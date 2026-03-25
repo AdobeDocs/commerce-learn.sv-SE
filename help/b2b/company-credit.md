@@ -2,6 +2,7 @@
 title: Hantera företagskrediter
 description: Lär dig hur B2B-företagskontoanvändare kan göra inköp på sina konton upp till den kreditgräns som beviljas.
 doc-type: feature video
+duration: 230
 audience: all
 activity: use
 kt: 13910
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
-source-git-commit: d6e7cfeca2a3d3e747abf49d4c5b3e3537299507
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -20,28 +21,28 @@ ht-degree: 0%
 
 # Hantera företagskrediter
 
-För företag som har _[!UICONTROL Payment on Account]_&#x200B;aktiverat och har företagskrediter tillgängliga kan de göra köp på sitt konto upp till den kreditgräns som har beviljats. Med den här funktionen kan kunderna kontrollera status för sina företagskrediter från sin kontokontrollpanel.
+För företag som har _[!UICONTROL Payment on Account]_aktiverat och har företagskrediter tillgängliga kan de göra köp på sitt konto upp till den kreditgräns som har beviljats. Med den här funktionen kan kunderna kontrollera status för sina företagskrediter från sin kontokontrollpanel.
 
 Du kan ange följande kreditrelaterade parametrar för varje företagsprofil:
 
-- Kreditvaluta
-- Kreditgräns
-- Tillåt att kreditgränsen överskrids
-- Orsak till ändring
+* Kreditvaluta
+* Kreditgräns
+* Tillåt att kreditgränsen överskrids
+* Orsak till ändring
 
 {{b2b-feature}}
 
 ## Vem är den här videon till?
 
-- Webbplatschefer
-- Säljare
-- Kundtjänstrepresentanter
+* Webbplatschefer
+* Säljare
+* Kundtjänstrepresentanter
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/344445?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344445?learn=on)
 
 ## Ytterligare resurser
 
-- [Konfigurera betalning på konto](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html?lang=sv-SE#configure-payment-on-account)
-- [Hantera företagskrediter](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html?lang=sv-SE)
+* [Konfigurera betalning på konto](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
+* [Hantera företagskrediter](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html)

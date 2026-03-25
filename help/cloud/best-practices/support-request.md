@@ -6,20 +6,20 @@ topic: Commerce
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Tutorial
-duration: 0
+duration: 126
 last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-15165
-source-git-commit: b3ec1230e5efa198d71e1a5c0756a47666065117
+exl-id: cea62272-c7b9-44f7-9c39-5ad3d9122382
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '502'
 ht-degree: 0%
 
 ---
 
-
 # Effektiva supportförfrågningar
 
-När du skapar en supportanmälan är det viktigt att du skickar in den via lämpliga kanaler, ger korrekt och detaljerad information om problemet, väljer rätt organisation och kontaktorsak, väljer lämplig produkt och version, granskar föreslagna artiklar för möjliga lösningar, dubbelkontrollerar all information innan den skickas in, spårar biljettens status och deltar i en konversation med supportteamet, markerar biljetten som löst när problemet är löst och öppnar en uppföljningsbiljett om ytterligare hjälp behövs. &#x200B; Kom ihåg att skicka in biljetten via lämpliga kanaler, tillhandahålla korrekt och detaljerad information, välja rätt organisation och kontaktorsak, välja rätt produkt och version, granska föreslagna artiklar, dubbelkontrollera all information innan den skickas, spåra biljettens förlopp, delta i samtal med supportteamet, markera biljetten som löst när problemet är löst och öppna en uppföljningsbiljett om det behövs. &#x200B;
+När du skapar en supportanmälan är det viktigt att du skickar in den via lämpliga kanaler, ger korrekt och detaljerad information om problemet, väljer rätt organisation och kontaktorsak, väljer lämplig produkt och version, granskar föreslagna artiklar för möjliga lösningar, dubbelkontrollerar all information innan den skickas in, spårar biljettens status och deltar i en konversation med supportteamet, markerar biljetten som löst när problemet är löst och öppnar en uppföljningsbiljett om ytterligare hjälp behövs &#x200B;. Kom ihåg att skicka in biljetten via rätt kanaler, tillhandahålla korrekt och detaljerad information, välja rätt organisation och kontaktorsak, välja rätt produkt och version, granska föreslagna artiklar, dubbelkontrollera all information innan den skickas, spåra biljettens förlopp, delta i samtal med supportteamet, markera biljetten som löst när problemet är löst och öppna en uppföljningsbiljett om det behövs. &#x200B;
 
 ## Inkludera loggar eller skärmbilder
 
@@ -39,4 +39,4 @@ Många av problemen för Adobe Commerce kan spåras via New Relic. Genom att tit
 
 >[!MORELIKETHIS]
 > 
-> - [Adobe Commerce användarhandbok för hjälp](https://experienceleague.adobe.com/sv/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide){target="_blank"}
+> * [Adobe Commerce användarhandbok för hjälp](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide){target="_blank"}

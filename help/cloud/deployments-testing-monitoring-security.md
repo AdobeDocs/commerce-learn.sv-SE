@@ -7,12 +7,12 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 0
+duration: 848
 last-substantial-update: 2024-03-08T00:00:00Z
 jira: KT-15020
 kt: 15020
 exl-id: 8f107270-3df0-4bfe-b057-50208fa1e421
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 3015914bce0b6fc1eba125f6a9c0b52a0b5c057f
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -25,9 +25,9 @@ Lär dig mer om distributionsstrategier för Adobe Commerce Cloud, hur du testar
 
 ## Vem är den här videon till?
 
-- Webbplatschefer
-- Commerce arkitects
-- Ägare till e-handelsplats
+* Webbplatschefer
+* Commerce arkitects
+* Ägare till e-handelsplats
 
 ## Videoinnehåll
 
@@ -35,11 +35,11 @@ Lär dig mer om distributionsstrategier för Adobe Commerce Cloud, hur du testar
 
 ## Experience League-dokumentation som omnämns i videon
 
-- [Distributionsprocess](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html?lang=sv-SE)
-- [SWAT Site-Wide Analysis Tool](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=sv-SE)
-- [ECE-verktyg, smart guide](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html?lang=sv-SE)
-- [Säkerhetsgenomsökning](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html?lang=sv-SE)
-- [Snabbt Brandvägg för WAF-webbprogram](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html?lang=sv-SE)
-- [Översikt över New Relic-tjänsten](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html?lang=sv-SE)
+* [Distributionsprocess](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
+* [SWAT Site-Wide Analysis Tool](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
+* [ECE-verktyg, smart guide](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
+* [Säkerhetsgenomsökning](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
+* [Snabbt Brandvägg för WAF-webbprogram](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
+* [Översikt över New Relic-tjänsten](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

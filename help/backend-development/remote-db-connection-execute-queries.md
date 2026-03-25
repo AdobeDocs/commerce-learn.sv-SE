@@ -1,46 +1,44 @@
 ---
-title: Anslut och köra frågor mot databasen
-description: Lär dig flera metoder för att ansluta till ett Adobe Commerce molnprojekt. Lär dig hur du drar ned en databas för användning utanför webbplatsen. Lär dig några metoder för att maskera PII och ta bort det.
+title: Ansluta och köra frågor mot Adobe Commerce-databasen
+description: Anslut till ett Adobe Commerce-projekt i ett molnprojekt, skapa en databassump för extern användning, maskera eller ta bort PII, och kör SQL med molnCLI, en GUI-klient eller direktanslutningar.
 feature: Backend Development,Console,Cloud
 topic: Commerce,Development
 role: Developer
 level: Intermediate, Experienced
 doc-type: Technical Video
-duration: 0
+duration: 1024
 last-substantial-update: 2024-06-25T00:00:00Z
 jira: KT-14910
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
-source-git-commit: 9af981957b5c8722002a5c1cbd09b71e98e0a754
+source-git-commit: d2c01abbc24ec14f6147004bb9a13ebdbfb8b60e
 workflow-type: tm+mt
-source-wordcount: '1143'
+source-wordcount: '1010'
 ht-degree: 0%
 
 ---
 
 # Ansluta och köra frågor mot Adobe Commerce-databasen
 
-Lär dig hur du ansluter till ett Adobe Commerce i ett molnprojekt, skapar en databassdump för användning på annan plats och hanterar PII (Personally Identiitable Information) genom att maskera eller ta bort den. Lär dig hur du får åtkomst till Adobe Commerce-data på olika sätt, bland annat lokala DB-dumpar, fjärrdatabasanslutningar med program som MySQL Workbench eller TablesPlus, och direktanslutningar via CLI-verktyget i Magento Cloud.
+Lär dig hur du ansluter till ett Adobe Commerce i ett molnprojekt, skapar en databassdump för användning på annan plats och maskerar eller tar bort personligt identifierbar information (PII). Få åtkomst till data med en lokal dump, ett GUI som MySQL Workbench eller TablePlus eller `magento-cloud` CLI.
 
 ## Videoinnehåll
 
-* Lär dig hur du snabbt ansluter till ett Adobe Commerce Cloud-fjärrprojekt med ett verktyg som MysqlWorkbench eller TablesPlus.
-* Lär dig hur du snabbt ansluter till Adobe Commerce-projektet för att köra SQL via kommandoraden
+* Anslut till ett Adobe Commerce Cloud-fjärrprojekt med ett GUI-verktyg som MySQL Workbench eller TablePlus.
+* Anslut till projektet och kör SQL från kommandoraden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450040?learn=on&captions=swe)
-
-Lär dig hur du ansluter till ett Adobe Commerce i ett molnprojekt, dumpar en databas för användning utanför webbplatsen och maskerar PII och tar bort den.
+>[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
 
 Du kan komma åt Adobe Commerce-data från ditt molnprojekt på något av följande sätt:
 
-* Använda en lokal DB-dump
-* En DB-anslutning till fjärrmolnmiljön med ett program som Mysql Workbench eller Tables Plus
-* Ansluta direkt till molnmiljön med hjälp av CLI-verktyget i magento-cloud och kör kommandon på fjärrservern
+* Använd en lokal DB-dump.
+* Öppna en DB-anslutning till fjärrmolnmiljön med ett program som MySQL Workbench eller TablePlus.
+* Anslut direkt till molnmiljön med CLI:n för `magento-cloud` och kör kommandon på fjärrservern.
 
-Den bästa metoden är att göra en databasdump och svepa den för att ta bort all kundinformation. Ta bort kunddata helt om data inte behövs.
+Föredra en databassump som du rensar för att ta bort kundinformation. Ta bort kunddata helt när ni inte behöver dem.
 
-## Använda Adobe Commerce Cloud CLI-verktyget
+## Använda CLI-verktyget i Adobe Commerce Cloud
 
-Om du vill skapa en databasdump måste du ha [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=sv-SE) installerat. Gå till en katalog på din lokala bärbara dator och kör följande kommando. Se till att ersätta `your-project-id` med projekt-ID:t, som liknar `asasdasd45q`. Du måste även ersätta `your-environment-name` med namnet på miljön, till exempel `master` eller `staging`.
+Du måste ha [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html) installerat för att skapa en databassdump. Öppna en katalog på den lokala datorn och kör följande kommando. Ersätt `your-project-id` med ditt projekt-ID (liknar `asasdasd45q`). Ersätt `your-environment-name` med ditt miljönamn, till exempel `master` eller `staging`.
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
 
@@ -62,7 +60,7 @@ Kör nu kommandot för att skapa databasdumpen
 magento-cloud db:dump
 ```
 
-Eftersom vi inte har angett något projekt eller någon miljö ställer Adobe Commerce CLI några frågor, här är några exempel på dialogrutor
+Eftersom du inte angav något projekt eller någon miljö ställer Adobe Commerce Cloud CLI några frågor. I följande exempel visas ett exempel på en dialogruta.
 
 ```bash
 Enter a number to choose a project:
@@ -141,10 +139,10 @@ Visa innehållet i filen för att verifiera att den har hämtats.
 ```bash
 ls -lah
 total 29840
-drwxr-xr-x    4 <ussername>  staff   128B Feb 13 13:02 .
-drwx------@ 103 <ussername>   staff   3.2K Feb 13 12:52 ..
--rw-r--r--    1 <ussername>   staff    11M Feb 13 12:53 abasrpikfw4123--remote-db-ecpefky--mysql--main--dump.sql
--rw-r--r--    1 <ussername>   staff   2.6M Feb 13 13:01 dump-main-1707850906.sql.gz
+drwxr-xr-x    4 <username>  staff   128B Feb 13 13:02 .
+drwx------@ 103 <username>   staff   3.2K Feb 13 12:52 ..
+-rw-r--r--    1 <username>   staff    11M Feb 13 12:53 abasrpikfw4123--remote-db-ecpefky--mysql--main--dump.sql
+-rw-r--r--    1 <username>   staff   2.6M Feb 13 13:01 dump-main-1707850906.sql.gz
 ```
 
 När du har fått informationen ska du se till att rensa den genom att ta bort eller maskera kunddata. Följande exempelskript hjälper dig att komma igång.
@@ -208,9 +206,9 @@ Du kan också ta bort posterna i stället för att maskera informationen, vilket
 
 ## Fjärrdatabasanslutning till ett Adobe Commerce Cloud-projekt
 
-Den här metoden tillåter inte oavsiktlig redigering och borttagning av verkliga data. Detta tillvägagångssätt bör användas med försiktighet. Att använda en säkerhetskopiering och att granska data offline är det bästa sättet. Det finns tillfällen då man behöver få tillgång till data direkt på Adobe Commerce Cloud, men det är riskabelt. Det finns inget &quot;är du säker?&quot; frågor och svar, så det är möjligt att ändra eller ta bort data av misstag.
+Den här metoden tillåter oavsiktlig redigering och borttagning av livedata. Använd den med försiktighet. Föredra säkerhetskopiering av databaser och offlinegranskning när det går. Ibland måste du komma åt data direkt i Adobe Commerce Cloud, men det arbetsflödet innebär ändå en risk. GUI lägger inte till bekräftelsemeddelanden, så du kan ändra eller ta bort data av misstag.
 
-Superviktigt! Det är bekvämt att göra en fjärransluten DB-anslutning och använda riktiga livedata, men det innebär en risk. Personligen och som Principal Technical Architect för Adobe Commerce rekommenderar jag det inte. Det är för lätt att glömma att du finns i fjärrdatabasen och av misstag ta bort eller ändra data. Det finns ett alternativ för att ansluta till den skrivskyddade repliken, men det ger en viss effekt på platsen beroende på hur stora SQL-aktiviteterna är. Men eftersom det är möjligt är detta de steg som krävs för att uppnå det.
+En fjärrdatabasanslutning är praktisk men riskfylld. Du kan enkelt glömma att du är ansluten till produktionen och ta bort eller ändra data. Du kan ansluta till en skrivskyddad replik, men tung SQL påverkar ändå platsen. Adobe rekommenderar inte rutinmässiga fjärranslutningar till skrivbara databaser. Använd bara stegen nedan när du förstår riskerna.
 
 Upprätta en SSH-tunnel:
 
@@ -256,19 +254,19 @@ Upprätta en anslutning med ett MySQL-grafiskt gränssnitt genom att använda ko
 SSH tunnel opened to database at: mysql://user:@127.0.0.1:30000/main
 ```
 
-Nu när du har rätt information kan du fortsätta att infoga dessa värden i molnkonsolen.
+Nu när du har rätt information anger du dessa värden i molnkonsolen.
 
 Du hittar SSH-värdnamnet och användarnamnet från molnautentiseringsuppgifterna i molnkonsolen.
 
-![logotyp - Adobe Commerce Cloud Console](./assets/cloud-ui-screenshot.png "Adobe Commerce Cloud Console")
+![Adobe Commerce Cloud Console](./assets/cloud-ui-screenshot.png "Adobe Commerce Cloud Console")
 
 Här är ett exempel: `ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud`
 SSH-värdnamnet är allt efter @-tecknet: `ssh.us-4.magento.cloud` i det här exemplet.
-SSH-användarnamnet är allt före @-tecknet: `abasrpikfw4123-remote-db-ecpefky—mymagento`
+SSH-användarnamnet är allt före @-tecknet: `abasrpikfw4123-remote-db-ecpefky--mymagento`
 
 ## Söker efter värden att ansluta till databasen
 
-För att få åtkomst till MariaDB-databasen direkt måste SSH användas för att logga in i fjärrmolnmiljön och ansluta till databasen.
+Om du vill komma åt MariaDB-databasen direkt använder du SSH för att logga in i fjärrmolnmiljön och ansluta till databasen.
 
 1. Använd SSH för att logga in i fjärrmiljön.
 
@@ -276,7 +274,7 @@ För att få åtkomst till MariaDB-databasen direkt måste SSH användas för at
    magento-cloud ssh
    ```
 
-1. Hämta inloggningsuppgifterna för MySQL från egenskaperna `database` och `type` i variabeln [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=sv-SE#relationships).
+2. Hämta inloggningsuppgifterna för MySQL från egenskaperna `database` och `type` i variabeln [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=en#relationships).
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp
@@ -314,15 +312,15 @@ För att få åtkomst till MariaDB-databasen direkt måste SSH användas för at
 
 Använd sedan konfigurationsvärdena i ditt MySQL-GUI. I följande exempel används MySQL Workbench, men alla program som har stöd för MySQL-anslutningar har liknande fält.
 
-![logo - Exempel på Mysql GUI med Mysql Workbench](./assets/mysql-workbench-after-connecting.png " Exempel på Mysql GUI med Mysql Workbench")
+![Exempel på MySQL Workbench-anslutning](./assets/mysql-workbench-after-connecting.png "Exempel på MySQL Workbench-anslutning")
 
-![logo - Exempel på Mysql GUI med TablesPlus](./assets/tablesPlus-db-connection.png " Exempel på Mysql GUI med TablesPlus")
+![Exempel på TablePlus-anslutning](./assets/tablesPlus-db-connection.png "Exempel på TablePlus-anslutning")
 
-När allt har konfigurerats går det att använda ett MySQL-GUI för att köra frågor i ett Adobe Commerce Cloud-fjärrprojekt.
+När du har konfigurerat anslutningen kan du använda ett MySQL-GUI för att köra frågor i ett Adobe Commerce Cloud-fjärrprojekt.
 
 ## Ansluta direkt till molnprojektdatabasen för att köra SQL
 
-Följande metod använder klippet `magento-cloud` för att ansluta direkt till mysql-databasen och köra SQL, vilket möjliggör snabbare databasfrågor. Om du behöver kopiera den här databasen kan du referera till en av de alternativa metoderna för att [skapa en databasdump](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=sv-SE).
+Följande metod använder CLI:n `magento-cloud` för att ansluta direkt till MySQL-databasen och köra SQL för snabbare frågor. Om du behöver en kopia av den här databasen använder du en av de alternativa metoderna för att [skapa en databassdump](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html).
 
 ```bash
 magento-cloud db:sql    
@@ -382,7 +380,7 @@ MariaDB [main]>
 
 ## Ytterligare resurser
 
-[Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=sv-SE)
-[Konfigurera MySQL-tjänsten](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html?lang=sv-SE)
-[Konfigurera en MySQL-fjärrdatabasanslutning](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html?lang=sv-SE)
-[Skapa databasdump på Adobe Commerce i molninfrastruktur](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=sv-SE)
+* [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
+* [Konfigurera MySQL-tjänsten](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
+* [Konfigurera en MySQL-fjärrdatabasanslutning](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
+* [Skapa databasdump på Adobe Commerce i molninfrastruktur](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)

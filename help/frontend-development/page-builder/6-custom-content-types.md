@@ -3,14 +3,15 @@ title: Page Builder för utvecklare - anpassade innehållstyper
 description: Lär dig att anpassa och skapa innehållstyper. Förstå stegen som krävs för att skapa en ​. Förstå stegen som krävs för att utöka en befintlig innehållstyp.
 kt: 5655
 doc-type: video
+duration: 1058
 activity: use
 feature: Page Content, Native Luma Frontend Development, Themes, Configuration
 topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 exl-id: c5c0c325-9b69-4531-b57d-5d8183f320d8
-badgePaas: label="Endast PaaS" type="Informative" url="https://experienceleague.adobe.com/sv/docs/commerce/user-guides/product-solutions" tooltip="Gäller endast Adobe Commerce i molnprojekt (Adobe-hanterad PaaS-infrastruktur) och lokala projekt."
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+badgePaas: label="Endast PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Gäller endast Adobe Commerce i molnprojekt (Adobe-hanterad PaaS-infrastruktur) och lokala projekt."
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -23,25 +24,25 @@ ht-degree: 0%
 
 I den här videon:
 
-- Anpassa och skapa fler innehållstyper
-- Förstå stegen som krävs för att skapa en innehållstyp &#x200B;
-- Förstå stegen som krävs för att utöka en befintlig innehållstyp
+* Anpassa och skapa fler innehållstyper
+* Förstå stegen som krävs för att skapa en innehållstyp &#x200B;
+* Förstå stegen som krävs för att utöka en befintlig innehållstyp
 
 ## Vem är den här videon till?
 
-- Innehållsskapare
-- Utvecklare
+* Innehållsskapare
+* Utvecklare
 
 ## Videoinnehåll
 
 >[!NOTE]
 >
->Innehållet i Page Builder 1.0.0 för Adobe Commerce 2.3.1. Mer information om uppdateringar i senare versioner finns i [Versionsinformation för Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=sv-SE).
+>Innehållet i Page Builder 1.0.0 för Adobe Commerce 2.3.1. Mer information om uppdateringar i senare versioner finns i [Versionsinformation för Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/3430876?captions=swe&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35714?learn=on)
 
 ## Användbara resurser
 
 [Dokumentation för Page Builder-utvecklare](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Guiden Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html?lang=sv-SE)
+[Guiden Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

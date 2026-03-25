@@ -3,6 +3,7 @@ title: Skapa en grupperad produkt
 description: Lär dig hur du skapar en grupperad produkt med REST API och Commerce Admin.
 kt: 14585
 doc-type: video
+duration: 979
 audience: all
 activity: use
 last-substantial-update: 2023-11-30T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 3ad7125b-ef6d-4ea0-9fa7-8fc9eb399ec1
-source-git-commit: 76a67af957b0d8c1eb64ad42f92412f338650d4b
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '513'
 ht-degree: 0%
@@ -37,13 +38,13 @@ Skapa de enkla produkterna först när du skapar grupperade produkter från Adob
 
 ## Vem är den här videon till?
 
-- Webbplatschefer
-- e-handlare
-- Nya Adobe Commerce-utvecklare som vill lära sig hur man skapar grupperade produkter i Adobe Commerce med REST API.
+* Webbplatschefer
+* e-handlare
+* Nya Adobe Commerce-utvecklare som vill lära sig hur man skapar grupperade produkter i Adobe Commerce med REST API.
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3454042?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3425920?learn=on)
 
 ## Inställningar för den grupperade produkten
 
@@ -183,7 +184,7 @@ curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new
 
 ## Ta bort en enkel produkt från en grupperad produkt
 
-Använd `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}` om du vill [ta bort en enkel produkt](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) från en grupperad produkt.
+Använd [ om du vill ](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/)ta bort en enkel produkt`DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}` från en grupperad produkt.
 
 Om du vill ta reda på vad som ska användas som `{type}` använder du xdebug för att hämta begäran och utvärdera $linkTypes: `related`, `crosssell`, `uupsell` och `associated`.
 ![Länktyper för grupperad produkt - alt text](/help/assets/site-management/catalog/grouped-types.png "Grupperade produktlänkstyper som hämtats under xdebug-sessionen")
@@ -223,7 +224,7 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-grouped-product-
 
 ## Ytterligare resurser
 
-- [Skapa och hantera grupperade produkter](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
-- [Grupperad produkt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html?lang=sv-SE){target="_blank"}
-- [Adobe Developer REST-självstudiekurser](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Skapa och hantera grupperade produkter](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
+* [Grupperad produkt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html){target="_blank"}
+* [Adobe Developer REST-självstudiekurser](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

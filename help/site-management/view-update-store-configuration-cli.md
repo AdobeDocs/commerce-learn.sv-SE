@@ -6,11 +6,11 @@ topic: Administration,Commerce
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 462
+duration: 510
 last-substantial-update: 2024-01-31T00:00:00Z
 jira: KT-14877
 exl-id: 6cecba51-8d39-46f5-9864-80126d8ca3da
-source-git-commit: d578c066f3e51827694c8bf85aa2324035a8b07b
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -23,11 +23,11 @@ Demo av hur du visar, ställer in och hittar konfigurationsvärden med Commerce 
 
 ## Vem är den här videon till?
 
-- Adobe Commerce-utvecklare
+* Adobe Commerce-utvecklare
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/3439974?&learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3427123?learn=on)
 
 ## Vissa kommandon som används i självstudien
 
@@ -62,5 +62,5 @@ Visa en sida i terminalen och visa radnummer `cat -n vendor/magento/module-email
 
 ## Ytterligare resurser
 
-- [Kommandoradsverktyg](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html?lang=sv-SE){target="_blank"}
-- [Konfigurera administratörssäkerhet](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html?lang=sv-SE){target="_blank"}
+* [Kommandoradsverktyg](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
+* [Konfigurera administratörssäkerhet](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html){target="_blank"}

@@ -1,8 +1,9 @@
 ---
-title: "[!DNL Commerce] för företagsanvändare - användare och roller"
+title: '[!DNL Commerce] för företagsanvändare - användare och roller'
 description: Lär dig grunderna om  [!DNL Admin] användarkonton och användarroller som avgör behörigheter.
 kt: 5762
 doc-type: video
+duration: 199
 activity: use
 last-substantial-update: 2022-12-28T00:00:00Z
 feature: Configuration, System, Security, Roles/Permissions
@@ -10,7 +11,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: cc7eb326-1df1-48d3-a8c3-b62cf937ac3b
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -21,24 +22,24 @@ ht-degree: 0%
 
 I den här videon:
 
-- [!DNL Admin] användarkonton
-- Användarroller och behörigheter
+* [!DNL Admin] användarkonton
+* Användarroller och behörigheter
 
 ## Vem är den här videon till?
 
-- Affärsanvändare
+* Affärsanvändare
 
 ## Videoinnehåll
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=sv-SE).
+>Innehållet i videon återspeglar version 2.3.1. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/35947?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35947?learn=on)
 
 ## Ytterligare resurser
 
-[Hantera administratörsanvändarkonton - [!DNL Commerce] Handbok för administratörssystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html?lang=sv-SE)
+[Hantera administratörsanvändarkonton - [!DNL Commerce] Handbok för administratörssystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
-[Användarroller - [!DNL Commerce] Handbok för administratörssystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=sv-SE)
+[Användarroller - [!DNL Commerce] Handbok för administratörssystem](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)
 

@@ -6,11 +6,11 @@ topic: Commerce, Development, Integrations
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 0
+duration: 624
 last-substantial-update: 2025-04-07T00:00:00Z
 jira: KT-17553
 exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2
-source-git-commit: b015b9c64be631b43ad63d180c003dda8fdd198a
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '1095'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Lär dig hur du identifierar IP-adresser för olika miljöer i ett Adobe Commerc
 
 * Lär dig hur du hittar IP-adressen för alla miljöer i Adobe Commerce Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457493/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457493?learn=on)
 
 ## Kommando för att hämta IP-adressen
 
@@ -50,7 +50,7 @@ CLI-verktyget magento-cloud är utformat för att hjälpa utvecklare och systema
 
 I det här inledande avsnittet av exempelkoden begär `magento-cloud environment:url -p InsertYourProjectID -e UseYourEnvironmentName --pipe -1` URL:en för miljön. Det returnerade värdet ser ut ungefär så här `http://integration-1ajmyuq-mk7xr7zmslfg.us-4.magentosite.cloud/`. Då och då ser den mer ut som `http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`.  Det här första kommandot är ganska enkelt, och nu är det dags att gå vidare till nästa kommando.
 
-Mer information finns i [Cloud CLI-översikt](https://experienceleague.adobe.com/sv/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
+Mer information finns i [Cloud CLI-översikt](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
 
 ## Använder `sed` för sökning och ersättning
 
@@ -120,4 +120,4 @@ Dessa lågnivåmiljöer är multi-tenant och delar underliggande servrar med må
 
 ## Relaterad dokumentation
 
-* [Regionala IP-adresser](https://experienceleague.adobe.com/sv/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
+* [Regionala IP-adresser](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}

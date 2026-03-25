@@ -1,40 +1,41 @@
 ---
-title: Skapa en kundprisregel
-description: Lär dig hur du skapar kundprisregler som tillämpar rabatter i kundvagnen baserat på en uppsättning villkor.
-doc-type: feature video
-audience: all
-activity: use
+title: Skapa kundprisregler
+description: Lär dig hur du skapar kundprisregler som tillämpar rabatter i kundvagnen när villkoren du definierar uppfylls.
+doc-type: Tutorial
 last-substantial-update: 2022-12-28T00:00:00Z
 feature: Configuration, System, Customers, Shopping Cart
 topic: Commerce, Administration
-role: Admin, Leader, User
+role: User
 level: Beginner
-duration: 171
+duration: 353
 jira: KT-17148
 exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
-source-git-commit: d290ba1d9c8892b4322aeb19d3c65d9d8087a309
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
-source-wordcount: '687'
+source-wordcount: '677'
 ht-degree: 0%
 
 ---
 
-# Skapa en kundprisregel
+# Skapa kundprisregler
 
-Kundprisreglerna tillämpar rabatter på artiklar i kundvagnen, baserat på en uppsättning villkor. Rabatten kan tillämpas automatiskt när villkoren är uppfyllda eller när kunden anger en giltig kupongkod. När rabatten används visas den i kundvagnen under delsumman. En kundprisregel kan användas efter behov för en säsong eller en befordran genom att ändra dess status och datumintervall.
+Kundprisreglerna tillämpar rabatter på artiklar i kundvagnen baserat på de villkor du anger. Rabatten kan ges automatiskt när villkoren är uppfyllda eller när kunden anger en giltig kupongkod. Rabatten visas i kundvagnen under delsumman. Du kan aktivera eller inaktivera en regel för en säsong eller en befordran genom att ändra dess status och datumintervall.
 
 ## Vem är den här videon till?
 
-- eCommerce-marknadsförare
-- Webbplatschefer
+* eCommerce-marknadsförare
+* Webbplatschefer
 
 ## Videoinnehåll
 
->[!VIDEO](https://video.tv.adobe.com/v/343835?quality=12&learn=on)
+* Skapa kundprisregler och valfria kupongkoder.
+* Se hur rabatterna visas i kundvagnen och i kampanjer.
+
+>[!VIDEO](https://video.tv.adobe.com/v/343835?learn=on)
 
 ## Prissättningsproblem
 
-Det finns några unika scenarier som kräver att varje radobjekt visar sin rabatt, men värdena kanske inte matchar exakt. Orsaken är att en kundprisregel ger rabatt på flera produkter men värdena inte fördelas jämnt i två decimaler.
+I vissa fall måste radobjektet visa den rabatt som används, men de värden som visas kanske inte matchar exakt. Detta inträffar när en kundprisregel tillämpar en rabatt på flera produkter och uppdelningen inte delas jämnt på två decimaler.
 
 >[!BEGINSHADEBOX]
 
@@ -54,7 +55,7 @@ Det här är problemet, vi har tre decimaler istället för två. Att konvertera
 
 ### Lösningen
 
-Med tanke på webbplatsägaren, som är den enda person som påverkas av detta problem, fastställdes att det var lämpligast att visa varje beställd artikel med rabatten i dollar. För att säkerställa att hela orderbeloppet beräknades korrekt beslutades det att den första posten skulle avrundas och de andra att den tredje decimalen skulle strykas. Granska det här scenariot:
+För handlaren i administratören är det enklaste sättet att visa varje beställd rad med rabatt i dollar. Om du vill att ordersumman ska vara korrekt, ska du avrunda den första radobjektet uppåt och släppa den tredje decimalen på de återstående radobjekten. Granska det här scenariot:
 
 >[!BEGINSHADEBOX]
 
@@ -68,11 +69,11 @@ Produkt 1 - 19,95 x 0,1 = 1,995
 Totalsumman 3,99 ges som rabatt till kunden
 
 När radobjekten visas för butiksägaren i administratören,
-måste vi justera det första objektet och avrunda det till 2 000. Det andra objektet vi släpper den tredje decimaltecknet
+måste vi justera det första objektet och runda det till 2 000. Släpp den tredje decimalen för den andra posten.
 Produkt 1 = 2,00
 Produkt 2 = 1,99
 
-Den totala rabatten för de två produkterna motsvarar nu den faktiska rabatten som kunden får.
+Den totala rabatten för de två produkterna matchar den faktiska rabatten som kunden får.
 >[!ENDSHADEBOX]
 
 Här är en skärmbild som den skulle visa i administratören för en order som har det här scenariot:
@@ -125,8 +126,7 @@ Men om vi släpper den tredje decimaltecknet skulle det visa att 3,98 USD gavs o
 
 >[!ENDSHADEBOX]
 
-
 ## Ytterligare resurser
 
-- [Skapa en kundprisregel - [!DNL Commerce] Handbok för marknadsföring och marknadsföring](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html?lang=sv-SE)
-- [Kupongkoder - [!DNL Commerce] Handbok för marknadsföring och kampanjer](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html?lang=sv-SE)
+* [Skapa en kundprisregel - [!DNL Commerce] Handbok för marknadsföring och marknadsföring](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
+* [Kupongkoder - [!DNL Commerce] Handbok för marknadsföring och kampanjer](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html){target="_blank"}

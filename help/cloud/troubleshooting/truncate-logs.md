@@ -7,11 +7,11 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 206
+duration: 302
 last-substantial-update: 2025-3-25
 jira: KT-17595
 exl-id: 4a36de40-fb55-41ad-afef-35fc18a271ec
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -26,16 +26,16 @@ Om du tror att du behöver de här loggfilerna kan du `rsync` dem eller använda
 
 ## Vem är den här videon för
 
-- Utvecklare och IT-personal
-- Systemadministratörer
+* Utvecklare och IT-personal
+* Systemadministratörer
 
 ## Videoinnehåll
 
-- Diagnostisera och lösa en misslyckad distribution
-- Där några vanliga stora loggfiler hittas
-- Snabbmetod för att korta av en loggfil
+* Diagnostisera och lösa en misslyckad distribution
+* Där några vanliga stora loggfiler hittas
+* Snabbmetod för att korta av en loggfil
 
->[!VIDEO](https://video.tv.adobe.com/v/3454587?captions=swe&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
 
 
 ## Kommandon som används i videon
@@ -91,4 +91,4 @@ När du har sparat till rätt projekt och miljö ändrar du till katalogen `var/
 
 ## Relaterad dokumentation
 
-- [Hälsoaviseringar](https://experienceleague.adobe.com/sv/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+* [Hälsoaviseringar](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

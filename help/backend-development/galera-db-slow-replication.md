@@ -3,6 +3,7 @@ title: Lär dig hur du hittar långsamma frågor i mysql slow query logs-loggar 
 description: Galera DB har en designmetod som gör att replikering av data till sekundära databaser tar längre tid än den primära. Lär dig hur du hittar dessa händelser i mysql slow query log, och den underliggande orsaken till varför du ser poster i långsamma frågeloggar och kanske hur du förhindrar dem i framtiden.
 kt: 13635
 doc-type: video
+duration: 452
 activity: use
 last-substantial-update: 2023-7-18
 feature: Backend Development, Logs, Services
@@ -11,7 +12,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 4a8a2df1-8cac-4bd9-851f-0eaae011b76c
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -26,20 +27,20 @@ Som en lösning kan du om möjligt batchbearbeta stora åtgärder så att de sek
 
 ## Vem är den här videon till?
 
-- Arkitekter
-- Utvecklare
-- DevOps
+* Arkitekter
+* Utvecklare
+* DevOps
 
 ## Videoinnehåll
 
-- Galerareplikering till sekundär databas
-- Läs om flödeskontroll
-- Söker efter trådnummer i mysql slow query logs
-- Massexekveringar utförs bara i huvudprogrammet. Replikeringar sker 1 i taget
-- Gruppera dina stora implementeringar för att hjälpa replikeringen att hålla jämna steg med den primära
+* Galerareplikering till sekundär databas
+* Läs om flödeskontroll
+* Söker efter trådnummer i mysql slow query logs
+* Massexekveringar utförs bara i huvudprogrammet. Replikeringar sker 1 i taget
+* Gruppera dina stora implementeringar för att hjälpa replikeringen att hålla jämna steg med den primära
 
->[!VIDEO](https://video.tv.adobe.com/v/3432454?captions=swe&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
 
 ## Användbara resurser
 
-- [Galerakluster](https://galeracluster.com/)
+* [Galerakluster](https://galeracluster.com/)

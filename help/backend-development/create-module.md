@@ -1,42 +1,42 @@
 ---
 title: Skapa en modul
-description: Lär dig hur du skapar en modul i Adobe Commerce som skickar information till PSR-loggaren. Detta lägger till funktionalitet i din första modul i Adobe Commerce.
-kt: 5614
-doc-type: video
+description: Skapa och registrera en modul i Adobe Commerce, kör installationsprogrammet och lägg till plugin-program som loggar in i PSR-loggaren i administratörsområdet, butiken och REST API-kontexterna.
+jira: KT-5614
+doc-type: Technical Video
+duration: 1113
 activity: use
-last-substantial-update: 2023-6-2
+last-substantial-update: 2026-03-23T00:00:00Z
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Admin, Developer
 level: Beginner, Intermediate
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
-source-git-commit: 4f6c8abec90663f80233b94456ad1e58edb86d51
+source-git-commit: 1e67193c9b80c929ec391acef771562fb930cc67
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
 # Skapa en modul
 
-Modulen är ett strukturelement i [!DNL Commerce] - hela systemet är baserat på moduler. Det första steget i att skapa en anpassning är oftast att skapa en modul.
+En modul är ett strukturelement i [!DNL Commerce] - moduler utgör systemets ryggrad. Du börjar vanligtvis med en anpassning genom att skapa en modul.
 
 ## Vem är den här videon till?
 
-- Utvecklare
+* Utvecklare
 
 ## Steg för att lägga till en modul
 
-- Skapa modulmappen.
-- Skapa filen etc/module.xml.
-- Skapa filen registration.php.
-- Kör installationen av bin/magento.
-- Uppgradera skript för att installera den nya modulen.
-- Kontrollera att modulen fungerar.
+1. Skapa modulmappen.
+2. Skapa filen `etc/module.xml`.
+3. Skapa filen `registration.php`.
+4. Kör `bin/magento setup:upgrade` för att registrera och installera modulen.
+5. Kontrollera att modulen fungerar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
 
-### module.xml
+### Filen module.xml
 
 ```xml
 <?xml version="1.0"?>
@@ -50,7 +50,7 @@ Modulen är ett strukturelement i [!DNL Commerce] - hela systemet är baserat p�
 </config>
 ```
 
-### registration.php
+### Filen registration.php
 
 ```php
 <?php
@@ -63,24 +63,24 @@ ComponentRegistrar::register(
     __DIR__);
 ```
 
-### Lägga till ett plugin-program och tillhandahålla vissa funktioner
+### Lägg till ett plugin-program
 
-Nästa steg är att lägga till vissa funktioner i vår grundläggande modul. En plugin är ett oumbärligt verktyg som alla Adobe Commerce-utvecklare använder. Den här videon och självstudiekursen hjälper dig att skapa ett plugin-program.
+Sedan lägger du till funktioner i din grundläggande modul. Du använder plugin-program som oumbärliga verktyg i Adobe Commerce-utvecklingen. Den här videon och självstudiekursen visar hur du skapar ett plugin-program.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420255?learn=on)
 
 ### Saker att komma ihåg för plugin-program
 
-- Alla plugin-program har deklarerats i `di.xml`.
-- Plugin-programmet måste ha ett unikt namn
-- inaktiverad och sortOrder är valfria
-- Plugin-programmets omfång anges av mappen som det finns i
-- Plugin-program kan köras före, efter eller båda (runt) när metoden anropas
-- Undvik att använda `around` plugin-program. De är frestande att använda, men är ofta fel val och kommer att leda till prestandaproblem.
+* Du deklarerar alla plugin-program i `di.xml`.
+* Du ger varje plugin ett unikt namn.
+* Du kan också ange attributen `disabled` och `sortOrder`.
+* Du ställer in plugin-programmets omfång genom att välja vilken mapp som innehåller filen `di.xml`.
+* Du kör plugin-program före, efter eller runt målmetodanropet.
+* Undvik `around` plugin-program. De frestar dig, men de representerar ofta fel val och orsakar prestandaproblem.
 
 ### Plugin-kodexempel
 
-Här är de XML- och PHP-klasser som används i självstudien för att lägga till ett plugin-program i den första modulen
+I självstudien används följande XML- och PHP-klasser för att lägga till ett plugin-program i den första modulen.
 
 ### app/code/Training/Sales/etc/adminhtml/di.xml
 
@@ -285,5 +285,5 @@ class RestAddLoggingAfterOrderPlacePlugin
 
 ## Användbara resurser
 
-- [Referenshandbok för modul](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
-- [Plugins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
+* [Referenshandbok för modul](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
+* [Plugins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}

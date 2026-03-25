@@ -6,16 +6,16 @@ topic: Architecture, Commerce, Security, Performance
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 278
+duration: 340
 last-substantial-update: 2024-10-09T00:00:00Z
 jira: KT-16185
-source-git-commit: 3d73ed6501bf7b592b03d4243491e49d66be5460
+exl-id: b8636a20-4e1e-479a-9e86-9e43efd3c5db
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce Global Delivery Model
 
@@ -23,14 +23,14 @@ Adobe Commerce är en hybridplattform för e-handel i molnet som finns på AWS o
 
 ## Vem är den här videon för
 
-- Företag av alla storlekar som vill etablera eller förbättra sin e-handelsnärvaro skulle kunna dra nytta av Adobe Commerce.
-- Återförsäljare, grossister och företag som vill ha en skalbar, säker och anpassningsbar plattform med avancerade AI-drivna funktioner för optimering av kundupplevelser och driftseffektivitet.
-- Utvecklare och IT-team undersöker handelsalternativ som erbjuder en robust uppsättning molnbaserade verktyg och API:er för att bygga och hantera e-handelsapplikationer.
+* Företag av alla storlekar som vill etablera eller förbättra sin e-handelsnärvaro skulle kunna dra nytta av Adobe Commerce.
+* Återförsäljare, grossister och företag som vill ha en skalbar, säker och anpassningsbar plattform med avancerade AI-drivna funktioner för optimering av kundupplevelser och driftseffektivitet.
+* Utvecklare och IT-team undersöker handelsalternativ som erbjuder en robust uppsättning molnbaserade verktyg och API:er för att bygga och hantera e-handelsapplikationer.
 
 ## Videoinnehåll
 
-- Skalbar och säker infrastruktur.  Lär dig mer om den fullständigt redundanta infrastrukturen i flera moln på AWS och Azure, vilket garanterar optimerade prestanda, flexibilitet och elastisk skalbarhet med höga säkerhets- och efterlevnadsstandarder.
-- Avancerade AI-drivna tjänster. Ni får förståelse för de intelligenta, API-första tjänsterna som direktsökning, AI-uppgraderade produktrekommendationer och katalogtjänster för att förbättra kundupplevelsen och effektiviteten.
-- Omfattande utvecklingsverktyg. Läs mer om de serverlösa utvecklingsverktygen i molnet, som API Mesh och App Builder, som möjliggör smidig integrering och anpassning för att utöka affärsfunktionerna.
+* Skalbar och säker infrastruktur.  Lär dig mer om den fullständigt redundanta infrastrukturen i flera moln på AWS och Azure, vilket ger optimerade prestanda, flexibilitet och elastisk skalbarhet med höga säkerhets- och efterlevnadsstandarder.
+* Avancerade AI-drivna tjänster. Ni får förståelse för de intelligenta, API-första tjänsterna som direktsökning, AI-uppgraderade produktrekommendationer och katalogtjänster för att förbättra kundupplevelsen och effektiviteten.
+* Omfattande utvecklingsverktyg. Läs mer om de serverlösa utvecklingsverktygen i molnet, som API Mesh och App Builder, som möjliggör smidig integrering och anpassning för att utöka affärsfunktionerna.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433504?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3433500?learn=on)

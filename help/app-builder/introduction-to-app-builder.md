@@ -5,6 +5,7 @@ landing-page-description: Lär dig vad App Builder är och hur det kan hjälpa d
 short-description: Lär dig vad App Builder är och hur det kan hjälpa dig med utvecklingsstrategier för Adobe Commerce.
 kt: 11433
 doc-type: tutorial
+duration: 322
 audience: all
 last-substantial-update: 2023-2-16
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '728'
 ht-degree: 6%
@@ -26,7 +27,7 @@ Historiskt sett har Adobe Commerce-utveckling använt processens utökningsmöjl
 
 ## App Builder för Adobe Commerce {#app-builder}
 
->[!VIDEO](https://video.tv.adobe.com/v/3412839?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412839?learn=on)
 
 Adobe Developer App Builder är en serverlös utbyggbar plattform för att integrera och skapa anpassade upplevelser för att utöka Adobe lösningar, och den finns nu för Adobe Commerce. Med App Builder kan ni skapa säkra och skalbara appar som utökar Commerce inbyggda funktioner och integreras med tredjepartslösningar. Som utvecklare kan du nu utnyttja Adobe Commerce utbyggbarhet som inte längre fungerar och som i sin tur ger omedelbara och långsiktiga fördelar.
 
@@ -69,7 +70,7 @@ Mer information om App Builder-arkitekturen finns i [Översikt över arkitekture
 
 En översikt över strategin för sammanställbar e-handel, som innehåller den första konfigurationen, finns i följande blogginlägg:
 
-[Hur App Builder kan göra verksamheten smidigare för e-handelsplattformen](https://business.adobe.com/se/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
+[Hur App Builder kan göra verksamheten smidigare för e-handelsplattformen](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
 
 För att du ska komma igång med App Builder har Adobe skapat följande dokumentation:
 
@@ -90,6 +91,6 @@ Vill du börja utveckla? Följande länk innehåller exempelprogram som hjälper
 
 ## Support {#support}
 
-Använd [Experience League-forumet](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly?profile.language=sv){target="_blank"} för att få hjälp med supportförfrågningar från utvecklare.
+Använd [Experience League-forumet](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} för att få hjälp med supportförfrågningar från utvecklare.
 
 {{$include /help/_includes/app-builder-related-links.md}}
