@@ -31,7 +31,7 @@ Lär dig hur du söker, granskar, kommenterar och eskalerar en supportanmälan i
 * Lär dig hur du lägger till en kommentar i en öppen supportanmälan
 * Lär dig hur och några skäl till att eskalera en supportanmälan
 
->[!VIDEO](https://video.tv.adobe.com/v/3433076?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445315?captions=swe&learn=on)
 
 ## Hjälpcenter för Commerce Knowledge Base
 

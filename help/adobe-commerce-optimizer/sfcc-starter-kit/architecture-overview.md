@@ -33,4 +33,4 @@ Läs om arkitekturen och funktionaliteten i Commerce Optimizer Connector Starter
 * Anpassade SFCC-kassetter och API:er identifierar katalogändringar via deltaexport, vilket möjliggör effektiv datasynkronisering med Adobe App Builder.
 * App Builder runtime-åtgärder hanterar fullständig synkronisering och deltasynkning samt tillståndsspårning för att säkerställa korrekta och konfliktfria uppdateringar av Commerce Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476046?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476055?captions=swe&learn=on)

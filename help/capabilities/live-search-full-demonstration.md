@@ -41,4 +41,4 @@ Lär dig hur du använder konfigurationer och inställningar för Adobe Live Sea
 * Förklarade regelbaserade rankningstyper
 * GraphQL API Introspection
 
->[!VIDEO](https://video.tv.adobe.com/v/3418996?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454458?captions=swe&learn=on)

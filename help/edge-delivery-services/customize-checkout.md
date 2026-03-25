@@ -35,7 +35,7 @@ Lär dig exempel på hur du anpassar kundvagnens bortcheckning genom att ta bort
 * Implementering av &#x200B; för utcheckning i flera steg
 * Återanvända befintlig kod och bästa praxis
 
->[!VIDEO](https://video.tv.adobe.com/v/3442650?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442654?captions=swe&learn=on)
 
 ## Ytterligare dokumentation
 
