@@ -32,6 +32,6 @@ I den här självstudiekursen förklaras hur kapaciteten fungerar i Adobe Commer
 
 ## Relaterad dokumentation
 
-* [Commerce i molnet - projektöversikt](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/overview)
-* [Vägledning om prestandatestning](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/test/guidance)
+* [Commerce i molnet - projektöversikt](https://experienceleague.adobe.com/sv/docs/commerce-on-cloud/user-guide/project/overview)
+* [Vägledning om prestandatestning](https://experienceleague.adobe.com/sv/docs/commerce-on-cloud/user-guide/develop/test/guidance)
 * [Checklista före start](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud/best-practices/pre-launch-checklist)
