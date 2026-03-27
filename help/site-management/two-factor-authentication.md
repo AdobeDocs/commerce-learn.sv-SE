@@ -30,13 +30,13 @@ För att förhindra obehörig åtkomst till dina data måste alla användare som
 
 >[!NOTE]
 >
->Innehållet i videon återspeglar version 2.4.0. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview).
+>Innehållet i videon återspeglar version 2.4.0. Mer information om uppdateringar i senare versioner finns i [versionsinformationen](https://experienceleague.adobe.com/sv/docs/commerce-operations/release/notes/overview).
 
 >[!VIDEO](https://video.tv.adobe.com/v/339104?learn=on)
 
 ## Ytterligare resurser
 
-* [Tvåfaktorautentisering (2FA)](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication)
-* [Tvåfaktorsautentisering för användarkonton](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-use)
-* [Hantera tvåfaktorsautentisering](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-manage)
+* [Tvåfaktorautentisering (2FA)](https://experienceleague.adobe.com/sv/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication)
+* [Tvåfaktorsautentisering för användarkonton](https://experienceleague.adobe.com/sv/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-use)
+* [Hantera tvåfaktorsautentisering](https://experienceleague.adobe.com/sv/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-manage)
 * [Konfigurerar tvåfaktorsautentisering (2FA) - dokumentation för utvecklare](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)
