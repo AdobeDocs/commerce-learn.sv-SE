@@ -28,7 +28,7 @@ I den här självstudiekursen förklaras hur kapaciteten fungerar i Adobe Commer
 
 ## Video
 
->[!VIDEO](https://video.tv.adobe.com/v/3482031?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3482040?captions=swe&learn=on)
 
 ## Relaterad dokumentation
 
