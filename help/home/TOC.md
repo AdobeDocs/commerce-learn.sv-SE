@@ -3,10 +3,10 @@ user-guide-title: Videor och självstudiekurser
 user-guide-description: Lär dig om Adobe Commerce och Magento Open Source i videor och självstudiekurser.
 breadcrumb-title: Videor och självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 3015914bce0b6fc1eba125f6a9c0b52a0b5c057f
+source-git-commit: e25c2abc470e1f3cb97b153d335482f8a004c644
 workflow-type: tm+mt
-source-wordcount: '871'
-ht-degree: 2%
+source-wordcount: '876'
+ht-degree: 3%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 2%
       + [Konfigurationsvärden](../cloud/troubleshooting/config-values.md)
       + [Trunkera loggar](../cloud/troubleshooting/truncate-logs.md)
    + [Projekt- och miljöhantering](../cloud/project-environment-management.md)
+   + [Hur Adobe Commerce Cloud skalförändras](../cloud/how-adobe-commerce-cloud-scales.md)
    + [HIPAA-förberedd värdtjänst](../cloud/hippa-ready-hosting.md)
    + [Identifiera IP-adress](../cloud/detect-ip-address.md)
    + [Marketecture](../cloud/marketecture.md)
@@ -45,7 +46,7 @@ ht-degree: 2%
       + [Checklista före start](../cloud/best-practices/pre-launch-checklist.md)
 + Komma igång {#getting-started}
    + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
-      + [Ökning](../commerce-as-a-cloud-service/overview.md)
+      + [Översikt](../commerce-as-a-cloud-service/overview.md)
       + [Arkitektur](../commerce-as-a-cloud-service/architecture.md)
       + Webapi-rest{#webapi-rest}
          + [Kunder](../commerce-as-a-cloud-service/webapi-rest/customer.md)
@@ -64,7 +65,7 @@ ht-degree: 2%
          + [Modernisering och migration](../commerce-as-a-cloud-service/product-overview/modernization-and-migration.md)
          + [stänger](../commerce-as-a-cloud-service/product-overview/closing.md)
    + Migrera till Adobe Commerce{#migrating-to-adobe-commerce}
-      + [Ökning](../migrating-to-adobe-commerce/overview.md)
+      + [Översikt](../migrating-to-adobe-commerce/overview.md)
       + Förberedelse{#preparation}
          + [Utvärdera teamet och projektet](../migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
       + Anpassningar{#customizations}
@@ -96,7 +97,7 @@ ht-degree: 2%
 
 + Utbyggbarhet {#extensibility}
    + Back-end Development {#backend-development}
-      + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=sv-SE)
+      + [Bästa tillvägagångssätt för att ändra databastabeller](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Skapa en modul](../backend-development/create-module.md)
       + [Lägg till ett produktattribut](../backend-development/add-product-attribute.md)
       + [Exempel på beroendeinjektion](../backend-development/dependency-injection.md)
@@ -131,7 +132,7 @@ ht-degree: 2%
          + Introduktion till headless {#introduction-to-headless}
             + [Arkitektur utan rubrik - session 1](../headless/session-1.md)
          + Introduktion till PWA Studio {#introduction}
-            + [Ökning](../pwa/introduction/1-overview.md)
+            + [Översikt](../pwa/introduction/1-overview.md)
             + [PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
             + [Starta](../pwa/introduction/3-launch.md)
             + [UPPGRADERING](../pwa/introduction/4-upward.md)
@@ -154,7 +155,7 @@ ht-degree: 2%
          + [Implementering och testning](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
          + [Ge feedback till Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
       + Bygg din första App Builder-app {#first-app}
-         + [Ökning](../app-builder/first-app/overview.md)
+         + [Översikt](../app-builder/first-app/overview.md)
          + [Generera och konfigurera .env-filen](../app-builder/first-app/env-file.md)
          + [Beskrivning och användning av filen app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
          + [Läs mer om åtgärdsmappen](../app-builder/first-app/actions-folder.md)
@@ -187,7 +188,7 @@ ht-degree: 2%
    + [Inställning och konfiguration av demo](../observability/demo-setup-configuration.md)
    + [Demo](../observability/demo.md)
 + Global referensarkitektur {#global-reference-architecture-implementation-techniques}
-   + [Ökning](../global-reference-architecture/overview.md)
+   + [Översikt](../global-reference-architecture/overview.md)
    + [Delad Git](../global-reference-architecture/split-git.md)
    + [Paket i grupp](../global-reference-architecture/bulk-packages.md)
    + [Separata paket](../global-reference-architecture/separate-packages.md)
